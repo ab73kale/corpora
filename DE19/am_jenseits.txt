@@ -113,7 +113,7 @@ Das war ihre mir wohlbekannte Energie. Wenn sie einmal einen Entschluß gefaßt 
 
 »​Effendi, sie hat ja gesagt, sie, die liebenswürdigste unter allen irdischen Liebenswürdigkeiten! Wir gehen nach Mekka, ja wir gehen wirklich hin. Ich habe es soeben öffentlich verkündigen müssen. Da werden wir wieder einmal große Thaten der Tapferkeit verrichten und Werke der Kühnheit vollbringen, die unsern Ruhm in alle Länder tragen. Unsere Kindeskinder werden uns ehren und unsern Enkels- und Urenkelsnachkommen unser Lob verkünden vom Aufgang bis zum Niedergang der Sonne! Habe ich nicht ein herrliches Weib, Sihdi?​«
 
-»​Ja,​« nickte ich; »​deine Hanneh ist ganz gewiß die herrlichste aller Frauen!​«
+<quote>»​Ja,​«</quote> <suspension> nickte ich;</suspension> <quote>»​deine Hanneh ist ganz gewiß die herrlichste aller Frauen!​«</quote>
 
 »​Ganz gewiß! Richtig! Aber deine Emmeh auch! Und damit es zu keinem Streite und Zusammenstoße zwischen ihnen komme, wollen wir vorsichtig sein und folgendermaßen beschließen: Meine Hanneh ist die herrlichste Frau des Morgen-, und deine Emmeh ist die herrlichste Frau des Abendlandes. Bist du damit zufrieden?​«
 
