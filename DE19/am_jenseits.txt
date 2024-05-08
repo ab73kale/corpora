@@ -753,7 +753,7 @@ Da drehte sich der Mann scharf auf der Ferse um und ging fort. Seine Leute hatte
 
 »​Sihdi, meinst du, daß wir uns vor diesen Leuten in acht nehmen müssen?​« fragte Halef.
 
-»​Nein,​« antwortete ich; »​gar nicht!​«
+<quote>»​Nein,​«</quote> <suspension>antwortete ich;</suspension> <quote>»​gar nicht!​«</quote>
 
 »​Ich auch nicht. Wir sind zweiundfünfzig wohlbewaffnete Männer und sie nur fünf verschmachtete Personen. Trotzdem aber denke ich, daß wir während der Nacht nicht alle schlafen dürfen.​«
 
@@ -861,7 +861,7 @@ Man sieht, daß er meinen neuen Namen sehr gut auswendig gelernt hatte. Jedes Gl
 
 Er kehrte zurück und setzte sich wieder neben mich nieder.
 
-»​Sihdi,​« fragte er leise, »​habe ich das gut gemacht oder nicht?​«
+<quote>»​Sihdi,​«</quote> <suspension>fragte er leise,</suspension> <quote>»​habe ich das gut gemacht oder nicht?​«</quote>
 
 »​Ich bin mit dir zufrieden,​« antwortete ich.
 
@@ -1097,7 +1097,7 @@ Der Körper der Leiche war im Sande eingegraben, der Kopf noch nicht; das Gesich
 
 Er hatte recht; es ging mir grad so wie ihm. Ich hatte wohl noch selten ein so schönes, Ehrfurcht gebietendes Greisenangesicht gesehen, noch jetzt, im Tode, schön!
 
-»​Er hat nicht das Aussehen eines Toten, sondern eines Schlafenden,​« fuhr Halef fort, »​eines Schlafenden, der von Allahs Himmel träumt. Sieh, wie er selig lächelt!​«
+<quote>»​Er hat nicht das Aussehen eines Toten, sondern eines Schlafenden,​«</quote><suspension>fuhr Halef fort,</suspension><quote>»​eines Schlafenden, der von Allahs Himmel träumt. Sieh, wie er selig lächelt!​«</quote>
 
 Es ist nach meinen Erfahrungen mit diesem sogenannten »​seligen Lächeln​« der Verstorbenen eine ganz eigene Sache, denn ich habe es am ausgeprägtesten, am ergreifendsten bei Personen gefunden, deren Ende ein gewaltsames gewesen war. Ich habe in den Zügen im Kampfe Gefallener kurz nach ihrem Tode den sprechendsten Ausdruck des Hasses, des Grimmes, der Angst, des physischen Schmerzes gesehen, und dann wahrgenommen, daß dieser Ausdruck sich sehr bald in denjenigen der Milde, der Ruhe, des Friedens verwandelte. Und wiederum sah ich Leute so sanft und kampflos hinüberschlafen, daß ich mir wünschte »​so möchte einst auch dein Tod sein!​«, und dann nahmen ihre Gesichter nach und nach das Gepräge seelischer Angst oder körperlicher Pein, des Leidens an. Sollten die Affekte oder Stimmungen, welche im Augenblicke des für uns sichtbaren Sterbens vorherrschend sind, nur deshalb keine nachhaltige Wirkung hinterlassen, weil die eigentliche Trennung der Seele von dem Körper erst später, von uns unbemerkbar, erfolgt und der Geist erst dann das, was ihn bei diesem endgültigen Scheiden bewegt, zum Troste oder zur Warnung für die Hinterbliebenen auf das Angesicht schreibt? Diese Frage gehört auch zu denen, welche wir Lebenden wohl aussprechen, aber nicht beantworten können.
 
@@ -1105,7 +1105,7 @@ Indem ich die Züge des Münedschi betrachtete, fiel mir die Färbung des Gesich
 
 »​Warum das?​« fragte Halef im Tone der Ueberraschung. »​Denkst du etwa, daß er noch lebt, Sihdi?​«
 
-»​Das wohl nicht,​« antwortete ich; »​aber ich habe das Gefühl, als läge auf dem Gesichte noch ein leiser, leiser Lebenshauch, der nicht auf wirklichen Tod, sondern nur auf Ohnmacht schließen läßt.​«
+<quote>»​Das wohl nicht,​«</quote> <suspension>antwortete ich;</suspension><quote>»​aber ich habe das Gefühl, als läge auf dem Gesichte noch ein leiser, leiser Lebenshauch, der nicht auf wirklichen Tod, sondern nur auf Ohnmacht schließen läßt.​«</quote>
 
 »​Nur ohnmächtig? Also scheintot? Effendi, wir haben schon viel, sehr viel erfahren und gar manches erlebt, was kein anderer Mensch erleben wird, aber einen Scheintoten wieder lebendig zu machen, dazu haben wir doch noch keine Gelegenheit gehabt! Was für ein großer Ruhm würde es für uns sein, wenn wir sagen könnten, daß sogar die Macht des Todes nicht vor uns standhalten könne! Hier ist die beste, die allerbeste Gelegenheit dazu, dies zu beweisen!​«
 
