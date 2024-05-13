@@ -2173,7 +2173,7 @@ Das war ein Lob, welches ihm noch höher, viel höher stand, als wenn man sich �
 
 »​Jetzt hättest du hören sollen, was der Khutab Agha sagte, o Hanneh, du schönste Blume auf allen Beeten der beseligenden Weiblichkeit! Er meint, ich sei ein unvergleichlicher Erzähler, dem man von heut an bis zum jüngsten Tage zuhören könne, ohne sich nur ein einziges Mal nach den Freuden des Paradieses zu sehnen! So wird also der Getadelte gelobt, der Erniedrigte erhöht und das Genie endlich in seiner ganzen Erhabenheit und Größe anerkannt! O Hanneh, mein geliebtes Weib, o Kara Ben Halef, mein gehorsamer Sohn, eifert eurem Gatten und Vater immer nach, dann werdet ihr vielleicht denselben Ruhm erwerben und einst nur scheinbar sterben, sonst aber ganz wohlbehalten auf die Nachwelt kommen. Allah, der Behüter und Bewahrer, gebe es!​«
 
-»​Du fragtest mich,​« fuhr zu ihm der Perser in seinem Gedankengange fort, »​ob ich diese Kijahma begreifen könne. Diese Mekkaner sind fast zwei Monate lang bei uns in Meschhed Ali gewesen, und wenn es da auch nicht vorgekommen ist, daß El Münedschi in das Grab gelegt wurde, so haben wir ihn doch oft stundenlang starr, wie eine Leiche gesehen, bis seine Seele wieder zu ihm kam.  Auch ist er oft im Schlafe gewandelt, ohne zu wissen, was er that und wo er sich befand.​«
+<quote>»​Du fragtest mich,​«</quote><suspension>fuhr zu ihm der Perser in seinem Gedankengange fort,</suspension> <quote>»​ob ich diese Kijahma begreifen könne.Diese Mekkaner sind fast zwei Monate lang bei uns in Meschhed Ali gewesen, und wenn es da auch nicht vorgekommen ist, daß El Münedschi in das Grab gelegt wurde, so haben wir ihn doch oft stundenlang starr, wie eine Leiche gesehen, bis seine Seele wieder zu ihm kam.  Auch ist er oft im Schlafe gewandelt, ohne zu wissen, was er that und wo er sich befand.​«</quote>
 
 »​Durfte man da auf ihn einsprechen?​« erkundigte ich mich.
 
@@ -2369,7 +2369,7 @@ Als ihm dieser Wunsch erfüllt worden war, gab er sich seinem Lieblingsgenusse i
 
 Als die Zeit unserer kurzen Rast vorüber war, halfen wir ihm wieder in den Sattel und ritten dann weiter. Halef gesellte sich mir, wie gewöhnlich, zu und teilte mir seine Ansichten über den Blinden mit. Auch ihm war es aufgefallen, daß dieser von seinen traurigen Erfahrungen gesprochen und dabei doch erklärt hatte, er habe das Namenchristentum aus vielen, vielen Büchern studiert.
 
-»​Weißt du, Sihdi,​« sagte der Hadschi, »​das mit den vielen Büchern mag wohl wahr sein, denn er ist wirklich ein Gelehrter; aber die Ansichten, welche er uns mitteilte, schienen weniger aus diesen Schriften, als vielmehr aus seinem Leben zu stammen. Ich möchte behaupten, daß er sehr oft mit Christen zusammengetroffen ist, welche sich  nicht mit dem Herzen, sondern nur äußerlich zu diesem Glauben bekannten. Was meinst du dazu?​«
+<quote>»​Weißt du, Sihdi,​«</quote><suspension>sagte der Hadschi,</suspension><quote>»​das mit den vielen Büchern mag wohl wahr sein, denn er ist wirklich ein Gelehrter; aber die Ansichten, welche er uns mitteilte, schienen weniger aus diesen Schriften, als vielmehr aus seinem Leben zu stammen. Ich möchte behaupten, daß er sehr oft mit Christen zusammengetroffen ist, welche sich  nicht mit dem Herzen, sondern nur äußerlich zu diesem Glauben bekannten. Was meinst du dazu?​«</quote>
 
 »​Er ist ein Rätsel, dessen Lösung großes Interesse für mich besitzt,​« antwortete ich ausweichend. »​Eine Meinung kann ich erst dann haben, wenn ich mir über ihn klar geworden bin. Zunächst müssen wir uns mit der Thatsache begnügen, daß er ein verlassener, unglücklicher Mann ist, dem wir unsern Beistand zu widmen haben.​«
 
@@ -3011,7 +3011,7 @@ Ich aber fuhr fort:
 
 Da hellte sich sein finstres Gesicht auf, und der Ausdruck des Erstaunens ging in den der Freude über.
 
-»​Effendi,​« rief er aus, »​so etwas ist mir noch nicht vorgekommen! Entweder bist du ein höchst leichtsinniger oder ein sehr braver Mann!​«
+<quote>»​Effendi,​«</quote><suspension>rief er aus,</suspension> <quote>»​so etwas ist mir noch nicht vorgekommen! Entweder bist du ein höchst leichtsinniger oder ein sehr braver Mann!​«</quote>
 
 »​Leichtsinnig bin ich nicht, sondern ich pflege jedem Menschen die Ehre zu geben, die ihm gebührt. Du bist ein rauher, ja ein harter, vielleicht gar ein grausamer und blutgieriger Krieger, aber das Wort, welches du gegeben hast, das wirst du niemals brechen! Habe ich recht?​«
 
