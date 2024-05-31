@@ -5321,7 +5321,7 @@ Sein Gesicht zeigte Enttäuschung und Besorgnis; im Innern aber war er höchst b
 
 »​Schon wieder natürlich! Du bist wirklich ein vollständiger Abu el Malumat Vater der Selbstverständlichkeit.! Es sind doch jedenfalls auch Bedingungen dabei?​«
 
-»​Natür – – –​« er hielt dieses Mal mitten im Worte inne und verbesserte sich dann: »​Ja, ich hab sie dir mitzuteilen. Die Entfernung ist fünfundzwanzig Schritte. Jeder bekommt drei Speere.​«
+<quote>»​Natür – – –​«</quote> <suspension>er hielt dieses Mal mitten im Worte inne und verbesserte sich dann:</suspension><quote> »​Ja, ich hab sie dir mitzuteilen. Die Entfernung ist fünfundzwanzig Schritte. Jeder bekommt drei Speere.​«</quote>
 
 »​Wenn nun aber diese sechs geworfen sind, ohne daß einer getroffen hat, was dann? Da wird wohl von neuem begonnen?​«
 
