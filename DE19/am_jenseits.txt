@@ -3,7 +3,7 @@ May, Karl
 
 ### Erstes Kapitel
 
-### Eine Kijahma
+### Eine Kijahma 
 
 »​Sihdi Anrede = Herr., es war doch immer wunderschön, wenn wir beide, auf unsern unvergleichlichen Pferden sitzend, so ganz allein, von keinem fremden Menschen begleitet, immer hinein in Allahs schöne Welt ritten, wohin es uns gefiel! Diese Welt gehörte uns, denn da wir keine Seele bei uns hatten, konnte niemand sie uns streitig machen. Wir thaten, was wir wollten, und unterließen, was uns nicht gefiel; wir waren unsere eigenen Herren, denn wenn es jemanden gab, dem wir zu gehorchen hatten, so bestand dieser Jemand aus zwei Personen, nämlich aus mir und aus dir. Ich bin mir da oft als der Gebieter des ganzen Erdkreises vorgekommen und habe die unersteigbaren Höhen meines Ruhmes aus den Tiefen meines Selbstbewußtseins hervorgeholt, um in andachtsvoller Bewunderung an ihnen emporzuklimmen und dann fröhlich wieder herabzusteigen. Das konnte ich, weil wir allein waren und es also keinen unwillkommenen Störenfried gab, dem es einfallen konnte, ohne meine Erlaubnis und hinter meinem Rücken mit hinauf- und hinunterzuklettern. Ja, das war eine sehr, sehr schöne Zeit, in welcher wir erlebten, was kein anderer Mensch erlebt, und zwar nur deshalb, weil wir eben so allein waren und uns nur nach uns selbst zu richten brauchten. Ich sage dir, Sihdi, alle diese Thaten und Begebenheiten sind rundum an den Wänden meiner innern Seele aufgeschrieben und mit unvergänglichen Pflöcken in den Boden meines Gedächtnisses eingeschlagen, wie man Pferde, Kamele und lebhafte Ziegen an Pflöcke bindet, wenn man befürchtet, daß sie über Nacht den ihnen angewiesenen Ort mit einem andern vertauschen wollen.​«
 
@@ -5971,7 +5971,7 @@ Nach diesen Worten ließ ich ihn stehen und ging an meinen Platz zurück. Von da
 
 »​Und ich habe da gleich Gelegenheit gefunden, den Kraftstreich auszuführen, den ich von Omar gelernt habe. Er ist ausgezeichnet. Nur schonen darf man nicht dabei; dann nimmt er dem Betreffenden den Atem und die ganze Kraft zum Widerstande.​«
 
-»​Das scheint der Fall zu sein,​« bemerkte Halef; »​denn Tawil Ben Schahid geht gebückt wie ein alter Greis, der den Stock zu Hilfe nehmen muß. Nun bin ich wirklich neugierig, was geschehen wird. Vielleicht hetzt er seine Krieger zum offenen und sofortigen Angriff gegen uns!​«
+<quote>»​Das scheint der Fall zu sein,​«</quote><suspension> bemerkte Halef;</suspension><quote>»​denn Tawil Ben Schahid geht gebückt wie ein alter Greis, der den Stock zu Hilfe nehmen muß. Nun bin ich wirklich neugierig, was geschehen wird. Vielleicht hetzt er seine Krieger zum offenen und sofortigen Angriff gegen uns!​« </quote>
 
 »​Das befürchte ich nicht,​« war meine Meinung. »​Ich halte den Stolz, welchen er auf die Unverletzlichkeit seines Wortes legt, für echt. Er wird die jetzige Niederlage schwer empfinden, so schwer, daß er gegen seine Leute darüber schweigt. Wenn mich meine Vermutung nicht täuscht, so tritt etwas ganz Unerwartetes ein.​«
 
@@ -6175,7 +6175,7 @@ Er nahm sich aber doch des Gezüchtigten an, indem er ihn aus den Händen der Ha
 
 Der Scheik entfernte sich mit schnellen Schritten. Sein »​Schützling​« krümmte sich, so gut oder übel er konnte, mit dem Blinden hinter ihm her.
 
-»​Ich habe schon viel, sehr viel erlebt,​« meinte Halef, »​und so manchen von Gott verlassenen Menschen kennen gelernt, aber so etwas hätte ich doch nicht für möglich gehalten! Doch, er hat für einstweilen seinen Lohn, und wahrscheinlich wird er uns in dieser Beziehung noch besser kennen lernen! Aber, Effendi, du warft ganz still! Warum hast du zu dem Münedschi kein einziges Wort der Verteidigung gesagt? Nun ist er überzeugt, daß er recht habe!​«
+<quote>»​Ich habe schon viel, sehr viel erlebt,​«</quote> <suspension>meinte Halef,</suspension> <quote>»​und so manchen von Gott verlassenen Menschen kennen gelernt, aber so etwas hätte ich doch nicht für möglich gehalten! Doch, er hat für einstweilen seinen Lohn, und wahrscheinlich wird er uns in dieser Beziehung noch besser kennen lernen! Aber, Effendi, du warft ganz still! Warum hast du zu dem Münedschi kein einziges Wort der Verteidigung gesagt? Nun ist er überzeugt, daß er recht habe!​«</quote>
 
 »​Erstens ging alles so schnell, daß es für mich keine Zeit zum Sprechen gab, und zweitens war es wohl genug von mir, daß ich überhaupt schwieg. Und wenn ich ihm eine stundenlange Rede gehalten hätte, so wäre sie doch ohne Erfolg geblieben. Ich habe ihm verziehen und  denke, daß für jetzt nicht mehr erforderlich war. Betrachten wir diesen so ganz unerwarteten Angriff als ungeschehen!​«
 
@@ -6797,7 +6797,7 @@ Er legte wieder beide Hände auf das Herz, holte tief und schmerzlich seufzend A
 
 Was sollte ich da denken? Der Schuß, der ihn niederwarf, war ja schon längst gefallen, als ich wieder gefesselt wurde. Wie also konnte er davon wissen? Totgestellt hatte er sich doch jedenfalls nicht! Man denke, mit der Kugel im Herzen! Und nur erraten konnte er es auch nicht, denn ich war ja nicht mehr gebunden. Ueberhaupt war es mir, wenn ich ihn so neben mir sitzen sah und in dieser Weise sprechen hörte, ganz und gar unmöglich, anzunehmen, daß er uns auch nur mit dem geringsten Worte täuschen wolle.
 
-»​Ja,​« fuhr er fort, »​ich stand mitten unter euch und sah meinen Körper, meine Leiche liegen. Ich war also Seele, als Mensch gestorben, als Seele aber weiterlebend.​«
+<quote>»​Ja,​«</quote><suspension> fuhr er fort,</suspension><quote> »​ich stand mitten unter euch und sah meinen Körper, meine Leiche liegen. Ich war also Seele, als Mensch gestorben, als Seele aber weiterlebend.​«</quote>
 
 »​Konntest du diese deine Seele, also dich selbst, sehen?​«
 
@@ -7553,7 +7553,7 @@ Er machte das, was man eine Kunstpause nennt, um seinen Worten Zeit zu lassen, d
 
 »​Wir sind ehrliche Krieger, also keine Verräter! Wir handeln schon überhaupt nach dem Grundsatze, daß Allah den Frieden, nicht aber den Krieg zwischen seinen Kindern will, und jetzt befinden wir uns als Pilger auf dem Wege nach der heiligen Stadt und sind als solche verpflichtet, uns bei keiner Gelegenheit von der Hand der Unfriedfertigkeit leiten zu lassen.​«
 
-»​Ja,​« nickte er nachdenklich, »​du überhaupt bist ein Abd el Musalaha Diener der Versöhnlichkeit.!​«
+<quote>»​Ja,​«</quote> <suspension>nickte er nachdenklich,</suspension> <quote>»​du überhaupt bist ein Abd el Musalaha Diener der Versöhnlichkeit.!​«</quote>
 
 »​Wie kommst du dazu, mich so zu nennen?​« fragte ich verwundert.
 
@@ -7595,7 +7595,7 @@ Da rief der Scheik einem seiner Leute einige Worte zu, worauf dieser sich entfer
 
 »​Ich werde euch etwas zeigen, doch müßt ihr eine kleine Weile warten. Inzwischen will ich euch eine Frage beantworten, welche euch wahrscheinlich auf den Lippen liegt, nämlich die Frage, wie es uns möglich gewesen ist, euch zu überraschen, obgleich ihr drei Wachen ausgestellt hattet.​«
 
-»​Ja,​« stimmte Halef bei, »​wir bitten dich, uns das zu sagen!​«
+<quote>»​Ja,​«</quote> <suspensuion>stimmte Halef bei,</suspension><quote>»​wir bitten dich, uns das zu sagen!​«</quote>
 
 »​Wir haben in unserem Stamme einige vorzügliche Läufer, welche ich dann, wenn es der größten Vorsicht bedarf, als Späher verwende. Sie laufen ebenso schnell wie die Kamele und sind aber nicht so leicht und so weit zu sehen wie diese. Diese Läufer sind dem Scheik Tawil gefolgt, als er mit vierzig seiner Leute wieder nach Norden ritt, um euch einen Hinterhalt zu legen. Sie haben die nördliche Grenzhöhe des Thales erstiegen und sich dort so in den Sand eingegraben, daß sie nicht bemerkt werden aber selbst alles beobachten konnten. Sie sind Zeugen alles dessen gewesen, was dort geschehen ist; auch haben sie das meiste von dem verstanden, was gesprochen wurde. Zuerst waren die Beni Khalid allein da; sie sprachen davon, daß sie auf den Perser und seine Soldaten warteten, um ihm den Kanz el A'da abzunehmen. Da ich aber diesen Schatz auch haben wollte, so machte sich einer der Läufer sofort auf, um mich zu benachrichtigen. Der Weg zu mir war sehr weit, und so bekam ich diese Kunde so spät, daß es mir unmöglich war, zur rechten Zeit zu kommen. So sehr ich mich auch beeilte, ich kam doch erst dann dort an, als ihr euch schon entfernt hattet. Aber ein zweiter Läufer war euch gefolgt und, der dritte und letzte hatte gewartet, bis ich eintraf.  Er erzählte mir alles und nannte mir auch die Zeit und den Ort, wann und wo der zweite wieder zu uns stoßen wollte, um mir zu sagen, wo wir euch während der Nacht finden würden. Dorthin ritten wir natürlich und trafen dabei auf die Fährte von sechs Kamelen, welche genau in unserer Richtung lief.​«
 
