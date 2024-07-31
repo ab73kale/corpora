@@ -41,7 +41,7 @@ Von Stunde an begann sie den Gebieter unter scharfer Aufsicht zu halten. Trotz d
 
 Sie schlief sehr gut in dieser Nacht und begab sich mit ausgezeichnetem  Frohmut am nächsten Morgen an die Arbeit. Es war Sonntag, und da gestern besonders gründlich gescheuert worden war, genügte heute eine leichte Nachhilfe. Božena beschäftigte sich eben mit Besen und Wischtüchern im Speisezimmer, da trat ihr Herr Heißenstein entgegen, glatt rasiert und stattlich, das Gebetbuch in der Hand.
 
-»​Mach fertig​«, sprach er, »​kleide Rosa an. Ich werde nach der Messe meine Braut hierherbringen, damit sie das Haus und das Kind kennenlerne.​«
+<quote>»​Mach fertig​«,</quote><suspension>sprach er,</suspension> »​kleide Rosa an.Ich werde nach der Messe meine Braut hierherbringen, damit sie das Haus und das Kind kennenlerne.​« </quote>
 
 Nur ein König, dem Krone und Zepter plötzlich entrissen wurden, weiß, was Božena bei diesen Worten empfand. Ihr Blick zuckte an Heißenstein wie ein Blitz vom Wirbel bis zur Sohle hinab, und unter der Fülle von Geringschätzung, die sich auf ihre Lippen gelagert hatte, erschienen dieselben noch dicker als sonst.
 
@@ -91,7 +91,7 @@ So hatte sich die Existenz Frau Heißensteins II. recht bedauerlich gestaltet, u
 
 Endlich jedoch trat ein Umstand ein, der die Stellung Dame Nannettens in dem alten Heißensteinschen Familienneste völlig und günstig veränderte.
 
-Božena bemerkte mit schwer gebändigter Entrüstung, daß Herr Leopold seine Gemahlin mit Rücksicht und Aufmerksamkeit zu behandeln begann. Dinge, die bisher für ihn zu den gleichgültigsten gehört hatten, ihre Stimmung und ihr Befinden, schienen ihm wichtig geworden. »​Wie geht's der Frau?​« fragte er beim Kommen; »​gebt acht auf die Frau​«, sagte er beim Gehen. Nur an seinem Arme durfte sie das Haus verlassen. Der mürrische Kaufmann fand Koseworte für seine Nannette, er nannte sie »​seine liebwerte Oberhofmeisterin​« und »​seine alte graue Maus​«; er empfahl Božena und Rosa die unbedingteste Unterwerfung der geringsten Laune der Gebieterin und Mutter gegenüber und drohte, jeden Widerstandsversuch auf das unbarmherzigste zu bestrafen.
+Božena bemerkte mit schwer gebändigter Entrüstung, daß Herr Leopold seine Gemahlin mit Rücksicht und Aufmerksamkeit zu behandeln begann. Dinge, die bisher für ihn zu den gleichgültigsten gehört hatten, ihre Stimmung und ihr Befinden, schienen ihm wichtig geworden. <quote>»​Wie geht's der Frau?​«</quote><suspension> fragte er beim Kommen;</suspension> <quote>»​gebt acht auf die Frau​«,</quote> sagte er beim Gehen. Nur an seinem Arme durfte sie das Haus verlassen. Der mürrische Kaufmann fand Koseworte für seine Nannette, er nannte sie »​seine liebwerte Oberhofmeisterin​« und »​seine alte graue Maus​«; er empfahl Božena und Rosa die unbedingteste Unterwerfung der geringsten Laune der Gebieterin und Mutter gegenüber und drohte, jeden Widerstandsversuch auf das unbarmherzigste zu bestrafen.
 
 Božena rang mit der Verzweiflung; sie verlor den Schlaf und einen Teil ihres Appetits und fegte in ihrer Küche herum wie ein Wirbelwind. Die Anzahl der Koch- und Speisegeschirre, die damals im Heißensteinschen Hause in Trümmer verwandelt wurden, erreichte eine erstaunliche Höhe. Es versteht sich von selbst, daß ein rauchender Vulkan leichter dahin zu bringen gewesen wäre, seine glühende Lava still hinabzuschlucken anstatt sie auszuwerfen, als Božena, den Ausbruch ihres gärenden Grolls zu unterdrücken.
 
@@ -107,7 +107,7 @@ Endlich raffte Heißenstein alle seine Kraft zusammen: »​Hinaus, Canaille! Au
 
 Ein wildes Gelächter antwortete ihm.
 
-»​Entlassen?!​« wiederholte Božena mit grimmigem Hohne: »​Nicht entlassen! ... Oh – ich gehe selbst! Und gehe heut und gehe gleich!​«
+<quote>»​Entlassen?!​«</quote> <suspension>wiederholte Božena mit grimmigem Hohne:</suspension><quote> »​Nicht entlassen! ... Oh – ich gehe selbst! Und gehe heut und gehe gleich!​«</quote>
 
 Der ungebändigte Hochmut der echten Plebejerin brach aus diesen Worten hervor und verkündigte jubelnd, was sie nicht aussprachen, die stolze Überzeugung: Ich gehe, und das Behagen, die Ordnung, die Wohlfahrt des Hauses nehm ich mit!
 
