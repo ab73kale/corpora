@@ -227,7 +227,7 @@ Ein hochmütiges Lächeln kräuselte Bernhards Lippen: »​Oho, du Gescheiter, 
 
 »​Die Bäuerin schiert sich was um dein Revier​«, entgegnete der Bursche; und zu einem der Mädchen gewendet fügte er rasch hinzu: »​Wollen wir sie fragen, Toni?​« – Und Toni antwortete eiligst »​Ja​«, und dem sich entfernenden Pärchen folgten andere Tanzlustige nach, und bald war die ganze Versammlung auseinandergestoben. Auch der Jäger empfahl sich jetzt auf das höflichste bei Weberlein, nach einigen Schritten aber blieb er, als besänne er sich plötzlich, stehen, wandte sich gegen Božena und fragte wie jemand, der innerlich widerstrebend eine Pflicht der Artigkeit erfüllt: »​Kommen Sie nicht auch?​« Dann eilte er den übrigen nach mit großen Schritten und schlecht verhehlter Besorgnis, daß sie sich ihm vielleicht anschließen könnte.
 
-»​Prosit!​« zischelte der Kommis zwischen den Zähnen, »​sonst haben Sie keine Schmerzen?​«
+<quote>»​Prosit!​«</quote> <suspension>zischelte der Kommis zwischen den Zähnen, <suspension><quote>»​sonst haben Sie keine Schmerzen?​«</quote>
 
 Aber wie ward ihm, als Božena nun vor ihm stand und mit gepreßtem Tone und niedergeschlagenen Augen sagte: »​Alsdann adje, Herr Weberlein.​«
 
@@ -265,7 +265,7 @@ Božena stemmte die Hand gegen seine Brust und hielt ihn von sich mit ausgestrec
 
 Božena hatte den Arm sinken lassen, der Jäger schlang den seinen um ihren Hals und preßte seine Lippen auf die ihren. Ihr Zorn zerschmolz unter seinen Küssen. Heiße Tränen traten ihr ins Auge, und sie sprach wehmütig: »​Ich werde niemals deine Frau! Du wirst dich niemals zu mir bekennen. Schweig!​« fiel sie ihm ins Wort, da er widersprechen wollte. »​Dazu hast du nie den Mut! ... Ich bin nur eine arme Magd, und du willst höher hinaus – wir sind nicht füreinander ...​«
 
-»​Ich will dich​«, beteuerte Bernhard mit Ungestüm, »​keine andere, weil sich keine mit dir vergleichen kann. Meinst du, ich bin blind und seh das nicht? ... Hab Geduld! ... Wirf mir nichts vor ... Wir kommen doch zusammen, aber jetzt will ich nichts wissen, nichts hören, nichts fragen als nur: Hast mich lieb?​«
+<quote>»​Ich will dich​«,</quote><suspension> beteuerte Bernhard mit Ungestüm,</suspension><quote> »​keine andere, weil sich keine mit dir vergleichen kann. Meinst du, ich bin blind und seh das nicht? ... Hab Geduld! ... Wirf mir nichts vor ... Wir kommen doch zusammen, aber jetzt will ich nichts wissen, nichts hören, nichts fragen als nur: Hast mich lieb?​«</quote>
 
 Božena legte die gerungenen Hände in ihren Schoß und seufzte schmerzlich auf: »​Fragst nicht auch, ob Gott im Himmel lebt? ... O Jesus, ob ich ihn liebhabe? Ich wollt, ich könnte sagen nein, oder ich wollt, ich könnte sagen warum!​«
 
@@ -273,11 +273,11 @@ Trotzig richtete sie sich auf und sprach, als trachte sie sich selbst zu beruhig
 
 Der Jäger lachte und küßte sie, und Božena erduldete seine Liebkosungen, aber sie erwiderte sie nicht.
 
-»​So bist du heute​«, grollte sie, »​und morgen ist alles wieder wie früher, und morgen trittst du mir wieder aufs Herz. Oh, könnt ich frei sein! ... könnt ich mich losmachen von dir!​«
+<quote>»​So bist du heute​«,</quote><suspension> grollte sie,</suspension> <quote>»​und morgen ist alles wieder wie früher, und morgen trittst du mir wieder aufs Herz. Oh, könnt ich frei sein! ... könnt ich mich losmachen von dir!​«</quote>
 
-Er erschrak über die Verzweiflung, die aus ihrer Stimme klang; zum ersten Male tauchte die Möglichkeit, sie zu verlieren, vor ihm auf und erfüllte ihn mit tiefster Besorgnis, mit bitterstem Weh. »​Dich losmachen von mir?​« fragte er vorwurfsvoll, »​das möchtest du?​«
+Er erschrak über die Verzweiflung, die aus ihrer Stimme klang; zum ersten Male tauchte die Möglichkeit, sie zu verlieren, vor ihm auf und erfüllte ihn mit tiefster Besorgnis, mit bitterstem Weh. <quote>»​Dich losmachen von mir?​«</quote><suspension> fragte er vorwurfsvoll, </suspension><quote>»​das möchtest du?​«</quote>
 
-»​Wohl möcht ich's!​« antwortete sie, »​aber was hilft mir das? ... Bin ich nicht wie verfangen im Dorngestrüpp, es zerfleischt mich – und läßt mich nicht los ... Bernhard! Bernhard!​« Sie beugte sich vor, mit beiden Händen griff sie in sein Haar, zog seinen Kopf an ihre Brust und schaute in die Augen, die sich bittend und voll heißer Zärtlichkeit zu ihr erhoben. »​Bist mir denn treu?​« schrie sie plötzlich auf.
+<quote>»​Wohl möcht ich's!​« </quote> <suspension>antwortete sie, </suspension><quote>»​aber was hilft mir das? ... Bin ich nicht wie verfangen im Dorngestrüpp, es zerfleischt mich – und läßt mich nicht los ... Bernhard! Bernhard!​«</quote> Sie beugte sich vor, mit beiden Händen griff sie in sein Haar, zog seinen Kopf an ihre Brust und schaute in die Augen, die sich bittend und voll heißer Zärtlichkeit zu ihr erhoben. »​Bist mir denn treu?​« schrie sie plötzlich auf.
 
 Das rief wieder die alte Božena! das war wieder die echte alte Leidenschaft! – Sie zitterte um ihn, er hatte sie wieder! Der funkelnde Blick des Jägers ruhte fest in dem ihren, und seine Seele frohlockte. Übermütig strich er mit Daumen und Zeigefinger den Schnurrbart in die Höhe und sprach schmollend wie ein berechnender, kluger, vollendeter Don Juan: »​Bist du denn mein?​«
 
@@ -289,7 +289,7 @@ Etwas verlegen über die Bestürzung, die er unwillkürlich hatte erblicken lass
 
 Sie biß die Zähne übereinander und maß ihn mit verachtungsvollen Blicken.
 
-»​O du!​« rief sie, »​wenn einer dort gestanden hätt, und wär's der Stallbub gewesen aus eurem Hause ... Und hätte der gespaßt: Unser Jäger geht mit der Magd des Weinhändlers – vor dem Stallbuben hättest du mich verleugnet! Jetzt hättest du's getan! ... Und wenn dich heut abends beim Tische der Hausoffiziere jemand nach mir fragt, wirst du antworten: Ich kenne sie nicht! Gelt?​« schrie Božena mit vernichtendem Hohne und richtete sich hoch auf vor ihm, der mit finsterem Gesichte zur Erde starrte und – schwieg.
+<quote>»​O du!​«</quote> <suspension>rief sie, </suspension><quote>»​wenn einer dort gestanden hätt, und wär's der Stallbub gewesen aus eurem Hause ... Und hätte der gespaßt: Unser Jäger geht mit der Magd des Weinhändlers – vor dem Stallbuben hättest du mich verleugnet! Jetzt hättest du's getan! ... Und wenn dich heut abends beim Tische der Hausoffiziere jemand nach mir fragt, wirst du antworten: Ich kenne sie nicht! Gelt?​«</quote> schrie Božena mit vernichtendem Hohne und richtete sich hoch auf vor ihm, der mit finsterem Gesichte zur Erde starrte und – schwieg.
 
 »​Ich Narr! Ich Narr!​« stöhnte sie und wandte sich und rannte davon. Sie schaute nicht – er rief sie nicht zurück, und dennoch hemmte sie bald die Raschheit ihrer Schritte. Sie blieb stehen – sie lauschte – sie wartete und setzte dann immer langsamer ihren Weg fort. Wie oft hatten sie sich schon so getrennt, aber niemals hatte ein Abschied ihr das Herz zerrissen wie dieser. Hatte sie doch nie so harte Worte zu ihm gesprochen, war ihm doch niemals so weh durch sie geschehen. Wird er ihr je verzeihen? – Schon denkt sie nichts andres mehr als: Wird er mir je verzeihen? ...
 
@@ -373,13 +373,13 @@ Frau Nannette fuhr fort: »​Ein sehr gebildeter, sehr wohlerzogener junger Man
 
 »​An Gebäuden, an Grundstücken, an Untertanen, an Zehenten​«, murmelte Heißenstein.
 
-»​Du hörst nicht, Lieber​«, sprach seine Gemahlin und setzte mit größerem Nachdrucke hinzu: »​Von altem Adel, aus Hannover.​«
+<quote>»​Du hörst nicht, Lieber​«,</quote> <suspension>sprach seine Gemahlin und setzte mit größerem Nachdrucke hinzu: </suspension><quote>»​Von altem Adel, aus Hannover.​«</quote>
 
 In einem Tone, der deutlich sagte: Ich will auch nicht hören, und mit, wie es schien, gesteigertem Interesse an seiner Zeitung las Heißenstein: »​An Untertansgiebigkeit, an unsteigerlichem Gelddienste 609 Gulden 23 3/4 Kreuzer ...​«
 
 »​Die Fehse sind so alt wie die Montmorency​«, rief nun Frau Nannette etwas gereizt dazwischen und vergaß in der Aufregung, ihrer Rede die logische Gliederung zu geben, die sie ihr sonst so gern verlieh. – »​So alt wie die Montmorency, und er spricht das schönste Deutsch, das ich jemals hörte.​«
 
-»​An Kleinrechten​«, las Heißenstein weiter, »​ein Paar Filzstiefel, ein Stück Hechten, siebenundzwanzig Hendeln, zwei Faschingshühner – – einhundertundfünf Pfund Harreisten ...​«
+<quote>»​An Kleinrechten​«,</quote><suspension> las Heißenstein weiter, </suspension><quote>»​ein Paar Filzstiefel, ein Stück Hechten, siebenundzwanzig Hendeln, zwei Faschingshühner – – einhundertundfünf Pfund Harreisten ...​«</quote>
 
 Jetzt riß der Faden von Frau Nannettens Geduld. Mühsam,  mit großer Selbstüberwindung knüpfte sie ihn wieder zusammen.
 
@@ -389,7 +389,7 @@ Die Stricknadel fuhr schmeichelnd über den Rockärmel, und bittende Augen ruhte
 
 Frau Nannette fühlte augenblicklich ihre Lippen trocken werden und ihren Hals sich zusammenschnüren. Sie dachte, nicht ohne einen kleinen Schauder, daß es möglich sei, einen Menschen inständigst zu hassen durch ein ganzes Leben hindurch wegen eines einzigen Lächelns, wenn es soviel Verachtung, soviel Hohn ausdrücke wie dieses.
 
-»​Du wünschest also​«, sprach Herr Heißenstein, »​wenn ich recht verstehe, einen Montmorency​« – Gott, wie sprach der Mann diesen edlen Namen aus! – »​als Sprachlehrer für unsere Regel. Ich zweifle, ob diese Art in solcher Eigenschaft zu fungieren pflegt, bei Weinhändlerstöchtern.​«
+<quote>»​Du wünschest also​«, </quote><suspension>sprach Herr Heißenstein,</suspension><quote> »​wenn ich recht verstehe, einen Montmorency​«</quote> –<suspension> Gott, wie sprach der Mann diesen edlen Namen aus!</suspension> –<quote> »​als Sprachlehrer für unsere Regel. Ich zweifle, ob diese Art in solcher Eigenschaft zu fungieren pflegt, bei Weinhändlerstöchtern.​«</quote>
 
 Jetzt wurde die Türe des Vorzimmers geöffnet; die Stimme Rosas ließ sich vernehmen. Herr Leopold stand auf. »​Genug gescherzt!​« rief er, während seine Tochter eintrat. Er wandte sich gegen sie und schleuderte ihr in drohendem Tone die Worte zu: »​Herr Leutnant von Fehse wird mein Haus niemals betreten!​«
 
@@ -397,7 +397,7 @@ Das Mädchen erbleichte und fragte ganz verwirrt über diesen sonderbaren Empfan
 
 »​Nichts gegen ihn, nichts für ihn​«, erwiderte Heißenstein, »​und dabei soll's sein Bewenden haben.​«
 
-»​Warum?​« wiederholte sie, »​er ist brav und gut, alle Welt liebt ihn.​«
+<quote>»​Warum?​«</quote><suspension> wiederholte sie, </suspension><quote>»​er ist brav und gut, alle Welt liebt ihn.​«</quote>
 
 »​Du wohl auch?​« fuhr er sie mit grausamem Spotte an.
 
@@ -405,9 +405,9 @@ Das Mädchen erbleichte und fragte ganz verwirrt über diesen sonderbaren Empfan
 
 Er sah sie an, und eine leise Regung des Erbarmens mit dem Kinde wurde lebendig in seiner Seele. Streng, aber ohne Härte  sprach er: »​Schlag dir die Löffelei aus dem Kopfe! Ich will nichts wissen von einem Herrn von Fehse. Du hast gehört, mein Haus betritt er nie.​«
 
-»​Doch, Vater!​« war die kühne Antwort des Mädchens, »​er kommt morgen. Er will bei dir um mich werben.​«
+<quote>»​Doch, Vater!​«</quote><suspension> war die kühne Antwort des Mädchens, </suspension><quote>»​er kommt morgen. Er will bei dir um mich werben.​«</quote>
 
-»​Werben?!​« schrie Heißenstein in aufloderndem Zorne. »​Werben?!​« Mit flammendem Gesichte schritt er auf seine Tochter zu ...
+»​Werben?!​«schrie Heißenstein in aufloderndem Zorne.»​Werben?!​« Mit flammendem Gesichte schritt er auf seine Tochter zu ...
 
 Frau Nannette lief es kalt über den Rücken, und mit einem kleinen Schrei sprang sie auf, floh in die Fensterecke und wünschte zu sein, was ihr Mann sie einst genannt: eine Maus – um sich verkriechen zu können.
 
@@ -439,7 +439,7 @@ Und gleich darauf, seine Heftigkeit bereuend, flehte er: »​Machen Sie uns nic
 
 »​Verlieren Sie keine Worte​«, sprach Heißenstein. »​Es dürfte Sie später verdrießen, wenn Sie sich erinnern würden, Herr Leutnant von Fehse, daß Sie sich vor einem Weinhändler umsonst gedemütigt haben.​« Er machte einige Schritte gegen die Tür.
 
-»​Ich werde​«, rief Fehse außer sich, »​nie von Ihrer Tochter lassen! – und seien Sie überzeugt: sie auch nicht von mir! ... Sie sollen bereuen, was Sie heute tun. Merken Sie wohl: Ich habe Ihnen nichts versprochen. Ich habe kein Wort zu halten als das Wort, das ich Ihrer Tochter gab!​« Heißenstein stand eine Weile in Gedanken versunken und blickte dem Enteilenden nach. Dann setzte er sich an den Schreibtisch und verfaßte einen langen Brief, den er noch am selben Tage eigenhändig der Post übergab.
+<quote>»​Ich werde​«,</quote> <suspension>rief Fehse außer sich,</suspension> <quote>»​nie von Ihrer Tochter lassen! – und seien Sie überzeugt: sie auch nicht von mir! ... Sie sollen bereuen, was Sie heute tun. Merken Sie wohl: Ich habe Ihnen nichts versprochen. Ich habe kein Wort zu halten als das Wort, das ich Ihrer Tochter gab!​«</quote> Heißenstein stand eine Weile in Gedanken versunken und blickte dem Enteilenden nach. Dann setzte er sich an den Schreibtisch und verfaßte einen langen Brief, den er noch am selben Tage eigenhändig der Post übergab.
 
 Rosa wurde fortan unter strenger Aufsicht gehalten. Zwei traurige Monate hindurch durfte sie das Haus nicht verlassen und außer in Gegenwart Frau Nannettens keinen Besuch empfangen. Dennoch gelang es Fehse einmal, ihr Nachricht zu geben, und Božena, die im Zimmer neben dem ihren schlief und der es war, als habe sie ihren Liebling schluchzen gehört, fand Rosa, als sie an ihr Bett trat, im Schlafe weinend, wie sie es als Kind so oft getan. Und dabei hielt sie ein beschriebenes, von Tränen durchnäßtes Blättchen an ihre hochgerötete Wange gedrückt.
 
