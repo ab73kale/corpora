@@ -135,11 +135,11 @@ Božena rief: »​Kommen Sie, Herr! Kommen Sie!​«
 
 Er sah die Botin unverwandt und mit fragenden, erwartungsvollen Blicken an und keuchte endlich, ohne seine Stellung zu verändern: »​Es ist ein Sohn – rede! – es ist ein Sohn!​«
 
-»​Was – Sohn!​« erwiderte Božena – »​Sie sollen kommen, der Frau geht es schlecht.​«
+<quote>»​Was – Sohn!​«</quote> <suspension>erwiderte Božena –</suspension><quote> »​Sie sollen kommen, der Frau geht es schlecht.​«</quote>
 
 Heißenstein richtete sich mit Gewalt empor und ging mit heftigen und doch müden Schritten auf die Magd zu.
 
-»​Aber das Kind ...​« rief er, »​das Kind ist da – lebt?​«
+<quote>»​Aber das Kind ...​«</quote><suspension> rief er, </suspension><quote>»​das Kind ist da – lebt?​«</quote>
 
 »​Ist da – – lebt​«, wiederholte sie.
 
@@ -199,7 +199,7 @@ Herr Weberlein war nicht wenig erstaunt, als sich Božena eines Sonntags prächt
 
 Der Tausend! sie war schön und majestätisch anzusehen in dieser Pracht, die mächtige Gestalt. Weberlein betrachtete sie vergnügt, kauerte sich tiefer in seine Nische und murmelte: »​Sauber! Sauber!​«
 
-Božena stand nun vor ihm und grüßte mit einem Anfluge von Verlegenheit. »​Sapperlot​«, sprach der Alte, »​das ist ja schön von Ihnen, daß Sie sich auch einmal mir zu Ehren in Parade versetzt haben.​«
+Božena stand nun vor ihm und grüßte mit einem Anfluge von Verlegenheit.<quote> »​Sapperlot​«,</quote><suspension> sprach der Alte,<suspension><quote> »​das ist ja schön von Ihnen, daß Sie sich auch einmal mir zu Ehren in Parade versetzt haben.«</quote>
 
 »​Ihnen zu Ehren doch nicht​«, antwortete sie.
 
