@@ -481,7 +481,7 @@ Unzufrieden mit sich selbst verließ Heißenstein das Gemach. Er hatte sich übe
 
 »​Weiß​«, brummte Mansuet und spitzte die Ohren, wie in die Ferne lauschend.
 
-»​Sie kommen schon hier vorbei!​« rief der zweite Kommis und sprang auf, »​man hört die Musik!​«
+<quote>»​Sie kommen schon hier vorbei!​«</quote><suspension> rief der zweite Kommis und sprang auf,</suspension><quote> »​man hört die Musik!​«</quote>
 
 Heißenstein verließ das Kontor und stieg zum Zimmer seiner Tochter empor.
 
@@ -581,9 +581,9 @@ Jetzt wird sie wohl zurückgekehrt sein, und wenn auch nicht, er will sie erwart
 
 Auf dem Gange rennt Božena ihrem Herrn in den Weg; verstört – bleich wie der Tod.
 
-»​Fort!​« keucht sie – »​das Kind ist fort!​«
+<quote>»​Fort!​«</quote><suspension> keucht sie –</suspension> <quote>»​das Kind ist fort!​«</quote>
 
-»​Schweig, Närrin!​« ruft er ihr zu, »​Rosa ist daheim – in ihrem Zimmer, muß daheim sein​« – und zum zweiten Male tritt er in das Gemach.
+<quote>»​Schweig, Närrin!​«</quote> <suspension>ruft er ihr zu,</suspension> <quote>»​Rosa ist daheim – in ihrem Zimmer, muß daheim sein​«</quote> – und zum zweiten Male tritt er in das Gemach.
 
 Božena weiß: es ist nicht – er irrt! und dennoch weckt die Zuversicht, die ihr Herr zur Schau trägt, in ihr einen Schimmer von Hoffnung; er ist trügerisch; wie bald, und er erlischt. Sie stehen in dem Gemache des Kindes und finden es leer.
 
@@ -591,7 +591,7 @@ Von neuem jammert Božena: »​Sie ist fort!​« Und den alten Mann überfäll
 
 Augenblicklich fordert seine Qual ein Opfer, an dem sie sich rächen kann. Schäumend, mit der blinden Wut eines Tieres dringt er auf Božena ein und schmettert sie zu Boden. Sie fällt hin wie ein Baum, sie wehrt sich nicht.
 
-»​So hast du sie gehütet?​« schreit er halb von Sinnen und wiederholt ohne Aufhören: »​So hast du sie gehütet?​«
+<quote>»​So hast du sie gehütet?​«</quote><suspension> schreit er halb von Sinnen und wiederholt ohne Aufhören: </suspension><quote>»​So hast du sie gehütet?​«</quote>
 
 Sie zuckt nicht unter seiner ehernen Faust, sie erhebt sich nicht, sie fühlt nichts, sie weiß nichts zu sagen als: »​So hab ich sie gehütet!​«
 
