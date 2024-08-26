@@ -615,11 +615,11 @@ Angesichts ihrer maßlosen Verzweiflung gewann Heißenstein einige Fassung. Er �
 
 Das war ihre Antwort auf des Vaters: »​Glaubst du, er nähme dich ohne einen Heller?​«
 
-Er knitterte das Blatt zusammen und warf es zur Erde.  Božena stürzte sich darauf – und las – und raffte sich empor, riß den Schrank auf und durchsuchte ihn mit brennender Hast: »​Nichts!​« rief sie schmerzlich, »​o du guter Gott – nichts fehlt als die Kleider, die sie auf dem Leibe trug, und ihr leichtes Mäntelchen ... So geht sie aus dem Vaterhause – so geht mein Kind, mein Leben, mein alles hinaus in die weite Welt!​«
+Er knitterte das Blatt zusammen und warf es zur Erde.  Božena stürzte sich darauf – und las – und raffte sich empor, riß den Schrank auf und durchsuchte ihn mit brennender Hast:<quote> »​Nichts!​« </quote> <suspension>rief sie schmerzlich, </suspension><quote>»​o du guter Gott – nichts fehlt als die Kleider, die sie auf dem Leibe trug, und ihr leichtes Mäntelchen ... So geht sie aus dem Vaterhause – so geht mein Kind, mein Leben, mein alles hinaus in die weite Welt!​«</quote>
 
 Heißenstein gebot ihr Schweigen. Er hat sich ermannt. Zwei Stunden später saß er im Postwagen und fuhr denselben Weg, den die Ulanen genommen.
 
-»​Wenn jemand nach mir fragen sollte​«, hatte er beim Abschied gesagt, »​ich bin mit​« – wie schwer brachte er den Namen über die Lippen! –, »​mit Rosa nach Wien gefahren. Das ist alles, was ihr wißt. Ihr versteht?​«
+<quote>»​Wenn jemand nach mir fragen sollte​«, </quote> <suspension>hatte er beim Abschied gesagt,</suspension> <quote>»​ich bin mit​«</quote> <suspension>– wie schwer brachte er den Namen über die Lippen! –, </suspension><quote>»​mit Rosa nach Wien gefahren. Das ist alles, was ihr wißt. Ihr versteht?​«</quote>
 
 »​Ihr versteht​«, sagte er, aber er sah dabei nur seine Frau an. Der Verschwiegenheit seiner Magd war er gewiß.
 
@@ -685,11 +685,11 @@ Eher löscht die Sonne aus als ihre Liebe zu ihm, eher verliert er den Glauben a
 
 Nur Vorsicht jetzt, nur unbefangen bleiben! – Am besten ist, er fängt sie in ihrem eigenen Netz.
 
-»​Warte!​« ruft er ihr zu, »​so kommst du mir nicht fort. Wer bringt, muß nehmen. Nimm auch du alles zurück, was du mir geschenkt hast.​«
+<quote>»​Warte!​«</quote><suspension> ruft er ihr zu,</suspension><quote> »​so kommst du mir nicht fort. Wer bringt, muß nehmen. Nimm auch du alles zurück, was du mir geschenkt hast.​«</quote>
 
 Er trat an seine Schublade und wollte sie öffnen, da erinnerte er sich des Briefes an die »​angebetete Wilhelmine​«, der darin lag und dessen in großen Lettern prangende Aufschrift dem scharfen Auge Boženas schwerlich entgangen wäre. Er errötete und ließ den schon ausgestreckten Arm sinken.
 
-»​Behalt's​«, sagte sie, »​ich werde keinen Liebsten mehr haben, dem ich es schenken könnt!​«
+<quote>»​Behalt's​«,</quote> <suspension>sagte sie,</suspension><quote>»​ich werde keinen Liebsten mehr haben, dem ich es schenken könnt!​«</quote>
 
 Wie seltsam hart klang ihre Stimme, welche Entschlossenheit sprach aus ihrem Ton und welche wehmütige Trauer aus ihrem Gesicht, aus ihrer Haltung und ihrem ganzen Wesen! Kann man zugleich so stark sein und so weich, die Seele eines Helden besitzen und das Herz eines Weibes?
 
@@ -707,7 +707,7 @@ Er sah, wie sie erbebte und unsäglich litt, aber die Zärtlichkeit der Selbsts�
 
 Sie entrang sich seiner Umarmung; ihre Wangen flammten, und ihr Atem flog.
 
-»​Verstehst nicht?​« sagte sie, »​es ist aus. Ich bin jetzt von dir los und für immer, denn ich hab die Stunde verflucht, wo ich zum ersten und letzten Mal durch dich glücklich war.​«
+<quote>»​Verstehst nicht?​«</quote> <suspension>sagte sie,</suspension><quote> »​es ist aus. Ich bin jetzt von dir los und für immer, denn ich hab die Stunde verflucht, wo ich zum ersten und letzten Mal durch dich glücklich war.​«</quote>
 
 »​Verflucht?!​«
 
@@ -771,7 +771,7 @@ Bedächtig, als fürchte er durch eine rasche Bewegung die Weihrauchwolke zu zer
 
 Der Advokat bedauerte sie sehr, versetzte sich ganz in ihre traurige Lage, und seine Frau vergoß teilnehmende Tränen.
 
-»​Dieser gestrige Schritt​«, nahm Nannette wieder das Wort, »​diese ... dieses ... ich will sagen, dieser – Schritt –​«
+<quote>»​Dieser gestrige Schritt​«,</quote><suspension> nahm Nannette wieder das Wort, </suspension><quote>»​diese ... dieses ... ich will sagen, dieser – Schritt –​«</quote>
 
 Was hätte sie darum gegeben, fragen zu dürfen, was für ein Schritt das war? Aber soviel will sie sich nicht vergeben. Daß sie keinen Einfluß auf ihren Mann hat, gesteht sie ein; daß sie sein Vertrauen nicht besitzt – nimmermehr. Und Wenzel hilft ihr nicht. Er schüttelt nur den Kopf und wiederholt: »​Er ist zu hart, Ihr Herr Gemahl, zu hart.​«
 
@@ -801,7 +801,7 @@ Schimmelreiter besaß ein schwaches Begriffsvermögen, aber ein starkes Streben,
 
 Mansuet sprach etwas wegwerfend: »​Das heißt: physisch und moralisch.​«
 
-»​Sehen Sie, sehen Sie​«, rief Schimmelreiter, »​so hab ich's aufgefaßt!​«
+<quote>»​Sehen Sie, sehen Sie​«,<quote> <suspension>rief Schimmelreiter,</suspension><quote> »​so hab ich's aufgefaßt!​«</quote>
 
 Fast noch weher als Heißensteins ohnmächtiger Trübsinn tat Mansuet Frau Nannettens kaum noch verhehlter Triumph. Sie sah jetzt mit Ruhe der Zukunft entgegen; die Gefahr, daß ihre Stieftochter jemals wieder in ihre Kindesrechte eingesetzt werden könnte, schien so gut wie überwunden. Rosas Flucht wurde für Nannette ein Abschnitt in der Zeitrechnung, nicht mehr noch weniger. Sie sagte: »​Das war vor oder nach unserm Familienunglück​«, wie die Mohammedaner sagen »​vor oder nach der Hedschra​«.
 
@@ -813,7 +813,7 @@ Mansuet wartete einen Tag, zwei Tage. Das dünne Blättchen brannte wie Feuer au
 
 Heißenstein konnte sich eines Lächelns nicht erwehren und fragte: »​Was haben Sie denn?​«
 
-»​Einen Brief!​« platzte Mansuet heraus, »​einen Brief von unserer Rosa!​« wiederholte er, fast weinend – und hielt seinem Herrn das Zettelchen hin.
+<quote>»​Einen Brief!​« </quote><suspension>platzte Mansuet heraus,</suspension> <quote>»​einen Brief von unserer Rosa!​« </quote>wiederholte er, fast weinend – und hielt seinem Herrn das Zettelchen hin.
 
 Heißenstein war bleich geworden bis an die Lippen, vergeblich rang er nach Worten; röchelnd, als läge eine Faust an seiner Gurgel und würge ihn, trat er auf Mansuet zu, riß das Papier aus seinen zitternden Fingern und warf es vor seinen Augen in das Feuer.
 
@@ -823,17 +823,17 @@ Mansuet sah ihn mit einem sonderbaren Blicke an, und nach einer Pause, in welche
 
 Ein Jahr danach um dieselbe Zeit erschien wieder ein Brief Boženas und enthielt abermals einen Einschluß Rosas. Božena hatte sich dieses Mal sehr kurz gefaßt; ihre Zeilen enthielten nur einen Gruß an Herrn Weberlein und die dringende Bitte, ihr mit umgehender Post einen Teil ihrer Ersparnisse zuzusenden. Mansuet besorgte diesen Auftrag sofort, obwohl die Ausführung desselben mehrere Morgenstunden in Anspruch nahm. Herr Heißenstein hatte voll Ungeduld soeben zum zehntenmal nach ihm gefragt, als er endlich eintrat, ganz erhitzt, den Hut und den Oberrock mit Schnee bedeckt.
 
-»​Wo waren Sie?​« herrschte sein Chef ihn an, »​was fällt Ihnen ein, davonzulaufen um die Mittagszeit, vor Expedition der Post?​«
+<quote>»​Wo waren Sie?​«</quote><suspension> herrschte sein Chef ihn an,</suspension> <quote>»​was fällt Ihnen ein, davonzulaufen um die Mittagszeit, vor Expedition der Post?​«</quote>
 
 Mansuet begab sich schweigend in seinen Glasverschlag, warf dort einige Zeilen auf einen Stempelbogen, den er mitgebracht hatte, trat dann zu Herrn Heißenstein, breitete das Blatt vor ihm auf dem Tische aus und sprach: »​Hier meine schriftliche Kündigung. Will Sie nicht in die Notwendigkeit versetzen, mich mit Schimpf und Schande aus dem Hause zu jagen. Und hier​« – er legte einen Brief auf den Stempelbogen – »​ein heut morgens eingelangtes, an meinen Herrn Prinzipal durch mich zu übermittelndes Schreiben.​«
 
 Heißenstein sah abwechselnd den Kommis und das zusammengefaltete Blatt an, auf dem er die Schrift seiner Tochter erkannt hatte. Wie ein elektrischer Schlag durchzuckte es ihn, doch behielt er Ruhe genug, um erwidern zu können: »​Ich verweigere die von Ihnen erbetene Entlassung. Sie befinden sich in meinem Dienste und haben zu gehorchen.​«
 
-Er stand auf und wies dem Kommis seinen Platz an: »​Setzen Sie sich! ... Setzen Sie sich! ...​« wiederholte er, und Mansuet folgte seinem Befehle. »​Schreiben Sie!​« Mansuet nahm eine Feder zur Hand – »​Schreiben Sie: Der Unterzeichnete verbittet sich in Zukunft jede weitere Belästigung ...​«
+Er stand auf und wies dem Kommis seinen Platz an: »​Setzen Sie sich! ... Setzen Sie sich! ...​« wiederholte er, und Mansuet folgte seinem Befehle. <quote>»​Schreiben Sie!​« </quote><suspension>Mansuet nahm eine Feder zur Hand – </suspension><quote>»​Schreiben Sie: Der Unterzeichnete verbittet sich in Zukunft jede weitere Belästigung ...​«</quote>
 
 Mansuet bebte am ganzen Körper, kalter Schweiß trat ihm auf die Stirn, aber er schrieb, und Heißenstein fuhr fort zu diktieren: »​– Belästigung – durch Übersendung von Zuschriften, die an ihren Adressaten zu befördern ihm die Pflicht verbietet. Mansuet Weberlein, Kommis.​«
 
-»​Mansuet?​« rief dieser und sprang auf – »​ich soll das unterschreiben? ... Sie glauben, ich werde das unterschreiben? – eine haarsträubende Lüge?!​«
+<quote>»​Mansuet?​«</quote> <suspension>rief dieser und sprang auf –</suspensioon> <quote>»​ich soll das unterschreiben? ... Sie glauben, ich werde das unterschreiben? – eine haarsträubende Lüge?!​«</quote>
 
 Er faßte sich mit beiden Händen an den Kopf; sein Gesicht war kreideweiß.
 
