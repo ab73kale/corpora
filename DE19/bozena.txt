@@ -913,11 +913,11 @@ Heißenstein hob sofort die Tafel auf und geleitete seinen  Gast, der aufzuatmen
 
 Am frühen Morgen schon stand ein Postwagen vor dem Hause und Joseph in Reisekleidern vor Heißenstein.
 
-»​Verzeihen Sie mir, mein väterlicher Freund​«, sprach der junge Mann treuherzig, »​aber – ich habe mir's überlegt, ich fühle noch keinen Beruf, mich zu verheiraten. Ich glaube am ehrlichsten zu handeln, wenn ich es Ihnen gleich eingestehe.​«
+<quote>»​Verzeihen Sie mir, mein väterlicher Freund​«,</quote> <suspension>sprach der junge Mann treuherzig,</suspension> <quote>»​aber – ich habe mir's überlegt, ich fühle noch keinen Beruf, mich zu verheiraten. Ich glaube am ehrlichsten zu handeln, wenn ich es Ihnen gleich eingestehe.​«</quote>
 
-»​Wozu die Eile?​« fragte Heißenstein betroffen, »​lerne meine Regel besser kennen. Sie gehört zu der Sorte von Weibern, denen jeder Mann ohne Sorge sein Lebensglück anvertrauen kann.​«
+<quote>»​Wozu die Eile?​«</quote> <suspension>fragte Heißenstein betroffen,</suspension> <quote>»​lerne meine Regel besser kennen. Sie gehört zu der Sorte von Weibern, denen jeder Mann ohne Sorge sein Lebensglück anvertrauen kann.​«</quote>
 
-»​Ich bin davon überzeugt​«, erwiderte Joseph, »​allein ob das ihre in meinen Händen gesichert wäre, daran zweifle ich.​«
+<quote>»​Ich bin davon überzeugt​«,</quote> <suspension>erwiderte Joseph,</suspension> <quote>»​allein ob das ihre in meinen Händen gesichert wäre, daran zweifle ich.​«</quote>
 
 Heißenstein sah ihn an und schüttelte den Kopf: »​Sei aufrichtig – sie gefällt dir nicht​«, sagte er mit einem Ausdruck von so hoffnungsloser Trauer in Stimme und Gebärde, daß Joseph, davon ergriffen, die Hand des alten Mannes faßte und drückte. Dieser klopfte ihm auf die Schulter: »​Nun ja, ich habe Besseres für dich im Sinne gehabt. – Es hat aber nicht sein sollen.​«
 
@@ -1015,7 +1015,7 @@ Der letztere schien sich zu besinnen und sagte dann nachlässig, zu dem Kläger 
 
 »​Das können Sie​«, fügte der Auditor ernsthaft hinzu.
 
-»​Freilich!​« bestätigte der Oberst; »​und Ihre Tochter nach Hause führen – triumphaliter.​«
+<quote>»​Freilich!​«</quote> <suspension>bestätigte der Oberst;</suspension> <quote>»​und Ihre Tochter nach Hause führen – triumphaliter.​«</quote>
 
 Ja, dieses Wort hatte er gebraucht, und spöttisch gebraucht. Heißenstein besann sich dessen ganz genau, jetzt noch, und jetzt noch durch die Tränen, in denen seine Augen schwammen, funkelte ingrimmiger Zorn.
 
@@ -1023,15 +1023,15 @@ Der Oberst fuhr fort: »​Sie können das alles tun, aber glauben Sie mir: lass
 
 Wieder lächelte der Auditor, und Heißenstein war überzeugt, man habe ihn zum besten. Die reiche Weinhändlerstochter wurde als eine gute Beute angesehen, einem armen Leutnant, der von der Gage lebt, wohl zu gönnen. Abgekartet war alles zwischen diesen Leuten, und seine Tochter war vielleicht weniger ihr Opfer, als ihre Mitschuldige ...
 
-»​Mansuet​«, sagte der alte Mann, »​als ich nach Hause fuhr, meinte ich immer hinter mir herlachen zu hören, und ich dachte nicht mehr an Strafe für mein ungeratenes Kind, ich dachte Rache an ihm zu nehmen ... Und doch​« – er schluchzte leise, und seine Stimme wurde immer schwächer –, »​hätte sie damals mein Erbarmen angefleht – hätte sie sich damals an mich gewendet – mein Schmerz war noch jung – mein Groll hatte sich mir noch nicht so in die Seele eingefressen wie später ... vielleicht  hätte ich verziehen ... Ich hoffe es von mir, Mansuet, daß ich verziehen hätte! ...​«
+<quote>»​Mansuet​«,</quote> <suspension>sagte der alte Mann, »​als ich nach Hause fuhr, meinte ich immer hinter mir herlachen zu hören, und ich dachte nicht mehr an Strafe für mein ungeratenes Kind, ich dachte Rache an ihm zu nehmen ...</suspension><quote> Und doch​«</quote> <suspension>– er schluchzte leise, und seine Stimme wurde immer schwächer –,</suspension><quote> »​hätte sie damals mein Erbarmen angefleht – hätte sie sich damals an mich gewendet – mein Schmerz war noch jung – mein Groll hatte sich mir noch nicht so in die Seele eingefressen wie später ... vielleicht  hätte ich verziehen ... Ich hoffe es von mir, Mansuet, daß ich verziehen hätte! ...​«</quote>
 
 Der Kranke weinte bitterlich, und Weberlein trocknete ihm die Augen mit einem Tuche und sagte: »​O ganz gewiß, lieber Herr, ganz gewiß!​«
 
 »​Aber sie schrieb nicht​«, sprach Heißenstein, indem er tief aufseufzte. »​Sie ließ mich in dem Glauben oder in dem Wahne, daß sie mit jenen Leuten einverstanden sei, die meiner spotteten.​«
 
-»​Es hat niemand Ihrer gespottet​«, beschwichtigte Mansuet, »​am wenigsten der Herr Oberst, so etwas kommt nicht vor bei einem braven Ulanen, Sie werden sich's in der Aufregung nur eingebildet haben. Und was die Rosa betrifft, so meine ich immer, daß sie damals geschrieben hat. Božena wenigstens berief sich in ihrem ersten Briefe auf ein Schreiben, das die junge Frau an Sie gerichtet hatte, gleich nach ihrer-gleich nach dem Unglück ...​«
+<quote>»​Es hat niemand Ihrer gespottet​«,</quote> <suspension>beschwichtigte Mansuet,</suspension> <quote>»​am wenigsten der Herr Oberst, so etwas kommt nicht vor bei einem braven Ulanen, Sie werden sich's in der Aufregung nur eingebildet haben. Und was die Rosa betrifft, so meine ich immer, daß sie damals geschrieben hat. Božena wenigstens berief sich in ihrem ersten Briefe auf ein Schreiben, das die junge Frau an Sie gerichtet hatte, gleich nach ihrer-gleich nach dem Unglück ...​«</quote>
 
-»​Nein, nein​«, sagte Heißenstein, »​ich habe nichts bekommen: nicht ein einziges Wort. Ich wartete einen Tag – zwei Tage ... Oh, sehnlich, Mansuet! ... Dann war es aus. Der Advokat mußte ihr schreiben, daß sie enterbt und verstoßen sei. – Das wenige, das ihre Mutter hinterlassen hatte, schickte man ihr.​«
+<quote>»​Nein, nein​«,</quote> <suspension>sagte Heißenstein,</suspension<quote>>»​ich habe nichts bekommen: nicht ein einziges Wort. Ich wartete einen Tag – zwei Tage ... Oh, sehnlich, Mansuet! ... Dann war es aus. Der Advokat mußte ihr schreiben, daß sie enterbt und verstoßen sei. – Das wenige, das ihre Mutter hinterlassen hatte, schickte man ihr.​«</quote>
 
 Weberlein schüttelte ungläubig den Kopf: »​Nur das? Sie irren ... das hätte ja nicht einmal gereicht, die Leutnantskaution ...​«
 
@@ -1049,11 +1049,11 @@ Weberlein küßte die Hand seines Gebieters, und Frau Nannette trat ein.
 
 Sie trug einen Schlafrock aus vergilbter Mousseline de laine und auf dem Kopf ein Häubchen mit meergrünen Bändern. Ein fahler Anblick, dachte der Kommis.
 
-»​Frau​«, sagte Heißenstein zu seiner Gattin, die zärtlich nach seinem Befinden fragte, indem er nach Mansuet hinsah: »​Er will gehen, Božena und Röschen abzuholen. – Du hast doch nichts dagegen?​«
+<quote>»​Frau​«,</quote> <suspension>sagte Heißenstein zu seiner Gattin, die zärtlich nach seinem Befinden fragte, indem er nach Mansuet hinsah:</suspension><quote> »​Er will gehen, Božena und Röschen abzuholen. – Du hast doch nichts dagegen?​«</quote>
 
 Nannette biß sich auf die Lippen und antwortete mit der Versicherung, sie wolle sogleich das Frühstück besorgen und freue sich, daß ihr Mann gut geschlafen habe, man sehe es an seinen frischen Augen. Mansuet meinte im stillen, dies sei eine kühne Behauptung, denn jene Augen waren eingesunken und ihre müden Lider halb geschlossen.
 
-»​Ich nehme gleich hier von Ihnen Abschied, meine Gnädigste​«, sprach Weberlein, »​noch vor Mittag will ich fort.​«
+<quote>»​Ich nehme gleich hier von Ihnen Abschied, meine Gnädigste​«,</quote> <suspension>sprach Weberlein,</suspension><quote> »​noch vor Mittag will ich fort.​«</quote>
 
 »​Wozu die Eile?​« erwiderte Nannette. »​Wozu überhaupt ...​« sie stockte – »​Božena findet ohne Sie ihren Weg.​«
 
@@ -1065,7 +1065,7 @@ Aber nachdem er seinen Koffer bereits aufgegeben und seinen Platz im Poststellwa
 
 Nannettens Nase, immer das erste und meistens das einzige, das in ihrem Gesichte errötete, brannte wie eine glühende Kohle.
 
-»​Ich werde tun, was meinem Gatten recht ist​«, sprach sie, »​nicht mehr, nicht weniger.​«
+<quote>»​Ich werde tun, was meinem Gatten recht ist​«,</quote> <suspension>sprach sie,</suspension><quote> »​nicht mehr, nicht weniger.​«</quote>
 
 »​Alles, was Sie tun, ist recht​«, rief Mansuet »​nämlich ihm​«, verbesserte – oder vielmehr verschlechterte – er sich und seine Sache.
 
@@ -1073,15 +1073,15 @@ Nannettens Nase, immer das erste und meistens das einzige, das in ihrem Gesichte
 
 »​Was Sie wollen, wird geschehen!​«
 
-»​Wollen – dürfen – für mich, Herr Weberlein, eines und  dasselbe.​« Nannettens Busen hob sich, sie atmete schnell. »​Ich bitte, mißverstehen Sie mich nicht. Mir liegt​«, sprach sie nachdrücklich, »​an der Achtung der Menschen und an dem Seelenfrieden meines Gatten. Aber – die wohlgeratene und die ungeratene Tochter, es ist ein Unterschied. Ich sehe nicht ein, warum das Kind dafür belohnt werden soll, daß seine Mutter – davongelaufen ist.​«
+»​Wollen – dürfen – für mich, Herr Weberlein, eines und  dasselbe.​« Nannettens Busen hob sich, sie atmete schnell. <quote>»​Ich bitte, mißverstehen Sie mich nicht. Mir liegt​«,</quote><suspension> sprach sie nachdrücklich,</suspension><quote> »​an der Achtung der Menschen und an dem Seelenfrieden meines Gatten. Aber – die wohlgeratene und die ungeratene Tochter, es ist ein Unterschied. Ich sehe nicht ein, warum das Kind dafür belohnt werden soll, daß seine Mutter – davongelaufen ist.​«</quote>
 
-»​O Frau Prizipalin!​« rief Mansuet zugleich beschwörend und drohend, »​tun Sie Ihre Schuldigkeit!​«
+<quote>»​O Frau Prizipalin!​«</quote> <suspension>rief Mansuet zugleich beschwörend und drohend,</suspension> <quote>»​tun Sie Ihre Schuldigkeit!​«</quote>
 
 »​Vor allem will ich meine Schuldigkeit tun gegen meine Tochter​«, erklärte Nannette. »​Elternpflicht ist die erste Pflicht.​«
 
 Mansuet trat einige Schritte zurück.
 
-»​O Frau Prinzipalin!​« wiederholte er und fuhr nach kurzer Pause mit einem wahrhaft teuflischen Lächeln fort: »​Wenn ich bedenke, wie viele große Verbrechen und wie viele kleine Schändlichkeiten schon im Namen der Elternpflicht begangen wurden und täglich begangen werden, dann danke ich meinem Gott, daß die Nötigung zu solcher Pflichterfüllung niemals an mich herangetreten ist und daß ich sterben darf ohne Progenitur!​«
+<quote>»​O Frau Prinzipalin!​«</quote><suspension> wiederholte er und fuhr nach kurzer Pause mit einem wahrhaft teuflischen Lächeln fort:</suspension> <quote>»​Wenn ich bedenke, wie viele große Verbrechen und wie viele kleine Schändlichkeiten schon im Namen der Elternpflicht begangen wurden und täglich begangen werden, dann danke ich meinem Gott, daß die Nötigung zu solcher Pflichterfüllung niemals an mich herangetreten ist und daß ich sterben darf ohne Progenitur!​«</quote>
 
 ### 10
 
@@ -1149,19 +1149,19 @@ Während des Schlusses der traurigen Feier verwendete er kein Auge von dem Kinde
 
 »​Bin grau geworden​«, erwiderte Božena, zog das kleine Röschen, das sich ganz und gar eingewickelt hatte in die Falten ihres Rockes, aus seinem Verstecke hervor und hob es in ihren Armen auf.
 
-»​Nicht gerade grau, vielmehr pfeffer- und salzfarbig​«, sprach Mansuet, und als Božena ihn darauf versicherte, er hingegen  sehe gerade noch so aus wie vor sieben Jahren, antwortete er gleichgültig: »​Die Leute behaupten's.​«
+<quote>»​Nicht gerade grau, vielmehr pfeffer- und salzfarbig​«,</quote> <suspension>sprach Mansuet, und als Božena ihn darauf versicherte, er hingegen  sehe gerade noch so aus wie vor sieben Jahren, antwortete er gleichgültig:</suspension><quote> »​Die Leute behaupten's.​«</quote>
 
 Schimmelreiter hat später oft erzählt, Mansuet sei ihm damals merkwürdig affektiert vorgekommen. Man habe ihm einen schweren Kampf zwischen Schmerz und Freude und zugleich das Bestreben angesehen, nicht mehr davon zu verraten, als er für vereinbar hielt mit seiner Manneswürde.
 
-»​Ich bin aber​«, nahm Božena nach einer Pause das Wort, »​noch so rüstig wie je, und ich bitte Sie, sagen Sie das der Frau. Was ihr zwei andere Mägde leisten, das leiste ich allein und betreue nebstbei das Kind, es soll ihr keine Ungelegenheit machen, solange ich da bin. Ich bitte Sie, Herr Mansuet, legen Sie ein gutes Wort für mich ein, damit man mich bei dem Kinde läßt.​«
+<quote>»​Ich bin aber​«,</quote><suspension> nahm Božena nach einer Pause das Wort,</suspension><quote> »​noch so rüstig wie je, und ich bitte Sie, sagen Sie das der Frau. Was ihr zwei andere Mägde leisten, das leiste ich allein und betreue nebstbei das Kind, es soll ihr keine Ungelegenheit machen, solange ich da bin. Ich bitte Sie, Herr Mansuet, legen Sie ein gutes Wort für mich ein, damit man mich bei dem Kinde läßt.​«</quote>
 
-»​Ganz überflüssig​«, antwortete der Kommis, »​die Frau wird Sie gern behalten, die kennt ihren Vorteil.​«
+<quote>»​Ganz überflüssig​«,</quote><suspension>antwortete der Kommis,</suspension> <quote>»​die Frau wird Sie gern behalten, die kennt ihren Vorteil.​«</quote>
 
 Sie waren langsam hinter der Menge, die sich nach allen Richtungen verlief, hergeschritten und traten nun aus dem Friedhofe. Mansuet schielte immerfort nach dem Kinde, das ihn, das Köpfchen an Boženas Hals geschmiegt, so schelmisch anblinzelte, wie die Augen eines sechsjährigen Mädchens nur immer vermögen.
 
-»​Werden Sie​«, fragte der Kommis, »​das Kind noch lange so herumschleppen?​« und setzte, sich an Röschen wendend, mürrisch hinzu: »​Weißt du wohl, daß es eine Schande ist, sich tragen zu lassen, wenn man so alt ist wie du?​«
+<quote>»​Werden Sie​«,</quote><suspension> fragte der Kommis,</suspension><quote> »​das Kind noch lange so herumschleppen?​« und setzte, sich an Röschen wendend, mürrisch hinzu: »​Weißt du wohl, daß es eine Schande ist, sich tragen zu lassen, wenn man so alt ist wie du?​«</quote>
 
-»​Es liegt viel Schnee​«, meinte Božena entschuldigend, »​und sie ist nicht schwerer als eine Puppe.​«
+<quote>»​Es liegt viel Schnee​«,</quote><suspension> meinte Božena entschuldigend, </suspension><quote>»​und sie ist nicht schwerer als eine Puppe.​«</quote>
 
 »​Mag sein​«, entgegnete Mansuet. »​Was haben Sie nur an der aufgezogen?​«
 
@@ -1179,7 +1179,7 @@ Schimmelreiter jedoch küßte wie verzückt das über Boženas Schulter herabhä
 
 »​Wer wohnt jetzt dort?​« fragte sie endlich mit Überwindung.
 
-»​Gar viele Leute​«, antwortete Mansuet, »​wir haben ja Wohnungsnot in Weinberg. Der Kreishauptmann, der Herr Graf, ist im Jahre achtundvierzig fortgekommen. Und unser Bekannter, sein Jäger​« – Mansuet wandte den Kopf und heftete den Blick so fest auf einen der steinernen Torpfeiler, als ob sich dort etwas Unerhörtes begäbe –, »​der hat die Kammerjungfer der Gräfin geheiratet und ein Revier gekriegt, hier in der Nähe ...​«
+<quote>»​Gar viele Leute​«,</quote><suspension> antwortete Mansuet, </suspension><quote>»​wir haben ja Wohnungsnot in Weinberg. Der Kreishauptmann, der Herr Graf, ist im Jahre achtundvierzig fortgekommen. Und unser Bekannter, sein Jäger​«</quote><suspension> – Mansuet wandte den Kopf und heftete den Blick so fest auf einen der steinernen Torpfeiler, als ob sich dort etwas Unerhörtes begäbe –,</suspension> <quote>»​der hat die Kammerjungfer der Gräfin geheiratet und ein Revier gekriegt, hier in der Nähe ...​«</quote>
 
 »​Hier in der Nähe?​« wiederholte Božena.
 
@@ -1213,7 +1213,7 @@ Jetzt, als sie schon unter das Haustor traten, sprach Schimmelreiter: »​Ja, j
 
 »​Besonders Ihre fünfundfünfzig Jahre werden die Frauenzimmer locken​«, sprach Weberlein wegwerfend.
 
-»​Ich wünsche mir keinen Backfisch!​« rief sein Kollege eifrig und fügte nach einer Pause, während der Mansuet ihn spöttisch von der Seite ansah, stockend und in großer Verlegenheit hinzu: »​Diejenige, welche – ist bereits mittelalterlich.​«
+<quote>»​Ich wünsche mir keinen Backfisch!​«</quote> <suspension>rief sein Kollege eifrig und fügte nach einer Pause, während der Mansuet ihn spöttisch von der Seite ansah, stockend und in großer Verlegenheit hinzu:</suspension><quote> »​Diejenige, welche – ist bereits mittelalterlich.​«</quote>
 
 Aber schon im nächsten Augenblicke wollte er, wie Lazarillo, lieber gestorben sein, als diese Rede ausgesprochen haben, denn er hörte neben sich ein derart schneidendes »​So?!​« als hätte eine Schlange es gezischt. Der kleine Mansuet fuhr mit beiden Händen in die Taschen seines Rockes, hob sich, so hoch er konnte, auf den Fußspitzen empor und sagte dem großen Schimmelreiter trocken in den Bart hinein: »​Beruhigen Sie sich! – Diejenige nimmt Sie nicht.​« Mit diesen Worten wandte er sich und war so rasch verschwunden, als hätte ihn der Boden verschlungen.
 
@@ -1235,7 +1235,7 @@ Eines Tages ließ sie Doktor Wenzel rufen und ersuchte ihn, alle gesetzlichen Sc
 
 Der Arzt fand endlich einen Namen für Nannettens Krankheit, er nannte es ein Zehrfieber und erteilte seiner Patientin den Rat, nach der Schweiz zu reisen.
 
-»​Werde ich dort gesund? stehen Sie mir dafür?​« fragte sie und rief, als er eine ausweichende Antwort gegeben hatte: »​Schon gut, schon gut. Lassen Sie mich zu Hause ...​« Sie vollendete den Satz nicht, warf einen feindlichen Blick auf den Arzt und entließ ihn.
+<quote>»​Werde ich dort gesund? stehen Sie mir dafür?​«</quote><suspension> fragte sie und rief, als er eine ausweichende Antwort gegeben hatte:</suspension> <quote>»​Schon gut, schon gut. Lassen Sie mich zu Hause ...​«</quote> Sie vollendete den Satz nicht, warf einen feindlichen Blick auf den Arzt und entließ ihn.
 
 Er ging, durchdrungen von Bewunderung für die starkmütige Frau, und sorgte für die Verbreitung ihres Ruhmes.
 
@@ -1247,7 +1247,7 @@ Aber seltsam, all die Interessen die sie mit so großem Eifer betrieb, füllten 
 
 Einmal geschah es, daß Nannette in einer Anwandlung dieser Art sich rasch erhob, geschäftig zu ihrem Schranke eilte, ihn öffnete und unbeweglich vor ihm stehenblieb. Ihre Hände sanken herab ...
 
-»​Mutter!​« rief Regula, nicht eben liebevoll, »​was ist Ihnen, was suchen Sie?​«
+<quote>»​Mutter!​«</quote><suspension> rief Regula, nicht eben liebevoll,</suspension> <quote>»​was ist Ihnen, was suchen Sie?​«</quote>
 
 Nannette wandte sich ihr zu, wie traumverloren, mit dem Gesichte einer Nachtwandlerin: »​Den Brief​«, flüsterte sie, »​um ihn zu verbrennen. Aber – er ist schon verbrannt.​«
 
@@ -1295,7 +1295,7 @@ Ihr gegenüber steht Božena, totenbleich.
 
 »​Meine Mutter stirbt!​« spricht das Fräulein.
 
-»​Sie ist tot​«, antwortet die Magd mit leiser Stimme; »​kommen Sie.​« Sie faßt die Zitternde, Schwankende, und von ihr geleitet begibt sich Regula an das Totenbett ihrer Mutter.
+<quote>»​Sie ist tot​«,</quote> <suspension>antwortet die Magd mit leiser Stimme;</suspension><quote> »​kommen Sie.​« Sie faßt die Zitternde, Schwankende, und von ihr geleitet begibt sich Regula an das Totenbett ihrer Mutter.</quote>
 
 Von den Schläfern war keiner erwacht.
 
@@ -1375,7 +1375,7 @@ Regula warf einen Blick auf das Kind, das in der Ecke des Zimmers spielte, und e
 
 »​Fräulein, Fräulein! – o Fräulein!​« war alles, was er hervorbrachte im Sturme seiner Gefühle. Regula richtete sich kerzengerade auf, murmelte etwas von Anmaßung und Tyrannei, die sie sich verbitten müsse, und machte eine verabschiedende Handbewegung.
 
-»​Oh!​« stöhnte Ludwig, gerade wie Othello: »​Oh! – Oh! –​« und stürzte zur Tür hinaus.
+<quote>»​Oh!​«</quote> <suspension>stöhnte Ludwig, gerade wie Othello:</supension><quote> »​Oh! – Oh! –​« </quote>und stürzte zur Tür hinaus.
 
 Röschen hatte sich in ihrer Angst hinter einen der hochlehnigen Sessel gekauert und erwartete, ihre Tante werde sich gleichfalls in Sicherheit zu bringen suchen. Sie machte ihr schon Platz neben sich: »​Komm hierher!​« flüsterte sie, fürchtend, der wütende Professor könnte wiederkehren.
 
@@ -1411,15 +1411,15 @@ So manche gutmütige Frau in Weinberg meinte, Fräulein Regula sei freilich ein 
 
 Röschen flößte gar vielen Leuten Mitleid ein, die sie an einem Fenster des grauen Hauses stehen und sehnsüchtig herabblicken sahen zu den Kindern, die auf dem Platze herumliefen und spielten. Ihr war Umgang mit Wesen ihres Alters nicht gegönnt, und der Verkehr mit dem Kinde Mansuet entschädigte sie dafür doch schwerlich. Božena wagte einmal, ihr gnädiges Fräulein darauf aufmerksam zu machen, wurde aber trocken abgewiesen. Regula vermochte nicht einzusehen, daß die Kleine einer andern als einer vernünftigen Umgebung bedürfe. Durchaus nicht. Sie selbst habe sich als Kind immer nur in Gesellschaft von Erwachsenen bewegt, und es sei ihr wohl bekommen.
 
-»​O Božena!​« sagte Röschen einst, »​hätt ich doch lange Beine!​«
+<quote>»​O Božena!​«</quote> <suspension>sagte Röschen einst,</suspension> <quote>»​hätt ich doch lange Beine!​«</quote>
 
 »​Was würden sie dir nützen, du Knirps?​« fragte Božena.
 
-»​Ich liefe – liefe –​« und das Gesicht des Kindes war wie durchleuchtet von der geträumten Wonne, »​liefe so schnell, wie die Vögel fliegen.​«
+<quote>»​Ich liefe – liefe –​«</quote><suspension> und das Gesicht des Kindes war wie durchleuchtet von der geträumten Wonne,</suspension> <quote>»​liefe so schnell, wie die Vögel fliegen.​«<quote>
 
 Regula sah die Magd bedeutsam an und sprach halblaut: »​Die Natur ihrer Mutter. Man kann sie nicht genug in acht nehmen.​«
 
-Dieses Wort schnitt Božena ins Herz, aber sie verriet sich nicht. Sie neigte das Haupt ehrerbietig vor ihrer Herrin: »​Sie  werden das Kind behüten​«, sagte sie, »​es ist in Ihrem Schutze und geborgen.​«
+Dieses Wort schnitt Božena ins Herz, aber sie verriet sich nicht. Sie neigte das Haupt ehrerbietig vor ihrer Herrin:<quote> »​Sie  werden das Kind behüten​«,</quote><suspension> sagte sie,</suspension> <quote>»​es ist in Ihrem Schutze und geborgen.​«</quote>
 
 Das Fräulein zuckte die Achseln und dachte, das unumschränkte Vertrauen, das die Leute in sie setzen, sei doch manchmal unbequem. Aufgebürdet, aufgedrungen wurde ihr das Kind der Schwester, und der Ruf von Tugend und Großmut, den sie genießt, zwingt sie, es bei sich zu behalten. Und in tiefinnerster Seele ist sie ihm so unbeschreiblich abgeneigt! Alles an ihm mißfällt ihr, stört sie, regt sie auf. Sein Lachen und Singen greift ihr die Nerven an, seine Liebkosungen bringen sie in Verlegenheit. »​Laß mich, das schickt sich nicht​«, sagt sie, wenn Röschen ihr entgegenfliegt und ihr in die Arme stürzen will.
 
@@ -1497,7 +1497,7 @@ Mansuet hielt sich nicht länger. »​Der Teufel ist dein Schatz, du Trunkenbol
 
 Das Gesicht des Jägers flammte, er rief: »​Du Lump! Was geht's euch an, ihr Lumpe, wie ich spreche mit meiner Geliebten?!​«
 
-»​Deiner Geliebten?!​« wetterte der kleine Kommis und hatte ihn im selben Augenblicke am Kragen und zerrte ihn vom Sessel herab auf den Boden, »​deine Geliebte?! ... Nimm das zurück, oder ich schlag dich tot, ich schlag dich tot!​«
+<quote>»​Deiner Geliebten?!​«</quote> <suspension>wetterte der kleine Kommis und hatte ihn im selben Augenblicke am Kragen und zerrte ihn vom Sessel herab auf den Boden,</suspension> <quote>»​deine Geliebte?! ... Nimm das zurück, oder ich schlag dich tot, ich schlag dich tot!​«</quote>
 
 Bernhard tobte wie ein Rasender unter den Fäusten Schimmelreiters, der ihn gepackt hatte und ihm gleichfalls zurief: »​Nimm das zurück!​«
 
@@ -1527,23 +1527,23 @@ Ernst und von langer Dauer war die Unterredung, zu der am nächsten Tage Fräule
 
 Eine Person, die ihre eigene Schande in der Wirtsstube ausruft, ist keine passende Umgebung für eine ehrsame junge Dame. Andrerseits ist es auch nicht leicht, Božena zu entlassen, »​weil sie der Familie durch so lange Jahre treu gedient hat​«, sagt – weil sie mir sehr nützlich ist, denkt Regula. Wir haben sie schwer genug vermißt all die Jahre hindurch!
 
-»​Mein gnädiges Fräulein​«, meinte nach reiflicher Erwägung der kluge und praktische Doktor Wenzel, »​das gestrige Ereignis gehört zu denen, die genausoviel Bedeutung haben, als man ihnen beilegt.​«
+<quote>»​Mein gnädiges Fräulein​«,</quote><suspension> meinte nach reiflicher Erwägung der kluge und praktische Doktor Wenzel,</suspension> <quote>»​das gestrige Ereignis gehört zu denen, die genausoviel Bedeutung haben, als man ihnen beilegt.​«</quote>
 
-»​Bin ich nicht schuldig, ihm eine große Bedeutung beizulegen?​« fragte Regula, »​bin ich es nicht mir selbst schuldig? Bestimmt nicht die Strenge, die ich einem Verbrechen gegenüber ...​«
+<quote>»​Bin ich nicht schuldig, ihm eine große Bedeutung beizulegen?​«</quote><suspension> fragte Regula,</suspension><quote> »​bin ich es nicht mir selbst schuldig? Bestimmt nicht die Strenge, die ich einem Verbrechen gegenüber ...​«</quote>
 
 »​Einem Vergehen – einem Vergehen!​« berichtigte lächelnd der Advokat.
 
-»​ ... die ich einem schweren Vergehen gegenüber ausübe, meinen eigenen Wert?​« fuhr Regula fort, und Wenzel unterbrach sie von neuem und versicherte: »​Keineswegs!​«
+<quote>»​ ... die ich einem schweren Vergehen gegenüber ausübe, meinen eigenen Wert?​«</quote><suspension> fuhr Regula fort, und Wenzel unterbrach sie von neuem und versicherte:</suspension><quote> »​Keineswegs!​«</quote>
 
 »​Was werden die Leute sagen, wenn ich meinen Abscheu vor so offenbarer Schande durch nichts – durch gar nichts betätige? Fällt nicht ein Teil von ihr – es ist ein grauenhafter Gedanke! – auf mich selbst zurück?​« entgegnete Fräulein Heißenstein, indem eine Gänsehaut sie überlief.
 
-Wenzel begann ein wenig ungeduldig zu werden, was sich bei ihm durch verdoppelte Freundlichkeit äußerte. Er ergriff Regulas Hand, küßte sie und sprach: »​Getrost! ... Seien Sie getrost! Es wird niemandem einfallen, Sie verantwortlich zu machen für eine Jugendsünde Ihrer bereits in Jahren stehenden Dienerin. Sie waren vermutlich noch nicht geboren, als jene Sünde begangen wurde​«, versicherte der Advokat mit einem fast zärtlichen Blicke und stand auf, »​das enthebt Sie​« – er suchte seinen Hut mit den Augen – »​jeder Verantwortlichkeit.​«
+Wenzel begann ein wenig ungeduldig zu werden, was sich bei ihm durch verdoppelte Freundlichkeit äußerte. Er ergriff Regulas Hand, küßte sie und sprach:<quote> »​Getrost! ... Seien Sie getrost! Es wird niemandem einfallen, Sie verantwortlich zu machen für eine Jugendsünde Ihrer bereits in Jahren stehenden Dienerin. Sie waren vermutlich noch nicht geboren, als jene Sünde begangen wurde​«,</quote> <suspension>versicherte der Advokat mit einem fast zärtlichen Blicke und stand auf,</suspension><quote> »​das enthebt Sie​« – er suchte seinen Hut mit den Augen – »​jeder Verantwortlichkeit.​«</quote>
 
 »​Glauben Sie wirklich?​« flüsterte Regula.
 
 Der Doktor hatte seinen Hut ergriffen und machte rücklings  einige Schritte nach der Tür. »​Wirklich!​« wiederholte er mit seiner süßesten Stimme, »​wirklich und wahrhaftig, Gnädigste. Sie nehmen sich in der ganzen Sache aus – unschuldig wie eine weiße Taube! – Und das arme Ding, die Božena! – Du guter Gott ... Diese Leutchen, das hat andere Ansichten als Sie, engelhaftes Fräulein, über gewisse natürliche Vorgänge ...​«
 
-»​Doktor Wenzel!​« rief Regula streng und vorwurfsvoll »​nichts dergleichen in meiner Gegenwart ... Ich muß bitten –​«
+<quote>»​Doktor Wenzel!​«</quote><suspension> rief Regula streng und vorwurfsvoll</suspension><quote> »​nichts dergleichen in meiner Gegenwart ... Ich muß bitten –​«</quote>
 
 »​Befehlen! befehlen! – Sie müssen immer befehlen​«, sprach der galante alte Herr, und das Fräulein gestand ihm zu, sie sehe ein, daß er im Grunde recht habe: »​Es könnte wohl sein und wäre ziemlich natürlich, daß es für niedere Menschenklassen auch niedrigere Klassen der Moralität gäbe. Zwischen dem Stande einer Person und ihren Affinitäten besteht sicherlich eine große Harmonie. Geburt und Begriffe, Delikatesse, Takt, Gewissen decken einander. Ich glaube das. Ich begreife es sogar – und – wie schon Madame Staël-Holstein sagte: ›​Begreifen heißt verzeihen.​‹ Nicht wahr, lieber Doktor?​«
 
@@ -1565,23 +1565,23 @@ Zuvor jedoch wollte sie, mußte sie der Verirrten die Augen öffnen, mußte eine
 
 Das Fräulein ließ Božena in den roten Salon bescheiden, auf dessen größtem Kanapee sie Platz genommen hatte. Sie fand nach einem Blicke in den Pfeilerspiegel, daß sie sich gut ausnahm in dem stattlichen Raume, der gewöhnlich unbewohnt war und in dem es immer, niemand wußte warum, nach Äpfeln roch.
 
-»​Božena​«, sprach die Dame zu der Eingetretenen nach einer Pause, in der sie sich vergeblich bemühte, dem erstaunten, aber treuherzigen Blick zu begegnen, den die Magd auf sie richtete, »​Božena, ich war lange Zeit zweifelhaft, ob ich Ihnen noch ferner gestatten soll und darf, bei mir zu bleiben. Ja – sehr zweifelhaft.​«
+<quote>»​Božena​«,</quote><suspension> sprach die Dame zu der Eingetretenen nach einer Pause, in der sie sich vergeblich bemühte, dem erstaunten, aber treuherzigen Blick zu begegnen, den die Magd auf sie richtete,</suspension></quote> »​Božena, ich war lange Zeit zweifelhaft, ob ich Ihnen noch ferner gestatten soll und darf, bei mir zu bleiben. Ja – sehr zweifelhaft.​«</quote>
 
 Die Rednerin wartete auf eine Einwendung, als keine erfolgte, fuhr sie fort: »​Sie werden wissen warum? ... Wissen Sie warum?​«
 
 Božena hatte die Augen gesenkt, ihre Lippen bebten leise, und sie antwortete fast unhörbar: »​Ja.​«
 
-»​Man hat Pflichten gegen sich selbst, Božena​«, nahm das Fräulein wieder das Wort, »​begreifen Sie das? ... Sie begreifen es vielleicht nicht – aber gleichviel. Ich hätte die meinen gegen mich nicht außer acht lassen sollen ... und dennoch habe ich es getan, um eine Seele zu retten – die Ihre – begreifen Sie das?​«
+<quote>»​Man hat Pflichten gegen sich selbst, Božena​«,</quote><suspension> nahm das Fräulein wieder das Wort,</suspension><quote> »​begreifen Sie das? ... Sie begreifen es vielleicht nicht – aber gleichviel. Ich hätte die meinen gegen mich nicht außer acht lassen sollen ... und dennoch habe ich es getan, um eine Seele zu retten – die Ihre – begreifen Sie das?​«</quote>
 
 Das Fräulein hatte sich allmählich in eine giftige und erbitterte Stimmung hineingeredet, die durch Boženas scheinbare Ruhe, vor allem aber durch ihr Schweigen bedeutend erhöht  wurde. Sie murmelte etwas, das wie »​Klotz!​« klang, und sagte dann laut mit beklommener Stimme, als wäre der Hals ihr zusammengeschnürt: »​Wenn ich soviel tue, werden Sie sich wohl bequemen, etwas zu tun, hoff ich, Sie werden – hoffe ich, mein Vertrauen nicht mißbrauchen ... Was?​« unterbrach sie sich plötzlich selbst, »​was haben Sie gesagt?​«
 
 »​Nichts, gnädiges Fräulein​«, antwortete Božena. Dunkelrote Flecken brannten unter ihren Augen, und ihr Busen flog.
 
-Regula wiederholte, mit den Nasenflügeln zitternd: »​Nichts? – freilich ... Ich muß Sie aber bitten, etwas zu sagen. Ich muß Sie bitten, mir das heilige Versprechen zu gehen, daß Ihr Lebenswandel in Zukunft ein – ein –​« sie suchte nach einem bezeichnenden Worte, »​ein sittsamer sein wird.​«
+Regula wiederholte, mit den Nasenflügeln zitternd:»​Nichts? – freilich ... Ich muß Sie aber bitten, etwas zu sagen. Ich muß Sie bitten, mir das heilige Versprechen zu gehen, daß Ihr Lebenswandel in Zukunft ein – ein –​« sie suchte nach einem bezeichnenden Worte, »​ein sittsamer sein wird.​«
 
 Božena schwieg.
 
-»​Versprechen Sie!​« rief das Fräulein – ihr Atem wurde immer kürzer, immer bissiger der Zug um ihren Mund –, »​ich fordere Ihr Versprechen, wie gesagt, Ihr heiligstes, daß Sie – daß ...​«
+<quote>»​Versprechen Sie!​«</quote><suspension> rief das Fräulein – ihr Atem wurde immer kürzer, immer bissiger der Zug um ihren Mund –, </suspension><quote>»​ich fordere Ihr Versprechen, wie gesagt, Ihr heiligstes, daß Sie – daß ...​«</quote>
 
 Regula hielt inne, schluckte einigemal hintereinander und sprach dann, wie entschlossen, trotz allen inneren Widerstrebens den entscheidenden Schlag zu führen: »​Daß Sie außer Verbindung bleiben ... daß Sie sich nicht wieder einlassen mit Ihrem – Geliebten.​«
 
@@ -1639,7 +1639,7 @@ Andere Male wieder wurde der historischen Überlieferung ihr Recht. Mansuet mach
 
 Es waren köstliche Abende, diese bei Mansuet, am schönsten aber wurden sie, wenn Božena das Wort ergriff. So wie Božena, meinte Röschen, könne niemand sprechen, denn sie sprach ihr von ihren Eltern. Und auch Mansuet hörte sich niemals satt an ihren Mitteilungen über das geliebte Paar.
 
-»​Sagen Sie mir nur​«, fragte der Alte, »​wie war das, als der Herr Leutnant fort mußte ins Feld?​«
+<quote>»​Sagen Sie mir nur​«,</quote><suspension> fragte der Alte,</suspension><quote> »​wie war das, als der Herr Leutnant fort mußte ins Feld?​«</quote>
 
 »​Wie ich schon oft erzählt habe: traurig war's​«, erwiderte Božena. »​Der Doktor hat es dem Herrn Leutnant schon gesagt gehabt: Sie muß sterben, und ich hab es von selbst gewußt ... Der Herr Leutnant hat sich beim Abschied sehr zusammengenommen.​«
 
@@ -1653,11 +1653,11 @@ Röschen hatte ihren Kopf in Boženas Schoß gelegt, jetzt erhob sie ihn und sag
 
 »​Und dann?​« fragte Mansuet.
 
-»​Dann nichts mehr. Diese da​« – die Magd streichelte das Gesicht des Kindes – »​hat er auf den Arm genommen und sie zärtlich geküßt ...​«
+<quote>»​Dann nichts mehr. Diese da​«</quote><suspension> – die Magd streichelte das Gesicht des Kindes –</suspension><quote> »​hat er auf den Arm genommen und sie zärtlich geküßt ...​«</quote>
 
 »​Weil er mich so liebgehabt hat!​« warf das Kind voll stolzer Zuversicht ein.
 
-»​Und sie mir zurückgegeben​«, schloß die Erzählerin, »​und gesagt: ›​Božena – du wirst sorgen!​‹​«
+<quote>»​Und sie mir zurückgegeben​«,</quote><suspension> schloß die Erzählerin,</suspension><quote> »​und gesagt: ›​Božena – du wirst sorgen!​‹​«</quote>
 
 Ein langes Schweigen trat ein. Röschen schien eingeschlummert. Plötzlich aber öffnete sie die schlaftrunkenen Augen und sprach, zu Božena emporblickend: »​Bei der Hochzeit meiner Eltern warst du gewiß Brautjungfer!​«
 
@@ -1773,9 +1773,9 @@ Vollkommene Unbefangenheit vermag in vielen Fällen auch die erfahrenste Weltlä
 
 Regula war ihm mit gespannter Aufmerksamkeit gefolgt.
 
-»​Erlauben Sie!​« fiel sie ihm jetzt in das Wort, »​wenn ich die beiden nach Ihrer Angabe zur Entlastung und Instruierung Rondspergs erforderlichen Summen addiere, so ergibt sich der Preis, den Sie für das Gut fordern. Gesetzt, ich schlösse den Kauf, was bliebe dann Ihnen?​«
+<quote>»​Erlauben Sie!​«</quote><suspension> fiel sie ihm jetzt in das Wort,</suspension><quote> »​wenn ich die beiden nach Ihrer Angabe zur Entlastung und Instruierung Rondspergs erforderlichen Summen addiere, so ergibt sich der Preis, den Sie für das Gut fordern. Gesetzt, ich schlösse den Kauf, was bliebe dann Ihnen?​«</quote>
 
-»​Nichts​«, sagte Ronald mit großer Gelassenheit, »​aber glauben Sie nicht, daß ich Ihnen Rondsperg ohne Ursache so wohlfeil überließe. Meine Uneigennützigkeit ist eine scheinbare. Man muß dem allzu billigen Verkäufer mißtrauen, er beabsichtigt vielleicht, sich bezahlt zu machen durch – Unbezahlbares.​«
+<quote>»​Nichts​«,</quote><suspension>sagte Ronald mit großer Gelassenheit,</suspension><quote> »​aber glauben Sie nicht, daß ich Ihnen Rondsperg ohne Ursache so wohlfeil überließe. Meine Uneigennützigkeit ist eine scheinbare. Man muß dem allzu billigen Verkäufer mißtrauen, er beabsichtigt vielleicht, sich bezahlt zu machen durch – Unbezahlbares.​«</quote>
 
 Regula war im Begriffe auszurufen: Zu rasch! das kommt zu rasch! als ein verstohlener Blick auf Ronald sie veranlaßte, diese Worte vorläufig noch zu unterdrücken. Auf seinen Lippen schwebte ein trauriges Lächeln, das sie befremdete. Sie schwieg und war in Verlegenheit und hatte sonderbarerweise den Wunsch, noch verlegener werden zu müssen.
 
@@ -1783,7 +1783,7 @@ Ronald fuhr fort: »​Sehen Sie, verehrtes Fräulein, als mir mein Vater vor se
 
 »​Konflikt der Pflichten​«, murmelte Regula und bemühte sich, einen tiefsinnigen Ausdruck anzunehmen.
 
-»​Auch Sie haben Ihren Vater geliebt!​« rief Ronald treuherzig, »​hätten Sie vermocht, ihn aus einer beglückenden Täuschung zu reißen? ... Einen Greis, der, in seinen Anschauungen befangen, die Wahrheit kaum mehr zu fassen vermöchte oder, wenn er es vermöchte, unter ihrer Wucht zusammenbräche?​«
+<quote>»​Auch Sie haben Ihren Vater geliebt!​«</quote><suspension> rief Ronald treuherzig,</suspension><quote> »​hätten Sie vermocht, ihn aus einer beglückenden Täuschung zu reißen? ... Einen Greis, der, in seinen Anschauungen befangen, die Wahrheit kaum mehr zu fassen vermöchte oder, wenn er es vermöchte, unter ihrer Wucht zusammenbräche?​«</quote>
 
 Regula schlug die Augen nieder und seufzte: »​Was ist Wahrheit?​«
 
@@ -1793,7 +1793,7 @@ Edel muß seine Gattin sein, sagte Regula bei sich. Sie zog ihr Taschentuch herv
 
 Ronald schien eine Antwort zu erwarten, ein Zeichen der Aufmunterung, und Regula fragte endlich: »​Inwiefern brauchen Sie ihn edel?​«
 
-»​Weil ich ihm zumute​«, erwiderte Ronald, »​einen Besitz zu erwerben, den er nicht antreten dürfte, solange meine Eltern leben. Mein Vorschlag lautet: Sie kaufen Rondsperg, lassen aber den Kaufvertrag ein Geheimnis bleiben zwischen uns und den von uns bestellten Zeugen. Ich verwalte vorläufig den Besitz für Sie und übergebe Ihnen dereinst statt des verwahrlosten ein wohlgeordnetes Gut ... Sie werden nicht viele Jahre warten ... Ich würde Ihnen ein treuer Verweser sein – es gibt nichts, das ich nicht für die tun möchte, der meine Eltern es verdanken, daß sie sterben dürfen auf ihrer heimatlichen Scholle.​«
+<quote>»​Weil ich ihm zumute​«,</quote> <suspension>erwiderte Ronald,</suspension><quote> »​einen Besitz zu erwerben, den er nicht antreten dürfte, solange meine Eltern leben. Mein Vorschlag lautet: Sie kaufen Rondsperg, lassen aber den Kaufvertrag ein Geheimnis bleiben zwischen uns und den von uns bestellten Zeugen. Ich verwalte vorläufig den Besitz für Sie und übergebe Ihnen dereinst statt des verwahrlosten ein wohlgeordnetes Gut ... Sie werden nicht viele Jahre warten ... Ich würde Ihnen ein treuer Verweser sein – es gibt nichts, das ich nicht für die tun möchte, der meine Eltern es verdanken, daß sie sterben dürfen auf ihrer heimatlichen Scholle.​«</quote>
 
 Regula fragte sich, ob diese letzten Worte nicht beinahe ein Eheversprechen enthielten – wenn man es so nehmen wollte? Sie sann und sann. Ganz so, wie sie sich's gedacht, war die Sache nicht gekommen. Eigentlich schlug ihr der Graf einen guten Handel vor – unter einer sentimentalen Bedingung. Das letztere tut er im Vertrauen auf den Ruf, den sie genießt. Regula überlegt, daß ihr Ruf von Edelmut und Seelengröße sie schon manchen Gulden gekostet hat. Diesmal trägt er etwas ein – viel sogar. Es ist ein Zukunftskauf, der ihr angeboten wird, aber ein glänzender. Sie kennt Rondsperg durch den Direktor so genau! ... Nur ist ihr mit dem Kauf allein nicht gedient – als Gräfin von Rondsperg gedenkt sie dort zu residieren. Ronald sieht sie fragend an, wäre jetzt nicht der Moment gekommen für sie – die Hand auszustrecken, für ihn – die großmütige zu ergreifen?
 
@@ -1811,7 +1811,7 @@ Ronald betrachtete sie erstaunt, und sie schoß bestürzte Blicke umher, denen e
 
 Sie fragt sich: Hat mich dieser Graf zum besten? Verbirgt sich Hohn hinter seiner scheinbaren Offenheit? Sie sinnt bereits auf Rache, aber vor allem muß ihre Verwirrung ihm verborgen werden. Regula lächelt sauersüß und spricht: »​Das Geschäftliche bitte ich abzumachen mit meinem Rechtsfreunde, Doktor Wenzel.​«
 
-»​Er ist auch der meine​«, erwiderte Ronald, »​und wenn Sie erlauben, will ich sogleich zu ihm.​«
+<quote>»​Er ist auch der meine​«,</quote> <suspension>erwiderte Ronald,</suspension><quote> »​und wenn Sie erlauben, will ich sogleich zu ihm.​«</quote>
 
 »​Sie träfen ihn vermutlich auf dem Wege hierher, er wird mit uns speisen.​«
 
@@ -1829,7 +1829,7 @@ Und Regula flüstert schüchtern: »​Unter welchem Vorwande könnte ich ersche
 
 »​Es bedarf keines Vorwandes. Sie werden eine Einladung von meiner Mutter erhalten. Meine Mutter kennt unsere Lage genau!​« Ronald sprach rasch und mit einer Ergriffenheit, deren  völlig Herr zu werden er nicht vermochte. »​Obwohl sie sich nicht darüber ausgesprochen hat, weiß sie, weshalb ich hier bin. Was meinen Vater betrifft, so war es längst sein Wunsch, Sie nach Rondsperg zu bitten. Wir hielten ihn davon ab, meine Mutter und ich. Der Unterschied zwischen der Gastfreundschaft die wir einst in Ihrem Hause genossen, und der, die wir Ihnen zu bieten haben, wäre zu groß gewesen.​«
 
-»​O Herr Graf!​« sprach Regula geschmeichelt, »​kein Wort weiter. Ich komme, sobald die Frau Gräfin mich dazu auffordert. Es sei mir jedoch gestattet, meine kleine Nichte und eine Dienerin mitzubringen ... denn so ganz allein – das könnte auffallen ... Meinen Sie nicht auch?​«
+<quote>»​O Herr Graf!​« </quote><suspension>sprach Regula geschmeichelt,</suspension><quote> »​kein Wort weiter. Ich komme, sobald die Frau Gräfin mich dazu auffordert. Es sei mir jedoch gestattet, meine kleine Nichte und eine Dienerin mitzubringen ... denn so ganz allein – das könnte auffallen ... Meinen Sie nicht auch?​«</quote>
 
 Sie war in der heitersten Laune. Als ihre Tischgäste, Doktor Wenzel, Professor Bauer und der Direktor, eintraten, hatten ihre Wangen ein belebtes Gelb, das den Professor entzückte. Niemals war sie ihm angenehmer und, wie er sagte, »​bedeutender​« erschienen, ihre Augen strahlten förmlich vor Klugheit, und sie sprach gescheite Sachen. O wie haßte er den Reichtum der sie unabhängig und zugleich für so viele begehrenswert machte! Er hätte ihre Häuser verbrennen, in ihren Geldschrank einbrechen und seinen Inhalt in alle Winde streuen mögen. Er war überzeugt, daß sie füreinander geboren waren und daß nichts zwischen ihnen stand als dieser abscheuliche Reichtum. Wenn Regula zuzeiten gnädig sagte: »​Ja, mein Freund, ich ermesse die Tiefe der Neigung, die Sie mir weihen​«, wähnte er sich dem Inbegriff aller Seligkeiten näher. Ludwig Bauer glich der Kohle, die sich in einen Eisblock verliebte und meinte, der weine vor innerer Rührung, weil ihre Nähe ihn tauen machte.
 
@@ -1941,7 +1941,7 @@ Es war Sitte auf Schloß Rondsperg, um neun Uhr zur Ruhe zu gehen. Drei Stunden 
 
 Die alte Frau saß noch angekleidet vor dem Arbeitstischchen im Fenster. Vor ihr auf dem Nähkissen lag ein zerlesenes Buch: Albachs »​Heilige Anklänge​«. – Bei dem Anblick ihres Sohnes fuhr sie erschrocken zusammen; er bemerkte es wohl und sprach beklommen: »​Sie sind noch auf, gute Mutter ...​«
 
-»​Ich werde sogleich Nacht machen – wollte nur noch –​« wie entschuldigend wies sie auf das Buch, »​ein wenig beten.​«
+<quote>»​Ich werde sogleich Nacht machen – wollte nur noch –​«</quote><suspension> wie entschuldigend wies sie auf das Buch,</suspension><quote> »​ein wenig beten.​«</quote>
 
 »​Der Vater schläft?​«
 
@@ -1951,7 +1951,7 @@ Ronald blieb trotz dieses Winkes. Er holte einen Stuhl aus der Ecke des Zimmers 
 
 »​Wir haben Gäste?​« fragte er.
 
-»​Ja. Und – die kleine Waise​«, fügte sie mit Lebhaftigkeit  hinzu, »​welch ein holdes Geschöpf! ... Ein Herzenslabsal, dieses Kind ...​«
+<quote>»​Ja. Und – die kleine Waise​«,</quote> <suspension>fügte sie mit Lebhaftigkeit  hinzu,</suspension><quote> »​welch ein holdes Geschöpf! ... Ein Herzenslabsal, dieses Kind ...​«</quote>
 
 »​So?​« entgegnete Ronald zerstreut und suchte vergebens nach Worten. Auch er hatte die Augen gesenkt und sah die Hände seiner Mutter in ihrem Schoß beben; und diese welken, hilflosen Hände raubten ihm den Mut, brachten ihn um seine Entschlossenheit.
 
@@ -1959,7 +1959,7 @@ Mutter und Sohn wandelten seit Jahren fast stumm nebeneinander. Was am schwerste
 
 Bei ihrem Manne und bei der Tochter, die in ihrer Nähe lebte, hatte die Gräfin es endlich aufgegeben, Verständnis zu suchen; allzu verschieden von ihr waren sie geartet. Durch mehr als vierzig Jahre konnte sie es täglich erfahren: Sie lieben mich, aber sie kennen mich nicht. Von der zweiten, ihrer Lieblingstochter, war sie durch die Verhältnisse getrennt. Jahre verflossen, ohne daß sie ihres Anblicks froh wurde, Monate, ohne daß Nachrichten von ihr eintrafen. Alle an seine Frau gerichteten Briefe gingen durch des Grafen Hände, er bemerkte es mißbilligend, wenn die Korrespondenz zwischen Mutter und Tochter zuzeiten etwas lebhafter wurde.
 
-»​Eine glückliche Frau hat nichts zu schreiben​«, meinte er, »​und glücklich zu sein ist die Pflicht einer jeden, die einen braven Mann hat.​«
+<quote>»​Eine glückliche Frau hat nichts zu schreiben​«,</quote><suspension> meinte er,</suspension> <quote>»​und glücklich zu sein ist die Pflicht einer jeden, die einen braven Mann hat.​«</quote>
 
 Es war endlich dahin gekommen, daß die Gräfin nur noch mit Bangen dem Erscheinen der Briefe entgegensah, nach denen sie doch zugleich so sehnsüchtig verlangte.
 
@@ -1977,9 +1977,9 @@ Aufatmend ergriff er mit beiden Händen die Hand, die sie ihm reichte, und rief:
 
 »​Der Kauf wird nur unter der Bedingung geschlossen, daß Sie hier fortleben genau wie bisher.​«
 
-Die Greisin schüttelte bedenklich den Kopf: »​Wenn diese Bedingung angenommen wurde, dann hast du sie teuer bezahlt ...​« Er wollte verneinen. »​Leugne nicht​«, sprach sie, »​es kann nicht anders sein ...​«
+Die Greisin schüttelte bedenklich den Kopf: »​Wenn diese Bedingung angenommen wurde, dann hast du sie teuer bezahlt ...​« Er wollte verneinen.<quote> »​Leugne nicht​«, <quote><suspension>sprach sie,</suspension><quote>»​es kann nicht anders sein ...​«</quote>
 
-»​O Mutter​«, fiel er ihr mit erzwungener Heiterkeit ins Wort, »​Fräulein Heißenstein verzichtet gern auf das Glück, in unserm alten Neste zu wohnen.​«
+<quote>»​O Mutter​«</quote>,<suspension> fiel er ihr mit erzwungener Heiterkeit ins Wort,</suspension><quote> »​Fräulein Heißenstein verzichtet gern auf das Glück, in unserm alten Neste zu wohnen.​«</quote>
 
 »​Es wird mehr von ihr verlangt als nur das. Sie darf die Rechte, die sie erwirbt, nicht geltend machen, wenn wir hier – wie du sagst – fortleben sollen wie bisher.​«
 
@@ -1999,7 +1999,7 @@ Plötzlich beugte sie sich nieder und preßte ihre Lippen auf seine Hand.
 
 Im selben Augenblick lag er auf seinen Knien und schloß mit ehrfurchtsvoller Zärtlichkeit die gebrochene Gestalt in seine Arme ...
 
-»​Und Sie, Mutter?​« flüsterte er, »​leiden Sie nicht auch?​«
+<quote>»​Und Sie, Mutter?​«</quote><suspension> flüsterte er,</suspension><quote> »​leiden Sie nicht auch?​«</quote>
 
 »​Schweig, mein Kind!​« mahnte sie und zog sein Haupt an ihre Brust. Und an diesem schweren Tage war ihnen beiden leichter ums Herz als seit langer Zeit.
 
@@ -2023,7 +2023,7 @@ Die beiden maßen einander mit den Blicken. Fast drohend schien der ihre zu frag
 
 Mit harmlosem Erstaunen schien der seine zu sagen: Warum mißgönnst du mir den holden Anblick?
 
-Ronald legte grüßend die Hand an seinen Hut. »​Sie sind Božena​«, sprach er, »​wir haben uns vor zehn Jahren am Grabe Ihres Herrn gesehen.​«
+Ronald legte grüßend die Hand an seinen Hut. <quote>»​Sie sind Božena​«,</quote><suspension> sprach er,</suspension><quote> »​wir haben uns vor zehn Jahren am Grabe Ihres Herrn gesehen.​«</quote>
 
 Božena bejahte.
 
@@ -2057,7 +2057,7 @@ Die Leute unten hatten inzwischen Feuerhaken herbeigeholt und zerrten aus allen 
 
 Von dem Augenblicke an, da der Regen zu strömen begann, war der Graf ungeduldig geworden.
 
-»​Da haben wir's!​« rief er, »​der Himmel löscht selbst, was er angezündet hat ... Warum mir meine schönste Linde ruinieren? ...​« Er wandte sich um – – und sah mitten im Saale, möglichst fern von Fenstern und Türen, eine schwarz verhüllte Gestalt auf einem Sessel sitzen. Während die Anwesenden das Schauspiel an der Parkmauer mit leidenschaftlichem Interesse verfolgten, mußte sie sich, von ihnen unbemerkt, eingefunden haben.
+<quote>»​Da haben wir's!​«</quote><suspension> rief er,</suspension><quote> »​der Himmel löscht selbst, was er angezündet hat ... Warum mir meine schönste Linde ruinieren? ...​«</quote> Er wandte sich um – – und sah mitten im Saale, möglichst fern von Fenstern und Türen, eine schwarz verhüllte Gestalt auf einem Sessel sitzen. Während die Anwesenden das Schauspiel an der Parkmauer mit leidenschaftlichem Interesse verfolgten, mußte sie sich, von ihnen unbemerkt, eingefunden haben.
 
 »​Fräulein Heißenstein?​« fragte der Graf.
 
@@ -2067,7 +2067,7 @@ Der Graf versicherte, das Gewitter sei vorübergezogen, und bat sie, »​sich z
 
 Die Gräfin und Röschen halfen ihr bei dieser Operation, denn allein vermochte sie sich nicht zu helfen. Sie war noch zu angegriffen und stammelte nur mit bleichen Lippen: »​Ich glaubte, mich in das größte Gemach des Hauses flüchten und mich in Seide isolieren zu sollen ... wegen der gefährlichen Elektrizität, Herr Graf, welche jetzt über unserer Atmosphäre schwebt.​«
 
-»​Bravo, bravo, mein Fräulein​«, sagte der Greis, »​das ist Vorsicht – deren Verwandtschaft mit der Weisheit wir kennen.​«
+<quote>»​Bravo, bravo, mein Fräulein​«,<quote><suspension> sagte der Greis,</suspension><quote> »​das ist Vorsicht – deren Verwandtschaft mit der Weisheit wir kennen.​«</quote>
 
 Jetzt kam der Burggraf, pustend und sich den Schweiß von der Stirn wischend: »​Keine Gefahr mehr! ... Wir haben alles gerettet!​«
 
@@ -2083,7 +2083,7 @@ Er hatte Ronald mit den Worten empfangen: »​Trop de zèle, mein guter Ronald 
 
 »​Haben Sie Angst gehabt?​« fragte Ronald.
 
-»​O sehr​«, erwiderte Röschen, »​um Sie!​«
+<quote>»​O sehr​«,</quote><suspension> erwiderte Röschen,</suspension><quote> »​um Sie!​«</quote>
 
 Regula warf ihrer Nichte einen mißbilligenden Blick zu, der Graf jedoch hob den Kopf empor, und ein schalkhaftes Lächeln erhellte sein altes Gesicht. Seine Liebe zu seinen Kindern kam ihm augenblicklich zum Bewußtsein, sobald andere ihnen Teilnahme zeigten. Mit unnachahmlicher Liebenswürdigkeit sagte er zu Röschen: »​Erlauben Sie, mein Fräulein, daß ich Ihnen im Namen dieses Landjunkers ohne Lebensart ergebenst danke!​«
 
@@ -2095,7 +2095,7 @@ Nach kurzem Besinnen holte Ronald ein stattliches Buch herbei; vielgelesen gab e
 
 Die Gräfin legte den Arm um sie, Ronald sprang bestürzt empor ...
 
-»​Double Bézique!​« rief der Graf triumphierend und lachte aus vollem Herzen: »​Sie hätten das verhindern können, mein Fräulein!​«
+<quote>»​Double Bézique!​«</quote><suspension>rief der Graf triumphierend und lachte aus vollem Herzen:</suspension><quote> »​Sie hätten das verhindern können, mein Fräulein!​«</quote>
 
 Aber das Fräulein war zerstreut gewesen. Sie hatte, statt ihr Aufmerksamkeit auf das Spiel zu konzentrieren, Ronalds verwünschtem »​Tik-tak-tak​« zugehört, wie der Graf, den Silbenfall des Hexameters nachahmend, sagte.
 
