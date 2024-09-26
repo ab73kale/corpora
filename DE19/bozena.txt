@@ -2099,13 +2099,13 @@ Die Gräfin legte den Arm um sie, Ronald sprang bestürzt empor ...
 
 Aber das Fräulein war zerstreut gewesen. Sie hatte, statt ihr Aufmerksamkeit auf das Spiel zu konzentrieren, Ronalds verwünschtem »​Tik-tak-tak​« zugehört, wie der Graf, den Silbenfall des Hexameters nachahmend, sagte.
 
-»​O Herr Graf!​« sprach Regel, ihre Karten auf den Tisch legend, »​verunglimpfen Sie nicht den traulichen Sänger von Chios!​«
+<quote>»​O Herr Graf!​«</quote><suspension>sprach Regel, ihre Karten auf den Tisch legend,</suspension><quote> »​verunglimpfen Sie nicht den traulichen Sänger von Chios!​«</quote>
 
 Sie wünschte, daß Ronald weiterlese, aber dieser entschuldigte sich und sah dabei so verlegen, ja fast verstört aus, daß Fräulein Heißenstein der Behauptung des Grafen, eine gelehrte Dame wie sie imponiere seinem Sohne viel zu sehr, allen Ernstes Glauben schenkte.
 
 Röschen blieb den Rest des Abends schweigsam; sie hatte einen mächtigen Eindruck empfangen, einen Blick in eine neue Welt getan, Gestalten, von unsterblichem Leben erfüllt, groß in Tugend und Schuld, an sich vorüberwandeln gesehen. Und aus dem Bilde voll Erhabenheit und Glanz war, umstrahlt von der Majestät des Schmerzes, ein liebes, schönes Menschenpaar hervorgetreten und hatte sie an eine Erinnerung aus frühen Kindertagen gemahnt, die in ihr noch dämmerte.
 
-»​Es hat Sie allzusehr ergriffen​«, sagte Ronald zu Röschen, »​den Abschied des Kriegers von Frau und Kind wollen wir nicht mehr lesen.​«
+<quote>»​Es hat Sie allzusehr ergriffen​«,</quote><suspension> sagte Ronald zu Röschen,</suspension><quote> »​den Abschied des Kriegers von Frau und Kind wollen wir nicht mehr lesen.​«</quote>
 
 »​Im Gegenteil, noch oft, sehr oft!​« erwiderte sie.
 
@@ -2135,7 +2135,7 @@ Es war eine schwüle Sekunde, und allen gereichte es zur Erquickung, einen Wagen
 
 Gleich bei ihrem Erscheinen erklärte die Baronin, sie käme heute weder um Papas noch um Mamas, sondern nur um Regulas willen, auf welche sie auch zuerst zuging und der sie flüchtig einen Kuß auf die Wange gab.
 
-»​Ronald und ich​«, rief die Freifrau, »​wollen diese Städterin mit unserer Landwirtschaft bekannt machen, für die sie sich außerordentlich interessiert.​«
+<quote>»​Ronald und ich​«,</quote> <suspension>rief die Freifrau,</suspension> <quote>»​wollen diese Städterin mit unserer Landwirtschaft bekannt machen, für die sie sich außerordentlich interessiert.​«</quote>
 
 Der Graf dachte zwar, davon habe er bis jetzt nichts bemerkt, aber es freute ihn immer, wenn sich jemand geneigt zeigte, die Herrlichkeiten Rondspergs in Augenschein zu nehmen.
 
@@ -2177,9 +2177,9 @@ Ronald fiel seiner Schwester ins Wort. »​Es bietet sich jetzt die Gelegenheit
 
 »​Ich werde tun, was Sie mir raten, Herr Graf​«, sprach Regula und trat an seine Seite, und als die beiden nebeneinander standen, dachte die Baronin: Es ist doch nicht möglich! – Nein, es ist doch nicht möglich!
 
-»​Auch wollte ich Ihnen ankündigen​«, fuhr Regula fort, »​daß mein Sekretär mit der ersten Rate des Kaufschillings morgen früh hier eintrifft und ...​«
+<quote>»​Auch wollte ich Ihnen ankündigen​«,</quote> <suspension> fuhr Regula fort, </suspension><quote>»​daß mein Sekretär mit der ersten Rate des Kaufschillings morgen früh hier eintrifft und ...​«</quote>
 
-»​Aber, liebste Regula!​« unterbrach sie die Baronin, »​was fällt Ihnen ein, den Mann hierherzubestellen? Seine Ankunft würde Aufsehen in Rondsperg machen. Er darf nicht kommen. Ronald muß Ihren Schimmel​« – sie nahm sich niemals Zeit, Schimmelreiters ganzen Namen auszusprechen – »​auf der Station erwarten, das Geld in Empfang nehmen, den Überbringer aber bitten, um Gottes willen wieder heimzufahren. Wenn der Burggraf zehn Worte mit dem Sekretär tauscht, so kommt er euch hinter euren frommen Betrug und rapportiert ihn Papa in einer Weise, die an uns allen zusammen nicht ein gutes Haar läßt!​«
+<quote>»​Aber, liebste Regula!​«</quote> <suspension>unterbrach sie die Baronin,</suspension> <quote>»​was fällt Ihnen ein, den Mann hierherzubestellen? Seine Ankunft würde Aufsehen in Rondsperg machen. Er darf nicht kommen. Ronald muß Ihren Schimmel​«</quote> <suspension>– sie nahm sich niemals Zeit, Schimmelreiters ganzen Namen auszusprechen –</suspension> <quote>»​auf der Station erwarten, das Geld in Empfang nehmen, den Überbringer aber bitten, um Gottes willen wieder heimzufahren. Wenn der Burggraf zehn Worte mit dem Sekretär tauscht, so kommt er euch hinter euren frommen Betrug und rapportiert ihn Papa in einer Weise, die an uns allen zusammen nicht ein gutes Haar läßt!​«</quote>
 
 Ein alter Schäfer, der den Tieren, die er trieb, ähnlich sah, kam mit seiner kleinen Herde den Berg herauf und wünschte »​guten Nachmittag​«. Während Ronald sich mit ihm in ein Gespräch einließ, spazierte Thilde von einem Gebäude zum andern, öffnete die Türen, sah in die Fenster hinein und rief: »​Diese Mauer stürzt nächstens zusammen – hier braucht's einen neuen Dachstuhl – der Stall muß eingerissen werden! ... Prickelt es einem nicht in allen Fingern? Möchte man nicht gleich selbst Hand anlegen?​«
 
@@ -2197,7 +2197,7 @@ Regula hingegen sagte zu sich selbst: Dieser arme Graf, man muß ihn bedauern ..
 
 Die Sonne stand schon ziemlich tief, als die Equipage in der Nähe des Parks anlangte; die Baronin schrie plötzlich auf: »​Unerhört! Da steht Papa mit Röschen unter den Linden – außerhalb seiner vier Mauern, außerhalb seines ›​freiwilligen Kerkers​‹ ... ein Ereignis! Das ist ja ein Ereignis!​« rief sie dem Grafen zu, vor dem jetzt der Wagen hielt.
 
-»​Jawohl, aber​« – der alte Herr deutete auf seine Begleiterin – »​wo es Feen gibt, da geschehen Zeichen und Wunder. Sie befehlen, der Sterbliche gehorcht. Jetzt jedoch bitte ich euch, mich aufzunehmen. Thilde, räume mir den Platz und ergreife die Zügel. Mein Sohn wird die Ehre haben Ihnen auf dem Heimwege seinen Schutz angedeihen zu lassen, oder vielmehr, ich empfehle ihn dem Ihren!​« sagte er zu Röschen.
+<quote>»​Jawohl, aber​«</quote> – der alte Herr deutete auf seine Begleiterin – »​wo es Feen gibt, da geschehen Zeichen und Wunder. Sie befehlen, der Sterbliche gehorcht. Jetzt jedoch bitte ich euch, mich aufzunehmen. Thilde, räume mir den Platz und ergreife die Zügel. Mein Sohn wird die Ehre haben Ihnen auf dem Heimwege seinen Schutz angedeihen zu lassen, oder vielmehr, ich empfehle ihn dem Ihren!​« sagte er zu Röschen.
 
 Die Baronin hatte sich beeilt auszusteigen und half ihrem Vater in den Wagen. Dann besann sie sich einen Augenblick und wollte schon sagen: Fahr zu, Ronald, ich will Röschen geleiten. Aber als sie zu ihm hinaufblickte, ergriff sie ein  menschlich Rühren. Es war ein solcher Glanz des Glückes über sein Gesicht verbreitet, daß sie dachte: Er hat der Bitternisse genug, mag er auch einmal eine Freude haben! ... Und schon saß sie auf dem Bock und nahm die Zügel aus Ronalds Hand. Mit einem Satze sprang er herab, die Baronin trieb die Pferde an, und rasch rollte der Wagen längs der Mauer des Parks.
 
