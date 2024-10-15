@@ -2197,7 +2197,7 @@ Regula hingegen sagte zu sich selbst: Dieser arme Graf, man muß ihn bedauern ..
 
 Die Sonne stand schon ziemlich tief, als die Equipage in der Nähe des Parks anlangte; die Baronin schrie plötzlich auf: »​Unerhört! Da steht Papa mit Röschen unter den Linden – außerhalb seiner vier Mauern, außerhalb seines ›​freiwilligen Kerkers​‹ ... ein Ereignis! Das ist ja ein Ereignis!​« rief sie dem Grafen zu, vor dem jetzt der Wagen hielt.
 
-<quote>»​Jawohl, aber​«</quote> – der alte Herr deutete auf seine Begleiterin – »​wo es Feen gibt, da geschehen Zeichen und Wunder. Sie befehlen, der Sterbliche gehorcht. Jetzt jedoch bitte ich euch, mich aufzunehmen. Thilde, räume mir den Platz und ergreife die Zügel. Mein Sohn wird die Ehre haben Ihnen auf dem Heimwege seinen Schutz angedeihen zu lassen, oder vielmehr, ich empfehle ihn dem Ihren!​« sagte er zu Röschen.
+<quote>»​Jawohl, aber​«</quote><suspension> – der alte Herr deutete auf seine Begleiterin – </suspension><quote>»​wo es Feen gibt, da geschehen Zeichen und Wunder. Sie befehlen, der Sterbliche gehorcht. Jetzt jedoch bitte ich euch, mich aufzunehmen. Thilde, räume mir den Platz und ergreife die Zügel. Mein Sohn wird die Ehre haben Ihnen auf dem Heimwege seinen Schutz angedeihen zu lassen, oder vielmehr, ich empfehle ihn dem Ihren!​« sagte er zu Röschen.</quote>
 
 Die Baronin hatte sich beeilt auszusteigen und half ihrem Vater in den Wagen. Dann besann sie sich einen Augenblick und wollte schon sagen: Fahr zu, Ronald, ich will Röschen geleiten. Aber als sie zu ihm hinaufblickte, ergriff sie ein  menschlich Rühren. Es war ein solcher Glanz des Glückes über sein Gesicht verbreitet, daß sie dachte: Er hat der Bitternisse genug, mag er auch einmal eine Freude haben! ... Und schon saß sie auf dem Bock und nahm die Zügel aus Ronalds Hand. Mit einem Satze sprang er herab, die Baronin trieb die Pferde an, und rasch rollte der Wagen längs der Mauer des Parks.
 
@@ -2205,7 +2205,7 @@ Ronald sah ihm nach, und ihm war zumute, als entführe dieser enteilende Wagen a
 
 Nicht minder froh als er schien Röschen, und als er fragte: »​Wohin nun? Welchen Weg nehmen wir?​« antwortete sie, ohne sich zu besinnen: »​Den weitesten!​«
 
-»​Das mein ich auch​«, rief er, »​am liebsten führt ich Sie über jene Berge dort!​«
+<quote>»​Das mein ich auch​«,</quote> <suspension>rief er, </suspension<<quote>»​am liebsten führt ich Sie über jene Berge dort!​«</quote>
 
 Er glitt rasch mit der Hand über die Augen. »​Wie wär's, was denken Sie, wenn wir so zusammen wandern gingen, weit – weit, und erst heimkehrten in unzählig vielen Jahren ... Da klopfen ein Paar uralte Leute an der Pforte des Schlosses: ›​Wer ist's?​‹ fragt eine Stimme, die wir nicht kennen. Ronald und Röschen, die eines schönen Abends spazierengegangen sind und länger, als sie anfangs dachten, verweilten auf dem Weg ...​«
 
