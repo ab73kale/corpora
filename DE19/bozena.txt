@@ -2239,17 +2239,17 @@ Ronald sagte zu Röschen: »​Ein Beispiel für viele. An die Art des Greises w
 
 Er dankte dem Gruße der Männer, trat dicht vor den Jüngling und streifte ihm ruhig das Käppchen ab.
 
-»​Nicht meinetwegen​«, sprach er, »​aber deinetwegen. Hut ab, mein Junge, wenn dein Vater und dein Großvater ihre Häupter entblößen, sonst stehst du einst mit dem Hut in der Hand vor deinen Kindern.​«
+<quote>»​Nicht meinetwegen​«,</quote><suspension> sprach er,</suspension><quote> »​aber deinetwegen. Hut ab, mein Junge, wenn dein Vater und dein Großvater ihre Häupter entblößen, sonst stehst du einst mit dem Hut in der Hand vor deinen Kindern.​«</quote>
 
 Der Bursche blickte trotzig zu ihm auf und schien von der Lehre wenig erbaut. Aber der Großvater sagte zu seinem Enkel: »​Es ist dir recht geschehen.​«
 
 Ein junges Weib, das am Zaune ihres Gartens stand, riß die Augen weit auf, als sie Ronald vertraulich mit Röschen plaudernd daherkommen sah, und rief ihm zu: »​Aha! Das ist die Braut aus der Stadt.​« Sie stemmte beide Hände in die Seiten und betrachtete das Mädchen mit Wohlgefallen: »​Meiner Treu, eine Hübsche haben Sie sich ausgesucht.​«
 
-»​Was fällt Euch ein?​« erwiderte er, »​das ist nicht meine Braut. Die würde mich ja nicht nehmen, die wartet auf einen Jüngeren.​«
+<quote>»​Was fällt Euch ein?​«</quote><suspension>erwiderte er,</suspension><quote>»​das ist nicht meine Braut. Die würde mich ja nicht nehmen, die wartet auf einen Jüngeren.​«</quote>
 
-»​Sie soll sich nicht versündigen!​« sprach das Weib und schien sehr aufgelegt, Röschen eine wohlgemeinte Zurechtweisung zu erteilen. Aber Ronald kam ihr zuvor und sagte scherzend: »​Die Frau meint mir's gut!​«
+<quote>»​Sie soll sich nicht versündigen!​«</quote> <suspension>sprach das Weib und schien sehr aufgelegt, Röschen eine wohlgemeinte Zurechtweisung zu erteilen. Aber Ronald kam ihr zuvor und sagte scherzend:</suspension><quote> »​Die Frau meint mir's gut!​«</quote>
 
-An einem der letzten Häuser des Dorfes eilte Röschen rasch  vorbei – »​denn​«, sagte sie, »​hier wohnt Anitschka, wenn sie mich sieht, will sie wieder mit. An der Hand habe ich sie nach Hause führen müssen, sie wäre sonst nicht gegangen.​«
+An einem der letzten Häuser des Dorfes eilte Röschen rasch  vorbei – <quote>»​denn​«,</quote><suspension> sagte sie,</suspension><quote> »​hier wohnt Anitschka, wenn sie mich sieht, will sie wieder mit. An der Hand habe ich sie nach Hause führen müssen, sie wäre sonst nicht gegangen.​«</quote>
 
 »​Wie?​« fragte Ronald, »​Sie waren heute schon hier?​«
 
@@ -2269,7 +2269,7 @@ Röschen hatte sich auf eine der Wurzeln gesetzt, die wie gepanzerte Schlangen a
 
 »​O Fräulein Röschen!​« antwortete Ronald, »​ich bin es lange nicht so sehr, als ich Ursache dazu hätte ... Eine törichte Behauptung – nicht wahr?​« beeilte er sich hinzuzufügen, als er sah, wie bei diesen Worten die Heiterkeit auf ihrem Gesichte erlosch. »​Es kann kein großes Leid sein, das nicht einmal vermag, uns recht traurig zu machen. Und überdies – wer hat nicht seine Sorgen?​«
 
-»​Ich​«, sprach Röschen, »​habe bis jetzt noch keine Sorgen gehabt.​«
+<quote>»​Ich​«,</quote><suspension> sprach Röschen,</suspension><quote> »​habe bis jetzt noch keine Sorgen gehabt. «</quote>
 
 »​Jetzt aber haben Sie welche?​« versetzte er und beugte sich lächelnd näher zu ihr. Ein sanfter Vorwurf lag in ihren Augen, und der Seherblick der Liebe las mit innigem Entzücken Röschens Antwort darin und alle ihre unausgesprochenen Gedanken. Sie sagten in ihrer stummen Sprache: Wie kannst du so fragen? Weißt du nicht, daß fortan deine Sorgen die meinen sind? ... Seit jetzt – seit dem Augenblick, wo ich dich bewundert habe in deiner Güte, du starker Mann. Plötzlich ist's gekommen und wird immer bleiben, die Empfindung stirbt nicht, die uns beide zueinander zieht. Kann ich aufhören, das Edle zu lieben? Kannst du aufhören zu beschützen, was sich dir so vertrauensvoll hingegeben hat?
 
@@ -2283,7 +2283,7 @@ Tiefe Stille senkte sich über den Hain, leise nur zwitscherte noch hie und da e
 
 Röschen breitete die Arme aus: »​Schön!​« rief sie, »​wunderbar schön!​«
 
-»​Ich bin so glücklich, Fräulein Röschen​«, begann Ronald etwas unsicher und zögernd, »​daß es Ihnen hier gefällt. Rondsperg ist vielleicht bestimmt, Ihr zu künftiger Aufenthalt zu werden.​«
+<quote>»​Ich bin so glücklich, Fräulein Röschen​«,</quote><suspension> begann Ronald etwas unsicher und zögernd,</suspension> <quote>»​daß es Ihnen hier gefällt. Rondsperg ist vielleicht bestimmt, Ihr zu künftiger Aufenthalt zu werden.​«</quote>
 
 Sie sah ihn mit schmerzlichem Erstaunen an, der Ton, in dem er diese Worte gesprochen hatte, klang so seltsam, fremd und kühl.
 
@@ -2291,13 +2291,13 @@ Sie sah ihn mit schmerzlichem Erstaunen an, der Ton, in dem er diese Worte gespr
 
 Röschen war sehr blaß geworden, ihr Herz klopfte rasch und bang, tausend Fragen drängten sich auf ihre Lippen, doch sprach sie nur die eine aus: »​Sie wollen fort?​«
 
-»​Nicht heute noch morgen​«, antwortete er hastig und beklommen, »​und daß ich gehe, ist ein Geheimnis, das nur Sie erfahren, weil ich vor Ihnen keines haben will und weil ich Ihnen alles Gute zutraue, demnach auch Verschwiegenheit.​«
+<quote>»​Nicht heute noch morgen​«,</quote><suspension> antwortete er hastig und beklommen,</suspension><quote> »​und daß ich gehe, ist ein Geheimnis, das nur Sie erfahren, weil ich vor Ihnen keines haben will und weil ich Ihnen alles Gute zutraue, demnach auch Verschwiegenheit.​«</quote>
 
 Bestürzt erhob ihr Blick sich zu ihm, er hatte den seinen abgewendet und eilte rasch vorwärts, sie hielt Schritt mit ihm, in wenigen Minuten war die Allee erreicht.
 
-»​Wir sind so fröhlich ausgegangen und kommen nun so traurig heim​«, sagte Ronald, »​und ich bin schuld daran ...​«
+<quote>»​Wir sind so fröhlich ausgegangen und kommen nun so traurig heim​«,</quote><suspension>sagte Ronald, </suspension>»​und ich bin schuld daran ...​«</quote>
 
-»​Es tut nichts​«, erwiderte Röschen, »​traurig sein ist auch gut.​«
+<quote>»​Es tut nichts​«,</quote><suspension> erwiderte Röschen,</suspension><quote> »​traurig sein ist auch gut.​«</quote>
 
 »​Sie sind es nie gewesen ... niemals – sagten Sie nicht?​«
 
@@ -2307,7 +2307,7 @@ Sie schüttelte den Kopf und lächelte ihn mit feuchten Augen an.
 
 »​Willkommen!​« rief eine Stimme, und aus dem Schloßhofe trat ihnen der alte Graf entgegen, den Hut auf dem Ohr, gerade aufgerichtet, mit Augen so frisch und hell wie die eines Jünglings. Erbarmungslos ließ er seinen Blick auf dem Gesichte seines Sohnes ruhen und weidete sich an dessen Verwirrung mit herzlichstem Ergötzen.
 
-»​Nun, mein Fräulein​«, sagte er zu Röschen, »​ich hoffe, Sie haben meine Begleitung bitter vermißt?​«
+<quote>»​Nun, mein Fräulein​«,</quote><suspension> sagte er zu Röschen,</suspension><quote> »​ich hoffe, Sie haben meine Begleitung bitter vermißt?​«</quote>
 
 »​Ja – nein – – ja​«, stotterte sie in größter Verlegenheit und entfloh in das Haus.
 
@@ -2361,11 +2361,11 @@ Die Speiseglocke sandte ihre schrillen Töne durch das Haus, und die Geschwister
 
 »​Nun – mit ihr – mit der dame de vos pensées ...​«
 
-»​Was fällt dir ein?​« antwortete Ronald, seine Stimme war bewegt, »​wie dürfte ich ... Ein solches Glück ist nicht für mich.​«
+<quote>»​Was fällt dir ein?​«</quote><suspension> antwortete Ronald, seine Stimme war bewegt,</suspension><quote> »​wie dürfte ich ... Ein solches Glück ist nicht für mich.​«</quote>
 
 Er blieb plötzlich stehen, erfaßte die Hand seiner Schwester und preßte sie so gewaltig, daß Thilde einen Ausruf des Schmerzes nicht unterdrücken konnte.
 
-»​Nun höre!​« rief die Baronin, in der das Blut der Rondsperg aufwallte, mit heftigem Unwillen, »​Gott danken auf ihren Knien kann sie jede Stunde – die ...​«
+<quote>»​Nun höre!​«</quote><suspension> rief die Baronin, in der das Blut der Rondsperg aufwallte, mit heftigem Unwillen,</suspension><quote> »​Gott danken auf ihren Knien kann sie jede Stunde – die ...​«</quote>
 
 Sie bogen eben um die Ecke des Ganges und erblickten Regula  und Röschen, die ihnen entgegenkamen, ebenfalls auf dem Wege nach dem Speisesaal begriffen.
 
@@ -2393,7 +2393,7 @@ Nachmittags hatte Ronald einen Auftrag seines Vaters auszuführen, entschuldigte
 
 »​Wir werden die Ehre haben, Sie bald einzuholen, meine Damen, und hoffen Sie dann in günstiger, huldvoller Stimmung zu finden​«, sprach der alte Herr und zwinkerte dabei Regula schalkhaft zu. Sie fand es angemessen, die Augen niederzuschlagen – sie verstand ihn ja so wohl! Ronald hatte sich seinem Vater anvertraut und ihm die Förderung seiner Herzensangelegenheit übertragen. Der Graf will sich nun mit seiner Tochter beraten, in welcher Weise dies am besten geschähe. Das alles liegt auf der Hand. Die Entscheidung naht – morgen vermutlich wird die Verlobung gefeiert. Regula kann nicht umhin, mit dem größten Erbarmen an Ludwig Bauer zu denken. In den letzten drei Tagen hatte er dreimal geschrieben. Es tut ihr leid um ihn – aber wer kann helfen? Der Augenblick, in dem man die Hand nach einer Grafenkrone ausstreckt, ist nicht der, in dem man in Versuchung kommt, Frau Professor zu  werden. Regulas Wege sind gewiesen, und Ehrgeiz ist und bleibt die Leidenschaft großer Seelen.
 
-»​Nun, Thilde!​« fragte der Graf, indem er sich auf seinen mit gesteiftem Kattun überzogenen Diwan niederließ, »​was habe ich dir zu sagen?​«
+<quote>»​Nun, Thilde!​«</quote><suspension> fragte der Graf, indem er sich auf seinen mit gesteiftem Kattun überzogenen Diwan niederließ,</suspension><quote> »​was habe ich dir zu sagen?​«</quote>
 
 »​Nun, lieber Papa​«, erwiderte die Baronin, die sich an seine Seite gesetzt hatte und sofort eifrig an ihrer Häkelei zu arbeiten begann, »​wenn Sie das nicht selbst wissen –​«
 
@@ -2427,7 +2427,7 @@ Ihr Vater stand mit einer zornigen Gebärde auf. Er machte,  leise und ungeduldi
 
 »​So tu es gleich​«, sagte er, etwas besänftigt.
 
-»​Unmöglich – ärgern Sie sich nicht, Papa!​« rief sie, als er wieder Miene machte aufzufahren, »​aber ich werde morgen noch hierbleiben, und dann wollen wir sehen.​«
+<quote>»​Unmöglich – ärgern Sie sich nicht, Papa!​«</quote><suspension> rief sie, als er wieder Miene machte aufzufahren,</suspension> <quote>»​aber ich werde morgen noch hierbleiben, und dann wollen wir sehen.​«</quote>
 
 »​Wollen wir sehen​«, spöttelte er giftig und mit der Absicht, zu verletzen. »​Du sprichst wie ein Minister ... Meine Kinder dürfen sich nicht oft rühmen oder – beklagen, daß ich Ansprüche an sie stelle. Wenn es aber einmal geschieht, dann lassen sie mich fühlen, daß es nie geschehen sollte!​«
 
@@ -2449,17 +2449,17 @@ Als Ronald gegen Abend in den Schloßhof fuhr, saß Božena auf einer Bank unter
 
 »​Kein Wunder​«, sprach er. »​Alle Leute – meinen Vater ausgenommen – kennen meine Verhältnisse.​«
 
-»​Also!​« rief Božena, und der Ernst, mit dem sie ihn angesehen hatte, verwandelte sich in Strenge: »​Betören Sie mir das kleine Mädchen nicht.​«
+<quote>»​Also!​«</quote><suspension> rief Božena, und der Ernst, mit dem sie ihn angesehen hatte, verwandelte sich in Strenge:</suspension><quote> »​Betören Sie mir das kleine Mädchen nicht.​«</quote>
 
-»​O weh!​« erwiderte Ronald, und indes er sich bemühte zu scherzen, zuckte es schmerzlich über sein Gesicht, »​das kleine Mädchen hat mich betört. Ich bin ein ganzer Narr geworden, der oft das Gegenteil von dem tut, was er tun möchte.​«
+<quote>»​O weh!​«</quote><suspension> erwiderte Ronald, und indes er sich bemühte zu scherzen, zuckte es schmerzlich über sein Gesicht,</suspension><quote> »​das kleine Mädchen hat mich betört. Ich bin ein ganzer Narr geworden, der oft das Gegenteil von dem tut, was er tun möchte.​«</quote>
 
 Sie schoß einen finster funkelnden Blick nach ihm und sprach: »​Wenn's so ist –​«
 
-»​Seien Sie ruhig​«, fiel er ihr ins Wort, »​Sie können dennoch ruhig sein. Ich hab Übung in der Kunst, zu mir selbst zu sagen: Möchtest das wohl gern? – Du sollst es nicht haben. – Als ich dieses Röschen neulich sah, da wußt ich, bei meiner Treu, zugleich: Nach dem hast dich dein Leben lang gesehnt, und: Es soll nicht blühen an deiner Brust! – Glauben Sie mir​«, setzte er nach einer kleinen Pause hinzu, »​ich hab mein Herz in der Hand.​« Er ballte dabei die Faust, als ob er darin etwas zerdrücken wollte.
+<quote>»​Seien Sie ruhig​«,</quote> <suspension>fiel er ihr ins Wort,</suspension><quote> »​Sie können dennoch ruhig sein. Ich hab Übung in der Kunst, zu mir selbst zu sagen: Möchtest das wohl gern? – Du sollst es nicht haben. – Als ich dieses Röschen neulich sah, da wußt ich, bei meiner Treu, zugleich: Nach dem hast dich dein Leben lang gesehnt, und: Es soll nicht blühen an deiner Brust! – Glauben Sie mir​«,</quote><suspension> setzte er nach einer kleinen Pause hinzu,</suspension><quote> »​ich hab mein Herz in der Hand.​« Er ballte dabei die Faust, als ob er darin etwas zerdrücken wollte.</quote>
 
-»​Das ist schon gut​«, sagte Božena, »​machen Sie aber auch dem Kind das Herz nicht schwer.​«
+<quote>»​Das ist schon gut​«,</quote><suspension> sagte Božena,</suspension><quote> »​machen Sie aber auch dem Kind das Herz nicht schwer.​«</suspension>
 
-»​Ich will ja nicht!​« rief er, »​aber gestern ... Ich sage Ihnen alles, Božena – gestern war ein Augenblick, in dem ich dachte: Warum soll ich mein Glück von mir weisen? Ich hab ein Recht auf Glück so gut wie ein andrer. Da wollt ich schon zu Ihnen gehen – denn Röschen gehört Ihnen; Sie sind so gut die Mutter des Mädchens, als ob Sie es geboren hätten – und Ihnen sagen: Trauen Sie mir's zu, daß ich ein Weib ernähren kann? Ich weiß, was es heißt sich plagen, man wird mir auftun, wo ich anklopfe. Ich wollt Ihnen sagen: Sie sind schon einmal mit einem armen Paare in die Welt gezogen ...​«
+<quote>»​Ich will ja nicht!​«</quote><suspension> rief er,</suspension><quote> »​aber gestern ... Ich sage Ihnen alles, Božena – gestern war ein Augenblick, in dem ich dachte: Warum soll ich mein Glück von mir weisen? Ich hab ein Recht auf Glück so gut wie ein andrer. Da wollt ich schon zu Ihnen gehen – denn Röschen gehört Ihnen; Sie sind so gut die Mutter des Mädchens, als ob Sie es geboren hätten – und Ihnen sagen: Trauen Sie mir's zu, daß ich ein Weib ernähren kann? Ich weiß, was es heißt sich plagen, man wird mir auftun, wo ich anklopfe. Ich wollt Ihnen sagen: Sie sind schon einmal mit einem armen Paare in die Welt gezogen ...​«</quote>
 
 Božena schüttelte den Kopf: »​Weil ich's schon einmal getan habe, tu ich's nicht wieder, Herr Graf.​«
 
@@ -2519,7 +2519,7 @@ Als angehende Gräfin von Rondsperg wird sie also nach Weinberg, der getreuen St
 
 Da pocht es an der Tür. Sie ruft: »​Herein!​« Der Graf steht auf der Schwelle.
 
-»​Oh – Herr Graf​«, stammelt Regula sich erhebend, »​in pontificalibus? ... Was bedeutet ...?​«
+<quote>»​Oh – Herr Graf​«, </quote><suspension>stammelt Regula sich erhebend,</suspension><quote> »​in pontificalibus? ... Was bedeutet ...?​«</quote>
 
 Der Greis verneigt sich und weist schmunzelnd auf das Sträußchen in seinem Knopfloch.
 
@@ -2545,7 +2545,7 @@ Das Fräulein wies ihm einen Stuhl an und nahm Platz auf dem Kanapee. Sie hatte 
 
 »​Um so mehr Grund, jetzt daran zu denken!​« rief der Graf. »​Die Gelegenheit, die sich bietet, ist nicht zu verschmähen. Einen brillanteren Mann als meinen Ronald können Sie für Ihre Nichte finden, aber keinen braveren. – Übrigens kommt es mir nicht zu, meinen Sohn zu loben.​«
 
-»​Mir gegenüber​«, sprach Regula scharf und spöttisch, »​hieße das wohl Eulen nach Athen tragen. Ich kenne seinen Wert.​«
+<quote>»​Mir gegenüber​«,</quote><suspension> sprach Regula scharf und spöttisch,</suspension><quote> »​hieße das wohl Eulen nach Athen tragen. Ich kenne seinen Wert.​«</quote>
 
 »​Nun, dann zögern Sie nicht länger​«, sagte der Greis munter. »​Legen Sie die Hände der jungen Leute ineinander, die nur gar zu gern sich in die Arme fallen möchten.​«
 
@@ -2559,7 +2559,7 @@ Freilich – auf diese war es abgesehen! sagt Regula zu sich selbst. Mein Geld w
 
 Ihr unruhig umherschweifender Blick fällt auf den Brief, den sie eben geschrieben hat, und wie ein Blitz durchzuckt es sie ... Das ist's – da liegt die Lösung. Geschehe, was wolle, strafe sich's, wie's mag – was liegt an der Zukunft? Der große Augenblick fordert sein Recht!
 
-»​Verständigen wir uns, Herr Graf​«, spricht Regula; »​handelt es sich nur um meine Einwilligung zu der Verbindung der jungen Rosa mit Ihrem Sohne, oder erwarten Sie, daß meine ›​Großmut und Freigebigkeit​‹ dieselbe ermögliche?​«
+<quote>»​Verständigen wir uns, Herr Graf​«,</quote><suspension> spricht Regula;</suspension> <quote>»​handelt es sich nur um meine Einwilligung zu der Verbindung der jungen Rosa mit Ihrem Sohne, oder erwarten Sie, daß meine ›​Großmut und Freigebigkeit​‹ dieselbe ermögliche?​«</quote>
 
 »​Mein Fräulein!​« rief der Greis auffahrend.
 
@@ -2575,7 +2575,7 @@ Regula unterbrach ihn: »​Ich versage sie nicht, Herr Graf. Es kann mir nur li
 
 Regula erbebte vom Wirbel bis zur Sohle. Der Gegner selbst hatte ihr den vergifteten Pfeil in die Hand gedrückt, den sie nur abschnellen brauchte, um tödlich zu treffen und sich zu befreien von dem lechzenden Durst nach Rache, der in ihrem Innern so qualvoll brannte und Befriedigung heischte. Eine Sekunde lang zögerte sie ... Ihr Wort war verpfändet, aber ein Narr, der Betrügern Wort hält, Regula ist nicht gewillt, das Unrecht zu beschützen, sondern – es zu entlarven!
 
-»​Ihr Sohn ist nicht mehr Eigentümer von Rondsperg​«, sagte sie gepreßt und stammelnd, »​er hat es mir verkauft.​«
+<quote>»​Ihr Sohn ist nicht mehr Eigentümer von Rondsperg​«,</quote> <suspension>sagte sie gepreßt und stammelnd,</suspension> <quote>»​er hat es mir verkauft.​«</quote>
 
 Der alte Mann sprang auf, starrte sie an – stumm, verständnislos.
 
@@ -2613,11 +2613,11 @@ Der Greis hatte sich auf den Rohrsessel vor seinem Schreibtisch geworfen, die Gr
 
 Wuchtige Schritte erdröhnten im Gange; der Burggraf erschien.
 
-»​Ah!​« rief ihm sein Herr mit unheimlichem Gelächter entgegen, »​wissen Sie schon? Rondsperg ist – verkauft, verkauft!​«
+<quote>»​Ah!​« </quote><suspension>rief ihm sein Herr mit unheimlichem Gelächter entgegen,</suspension><quote>»​wissen Sie schon? Rondsperg ist – verkauft, verkauft!​«</quote>
 
 Der Alte schlug schallend die Hände zusammen: »​Hatt ich mir's doch gedacht!​«
 
-»​Ja​«, fuhr der Graf fort, »​jawohl! Meine Kinder verkaufen mir das Dach über dem Kopf, zum Dank dafür, daß ich es ihnen geschenkt habe. Ich lebe hier, in meinem Rondsperg, von einer Krämerin Gnaden – mache vor ihr die lächerliche Figur eines alten Narren, der in fremdem Hause den Herrn spielt.  Aber was liegt daran? Die Schmach ihres Vaters wird meinen Kindern – bezahlt. Für Geld ist ja alles feil, das Vätererbe, das uns den Namen gegeben hat, die Gräber der Ahnen – alles zu haben für Geld... Auf die Trommel damit! Die Millionärin kauft, und mein Sohn macht ein brillantes Geschäft.​«
+<quote>»​Ja​«,</quote><suspension> fuhr der Graf fort,</suspension><quote> »​jawohl! Meine Kinder verkaufen mir das Dach über dem Kopf, zum Dank dafür, daß ich es ihnen geschenkt habe. Ich lebe hier, in meinem Rondsperg, von einer Krämerin Gnaden – mache vor ihr die lächerliche Figur eines alten Narren, der in fremdem Hause den Herrn spielt.  Aber was liegt daran? Die Schmach ihres Vaters wird meinen Kindern – bezahlt. Für Geld ist ja alles feil, das Vätererbe, das uns den Namen gegeben hat, die Gräber der Ahnen – alles zu haben für Geld... Auf die Trommel damit! Die Millionärin kauft, und mein Sohn macht ein brillantes Geschäft.​«</quote>
 
 Die Baronin, die inzwischen zurückgekehrt war, trat unerschrocken auf ihren Vater zu. Sie trug ein riesiges Wirtschaftsbuch in den Armen, das sie vor ihn auf den Schreibtisch hinlegte.
 
@@ -2695,9 +2695,9 @@ Ihre Augen funkeln – sie schlägt sie nieder; ihre ganze Gestalt strebt empor 
 
 »​Doch – um Ihretwillen! Rosa ist um die Verzeihung ihres Vaters bestohlen worden. Das weiß ich, Fräulein, denn, gefoltert von Gewissensqualen, hat es mir Ihre Mutter in ihrer Todesstunde anvertraut. Der Brief ...​«
 
-»​Schweigen Sie!​« schreit Regula, »​ich weiß nichts; ich will nichts wissen von einem Briefe – ich kann's beschwören: ich habe keinen Brief gesehen ... und – wer hat ihn gesehen?​«
+<quote>»​Schweigen Sie!​« </quote><suspension>schreit Regula, </suspension><quote>»​ich weiß nichts; ich will nichts wissen von einem Briefe – ich kann's beschwören: ich habe keinen Brief gesehen ... und – wer hat ihn gesehen?​«</quote>
 
-»​Niemand​«, antwortet Božena mit kalter Ruhe, »​denn er ist unterschlagen worden und – verbrannt.​«
+<quote>»​Niemand​«,</quote><suspension> antwortet Božena mit kalter Ruhe, </suspension><quote>»​denn er ist unterschlagen worden und – verbrannt.​«</quote>
 
 »​Ha!​« Regula atmete auf, befreit von einer Zentnerlast. »​So gibt es auch keinen unterschlagenen Brief! ... Wer kann beweisen, daß es einen gab? Wer wird es glauben?​«
 
@@ -2707,7 +2707,7 @@ Mit schrecklicher Wucht fielen diese Worte auf die Seele Regulas. Ja, der wird m
 
 Deutlich und lebendig in jedem Zuge erhob sich vor ihr ein längst vergessenes Bild. Sie sah ihre Magd zwischen Mansuet und den Jäger treten und hörte sie sprechen: »​Es ist wahr! ...​« Božena hätte damals nicht lügen, sie hätte nur schweigen brauchen, und der Jäger wäre als Verleumder gebrandmarkt gewesen; an ihr – hätte keiner gezweifelt. Aber sie sprach, sie gab der Wahrheit die Ehre. Ja, der wird man glauben! ... Und ein zweites Bild tauchte auf vor Regula. Sie erblickte sich auf dem schmalen Pfade, von dem Božena gesprochen, hoch über allen Menschen und von allen vergöttert. Und nun ein unseliger Schritt, aus Rache getan, im Zorn beleidigter Eitelkeit, und der Glanz, der sie umgab, erlischt, und sie sinkt, sinkt immer tiefer in einen Abgrund – gräßlich, schauerhaft: Die Verachtung der Menschen! ... Alles verläßt sie – der zuerst, der sie so redlich geliebt und ihren Reichtum so redlich gehaßt hat ... Schon gehaßt, bevor er wußte, daß sie ihn einem Verbrechen dankte.
 
-»​Božena​«, stöhnt Regel, ihre Zähne schlagen zu sammen, ihre Hände greifen stützesuchend umher, »​Božena, was soll ich tun? Was verlangen Sie?​« Sie denkt nur noch an Rettung, an Rettung um jeden Preis.
+<quote>»​Božena​«,</quote><suspension> stöhnt Regel, ihre Zähne schlagen zu sammen, ihre Hände greifen stützesuchend umher, </suspension><quote>»​Božena, was soll ich tun? Was verlangen Sie?​«</quote> Sie denkt nur noch an Rettung, an Rettung um jeden Preis.
 
 Mühsam ihre Fassung bewahrend, pochenden Herzens, antwortet Božena demütig und zögernd: »​Ich habe meinem Fräulein nichts vorzuschreiben, aber wäre ich Sie, ich würde zu den alten Leuten sagen: Bleibt, Rondsperg gehört eurem Sohn, dem es Röschen zur Morgengabe bringt.​«
 
@@ -2741,7 +2741,7 @@ Bauer dachte: Wahrlich, neben diesem Schimmelreiter nähme Cäsar sich aus wie e
 
 Und nun rollen sie bereits über das Pflaster des Schloßhofes. Vor dem Tore steht Božena und ruft ihnen zu: »​Kommen Sie – kommen Sie – es ist die höchste Zeit!​« Über die Anwesenheit des Professors scheint sie sich besonders zu freuen; dieser hat ihr nur gleich zu folgen, während die andern drei Herren gebeten werden, einen Augenblick zu verziehen.
 
-»​Wie sehen Sie denn aus?​« fragt Mansuet die Magd, »​Sie leuchten ja wie die liebe Sonne.​«
+<quote>»​Wie sehen Sie denn aus?​« </quote><suspension>fragt Mansuet die Magd,</suspension><quote> »​Sie leuchten ja wie die liebe Sonne.​«</quote>
 
 Božena antwortet ihm nicht, sie eilt mit Bauer, dessen Hand sie erfaßt hat, die Treppe hinauf. Wenzel und Mansuet sehen einander befremdet an. – Ein sonderbarer Empfang! ... Was hat das zu bedeuten? – Das Haus ist wie ausgestorben, im Hofe steht die Britschka der Baronin Waffenau und ein bepackter Wagen. Jetzt öffnet sich die Stalltür in der Ecke gegenüber, Kocka und Myška kommen heraus mit gesenkten Köpfen und herabhängenden Ohren und stellen sich von selbst jede an ihren Platz an die Deichsel. Florian folgt in Hemdärmeln, seinen Rock auf dem Arme; er wirft brummend und gestikulierend das Kleidungsstück auf den Bock und beginnt die Stränge einzulegen.
 
@@ -2761,7 +2761,7 @@ In diesem Augenblicke ertönt der Klang einer lieben, angstvollen Stimme. Rösch
 
 Aber nun steht Regula vor ihr am Arme eines freudetrunkenen Mannes, des Herrn Professor Bauer, und auch diese beiden sprechen wie aus einem Munde: »​Bleiben Sie!​«
 
-»​Nimmermehr​«, entgegnet der Graf, »​im fremden Hause!​«
+<quote>»​Nimmermehr​«,</quote><suspension> entgegnet der Graf,</suspension><quote> »​im fremden Hause!​«</quote>
 
 »​In dem Ihres Sohnes, Herr Graf​«, spricht Regula feierlich, während der glückverklärte Bauer in Bewunderung zerschmilzt – und dort an der Tür des Saales eine hohe Gestalt steht, deren Blick unverwandt auf ihr ruht, als wollte er sie unter seinem Banne halten. Aber Božena kann zufrieden sein, das Fräulein wiederholt sogar ihre Worte: »​Rondsperg gehört Ihrem Sohne, dem es meine Nichte zur Morgengabe bringt.​«
 
