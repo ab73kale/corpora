@@ -663,7 +663,7 @@ Harrassowitz sprang von seinem Sitze auf. »​Was habe ich Ihnen gesagt, Büttn
 
 Dem Büttnerbauer fiel ein Stein vom Herzen bei diesen Worten. Er hatte gefürchtet, man werde ganz andere Prozente von ihm fordern.
 
-»​Sehen Sie, was ich gesagt habe!​« rief Harrassowitz, »​was für ein Mann Schönberger ist! Fünf Prozent nimmt er bloß. Sie haben ein glänzendes Geschäft gemacht, Büttner!​«
+<quote>»​Sehen Sie, was ich gesagt habe!​« </quote><suspension>rief Harrassowitz, </suspension><quote>»​was für ein Mann Schönberger ist! Fünf Prozent nimmt er bloß. Sie haben ein glänzendes Geschäft gemacht, Büttner!​«</quote>
 
 Der Bauer fing an, das selbst zu glauben. In seinem schlichten Gemüte regte sich Dankbarkeit für den Mann, der ihm in so großer Not geholfen hatte. Er schritt unbeholfen auf Herrn Isidor Schönberger zu und pflanzte sich vor ihn hin. Dann ergriff er die weiße, welke, mit vielen Ringen geschmückte Hand des Mannes und drückte sie mit seiner derben, roten Bauernfaust. »​Ich bedank' mich och, Herr Schönberger, ich sog meinen schiensten Dank! Und bezahl' Sie's der liebe Gott! Sie hon mir ane gruße Surge abgenumma.​«
 
@@ -739,7 +739,7 @@ An ihrer Stelle übernahm die jüngere Schwester die Vermittelung dem Fremden ge
 
 Damit sprang sie behende von der Düngerstätte hinab und lief zum oberen Tore. Dort blieb sie stehen, bildete mit beiden Händen ein Schallrohr und rief: »​Karle, gieh, sag's ack den Vater, er mechte glei amal rei kimma. 's wäre ener dohie, der mit'n raden wullte .... Ich kann ne verstiehn! ... Ju, ju! A Reiter. Mit an Pauer wullt ar raden, soit ar.​«
 
-Das Mädchen kam von ihrem Posten zurück. »​Der Bruder wird's 'n Pauern sagen,​« erklärte sie, »​daß er reinkommen soll.​« Darauf nahm sie die Mistgabel wieder zur Hand.
+Das Mädchen kam von ihrem Posten zurück. <quote>»​Der Bruder wird's 'n Pauern sagen,​</quote><suspension>« erklärte sie, </suspension><quote>»​daß er reinkommen soll.​« Darauf nahm sie die Mistgabel wieder zur Hand.»</quote>
 
 Der Fremde dankte ihr. Er war inzwischen abgestiegen, hatte dem Pferde die Zügel über den Kopf genommen, die Bügel in die Steigriemen hinaufgezogen und locker gegurtet, mit Handgriffen, denen man die alte Übung und die Liebe für das Tier ansehen konnte. Nun fragte er, ob er irgendwo einstellen könne. Die Mädchen sahen sich eine Weile unschlüssig an, dann erklärte Ernestine, im Kuhstalle sei noch ein Stand frei. Sie lief auch sofort zum Stallgebäude und öffnete die Tür.
 
@@ -761,7 +761,7 @@ Im Zimmer trafen sie die Bäuerin. »​Frau, gieh naus!​« rief ihr der Bauer
 
 Der Büttnerbauer hatte sich in seine Ecke gesetzt und sah von diesem Verließ aus mit mürrischer Miene den Dingen entgegen, die da kommen würden. Der Hauptmann holte sich einen Stuhl herbei und setzte sich dem Alten gegenüber. Er schien das ablehnende Wesen des anderen absichtlich übersehen zu wollen.
 
-»​Also, Herr Büttner!​« begann Hauptmann Schroff, und schlug dabei mit der Reitgerte gegen seine gespornten und gestiefelten Beine, die er lang ausgestreckt hatte, »​die Sache ist nämlich folgende: Mein Chef, der Graf, möchte gern Ihren Wald kaufen. Es ist ja darüber bereits früher zwischen Ihnen und meinem Vorgänger verhandelt worden, aber ohne Resultat. Der Herr Graf wünscht nun aber dringend, daß die Sache endlich einmal vorwärts rückt. Der Erwerb Ihrer Waldparzelle ist uns von ziemlicher Wichtigkeit;  ich sage Ihnen das ganz offen heraus. Das kleine Stück liegt gerade wie ein Keil zwischen zwei von unseren Hauptrevieren. Eine Verbindung der beiden Reviere ist aus wirtschaftlichen Gründen dringend erwünscht. Uns bedeutet dieser schmale Streifen die Möglichkeit, bei den Holzfuhren viele Kilometer zu ersparen. Ihnen dagegen nützen diese fünfzig bis sechzig Morgen so gut wie gar nichts. Im Gegenteil, der Wald kostet Ihnen höchstens etwas. Das bißchen Holz, was darauf steht, ist kaum der Rede wert. Der Boden ist entwertet durch die Streunutzung. Und dabei liegen doch Abgaben darauf. Wenn wir es in unsere Regie bekommen, würden wir sofort Kahlschlag machen lassen und neu aufforsten. Dabei werden die Arbeitslöhne natürlich nicht einmal herauskommen, so schlecht ist der jetzige Stand. Sie sehen demnach, Herr Büttner, das Interesse ist eigentlich auf beiden Seiten. Für uns, die Parzelle zu erwerben, für Sie, das Ding loszuwerden. – Also werden wir wohl handelseinig werden, denke ich, diesmal.​«
+<quote>»​Also, Herr Büttner!​«</quote><suspension> begann Hauptmann Schroff, und schlug dabei mit der Reitgerte gegen seine gespornten und gestiefelten Beine, die er lang ausgestreckt hatte, </suspension><quote>»​die Sache ist nämlich folgende: Mein Chef, der Graf, möchte gern Ihren Wald kaufen. Es ist ja darüber bereits früher zwischen Ihnen und meinem Vorgänger verhandelt worden, aber ohne Resultat. Der Herr Graf wünscht nun aber dringend, daß die Sache endlich einmal vorwärts rückt. Der Erwerb Ihrer Waldparzelle ist uns von ziemlicher Wichtigkeit;  ich sage Ihnen das ganz offen heraus. Das kleine Stück liegt gerade wie ein Keil zwischen zwei von unseren Hauptrevieren. Eine Verbindung der beiden Reviere ist aus wirtschaftlichen Gründen dringend erwünscht. Uns bedeutet dieser schmale Streifen die Möglichkeit, bei den Holzfuhren viele Kilometer zu ersparen. Ihnen dagegen nützen diese fünfzig bis sechzig Morgen so gut wie gar nichts. Im Gegenteil, der Wald kostet Ihnen höchstens etwas. Das bißchen Holz, was darauf steht, ist kaum der Rede wert. Der Boden ist entwertet durch die Streunutzung. Und dabei liegen doch Abgaben darauf. Wenn wir es in unsere Regie bekommen, würden wir sofort Kahlschlag machen lassen und neu aufforsten. Dabei werden die Arbeitslöhne natürlich nicht einmal herauskommen, so schlecht ist der jetzige Stand. Sie sehen demnach, Herr Büttner, das Interesse ist eigentlich auf beiden Seiten. Für uns, die Parzelle zu erwerben, für Sie, das Ding loszuwerden. – Also werden wir wohl handelseinig werden, denke ich, diesmal.​«</quote>
 
 »​Ich denk's ne!​« sagte der Bauer aus seiner Ecke heraus.
 
@@ -779,7 +779,7 @@ Der Bauer rückte in seiner Ecke unruhig hin und her, da jener ihn, ohne es zu a
 
 Hauptmann Schroff fuhr unbeirrt fort: »​Da ließe sich sicher noch vieles bessern. Und vor allem! intensivere Wirtschaft, mein Lieber, intensiveres Düngen. Aber dazu ist Bargeld nötig. Ich meine, Sie sollten mit beiden Händen zugreifen, wenn Ihnen ein solches Gebot gemacht wird.​« Der Sprecher merkte in seinem Eifer gar nicht, wie es in dem Gesichte des Alten wetterte und zuckte. Das waren ja alles Dinge, die er nur zu gut wußte, die er sich selbst wie oft gesagt, die aber im Munde des Fremden als beleidigende Vorwürfe wirkten.
 
-»​Und nun noch eins!​« fuhr der Hauptmann fort, »​etwas, das auch wieder das gemeinsame Interesse illustriert, welches Sie wie der Graf an dem Handel haben. Aus dem gräflichen Forste tritt nicht selten das Wild auf die Fluren hinaus, wahrscheinlich auch auf Ihre Felder ...​«
+<quote>»​Und nun noch eins!​« </quote><suspension>fuhr der Hauptmann fort, </suspension><quote>»​etwas, das auch wieder das gemeinsame Interesse illustriert, welches Sie wie der Graf an dem Handel haben. Aus dem gräflichen Forste tritt nicht selten das Wild auf die Fluren hinaus, wahrscheinlich auch auf Ihre Felder ...​«</quote>
 
 Jetzt riß dem Alten die Geduld. Die Erwähnung des Wildes, das ihm seine Saaten zertrampelte und sein Getreide abäste, wirkte wie ein Peitschenhieb auf sein bereits hinlänglich gereiztes Gemüt. Hochrot im Gesicht fuhr er auf und schrie los: »​Wullen Se mich etwan zum Narren halen! Kummen Sie und derzahlen mer von a Wilde! Dos Ungeziefer frißt unsereenen bale ganz uf. Geklogt ha'ch schun, aber hob 'ch denn a recht gekriegt? Fir uns Pauern gibt's ja keene Gerechtigkeit ne gegen de Grußen.​«
 
@@ -841,7 +841,7 @@ Der Bauer berichtete, was sonst noch auf dem Gute an Schulden stehe.
 
 »​Der Hauptgläubiger ist demnach Ihr Schwager Kaschel. Mit einer Hypothek steht er zudem an letzter Stelle. Was denken Sie, wenn ich mit dem Manne zuerst Rücksprache nähme? Er wohnt ja hier am Orte; ist Kretschamwirt, wie Sie sagen.​«
 
-»​Da mechte aber eener Haare uf'n Zähnen han,​« meinte der Bauer mit vielsagendem Lächeln, »​wer Kaschelernsten kirren wollte. Dos is a Dreimalgenähter.  Und a bieser Hund is a Lammel gegen den, das sag'ch Se glei!​«
+<quote>»​Da mechte aber eener Haare uf'n Zähnen han,​« </quote><suspension>meinte der Bauer mit vielsagendem Lächeln, </suspension><quote>»​wer Kaschelernsten kirren wollte. Dos is a Dreimalgenähter.  Und a bieser Hund is a Lammel gegen den, das sag'ch Se glei!​«</quote>
 
 Der Hauptmann meinte, er sei nicht furchtsam von Natur, und er wolle es auf den Versuch ankommen lassen. Er werde gleich einmal nach dem Kretscham hinüberreiten.
 
