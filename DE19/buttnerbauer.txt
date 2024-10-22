@@ -389,7 +389,7 @@ Er ließ ein »​Ho, Alter, ho!​« vernehmen – was dem Pferde galt – dann
 
 »​Mir hon gelt allens zusommde gekroatzt uf'n Schittboden, 's is'n immer nuch ane Handvell ibrig fir de Pferde. Ich dachte ock, und ich meente, weil er jetzt on Preis hat, dacht'ch, du verkefst'n, ehbs daß er wieder billig wird, dar Hafer.​«
 
-»​Ich kennte grode a Zentner a zahne gebrauchen,​« meinte der Gastwirt, »​wenn er nich zu huch käme.​«
+<quote>»​Ich kennte grode a Zentner a zahne gebrauchen,​«</quote> <suspension>meinte der Gastwirt, </suspension><quote>»​wenn er nich zu huch käme.​«</quote>
 
 »​Der Marktpreis stieht ja im Blattel.​«
 
@@ -553,7 +553,7 @@ Jetzt war der Büttnerbauer bei seinem Hauptbeschwernis angelangt: seinem mächt
 
 Der Bauer erzählte, daß er so gut wie eingeschlossen  sei durch das Dominium. Dann ereiferte er sich über den Wildschaden.
 
-»​Schrecklich! aber dafür hat natürlich so ein Graf gar keinen Sinn!​« rief der Händler mit dem Ausdrucke höchster Entrüstung, »​wenn sich's nur um Bauernflur handelt. Traurige Zustände sind das! Hat Ihnen der Graf denn schon mal ein Angebot machen lassen wegen Ihres Gutes?​«
+<quote>»​Schrecklich! aber dafür hat natürlich so ein Graf gar keinen Sinn!​«</quote><suspension> rief der Händler mit dem Ausdrucke höchster Entrüstung,</suspension><quote> »​wenn sich's nur um Bauernflur handelt. Traurige Zustände sind das! Hat Ihnen der Graf denn schon mal ein Angebot machen lassen wegen Ihres Gutes?​«</quote>
 
 Der Büttnerbauer berichtete, daß der Graf schon seit Jahren um seinen Wald handle, aber daß er ihm nicht einen Fußbreit abzulassen gesonnen sei. Harassowitz horchte scharf hin auf diese Angaben. Dann nahm er auf einmal wieder eine nachdenkliche Miene an.
 
