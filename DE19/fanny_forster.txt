@@ -65,9 +65,9 @@ Adrienne verstand aber die unausgesprochenen Gedanken ihres Gatten. Sie wußte, 
 
 <quote>»​Nein,​«</quote><suspension> meinte der Kapitän bedrückt,</suspension><quote> »​lassen wir das! Es ist mein Wunsch, daß Du während meiner Abwesenheit etwas mehr vom Leben siehst, als es bisher geschehen konnte. Du wirst meine Gage wie jetzt regelmäßig empfangen, die Kommandozulagen, welche wir auf Reisen beziehen, werden für meine Bedürfnisse genügen, Dir bleibt also, nach dem üblichen Abzug für Joachim, mein ganzer Gehalt, was sonst für mich, Dich und Baby reichen mußte, für euch allein, Du kannst Dich einigermaßen rühren.​«</quote>
 
-»​O Arnold,​« sagte sie traurig, »​dann wollen wir doch lieber das, was jetzt weniger gebraucht wird, für Baby zurücklegen.​«
+<quote>»​O Arnold,​« </quote><suspension>sagte sie traurig,</suspension><quote> »​dann wollen wir doch lieber das, was jetzt weniger gebraucht wird, für Baby zurücklegen.​«</quote>
 
-»​Wie Du willst,​« sprach er gütig, »​aber erinnere Dich, wenn Dir Wünsche erwachen, meiner Einwilligung.​«
+<quote>»​Wie Du willst,​«</quote> <suspension>sprach er gütig,</suspension><quote> »​aber erinnere Dich, wenn Dir Wünsche erwachen, meiner Einwilligung.​«</quote>
 
 Adrienne brach zum zweitenmal in Thränen aus. »​Mir sind ja doch keine Freuden bestimmt,​« sagte diese heftige Thränenflut.
 
@@ -95,7 +95,7 @@ Der Kapitän fühlte eine gewisse Erleichterung, nachdem er die beiden Briefe zu
 
 Adrienne wollte eine bittere Bemerkung machen, aber ihr Herz schlug in schmerzlicher Aufwallung so heftig, daß ihr die Worte versagten.
 
-»​So, mein liebes Kind,​« sagte er, sich in eine Sofaecke setzend, »​an Joachim und Fanny Förster habe ich geschrieben.​«
+<quote>»​So, mein liebes Kind,​«</quote><suspension> sagte er, sich in eine Sofaecke setzend, </suspension>»<quote>​an Joachim und Fanny Förster habe ich geschrieben.​«
 
 »​Warum denn an Fanny?​«
 
@@ -105,7 +105,7 @@ Adrienne wollte eine bittere Bemerkung machen, aber ihr Herz schlug in schmerzli
 
 »​Du antwortest nicht? Du kommst nicht?​« fragte er sanft.
 
-»​Laß nur,​« murmelte sie, »​ich höre ja auch hier.​«
+<quote>»​Laß nur,​«</quote><suspension> murmelte sie,</suspension><quote> »​ich höre ja auch hier.​«</quote>
 
 »​Seltsames Weib!​« dachte er; »​eine andere würde sich jammernd an ihren Gatten schmiegen. Sie bleibt steif und stumm am Fenster sitzen.​«
 
@@ -121,7 +121,7 @@ Das Mädchen trat mit der Lampe ein, stellte sie auf den Tisch und sagte, währe
 
 »​Der Kleine schreit, soll ich ihm noch einmal die Flasche geben?​«
 
-»​Laß nur,​« antwortete die junge Frau, »​ich thu' es selbst.​«
+<quote>»​Laß nur,​«</quote><suspension> antwortete die junge Frau,</suspension><quote> »​ich thu' es selbst.​«</quote>
 
 Sie erhob sich. Ihre mittelgroße, überschlanke Gestalt bewegte sich in schlechter Haltung, wie die jemandes, der sehr ermüdet und ganz widerstandsunfähig ist. In der Thür wandte sie sich halb um und sagte über die Schulter weg:
 
@@ -129,7 +129,7 @@ Sie erhob sich. Ihre mittelgroße, überschlanke Gestalt bewegte sich in schlech
 
 Das war nicht der Ton, in dem eine Frau widerspricht, die sich streiten will. Es war der  Ton, den nur innere Unmöglichkeit findet. Herebrecht seufzte.
 
-»​Die Apathie ist die Willensform der Schwachen,​« murmelte er vor sich hin, »​sie ist schwerer zu brechen als alle Heftigkeit des Denkens und Handelns.​«
+<quote>»​Die Apathie ist die Willensform der Schwachen,​«</quote><suspension> murmelte er vor sich hin,</suspension><quote> »​sie ist schwerer zu brechen als alle Heftigkeit des Denkens und Handelns.​«</quote>
 
 Er beschloß, lieber nicht mehr auf diesen Punkt zurückzukommen, sondern der Einsamkeit und den Briefen Joachims und Fannys überredende Kraft zuzutrauen.
 
@@ -155,7 +155,7 @@ Arnold hatte seine Hand sorgfältig auf das haarlose  Köpfchen gelegt. Er seufz
 
 Dann ging er schnell hinaus. Sein Weib verstand, was die Betonung auf »​Kinder​« sagen sollte – es hieß: sie können sich nicht wie ein Mann ohne Herzenswärme behelfen. Ein Vorwurf, wieder ein Vorwurf, immer Vorwürfe und nie die Erkenntnis, daß er kein Echo verlangen könne, wo er keinen Ruf ergehen ließ. Sie weinte – es waren die selbstbetrügerischen Thränen einer sich verkannt und nicht geliebt glaubenden Frau.
 
-»​Nun, so lebe denn wohl,​« sagte der Kapitän am nächsten Morgen, »​die Stunde ist da, ich gehe. Gott beschütze euch mir, daß ich Dich und unser Kind wiederfinde, wenn ich heimkehre.​«
+<quote>»​Nun, so lebe denn wohl,​«</quote><suspension> sagte der Kapitän am nächsten Morgen,</suspension><quote> »​die Stunde ist da, ich gehe. Gott beschütze euch mir, daß ich Dich und unser Kind wiederfinde, wenn ich heimkehre.​«</quote>
 
 Er war sehr bleich und drückte die Hand seiner Frau mit schmerzhafter Festigkeit. Adrienne war keines Wortes mächtig.
 
@@ -185,7 +185,7 @@ Adrienne versuchte es, sich mit dem Kinde zu beschäftigen. Es war ein Viertelja
 
 Und dann hielt ihr die Gegenwart nichts entgegen als ein kleines, dummes, unerwachtes Lebewesen, das sich in den Armen der sorglichen, mit Kindern vielgewandten Magd behaglicher fühlte als in den zarten, unsicheren Händen der Mutter.
 
-»​Nein,​« sagte sie sich dann, »​das Schönfärben hilft hier nichts: ein so kleines Kind ist nur eine Versprechung auf die Zukunft, und mit Versprechungen füllt man ein einsames Herz nicht aus.​«
+<quote>»​Nein,​«</quote><suspensio> sagte sie sich dann, </suspension><quote>»​das Schönfärben hilft hier nichts: ein so kleines Kind ist nur eine Versprechung auf die Zukunft, und mit Versprechungen füllt man ein einsames Herz nicht aus.​«</quote>
 
 Adrienne war an eine rastlose Thätigkeit gewöhnt. Sie hatte immer fleißig sein müssen, in der Pension, bei fremden Leuten, in ihrer Ehe, denn Arnold sprach viel von dem sittlichen Wert aller Arbeit, auch der Frauenarbeit, was Adrienne als Mahnung zur Unermüdlichkeit aufzufassen sich verpflichtet glaubte. Weil nun so ihre Thätigkeit immer einem gewissen Zwang entsprossen war, hatte sie sich schon von Kindheit an gewöhnt, alle Erholung heimlich zu suchen. In der Pension hatte sie gleich den anderen Mitschülerinnen heimlich gelesen; in ihrer dienenden Stellung verbarg sie ebenfalls die Neigung; als Frau hatte sie verstohlen in ein Buch geguckt, wenn Arnold und die Magd ausgegangen waren. Nun hörte mit dem Zwang allmälich auch die Thätigkeit auf. Die immer fleißige Nadel wurde seltener und seltener eingefädelt, aber da niemand ein Verbot oder nur eine Frage über das Lesen an Adrienne richtete, nahm sie auch kein Buch mehr zur Hand.
 
@@ -255,7 +255,7 @@ Sie strich mit ihren weißen, wohlgeformten Händen den welligen Scheitel hinunt
 
 Sie trat zurück an den Tisch.
 
-»​Höre, Kind,​« sagte sie mit dem unbefangensten Ton von der Welt, »​ich habe Hunger, aber trotzdem keinen Appetit auf Wassersuppe. Sei gastlich, lade mich ein, mit Dir irgendwo zu speisen, wo die Sonne uns in die Weingläser funkeln kann.​«
+<quote>»​Höre, Kind,​«</quote><suspension> sagte sie mit dem unbefangensten Ton von der Welt,</suspension><quote> »​ich habe Hunger, aber trotzdem keinen Appetit auf Wassersuppe. Sei gastlich, lade mich ein, mit Dir irgendwo zu speisen, wo die Sonne uns in die Weingläser funkeln kann.​«</quote>
 
 Adrienne hob ihren Kopf. Hatte Fanny denn kein Auge oder kein Gefühl für ihre sichtliche Verstörtheit? Desto besser, desto bequemer!
 
@@ -279,17 +279,17 @@ Adrienne verbarg das unglückliche Buch und schlich hinaus, sich ihren Hut zu ho
 
 Fanny sah sinnend vor sich hin; es war ein Blick, wie ihn Menschen zuweilen in ihre reichbewegte  Vergangenheit zurückthun. Alles, was gewesen ist, erscheint wie ein Gemälde, nicht in uns, sondern außer uns, und wir, die wir durch die Zeit die richtige Standferne eingenommen haben, betrachten das Gemälde kritisch.
 
-»​Welche Oede würde mein Leben sein,​« sprach sie endlich langsam, »​wenn ich mir nicht einen Kreis, einen weiten Kreis von Pflichten zurecht gemacht hätte! Gott sei Dank, in mir liegen keine Kräfte brach, ich lebe ein gesundes, arbeitsames Leben.​« Und heiterer setzte sie rasch hinzu: »​Aber daß Du nicht denkst, ich bin eine sentimentale Närrin, voll Welt-, respektive Nächstenbeglückungsduselei. Weißt Du, für Heidenkinder in Afrika stricke ich keine Socken, und wenn irgendwo in Spanien oder Italien ein Unglück passirt, bleibt mein Herz zwar nicht kalt, aber meine Börse zu. Dafür aber gibt's in meinem Dorfe keine Not und kein Leid außer dem, was der Tod schafft. Ich meine immer, man solle mit seinen Händen nicht weiter greifen wollen, als die Länge der Arme erlaubt.​«
+<quote>»​Welche Oede würde mein Leben sein,​« </quote><suspension>sprach sie endlich langsam,</suspension><quote> »​wenn ich mir nicht einen Kreis, einen weiten Kreis von Pflichten zurecht gemacht hätte! Gott sei Dank, in mir liegen keine Kräfte brach, ich lebe ein gesundes, arbeitsames Leben.​« Und heiterer setzte sie rasch hinzu: »​Aber daß Du nicht denkst, ich bin eine sentimentale Närrin, voll Welt-, respektive Nächstenbeglückungsduselei. Weißt Du, für Heidenkinder in Afrika stricke ich keine Socken, und wenn irgendwo in Spanien oder Italien ein Unglück passirt, bleibt mein Herz zwar nicht kalt, aber meine Börse zu. Dafür aber gibt's in meinem Dorfe keine Not und kein Leid außer dem, was der Tod schafft. Ich meine immer, man solle mit seinen Händen nicht weiter greifen wollen, als die Länge der Arme erlaubt.​«</quote>
 
 In Adrienne ging etwas Seltsames vor. Sie umarmte Fanny heftig und rief:
 
 »​Ich beneide Dich!​«
 
-»​Um Gottes willen,​« sagte Fanny erschreckt, »​mich! Und weshalb? Mich, die sich erst künstlich schaffen muß, was Du vom Schicksal schon empfingst: liebe Pflichten!? Du hast ein Kind, einen Gatten und obenein einen klugen, guten.​«
+<quote>»​Um Gottes willen,​« </quote><suspension>sagte Fanny erschreckt,</suspension><quote> »​mich! Und weshalb? Mich, die sich erst künstlich schaffen muß, was Du vom Schicksal schon empfingst: liebe Pflichten!? Du hast ein Kind, einen Gatten und obenein einen klugen, guten.​«</quote>
 
 »​Aber Du brauchst Dich nicht bevormunden zu lassen, Du kennst das Leben, die Welt, Du bist frei,​« rief die junge Frau voll Leidenschaft.
 
-»​Nun,​« antwortete die andere, »​Du wirst mein Leben kennen lernen und mir erst später sagen, ob Du es mir neidest. Denn Dich zu holen, ist der einzige Zweck meiner Reise. Jetzt komm ins Freie. Nur zuvor einen Blick in die Kinderstube.​«
+<quote>»​Nun,​« </quote><suspension>antwortete die andere,</suspensio><quote> »​Du wirst mein Leben kennen lernen und mir erst später sagen, ob Du es mir neidest. Denn Dich zu holen, ist der einzige Zweck meiner Reise. Jetzt komm ins Freie. Nur zuvor einen Blick in die Kinderstube.​«</quote>
 
 In der Kinderstube besah Fanny sich den kleinen Joachim und meinte, ob man von ihr erwarte, daß sie ihn hübsch fände, andernfalls würde sie sich die Freiheit nehmen, zu sagen, er sähe ebenso aus wie alle Babies von sechzehn Wochen.
 
@@ -299,7 +299,7 @@ Oben auf der Höhe von Düsternbrook liegt die  Seebadeanstalt Bellevue; der Bli
 
 Fanny hatte in den Pausen zwischen den Schüsseln Arnolds Brief gelesen und reichte ihn jetzt der jungen Frau zurück.
 
-»​Das ist ein Mann,​« sagte sie aufatmend, »​ja, Du kannst glücklich sein.​«
+<quote>»​Das ist ein Mann,​« </quote><suspension>sagte sie aufatmend, </suspension> <quote>»​ja, Du kannst glücklich sein.​«</quote>
 
 Voll Widerspruchsgeist bemerkte Adrienne mit einem herben Zug im Gesicht:
 
