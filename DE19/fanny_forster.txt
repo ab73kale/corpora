@@ -33,7 +33,7 @@ Er trat zu ihr und reichte ihr den Einberufungsbefehl. Sie nahm und las. In ihr 
 
 Sie brach in Thränen aus und legte die Stirn auf die Fensterbank. Arnold trat zu ihr und streichelte ihr mitleidig das Haar.
 
-»​Armes Kind,​« sagte er mit seiner tiefen Stimme, »​armes, irrendes Kind! Du liebst mich nicht, deshalb kann Dich auch meine Liebe nicht reich machen.​«
+<quote>»​Armes Kind,​«</quote><suspension> sagte er mit seiner tiefen Stimme, </suspension><quote>»​armes, irrendes Kind! Du liebst mich nicht, deshalb kann Dich auch meine Liebe nicht reich machen.​«</quote>
 
 »​Du liebst mich?​« rief Adrienne mit bitterem Auflachen. »​Seltsame Art, mir das zu zeigen. Fürwahr, ein strenger, nie befriedigter Erzieher warst Du mir; von Liebe, von jener heißen, nie ermüdenden Liebe, die ich geträumt habe und in deren Glanz ich auch mit trockenem Brot hätte zufrieden sein wollen, von jener Liebe, die im andern den Gegenstand höchster Anbetung sieht, habe ich nie etwas bemerkt.​«
 
@@ -45,17 +45,17 @@ Sie brach in Thränen aus und legte die Stirn auf die Fensterbank. Arnold trat z
 
 Auf seinem Gesicht lag ein feierlicher Ernst. Sein Weib neigte das Haupt. Was sollte sie ihm antworten? Daß er in der Zeit, wo er ihr diese und ähnliche lange, ohne Zweifel kluge und wahre Reden gehalten hatte, sie lieber hätte herzlich küssen und mit ihr scherzen sollen? Scherzen? Arnold? Undenkbare Vorstellung! Kaum daß sein Ernst je einmal durch ein Lächeln unterbrochen wurde.
 
-»​Und daß ich Dich häufig tadelte,​« fuhr er liebevoll fort, »​das, mein Kind, wirst Du mir danken, wenn die ser da, der sein Leben vorderhand noch verschläft, ein erziehungsbedürftiger Mensch wird. Du hattest keine Mutter gehabt seit Deinem zehnten Jahr, Du wuchsest in einer Pension auf, die Dein älterer, reicher Stiefbruder aus Gnade bezahlte, denn auch Dein Vater war verarmt, noch ehe er starb, und das große Vermögen seiner ersten Frau ging auf deren einzigen Sohn über. Das verbitterte schon Deine Kinderseele. Und als dann auch Dein Stiefbruder starb, wolltest Du von seiner Witwe, die ihn beerbte, keinen Heller mehr nehmen. Du, selbst noch unerzogen, gingst schon in die Welt, andere zu erziehen. So fehlten Deinem Wesen überall die letzten weiblichen Abrundungen. Es war meine Pflicht, Dich darauf aufmerksam zu machen.​«
+<qupte>»​Und daß ich Dich häufig tadelte,</quote><suspension>​« fuhr er liebevoll fort,</suspension><quote> »​das, mein Kind, wirst Du mir danken, wenn die ser da, der sein Leben vorderhand noch verschläft, ein erziehungsbedürftiger Mensch wird. Du hattest keine Mutter gehabt seit Deinem zehnten Jahr, Du wuchsest in einer Pension auf, die Dein älterer, reicher Stiefbruder aus Gnade bezahlte, denn auch Dein Vater war verarmt, noch ehe er starb, und das große Vermögen seiner ersten Frau ging auf deren einzigen Sohn über. Das verbitterte schon Deine Kinderseele. Und als dann auch Dein Stiefbruder starb, wolltest Du von seiner Witwe, die ihn beerbte, keinen Heller mehr nehmen. Du, selbst noch unerzogen, gingst schon in die Welt, andere zu erziehen. So fehlten Deinem Wesen überall die letzten weiblichen Abrundungen. Es war meine Pflicht, Dich darauf aufmerksam zu machen.​«</quote>
 
-»​Ja,​« sagte Adrienne mit jener plötzlichen Selbsterniedrigung, die zuweilen weiblichem Trotz folgt und niemals wahrhaftig gemeint ist, »​ja, ich bin viel zu dumm und zu jung für Dich, und undankbar obenein.​«
+<quote>»​Ja,​«</quote><suspension> sagte Adrienne mit jener plötzlichen Selbsterniedrigung, die zuweilen weiblichem Trotz folgt und niemals wahrhaftig gemeint ist, </suspension><quote>»​ja, ich bin viel zu dumm und zu jung für Dich, und undankbar obenein.​«</quote>
 
 Er schüttelte wie in Ungeduld verzagend den Kopf.
 
-»​Vielleicht wird Dir in der langen Trennung begreiflich,​« sprach er, »​daß wir doch besser für einander passen und glücklicher mit einander sein können, als es jetzt scheinen will.​«
+<quote>»​Vielleicht wird Dir in der langen Trennung begreiflich,​« </quote><suspension>sprach er,</suspension> <quote>»​daß wir doch besser für einander passen und glücklicher mit einander sein können, als es jetzt scheinen will.​«</quote>
 
 Beide Gatten schwiegen einige Minuten, dann fragte Adrienne mit ermüdeter und gleichgiltiger Stimme, bis wann Arnold sein Gepäck an Bord haben müsse und ob Joachim vorher noch kommen solle.
 
-»​Nein,​« entschied der Kapitän nach kurzem Bedenken, »​abgesehen davon, daß wir in diesem Augenblick unnütze Ausgaben vermeiden müssen, weil ich für Dich und das Kind Umsiedlungspläne habe, zu denen Du Geld brauchst, abgesehen also davon, würde dem guten Jungen nur das Herz schwer werden, wenn er ...​«
+<quote>»​Nein,​« </quote><suspension>entschied der Kapitän nach kurzem Bedenken,</suspension> <quote>»​abgesehen davon, daß wir in diesem Augenblick unnütze Ausgaben vermeiden müssen, weil ich für Dich und das Kind Umsiedlungspläne habe, zu denen Du Geld brauchst, abgesehen also davon, würde dem guten Jungen nur das Herz schwer werden, wenn er ...​«</quote>
 
 Es wollte nicht heraus, dies: »​Wenn er sähe, wie frostig mein Weib mich eine Reise um die Erde antreten läßt.​«
 
@@ -63,7 +63,7 @@ Adrienne verstand aber die unausgesprochenen Gedanken ihres Gatten. Sie wußte, 
 
 »​Du solltest ihn doch kommen lassen. Wenn Du fort bist, kann ich mich leicht noch mehr einschränken und so das Geld, was die Reise kosten wird, schnell wieder sparen.​«
 
-»​Nein,​« meinte der Kapitän bedrückt, »​lassen wir das! Es ist mein Wunsch, daß Du während meiner Abwesenheit etwas mehr vom Leben siehst, als es bisher geschehen konnte. Du wirst meine Gage wie jetzt regelmäßig empfangen, die Kommandozulagen, welche wir auf Reisen beziehen, werden für meine Bedürfnisse genügen, Dir bleibt also, nach dem üblichen Abzug für Joachim, mein ganzer Gehalt, was sonst für mich, Dich und Baby reichen mußte, für euch allein, Du kannst Dich einigermaßen rühren.​«
+<quote>»​Nein,​«</quote><suspension> meinte der Kapitän bedrückt,</suspension><quote> »​lassen wir das! Es ist mein Wunsch, daß Du während meiner Abwesenheit etwas mehr vom Leben siehst, als es bisher geschehen konnte. Du wirst meine Gage wie jetzt regelmäßig empfangen, die Kommandozulagen, welche wir auf Reisen beziehen, werden für meine Bedürfnisse genügen, Dir bleibt also, nach dem üblichen Abzug für Joachim, mein ganzer Gehalt, was sonst für mich, Dich und Baby reichen mußte, für euch allein, Du kannst Dich einigermaßen rühren.​«</quote>
 
 »​O Arnold,​« sagte sie traurig, »​dann wollen wir doch lieber das, was jetzt weniger gebraucht wird, für Baby zurücklegen.​«
 
