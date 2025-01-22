@@ -515,7 +515,7 @@ Ich war eben im Begriff, das Fenster zu schließen, da kam es lautatmend um die 
 
 Ich wagte nicht, mich hinauszubiegen und ihr nachzusehen, hörte aber, wie sie gleich darauf stehen blieb, und ihre weitausgestreckten Arme kamen in das Bereich meiner Blicke.
 
-»​Denn das Feuer ist angegangen durch meinen Zorn,​« sprach sie mit erhobener Stimme in feierlich beschwörendem Pathos, »​und wird brennen bis in die unterste Hölle, und wird verzehren das Land mit seinem Gewächs, und wird anzünden die Grundfeste der Berge!​«
+<quote>»​Denn das Feuer ist angegangen durch meinen Zorn,​«</quote><suspension> sprach sie mit erhobener Stimme in feierlich beschwörendem Pathos,</suspension><quote> »​und wird brennen bis in die unterste Hölle, und wird verzehren das Land mit seinem Gewächs, und wird anzünden die Grundfeste der Berge!​«</quote>
 
 Langsam schritt sie unter den Eichen hin und trat in die Ecke des Baumhofes. Sie stand mir nicht allzu fern, und es war hell genug, ich konnte sie deutlich sehen – bildete doch der Himmel mit seinem Goldgefunkel einzig und allein den Hintergrund für die kräftigen Umrisse der Gestalt. Sie hatte das Obergewand abgeworfen, die weiten Hemdärmel hingen von den Schultern und schimmerten weiß herüber, und den Rücken hinab fielen halbaufgeflochten in vereinzelten Strähnen die langen Zöpfe.
 
@@ -567,7 +567,7 @@ Ich war aufgestanden und trat ihr zitternd um einen Schritt näher.
 
 »​Klein wie ihre Mutter,​« murmelte sie vor sich hin, »​und hat die großen Augen und ein kaltes, enges Herz – ihr ist ja auch das Wasser über der Stirne ausgegossen worden.​«
 
-»​Nein, Großmutter,​« sagte ich ruhig, »​ich habe kein kaltes Herz!​«
+<quote>»​Nein, Großmutter,​«</quote><suspension> sagte ich ruhig,</suspension><quote> »​ich habe kein kaltes Herz!​«</quote>
 
 Sie sah mich so erstaunt an, als habe sie bis dahin gemeint, das kleine Wesen könne nur singen und nicht sprechen, am allerwenigsten aber sie selbst anreden. Ilse zog sich hinter den Vorhang zurück und winkte mir angstvoll, zu schweigen; sie mochte durch mein unerwartetes Hervortreten einen Anlaß zu neuer Geistesstörung bei der Kranken fürchten. Aber meine Großmutter blieb vollkommen ruhig: ihre Augen hafteten unverwandt auf meinem Gesicht. Diese Augen, vor denen ich mich immer so entsetzlich gefürchtet, wenn sie im Vorüberlaufen unstät und irr über mich hinflackerten, waren sehr schön; über ihren dunklen Glanz breitete sich freilich ein unheimlicher Schleier, aber es lag Seele darin, bewußtes Denken.
 
@@ -627,7 +627,7 @@ Mit dem tiefsten Erbarmen in seinen milden Zügen trat ihr der alte Pfarrer näh
 
 Leise, wie er gekommen, verließ der Geistliche das Zimmer. Unwillkürlich folgte ich ihm. So gewiß mich das Gebaren meiner Großmutter überzeugt hatte, daß einst schwere Missethat an ihr verübt worden sei, so schmerzlich leid that mir der alte Mann, der in der Kirche seine Hand segnend auf meine Stirne gelegt hatte. Er war mild und gut, er gehörte nicht zu denen, die die unglückliche Tochter des Juden in die Nacht des Wahnsinns getrieben; er war willig und unverdrossen durch die Nacht geschr ten, der liebevolle Greis, um einer Kranken die Tröstungen der Kirche zu bringen.
 
-»​Herr Pfarrer,​« sagte Ilse draußen auf dem Fleet zu ihm, »​ihr dürfen Sie das nicht zurechnen, sie hat sich taufen lassen, und der's gethan hat, war gut und christlich wie Sie, und sie hat ehrlich zu Christo gehalten ... Da ist aber einer gekommen – er mag's verantworten – und hat geeifert und hat des Verfluchens und Verdammens kein Ende gewußt. Ja, da war das viele Unglück in der Familie immer und immer nur ein Strafgericht des Herrn! Und das hat ihr den Verstand genommen – er mag's verantworten!​«
+<quote>»​Herr Pfarrer,​«</quote><suspension> sagte Ilse draußen auf dem Fleet zu ihm,</suspension><quote> »​ihr dürfen Sie das nicht zurechnen, sie hat sich taufen lassen, und der's gethan hat, war gut und christlich wie Sie, und sie hat ehrlich zu Christo gehalten ... Da ist aber einer gekommen – er mag's verantworten – und hat geeifert und hat des Verfluchens und Verdammens kein Ende gewußt. Ja, da war das viele Unglück in der Familie immer und immer nur ein Strafgericht des Herrn! Und das hat ihr den Verstand genommen – er mag's verantworten!​«</quote>
 
 »​Ich rechte nicht mit ihr,​« entgegnete er sanft. »​Weiß ich doch leider zu gut, daß falscher Eifer im Weinberg des Herrn viel edle Frucht zerstört! ... Die Frau hat viel gelitten – Gott wird barmherzig sein! Mich schmerzt nur, daß ich nicht trösten durfte, wo ich es freudigen Herzens gekonnt hätte. Aber es widerstrebt mir, mit dem unerbetenen Beistand der Kirche auf eine Seele einzustürmen, die ohnehin im schweren Kampfe mit der Hülle.​« Er strich liebkosend mit der Hand über meinen Scheitel. »​Gehe hinein zu ihr, sie wird dich vermissen! ... Ich wollte, ich könnte allen Trost unseres Glaubens auf deine Lippen legen, auf daß der geängstigten Seele der wahre Friede werde.​«
 
@@ -675,7 +675,7 @@ Mir stürzte ein Thränenstrom aus den Augen, und Ilse flüchtete an ein Fenster
 
 »​Zünde an, Ilse!​« gebot sie, und während diese auf einen Stuhl stieg und Flämmchen um Flämmchen unter ihren Händen aufflackerten, wandte sich die Kranke zu dem Arzt.
 
-»​Ich danke Ihnen, daß Sie gekommen sind,​« sagte sie, »​und möchte Sie noch um einen letzten Liebesdienst bitten – würden Sie die Güte haben, niederzuschreiben, was ich diktieren werde?​«
+<quote>»​Ich danke Ihnen, daß Sie gekommen sind,​«</quote><suspension> sagte sie,</suspension><quote> »​und möchte Sie noch um einen letzten Liebesdienst bitten – würden Sie die Güte haben, niederzuschreiben, was ich diktieren werde?​«</quote>
 
 »​Von Herzen gern, gnädige Frau; aber falls es sich um einen letzten Willen handeln sollte, so muß ich darauf aufmerksam machen, daß er ungültig sein wird ohne gerichtliche –​«
 
@@ -785,7 +785,7 @@ Er sah ängstlich und unsicher auf. »​O je – nachts um Eins den Vogel fütt
 
 Ilse sah dem Sprecher scharf ins Auge. »​Jetzt paß auf!​« setzte sie kurz und resolut hinzu und trat ihm mit aufgehobenem Zeigefinger so nahe, daß er ängstlich zurückwich. »​Es ist ein für allemal nicht wahr, daß der Heiland von unserem Herrgott bis in alle Ewigkeit gerächt sein will! Wenn er das zuließe, nachher wär's aber auch aus und vorbei mit meinem Glauben, denn er hat uns geboten ›​Segnet, die euch fluchen​‹, und thät's selber nicht! ... Wenn ich Christi Leidensgeschichte lese, da hab' ich freilich allemal einen Heidenzorn auf die Juden, die dazumal gelebt haben ... Wie werd' ich denn so ein Unmensch sein und meinen Zorn an Leuten auslassen, die bis auf den heutigen Tag als unschuldige Kinder auf die Welt kommen und von ihren Eltern in der alten Lehre aufgezogen werden! ... He, Musje Heinz, wie gefiele dir denn das, wenn irgend ein Mensch mir etwas zuleide thäte und ich wollte seine Kinder dafür schlagen?​«
 
-»​Das ist lauter Studiertes!​« sagte Heinz kleinlaut, »​das hast du alles von der alten Frau gelernt –​«
+<quote>»​Das ist lauter Studiertes!​«</quote><suspension> sagte Heinz kleinlaut,</suspension><quote> »​das hast du alles von der alten Frau gelernt –​«</quote>
 
 »​Das hab' ich nicht gelernt, wie die Bibelsprüche in der Schule; das hat mir mein Gewissen und,​« sie deutete auf ihre Stirne, »​der gesunde Menschenverstand gesagt ... Gesprochen hab' ich freilich im Anfang viel mit meiner armen Frau, und es hat ein Wort das andere gegeben, und ich hab' sie manchmal beruhigt, wenn ›​die Leute im schwarzen Rock​‹ Unheil angerichtet hatten ... Die Juden haben den Heiland einmal gekreuzigt; aber solche, wie der Herr Pfarrer dort drüben,​« sie zeigte abermals nach dem Dorfe hinter dem Walde, »​die kreuzigen ihn alle Tage – Feuer und Schwert und Verfluchen und böse Worte, die machen das Reich Christi gar nicht fein, und ist es den Leuten nicht zu verdenken, wenn sie nicht hinein wollen! ... Da hast du meine Meinung, und nun sage ich noch zu dir selber: Pfui, schäme dich in dein Herz hinein, du undankbarer Mensch! Hast lange Jahre das Brot auf dem Dierkhof gegessen – und ich meine, es ist dir recht gut bekommen, das Judenbrot – und nun lässest du die alte Frau in ihrer Sterbestunde allein – geh heim, und lies das Kapitel vom barmherzigen Samariter!​«
 
@@ -815,7 +815,7 @@ Sie kam herein, sank auf einen Stuhl nieder und verhüllte die Augen mit ihrer S
 
 »​Ilse, war Christine an dem vielen Jammer schuld?​« fragte ich schüchtern.
 
-Sie sah mich scharf an. »​Ach so,​« sagte sie nach kurzem Besinnen, »​du hast's ja heute nacht mit angehört – nun, da magst du's wissen, sie hat so viel Jammer über deine Großmutter gebracht, wie es eben nur eine ungeratene Tochter kann.​«
+Sie sah mich scharf an. <quote>»​Ach so,​«</quote><suspension> sagte sie nach kurzem Besinnen,</suspension><quote> »​du hast's ja heute nacht mit angehört – nun, da magst du's wissen, sie hat so viel Jammer über deine Großmutter gebracht, wie es eben nur eine ungeratene Tochter kann.​«</quote>
 
 »​Ach, mein Vater hat eine Schwester?​« rief ich überrascht.
 
@@ -829,7 +829,7 @@ Sie sah mich scharf an. »​Ach so,​« sagte sie nach kurzem Besinnen, »​d
 
 »​Das Durchbrennen freilich – das solltest du doch selber wissen – was aber die Komödianten betrifft, da kenne ich keinen einzigen und kann nicht sagen, ob sie schlimm oder recht sind. – Bist du nun fertig?​«
 
-»​Ilse, sei nicht böse,​« sagte ich zögernd, »​aber eines möchte ich dir noch sagen – diese Christine ist doch sehr unglücklich, sie hat ihre Stimme verloren.​«
+<quote>»​Ilse, sei nicht böse,​«</quote><suspension> sagte ich zögernd,</suspension><quote> »​aber eines möchte ich dir noch sagen – diese Christine ist doch sehr unglücklich, sie hat ihre Stimme verloren.​«</quote>
 
 »​So – du hast den Brief gefunden und ihn gelesen, Leonore?​« fragte sie in ihrem eisigsten Tone.
 
@@ -1105,7 +1105,7 @@ Die Damen blieben grüßend zurück, und wir schritten in Begleitung des jungen 
 
 Es war nur ein kurzer Weg durch grüne, heimliche Dämmerung; aber ich ging ihn mit heftig pochendem Herzen. Ilse schritt tapfer voraus und wandte sich nicht um – kaum aber waren die hellen Mädchengestalten hinter dem Dickicht verschwunden, als sich der junge Herr rasch zu mir niederbog und mir tief und schelmisch in die unbewachten Augen sah.
 
-»​Zürnt mir Heideprinzeßchen noch?​« fragte er mit unterdrückter Stimme.
+<quote>»​Zürnt mir Heideprinzeßchen noch?​«</quote><suspension> fragte er mit unterdrückter Stimme.
 
 Ich schüttelte den Kopf – seltsam, daß ein paar halbgeflüsterte Worte einen bis ins tiefste Herz hinein erschauern machen konnten ...
 
@@ -1115,7 +1115,7 @@ In einer offenen Halle des Erdgeschosses hatten die Träger unser Gepäck nieder
 
 Erst im zweiten Stock machten wir Halt. Der junge Herr öffnete eine Thür, und wir traten ein, während er sich mit einer freundlichen Verbeugung zurückzog und die Thür hinter uns geräuschlos wieder schloß.
 
-Mich überfiel plötzlich eine tödliche Angst. Ich hatte daheim ganz richtig herausgefühlt, daß mein Vater mich nicht wolle, daß ich für ihn eine Last sei, die er am liebsten für immer in der Heide wissen möchte; und die Verwunderung über meine Existenz, die mir hier überall entgegentrat, bestätigte mir, daß er sein Kind nie auch nur mit einer Silbe erwähnt habe ... Und nun stand ich doch in seinem Zimmer, zudringlich über die Maßen, und sah mit erschreckten Augen in die Welt, in welcher er lebte und wirkte ... Wie fremd und unfaßlich erschien mir alles, was ich sah! Die Wände des weiten Saales, in welchen wir eingetreten, waren von unten bis hinauf zur Decke mit Büchern bedeckt, »​mit so vielen Büchern, wie Erikastengel auf der Heide standen​« meinte ich. Es blieb nur Raum für vier,  mit grünen Wollgardinen behangene Fenster und zwei Thüren. Die Thür linker Hand war weit zurückgeschlagen – ein zweiter Saal that sich auf, ein Saal mit Oberlicht. Durch eine weite und tiefe Kuppel inmitten des Plafonds strömten die Sonnengluten blendend herein auf hingestreckte, weiße Menschenglieder, auf eine drohend emporgereckte, keulenschwingende Menschengestalt, aber auch über liebliche Frauenbilder in faltenreichen, weich niedersinkenden Gewändern.
+Mich überfiel plötzlich eine tödliche Angst. Ich hatte daheim ganz richtig herausgefühlt, daß mein Vater mich nicht wolle, daß ich für ihn eine Last sei, die er am liebsten für immer in der Heide wissen möchte; und die Verwunderung über meine Existenz, die mir hier überall entgegentrat, bestätigte mir, daß er sein Kind nie auch nur mit einer Silbe erwähnt habe ... Und nun stand ich doch in seinem Zimmer, zudringlich über die Maßen, und sah mit erschreckten Augen in die Welt, in welcher er lebte und wirkte ... Wie fremd und unfaßlich erschien mir alles, was ich sah! Die Wände des weiten Saales, in welchen wir eingetreten, waren von unten bis hinauf zur Decke mit Büchern bedeckt,</suspension><quote> »​mit so vielen Büchern, wie Erikastengel auf der Heide standen​«</quote> meinte ich. Es blieb nur Raum für vier,  mit grünen Wollgardinen behangene Fenster und zwei Thüren. Die Thür linker Hand war weit zurückgeschlagen – ein zweiter Saal that sich auf, ein Saal mit Oberlicht. Durch eine weite und tiefe Kuppel inmitten des Plafonds strömten die Sonnengluten blendend herein auf hingestreckte, weiße Menschenglieder, auf eine drohend emporgereckte, keulenschwingende Menschengestalt, aber auch über liebliche Frauenbilder in faltenreichen, weich niedersinkenden Gewändern.
 
 In einer der Fensternischen des Büchersaales stand ein Schreibtisch; vor demselben saß ein Herr und schrieb. Er hatte unser Eintreten nicht bemerkt, denn während wir noch einen Augenblick regungslos an der Schwelle verharrten, hörten wir das unausgesetzte Kritzeln seiner Feder – es verursachte mir Nervenfrösteln ... Ich weiß nicht, war es die Seltsamkeit und Neuheit der Umgebung, oder dasselbe Gefühl, das mich packte – die Furcht vor meinem Vater – genug, Ilse, die stets schlagfertige rückhaltslos thatkräftige Ilse zögerte einen Moment; dann aber nahm sie entschlossen meine Hand und führte mich nach dem Fenster.
 
@@ -1225,7 +1225,7 @@ Der Diener glitt lautlos wieder hinaus.
 
 Ich mußte innerlich auflachen; aber ich hatte auch das Gefühl, als löse sich ein Druck von meiner Brust – ich fing an, meinen Vater zu verstehen. Er hatte seine Mutter und mich nicht vergessen aus Herzenskälte und Härte – er lebte nur in einer anderen Welt. Seiner Liebe war ich sicher, wenn nicht die Ferne zwischen uns trat, wenn ich bei ihm blieb ... Jetzt galt es vor allem, die ängstliche Scheu zu überwinden und nicht mehr vor der eigenen Stimme zurückzubeben.
 
-»​Vater,​« sagte ich so beherzt, wie nur je mein Vorbild Ilse, und deutete auf das schlafende Kind, während er, in fast lächerlicher Verlegenheit die Hände reibend, unsicheren Schrittes auf uns zukam, »​gelt, du lachst mich nicht aus? Ich meine, das Kind da müßte aufwachen, oder sein Händchen von dem Ast nehmen; das Blut steht ja drin.​«
+<quote>»​Vater,​«</quote><suspension> sagte ich so beherzt, wie nur je mein Vorbild Ilse, und deutete auf das schlafende Kind, während er, in fast lächerlicher Verlegenheit die Hände reibend, unsicheren Schrittes auf uns zukam,</suspension><quote> »​gelt, du lachst mich nicht aus? Ich meine, das Kind da müßte aufwachen, oder sein Händchen von dem Ast nehmen; das Blut steht ja drin.​«</quote>
 
 »​Ich dich auslachen, mein kleines Lorchen, weil du sofort meine Perle, mein Kleinod herausgefunden hast?​« rief er sichtlich erfreut. Er streichelte den gelblichen Marmor noch zärtlicher als vorhin meine Wange. »​Ja, sieh dir's nur recht an, Kind! Es ist eine herrliche That, es nähert sich der Meisterschaft Gottes selbst! ... Es existiert nur einmal in der Welt, nur hier, hier! ...  Welch ein Fund! ... Gott mag wissen, wie der Krämer dazu gekommen ist! ... In diesem Hause stecken unermeßliche Schätze, und wo habe ich sie gefunden, wo gerade dieses unschätzbare Stück erst vorgestern ans Tageslicht gezogen? Drunten im Souterrain, aus dunklen Ecken und Verschlägen, wo sie mindestens vierzig Jahre in Kisten verpackt und vergessen gestanden haben – ein nie zu entschuldigender Raub an der Wissenschaft! ... O, diese Krämerseelen!​«
 
@@ -1233,7 +1233,7 @@ Das alles klang freilich nicht, als spräche er zu mir, dem Kind der Heide, das 
 
 Ilse sah mich von der Seite an, als wollte sie sagen: »​So jetzt fängt die auch noch an​«; aber sie verschluckte jede Nebenbemerkung und schritt wie immer schnurstracks auf ihr Ziel los. Sie zeigte auf ihre dickbestaubten Schuhe.
 
-»​Das Leder brennt mir an den Füßen,​« sagte sie, »​und wenn ich ein Glas frisches Wasser hätte, da wär' ich froh, Herr Doktor.​«
+<quote>»​Das Leder brennt mir an den Füßen,​«</quote><suspension> sagte sie,</suspension><quote> »​und wenn ich ein Glas frisches Wasser hätte, da wär' ich froh, Herr Doktor.​«</quote>
 
 Er lächelte, verschloß seinen Schreibtisch und führte uns hinab in das Erdgeschoß. Wir sahen vorübergehend durch eine offene Thür in ein Zimmer; da stand ein hübsches Stubenmädchen in weißer Latzschürze und wischte die Möbel ab.
 
@@ -1489,7 +1489,7 @@ Ich hatte mich längst hinter Ilse geflüchtet.
 
 Charlottens scharfes Ohr hatte die Worte aufgefangen.
 
-»​Onkel,​« sagte sie, wie ein Kobold in sich hinein lachend, »​vor vier Wochen hat dich eine junge Dame in der Lüneburger Heide gesehen und will nun zu dem ›​alten, uralten Herrn Claudius​‹ –​«
+<quote>»​Onkel,​«</quote><suspension> sagte sie, wie ein Kobold in sich hinein lachend,</suspension><quote> »​vor vier Wochen hat dich eine junge Dame in der Lüneburger Heide gesehen und will nun zu dem ›​alten, uralten Herrn Claudius​‹ –​«</quote>
 
 »​Ach, das ist ja schließlich ganz egal, ob es der Herr ist oder nicht, den die Kleine gesehen hat,​« fiel Ilse resolut ein. »​Ich will mit Herrn Claudius sprechen, und der sind Sie doch?​«
 
@@ -1499,7 +1499,7 @@ Und nun begann Ilse abermals ihren Bericht. Sie mußte ihn eingelernt haben, wie
 
 Währenddem steckte ich hinter den Damen und betrachtete mir den Herrn genauer. Er hatte die schlanke, feingebaute Gestalt des alten Herrn im braunen Hut und auch seine Stimme; aber  das war ja unmöglich dessen Kopf. Ueber der jugendlich glatten Stirne lag ein Streifen dicker, aschblonder Haarwellen und Ringel, die allerdings im schrägeinfallenden Licht einen intensiven Silberschein annahmen. Auffallend erschienen unter diesem mattglänzenden Haar die dunklen Brauen. Fest und kühn die blauen Augen überwölbend, gaben sie dem blassen, vornehmen, wenn auch nicht gerade schöngebildeten Gesicht einen Zug von Kraft ... Ich sah, wie sich allmählich eine kleine Falte zwischen ihnen vertiefte – Ilses Vortrag mißfiel ihm offenbar, er hatte nicht die mindeste Lust, sich mit der Sache zu befassen; hier und da warf er einen Seitenblick auf den neben ihm liegenden, aufgeschlagenen Folianten; man sah, es war ihm fatal, gestört worden zu sein, wenn er sich auch höflicherweise Mühe gab, eine aufmerksame Haltung zu zeigen.
 
-»​Ich kann Ihnen nur raten,​« sagte er kühl, als Ilse eine Pause machte, um Atem zu schöpfen, »​die junge Dame so bald wie möglich in einem Institut unterzubringen –​«
+<quote>»​Ich kann Ihnen nur raten,​«</quote><suspension> sagte er kühl, als Ilse eine Pause machte, um Atem zu schöpfen,</suspension><quote> »​die junge Dame so bald wie möglich in einem Institut unterzubringen –​«</quote>
 
 »​Nein, Onkel!​« unterbrach ihn Charlotte. »​Es wäre grausam, das junge, scheue Geschöpfchen, das bis jetzt die ungebundenste Freiheit genossen hat, in diese Maschinen, diese Schablonen zu pressen! Das Leben im Institut ist schrecklich!​«
 
@@ -1643,7 +1643,7 @@ Er bog lächelnd den Kopf weg, und ich begann eifrig weiter zu schreiben – es 
 
 Da ging die Thür auf und der junge Herr trat eilig herein. Die feuerfarbene Nelke sprühte zu mir herüber wie ein Glutball – ich ließ die Feder fallen und legte die Hand über die Augen; mir war, als drehe sich die ganze Welt vor mir im Kreise.
 
-»​Onkel,​« rief er hastig, »​ich bin mit dem Grafen Zell einig über den Preis – nur fünf Louisdor mehr, als du angenommen ... Ist dir's recht? Und willst du Darling nicht einmal ansehen? Ich habe ihn in den Hof bringen lassen.​«
+<quote>»​Onkel,​«</quote><suspension> rief er hastig,</suspension><quote> »​ich bin mit dem Grafen Zell einig über den Preis – nur fünf Louisdor mehr, als du angenommen ... Ist dir's recht? Und willst du Darling nicht einmal ansehen? Ich habe ihn in den Hof bringen lassen.​«</quote>
 
 »​Herr Helldorf hat dich gegrüßt, Dagobert,​« sagte Herr Claudius statt aller Antwort und zeigte auf den jungen Kommis.
 
@@ -1681,7 +1681,7 @@ Ich stieg vom Fenstertritt herunter und legte meine Arme um Ilses Hals – ihr f
 
 Sie löste meine Arme von ihrem Halse, nahm meine Hand in ihre Rechte und wollte das Zimmer verlassen.
 
-»​Halt!​« rief Herr Claudius, der sich unterdessen an seinen Schreibtisch gesetzt hatte und die Feder über das Papier fliegen ließ, »​wollen Sie Fräulein von Sassens Vermögen ohne alle Bescheinigung in meinen Händen lassen?​«
+<quote>»​Halt!​«</quote><suspension> rief Herr Claudius, der sich unterdessen an seinen Schreibtisch gesetzt hatte und die Feder über das Papier fliegen ließ,</suspension><quote> »​wollen Sie Fräulein von Sassens Vermögen ohne alle Bescheinigung in meinen Händen lassen?​«</quote>
 
 Jetzt wurden Ilses Wangen heiß wie die Bratäpfel. Sie schämte sich, so alle Vorsicht aus den Augen gesetzt zu haben, sie, die Besonnene, die »​den Kopf stets oben behielt​«.
 
@@ -1719,7 +1719,7 @@ Unterdes hatte sich Dagobert auf den Rücken des Pferdes geschwungen, und plötz
 
 Wie verschwanden alle die Männer, die umhergestanden, selbst der auffallend schöne junge Helldorf nicht ausgenommen, vor dem Tankred dort mit dem kastanienbraunen Gelock! ... Nur an dem jähen Aufschießen einer hellen Purpurröte über die Wangen des Reiters hin sah man, daß das Pferd insgeheim Widerstand leiste, die elastische Gestalt des ersteren ließ keine erhöhte Kraftanstrengung merken.
 
-»​Onkel,​« rief er herüber, »​verzeihe Darling seine Unart um seiner herrlichen Eigenschaften willen! ... Ist er nicht prächtig? Sieh ihn dir an! Mit seinem zierlich elastischen Bau, dem kleinen  Köpfchen auf dem schlanken Halse, fein wie eine graziöse Dame, hat er Mut und Feuer wie ein Held ... Onkel, sein Besitz macht mich zu glücklich!​«
+<quote>»​Onkel,​«</quote><suspension> rief er herüber,</suspension><quote> »​verzeihe Darling seine Unart um seiner herrlichen Eigenschaften willen! ... Ist er nicht prächtig? Sieh ihn dir an! Mit seinem zierlich elastischen Bau, dem kleinen  Köpfchen auf dem schlanken Halse, fein wie eine graziöse Dame, hat er Mut und Feuer wie ein Held ... Onkel, sein Besitz macht mich zu glücklich!​«</quote>
 
 »​Das thut mir sehr leid, Dagobert; denn ich kaufe ihn nicht ... Der Herr Graf mag ihn selbst reiten!​« sagte Herr Claudius bedauerlich, aber sehr fest, und ging, den angerichteten Schaden zu besehen.
 
@@ -1791,7 +1791,7 @@ Unterdes war auch Ilse, hinter uns her, die Treppe heraufgekommen und schalt mic
 
 »​Das ist ja eine schöne Geschichte, die das greuliche Tier angerichtet hat!​« sagte sie ganz entrüstet. »​Zwei von den großen teuren Glasscheiben sind total zerschlagen, und einen großen Baum hat es mit dem einen Tritt auch umgeworfen – die schönen roten Blumen liegen wie hingeschneit an der Erde herum ... Und da ist der Mann mäuschenstill und sagt kein Wort – das hätte mir passieren sollen!​«
 
-»​Onkel Erich hat Kamelien genug,​« sagte Charlotte leichthin und spöttisch, »​die paar abgeknickten Blüten zählen nicht! ... Uebrigens glauben Sie ja nicht, daß auch nur eine einzige unbezahlt bleibt; die werden auf Draht gesteckt und kommen in die Bouquets, die auf heute abend zu einem Bürgerball massenhaft bestellt sind. Bei uns kommt nichts um – darauf können Sie sich verlassen.​«
+<quote>»​Onkel Erich hat Kamelien genug,​«</quote><suspension> sagte Charlotte leichthin und spöttisch,</suspension><quote> »​die paar abgeknickten Blüten zählen nicht! ... Uebrigens glauben Sie ja nicht, daß auch nur eine einzige unbezahlt bleibt; die werden auf Draht gesteckt und kommen in die Bouquets, die auf heute abend zu einem Bürgerball massenhaft bestellt sind. Bei uns kommt nichts um – darauf können Sie sich verlassen.​«</quote>
 
 Sie öffnete die Thür des Bibliothekzimmers, ich aber drängte mich neben ihr hinein und lief nach der Fensterecke, wo mein Vater arbeitete. Nein, sie durfte es nicht sehen, wie er so lächerlich auffuhr von seiner Schreiberei und so hilf- und verständnislos in die Welt hineinsah! Sie durfte nicht lachen, ich litt es nicht!
 
@@ -1991,7 +1991,7 @@ Der alte Herr schreckte empor – nie werde ich den Ausdruck von eisigem Hohn ve
 
 »​Ach, sieh da! Die Komödie ist vortrefflich gelungen! ... Man weiß ja seine Kinder recht gut zu verwenden und abzurichten!​« Er stieß das Kind von sich, daß es taumelte.
 
-Die Frau fuhr zu und fing es in ihren Armen auf. »​Vater,​« sagte sie und hob warnend den Zeigefinger, und ein fast aberwitziges  Lächeln zog die Oberlippe von den Zähnen zurück, »​mir hast du alles anthun dürfen, mich darfst du mit Füßen treten – ich leide es willig; aber mein Kind darfst du mir nicht mit deiner harten Hand berühren – das wagst du nicht wieder!​«
+Die Frau fuhr zu und fing es in ihren Armen auf. <quote>»​Vater,​«</quote><suspension> sagte sie und hob warnend den Zeigefinger, und ein fast aberwitziges  Lächeln zog die Oberlippe von den Zähnen zurück,</suspension><quote> »​mir hast du alles anthun dürfen, mich darfst du mit Füßen treten – ich leide es willig; aber mein Kind darfst du mir nicht mit deiner harten Hand berühren – das wagst du nicht wieder!​«</quote>
 
 Sie nahm die Kleine, von deren blaßgewordenen Lippen kein Laut mehr kam, auf ihren Arm.
 
@@ -2013,7 +2013,7 @@ Er sandte der Davoneilenden einen tief erbitterten Blick nach und trat mir plöt
 
 Ich stand da wie gelähmt vor Bestürzung, ich konnte weder Hand noch Fuß rühren ... O Gott, und nun bekam dieser Entsetzliche auch noch einen Helfershelfer! – Dicht neben mir stand plötzlich, wie aus der Erde gehoben, Herr Claudius; er mußte aus dem Dickicht getreten sein. Ich sah zu ihm empor; er hatte die schreckliche blaue Brille vor den Augen und sah dadurch noch viel blässer aus, als neulich im Kontor ... Der verzieh es mir sicher niemals, daß ich unerlaubterweise seine Gartenthür geöffnet und Fremde hereingebracht hatte ... Jetzt hielten diese zwei unerbittlich strengen und hartherzigen Krämer Gericht über mich, und ich konnte nicht entfliehen – ich stand ihnen wehrlos gegenüber ... Ob ich nicht doch einen Versuch machte, Ilse oder meinen Vater herbeizurufen?
 
-»​Herr Claudius,​« sagte der Buchhalter, merkwürdigerweise sehr frappiert durch das unerwartete Hervortreten des Besitzers selbst, in herabgestimmtem Ton, »​Sie sehen mich in großer Aufregung. Ich kam auf meinem gewöhnlichen Sonntagsspaziergang hierher, da –​«
+<quote>»​Herr Claudius,​«</quote><suspension> sagte der Buchhalter, merkwürdigerweise sehr frappiert durch das unerwartete Hervortreten des Besitzers selbst, in herabgestimmtem Ton,</suspension><quote> »​Sie sehen mich in großer Aufregung. Ich kam auf meinem gewöhnlichen Sonntagsspaziergang hierher, da –​«</quote>
 
 »​Ich habe den Vorfall in seinem ganzen Verlaufe hinter dem Gebüsch mit angesehen,​« unterbrach ihn Herr Claudius ruhig.
 
@@ -2269,7 +2269,7 @@ In der vierten Nachmittagsstunde trat das hübsche Stubenmädchen,  das bei Char
 
 »​Fräulein Claudius schickt mich – ich soll Anprobe halten,​« sagte sie und kramte den Korb aus. Währenddem versicherte sie Ilse, daß es heute »​ein Tag zum Davonlaufen​« im Vorderhause sei.
 
-»​Denken Sie sich,​« sagte sie, »​wir haben Herrendiner. Alles ist auf den Beinen und läuft und rennt – da befiehlt auf einmal in aller Frühe Herr Claudius – werden Sie's wohl glauben? – daß die Schreibstube nach dem Hofe zu verlegt werden soll, und zwar sofort – unsere sämtlichen Männer wollten auf den Köpfen stehen! Ich bitte Sie, die Schreibstube, in der alle Claudius weit über hundert Jahre gearbeitet haben! Und keiner hat gewagt, auch nur einen Schrank anders zu stellen, und nun auf einmal werden alle die bröckeligen, morschen Sachen behutsam aus der alten dunklen Stube in eine sonnenhelle getragen – die werden sich schön wundern! ... Und grüne Vorhänge hat der Tapezierer sofort aufstecken müssen, weil es gar zu hell ist und Herr Claudius mit seinen schwachen Augen das Licht nicht vertragen kann ... Darauf mache sich einer einen Vers – niemand im Hause kann's; aber der alte Erdmann geht ganz blaß herum und meint, das deute aus den Untergang der Welt.​«
+<quote>»​Denken Sie sich,​«</quote><suspension> sagte sie,</suspension><quote> »​wir haben Herrendiner. Alles ist auf den Beinen und läuft und rennt – da befiehlt auf einmal in aller Frühe Herr Claudius – werden Sie's wohl glauben? – daß die Schreibstube nach dem Hofe zu verlegt werden soll, und zwar sofort – unsere sämtlichen Männer wollten auf den Köpfen stehen! Ich bitte Sie, die Schreibstube, in der alle Claudius weit über hundert Jahre gearbeitet haben! Und keiner hat gewagt, auch nur einen Schrank anders zu stellen, und nun auf einmal werden alle die bröckeligen, morschen Sachen behutsam aus der alten dunklen Stube in eine sonnenhelle getragen – die werden sich schön wundern! ... Und grüne Vorhänge hat der Tapezierer sofort aufstecken müssen, weil es gar zu hell ist und Herr Claudius mit seinen schwachen Augen das Licht nicht vertragen kann ... Darauf mache sich einer einen Vers – niemand im Hause kann's; aber der alte Erdmann geht ganz blaß herum und meint, das deute aus den Untergang der Welt.​«</quote>
 
 Ich hörte nur mit halbem Ohr hin – was kümmerte mich denn die Schreibstube des Herrn Claudius? ... Meine Augen verschlangen die Wunderdinge, die sich unter den Händen der Sprecherin entfalteten. Auch Ilse verfolgte jeden Gegenstand mit prüfenden Blicken, und ihre Finger zogen und zupften zu meinem Schrecken an dem leichten Stoff des Kleides, inwieweit er wohl haltbar sei; als aber die Zofe schließlich ein Paar wunderkleiner schwarzer Atlasstiefelchen mit spitzen Fingern vom Boden des Korbs aufnahm und mir lächelnd vor die Augen hielt, da verließ sie, ohne ein Wort zu sagen, das Zimmer.
 
@@ -2281,7 +2281,7 @@ Heute graute mir nicht vor dem Vorderhause. Ich rannte die gewundene Steintreppe
 
 Seine Fenster gingen nach Hof und Garten hinaus, und wenn auch durch dunkle Tapeten und schwere braune Damastgardinen abscheulich verdüstert, war es doch das freundlichste im ganzen Hause. Ein prachtvoller Flügel stand an der Wand mir gegenüber; Charlotte saß davor, und ihre Hände lagen auf den Tasten, als wolle sie eben beginnen, zu spielen. Nicht weit von ihr saß Fräulein Fliedner im perlgrauen Seidenkleid und duftigen Blondenhäubchen – weiter sah ich nichts.
 
-»​Ach, Fräulein Charlotte,​« rief ich, »​sehen Sie mich doch nur an! ... Was sagen Sie denn nur?​« – Ich faßte eine der abstehenden Aermelbauschen. – »​Ist's nicht, als hätte ich Flügel, wirkliche Flügel? ... Ach, und die Schuhe – nein, die Schuhe müssen Sie sich ansehen!​« – Ich hob leicht den Saum des Kleides und ließ den Atlas im Licht spiegeln. »​Nun geht's nicht mehr ›​trab, trab​‹, wie in meinen schrecklichen Nägelschuhen! ... Passen Sie auf, ob Sie auch nur einen Laut hören, wenn ich über die Dielen gehe.​« – Mit festem Schritt, wie ein Soldat, marschierte ich auf sie zu. – »​Nicht wahr, nun bin ich nicht mehr die lächerlich herausstaffierte Kindergestalt, wie Herr Eckhof sagt?​«
+<quote>»​Ach, Fräulein Charlotte,​«</quote><suspension> rief ich,</suspension><quote> »​sehen Sie mich doch nur an! ... Was sagen Sie denn nur?​«</quote> – Ich faßte eine der abstehenden Aermelbauschen. – »​Ist's nicht, als hätte ich Flügel, wirkliche Flügel? ... Ach, und die Schuhe – nein, die Schuhe müssen Sie sich ansehen!​« – Ich hob leicht den Saum des Kleides und ließ den Atlas im Licht spiegeln. »​Nun geht's nicht mehr ›​trab, trab​‹, wie in meinen schrecklichen Nägelschuhen! ... Passen Sie auf, ob Sie auch nur einen Laut hören, wenn ich über die Dielen gehe.​« – Mit festem Schritt, wie ein Soldat, marschierte ich auf sie zu. – »​Nicht wahr, nun bin ich nicht mehr die lächerlich herausstaffierte Kindergestalt, wie Herr Eckhof sagt?​«
 
 »​Nein, Heideprinzeßchen, nein!​« rief sie. »​Wer hätte denn gedacht, daß in der schwarzen Puppe solch ein Schmetterling stecke?​«
 
@@ -2327,7 +2327,7 @@ Das war »​der prachtvolle Offizier​«, wie Charlotte ihn genannt hatte, der
 
 Er wich mit rotüberströmtem Gesicht zurück, und seine Augen schossen Blitze.
 
-»​Kind, an was rühren Sie da!​« sagte er finster. »​Ich werde diese unberufenen Zungen denn doch bitten müssen, sich ein wenig zu menagieren!​« Er schwieg einen Augenblick und heftete sein Auge auf das Gesicht des Bruders. »​Nein,​« sagte er dann milder, »​es ist nicht in der Karolinenlust geschehen – ängstigt Sie der Gedanke?​«
+<quote>»​Kind, an was rühren Sie da!​«</quote><suspension> sagte er finster. »​Ich werde diese unberufenen Zungen denn doch bitten müssen, sich ein wenig zu menagieren!​« Er schwieg einen Augenblick und heftete sein Auge auf das Gesicht des Bruders. »​Nein,​« sagte er dann milder,</suspension><quote> »​es ist nicht in der Karolinenlust geschehen – ängstigt Sie der Gedanke?​«</quote>
 
 »​Ich – ich fürchte mich vor den Gespenstern und Heinz auch, und Ilse, die sagt's nur nicht!​«
 
@@ -2389,7 +2389,7 @@ Er verstummte; denn der Herr mit seinem Kästchen unter dem Arm, der gestern sch
 
 »​Ich – muß davon absehen –​«
 
-»​Vater,​« sagte ich rasch, »​ich verschaffe dir, was du brauchst!​«
+<quote>»​Vater,​«</quote><suspension> sagte ich rasch,</suspension><quote> »​ich verschaffe dir, was du brauchst!​«</quote>
 
 »​Du, mein kleines Mädchen? ... Wie wolltest du denn das anfangen?​«
 
@@ -2541,7 +2541,7 @@ Während des letzten Bibelspruchs schlug er klirrend ein Fenster um das andere z
 
 Mein Vater schüttelte ironisch lächelnd den Kopf.
 
-»​Das ist auch so ein diktatorisches Päpstlein,​« sagte er zu dem Fremden, »​einer jener Beschränkten, die sich zum Skandal breit machen dürfen mit ihrem leeren Kopf, weil die Reaktion den Gedanken verfemt ... Mit welch staunendem Hohne wohl die nächsten Jahrhunderte auf diese entstellenden und zärtlich gehätschelten Sonnenflecke unserer Zeit zurückblicken werden!​«
+<quote>»​Das ist auch so ein diktatorisches Päpstlein,​«</quote><suspension> sagte er zu dem Fremden,</suspension><quote> »​einer jener Beschränkten, die sich zum Skandal breit machen dürfen mit ihrem leeren Kopf, weil die Reaktion den Gedanken verfemt ... Mit welch staunendem Hohne wohl die nächsten Jahrhunderte auf diese entstellenden und zärtlich gehätschelten Sonnenflecke unserer Zeit zurückblicken werden!​«</quote>
 
 Wie dauerten mich die armen jungen Geschöpfe in der Hinterstube! Ihnen waren auch die Flügel grausam verschnitten worden; in ihrer Seele hatten sie freilich keine Spur »​des wilden Elementes​« mehr; dafür waren sie aber auch Gefangene ohne allen Willen. Sie duckten mäuschenstill die Köpfe, und ließen es geschehen, daß man ihnen auch noch die frische Luft entzog, weil sie verbotene Klänge zu ihnen getragen hatte ... Und der unheimliche Morgensänger war es, der ihnen die Flügel stutzen und sie bewachen mußte ... O Herr Claudius, ich machte Ihnen ganz gewiß mehr Mühe! Ich konnte laufen wie ein Hase, und wenn ich hier nirgends ein rettendes Dach fand, unter das ich den Kopf stecken konnte, da ging es eines schönen Tages wieder dahin zurück, wo ich hergekommen ... Es mußte ja nicht gerade der Dierkhof sein, wo Ilse mich scheltend empfing – ich schlüpfte in die kleine Lehmhütte mit den flaschengrünen Fensterlein, da aß ich mit Heinz Buchweizengrütze und flog lachend mit meinen unbeschnittenen Flügeln über die Heide hin ...
 
@@ -2581,7 +2581,7 @@ Schon während meiner Mitteilungen hatten zwei Lakaien geräuschlos einen vollst
 
 Er schlug die Augen gen Himmel und berührte Daumen und Zeigefinger küssend mit den Lippen ... Ich war ganz bestürzt. Diese Menschenspezies war mir so völlig neu, wie ein Bewohner von Otahaiti. Nur die ziemlich tiefe Stimme und zwei am Kinn sorgfältig gescheitelte Bartstreifen erregten mein Bedenken, sonst hätte ich darauf geschworen, es sei eine Hofdame im Frack.
 
-»​Mein bester Herr von Wismar,​« sagte die Prinzessin mit unterdrücktem Lachen, »​in früheren Zeiten habe ich mich allerdings zuweilen der Sünde schuldig gemacht, mit einer sehr schwachen und sehr mittelmäßigen Singstimme meine Umgebung zu langweilen – daran sollten Sie mich doch nicht erinnern, ich habe es ja zu sühnen gesucht, indem ich beizeiten aufgehört ... Uebrigens sehe ich mit großer Befriedigung, daß meine musikalischen Missethaten glücklich vergessen sind, denn unser edler Kammerherr läßt meinen tiefen Alt frischweg zum glockenhellen Sopran, den armen Hänfling zur Nachtigall avancieren – Sidonie hat schön gesungen – ich niemals!​«
+<quote>»​Mein bester Herr von Wismar,​«</quote><suspension> sagte die Prinzessin mit unterdrücktem Lachen,</suspension><quote> »​in früheren Zeiten habe ich mich allerdings zuweilen der Sünde schuldig gemacht, mit einer sehr schwachen und sehr mittelmäßigen Singstimme meine Umgebung zu langweilen – daran sollten Sie mich doch nicht erinnern, ich habe es ja zu sühnen gesucht, indem ich beizeiten aufgehört ... Uebrigens sehe ich mit großer Befriedigung, daß meine musikalischen Missethaten glücklich vergessen sind, denn unser edler Kammerherr läßt meinen tiefen Alt frischweg zum glockenhellen Sopran, den armen Hänfling zur Nachtigall avancieren – Sidonie hat schön gesungen – ich niemals!​«</quote>
 
 Der »​edle Kammerherr​« stand sehr verdutzt da. Das lange Gesicht war mir zu ergötzlich – ich kicherte in mich hinein, wie ich ja auch immer gethan hatte, wenn Heinz verblüfft vor einer ungeahnten Wendung stand.
 
@@ -2639,7 +2639,7 @@ Sie glaubte mir nicht – wie mich das verdroß! Der ganze Groll von vorhin übe
 
 »​Halt, mein Kind,​« unterbrach mich die Prinzessin, »​das muß ich widerlegen! Die Armen unserer Stadt haben keinen besseren Freund, wenn er auch vielleicht in etwas bizarrer Weise gibt und wirkt, und konsequent seine Unterschrift auf Kollektenlisten und dergleichen verweigert.​«
 
-Ich schwieg einen Augenblick betroffen. »​Aber er ist hartherzig und kalt wie ein Eiszapfen gegen – gegen Charlotte,​« sagte ich dann rasch, »​und alles will er besser wissen, als andere.​«
+Ich schwieg einen Augenblick betroffen. <quote>»​Aber er ist hartherzig und kalt wie ein Eiszapfen gegen – gegen Charlotte,​«</quote><suspension> sagte ich dann rasch,</suspension><quote> »​und alles will er besser wissen, als andere.​«</quote>
 
 »​Ein hübsches Sündenregister!​« lachte der Kammerherr. »​Uebrigens hat der Mann vor kurzem gezeigt, daß er wirklich manchmal etwas besser versteht, als andere,​« wandte er sich an die Prinzessin. »​Unser schlauer Graf Zell ist endlich auch einmal zu unser aller Genugthuung gründlich düpiert worden; sein Darling, den er von seiner letzten Reise mitgebracht hat, ist ein Prachtstück an Schönheit und Eleganz, aber eine heimtückische Bestie. Manche behaupten, es sei ein Zirkuspferd, es hat so absonderliche Gewohnheiten. Zell mochte es gar zu gern wieder los sein; in unserem Kreise hat natürlicherweise keiner angebissen, aber man war in Rücksicht auf Zell diskret, um andere nicht kopfscheu zu machen ... Der junge Lieutenant Claudius war denn auch Feuer und Flamme, einige gute Freunde Zells hatten ihm die Acquisition sehr plausibel gemacht, der Herr Onkel aber hat Darling angesehen und – gedankt, sehr zum Besten des jungen Mannes, denn vor einer Stunde hat das Tier den Sohn des Bankiers Tressel, der es gekauft und ein ganz respektabler Reiter sein soll, abgeworfen und ihn obendrein mit seinen Hufen übel zugerichtet.​«
 
@@ -2673,7 +2673,7 @@ Er hatte wieder ein sehr echauffiertes Gesicht. Mit einem förmlichen Haß sah i
 
 Ich sah, wie fast unausgesetzt ein nervöses Zucken durch die  Züge meines Vaters lief, er dauerte mich unbeschreiblich. Ich konnte mir recht gut denken, welche Qual es ihm verursachen müsse, zu sehen, wie die heißgewünschten Schätze unter allgemeiner Bewunderung von Hand zu Hand gingen, als das rechtmäßig erworbene Eigentum eines anderen ... Die Bitterkeit gegen den, der ihn in seiner »​Krämerweisheit​« zu dieser Entsagung verurteilt, machte abermals meine ganze Seele rebellisch und ließ mich alle Zurückhaltung vergessen.
 
-»​Sehen Sie,​« sagte ich halblaut zu der Prinzessin, welche eben die prächtige Kaisermünze entzückt betrachtete, »​das hat Herr Claudius auch besser wissen wollen, er behauptet, das Medaillon da sei unecht!​«
+<quote>»​Sehen Sie,​«</quote><suspension> sagte ich halblaut zu der Prinzessin, welche eben die prächtige Kaisermünze entzückt betrachtete,</suspension><quote> »​das hat Herr Claudius auch besser wissen wollen, er behauptet, das Medaillon da sei unecht!​«</quote>
 
 Der Herzog fuhr herum, und sein durchbohrender Blick heftete sich zu meinem Schrecken halb überrascht, halb zürnend auf mein Gesicht.
 
@@ -2993,7 +2993,7 @@ So kam ein schwerer, ein entsetzlich gefürchteter Tag heran – er streute das 
 
 Nun brachte sie die Schachtel mit den Perlen, die mir meine Großmutter geschenkt hatte.
 
-»​Da, Kind,​« sagte sie, während sie mir die Schnur um den entblößten Nacken legte, »​die Prinzessin kann's wissen, daß du nicht gar zu arm zu deinem Vater gekommen bist – ich weiß, was für ein Heidengeld in solchen Dingern steckt, hab's manchmal mit ansehen müssen, wenn meine arme Frau Stück für Stück aus der Jakobsohnschen Erbschaft verkauft hat.​«
+<quote>»​Da, Kind,​«</quote><suspension> sagte sie, während sie mir die Schnur um den entblößten Nacken legte,</suspension><quote> »​die Prinzessin kann's wissen, daß du nicht gar zu arm zu deinem Vater gekommen bist – ich weiß, was für ein Heidengeld in solchen Dingern steckt, hab's manchmal mit ansehen müssen, wenn meine arme Frau Stück für Stück aus der Jakobsohnschen Erbschaft verkauft hat.​«</quote>
 
 Der Hut wurde hastig aufgesetzt, das große Wolltuch von der Schulter herab verhüllend über das Kistchen gezogen, das sie unter den linken Arm genommen hatte – dann schritt sie mit mir, ohne sich noch einmal umzusehen, nach dem Vorderhause. Ich hielt ihre Rechte und drückte sie an meine Brust und ging willenlos nebenher. Nur in der Hausflur fuhr ich zurück; denn Ilse ging nicht in Fräulein Fliedners Zimmer – auf ihr Befragen zeigte ihr der alte Erdmann die sogenannte »​neue Schreibstube des Herrn​«.
 
@@ -3465,7 +3465,7 @@ Das fiel mir wieder ein, als Emma, das Stubenmädchen, mir eines Tages abermals 
 
 In Fräulein Fliedners Zimmer legte ich Mantel und Kapuze ab.
 
-»​Kindchen,​« sagte die alte Dame ein klein wenig verlegen  und zog meinen Kopf an ihre Brust, »​wenn es einmal in Ihrer Kasse nicht stimmen sollte – nicht wahr, dann kommen Sie zu mir?​«
+<quote>»​Kindchen,​«</quote><suspension> sagte die alte Dame ein klein wenig verlegen  und zog meinen Kopf an ihre Brust,</suspension><quote> »​wenn es einmal in Ihrer Kasse nicht stimmen sollte – nicht wahr, dann kommen Sie zu mir?​«</quote>
 
 Ich erschrak – Emma hatte geplaudert; aber nun wollte ich erst recht nicht meine Verlegenheit eingestehen – ich schämte mich im Namen meines Vaters. Was half es mir auch, wenn sie mir Geld lieh? Es mußte doch zurückgezahlt werden ... Ich dankte ihr herzlich und ging ziemlich festen Schrittes nach dem Kontor – zum erstenmal, seit Ilse fort war.
 
@@ -3789,9 +3789,9 @@ Mein Vater wich zurück, als kämen aus dem Samtmantel der wunderschönen Frau d
 
 »​Nein, gehe nicht, mein süßes Kind! Sei barmherzig und hilf mir ihn überzeugen, daß ich schuldlos bin! ... Ja, du bist Lenore! ... O ihr süßen, wonnigen Augen!​« Sie zog mich in ihre Arme und küßte mich auf die Lider – der weiche Samtmantel fiel über mich her; ein köstlicher Veilchenduft entströmte ihrem Busen und berauschte mich förmlich.
 
-Mit harter Hand riß mich mein Vater von ihr los. »​Bethöre mir mein unschuldiges Kind nicht!​« rief er heftig und führte mich hinaus.
+Mit harter Hand riß mich mein Vater von ihr los.»​Bethöre mir mein unschuldiges Kind nicht!​«rief er heftig und führte mich hinaus.
 
-Ich ging die Treppe hinab und kauerte mich auf der untersten Stufe wie betäubt nieder ... Das war also meine Tante Christine, »​der Schandfleck der Familie​«, wie sie Ilse, »​der Stern​«, wie sie sich selbst genannt hatte! ... Ein Stern war sie, diese hinreißend schöne Frau! ... Alles, was ich an weiblicher Lieblichkeit bis jetzt gesehen, es erblaßte neben dem Farbenreiz, dem Jugendhauch auf dem Gesicht meiner Tante! ... Wie schwer und wuchtig lagen die schwarzen Locken auf dem weißen Hermelin! Wie glänzte diese ungefurchte Stirn, von der feine Adern in zartem Blau sich über die Schläfen herabringelten! Ach, und diese köstlich schmeichelnde Stimme, sie war wieder da, die Kur hatte geholfen! ... Die schlanken Hände, die mich so  weich und lind angefaßt und an den Busen der bezaubernden Frau gezogen hatten – sie sollten gestohlen haben! ... Nein, nein, die Entrüstung meiner Tante widerlegte diese Beschuldigung vollständig – sah ich doch Thränen in ihren Augen blitzen!
+Ich ging die Treppe hinab und kauerte mich auf der untersten Stufe wie betäubt nieder ... Das war also meine Tante Christine,</suspension><quote> »​der Schandfleck der Familie​«</quote>, wie sie Ilse, »​der Stern​«, wie sie sich selbst genannt hatte! ... Ein Stern war sie, diese hinreißend schöne Frau! ... Alles, was ich an weiblicher Lieblichkeit bis jetzt gesehen, es erblaßte neben dem Farbenreiz, dem Jugendhauch auf dem Gesicht meiner Tante! ... Wie schwer und wuchtig lagen die schwarzen Locken auf dem weißen Hermelin! Wie glänzte diese ungefurchte Stirn, von der feine Adern in zartem Blau sich über die Schläfen herabringelten! Ach, und diese köstlich schmeichelnde Stimme, sie war wieder da, die Kur hatte geholfen! ... Die schlanken Hände, die mich so  weich und lind angefaßt und an den Busen der bezaubernden Frau gezogen hatten – sie sollten gestohlen haben! ... Nein, nein, die Entrüstung meiner Tante widerlegte diese Beschuldigung vollständig – sah ich doch Thränen in ihren Augen blitzen!
 
 Mit klopfendem Herzen horchte ich auf den Wortwechsel droben in der Bibliothek – ich konnte kein Wort erhaschen, und er dauerte auch nicht lange an. Die Thüre wurde geöffnet – »​Gott mag dir vergeben!​« hörte ich meine Tante sagen, dann rauschte ihre Schleppe die Treppe herab ... Ihre Schritte wurden immer matter und langsamer – plötzlich legte sie die Hand über die Augen und lehnte sich an die Wand. Ich sprang die Stufen hinauf und faßte ihre Rechte.
 
@@ -3937,7 +3937,7 @@ Der Kammerherr wirbelte davon und die Hofdame desgleichen – Ihre Hoheit wollte
 
 Ich senkte den Kopf auf die Brust, die sich unter fliegenden Atemzügen hob. Die Sorge um meinen Vater, die Angst vor Charlottens Beginnen, die Menschen, die sich um uns her bewegten, alles, alles versank vor den bebenden Tönen, die halb geflüstert an meinen Ohren hinstrichen ... Und er mit seinem scharfen Blick, er mochte wohl wissen, was in mir vorging ...
 
-»​Leonore,​« sagte er, sich über mich herabbeugend, »​wir wollen denken, wir beide seien mutterseelenallein im alten Kaufhause und hätten mit all denen​« – er deutete in die Zimmer hinein – »​nichts zu schaffen ... Ich weiß, wem Ihr mutiges Bekenntnis heute abend galt – ich nehme die Wonne jenes Augenblicks für mich allein in Anspruch, gegen die ganze Welt, ja gegen Sie selbst, wenn Sie im alten Trotz zu leugnen versuchen wollten! ... Unsere Seelen berühren sich, mögen Sie auch, hart genug, mir wehren, die Hand in Wirklichkeit zu fassen, die mir einst mein Geld trotzig vor die Füße geworfen hat.​«
+<quote>»​Leonore,​«</quote><suspension> sagte er, sich über mich herabbeugend,</suspension><quote> »​wir wollen denken, wir beide seien mutterseelenallein im alten Kaufhause und hätten mit all denen​«</quote> – er deutete in die Zimmer hinein – »​nichts zu schaffen ... Ich weiß, wem Ihr mutiges Bekenntnis heute abend galt – ich nehme die Wonne jenes Augenblicks für mich allein in Anspruch, gegen die ganze Welt, ja gegen Sie selbst, wenn Sie im alten Trotz zu leugnen versuchen wollten! ... Unsere Seelen berühren sich, mögen Sie auch, hart genug, mir wehren, die Hand in Wirklichkeit zu fassen, die mir einst mein Geld trotzig vor die Füße geworfen hat.​«
 
 Mit wenigen raschen Schritten stand er drüben am Flügel, und gleich darauf klangen Harmonien an mein Ohr, die mich in eine Art von Taumel versetzten ... Diese wundervollen Klänge gehörten mir, dem kleinen unbedeutenden Geschöpf allein – sie hatten »​nichts mit denen zu schaffen​«, deren Geplauder aus dem letzten Zimmer fern herüberscholl! ... Ja, hochauf sprangen die erlösten Quellen der Jugend im Herzen des so schwer Gekränkten, der eine kurze Zeit maßlos aufschäumender Leidenschaft durch Entsagung und vollständige Resignation auf Lebensglück und Lebensgenuß hatte sühnen wollen ... Und die Hände, »​die nie wieder eine Taste berührt hatten​«, jetzt schlugen sie das Thema an, das die geheimnisvoll vermittelnde Beziehung zwischen seinem gereiften starken Geist und meiner schwachen, schwankenden Kinderseele aussprach:
 
@@ -4371,7 +4371,7 @@ Sprechen konnte ich nicht – ich fürchtete mich unsäglich vor dem ersten Laut
 
 Jetzt wandte er mir rasch das Gesicht zu, ohne meine Hand loszulassen.
 
-»​Nein nein, Sie waren es auch nicht, Lenore,​« sagte er in verschleierten Tönen, »​ich weiß es ... Meine Umgebung ahnt nicht, weshalb ich gerade in der Dämmerstunde so unduldsam gegen jegliches Geräusch war und die allertiefste Stille gebieterisch forderte. Um diese Stunde hörte ich mit Geisterohren, oder auch  nur mit dem sehnsüchtigen Herzen – denn ich wußte genau, wann die leichten Mädchenfüße die Karolinenlust verließen, ich verfolgte jeden Schritt durch die Gärten und die Treppe herauf und wartete mit Inbrunst auf das halbgeflüsterte: ›​Wie geht es ihm? Hat er viele Schmerzen?​‹ – Das klang nichts weniger als trotzig ... Und dann sah ich, wie die wilden Locken mit der wohlbekannten Bewegung von der Stirn zurückgeschüttelt wurden, und die großen, lieben, bösen Augen weit anfgeschlagen an Fräulein Fliedners berichtenden Lippen hingen.​«
+<quote>»​Nein nein, Sie waren es auch nicht, Lenore,​«</quote><suspension> sagte er in verschleierten Tönen,</suspension><quote> »​ich weiß es ... Meine Umgebung ahnt nicht, weshalb ich gerade in der Dämmerstunde so unduldsam gegen jegliches Geräusch war und die allertiefste Stille gebieterisch forderte. Um diese Stunde hörte ich mit Geisterohren, oder auch  nur mit dem sehnsüchtigen Herzen – denn ich wußte genau, wann die leichten Mädchenfüße die Karolinenlust verließen, ich verfolgte jeden Schritt durch die Gärten und die Treppe herauf und wartete mit Inbrunst auf das halbgeflüsterte: ›​Wie geht es ihm? Hat er viele Schmerzen?​‹ – Das klang nichts weniger als trotzig ... Und dann sah ich, wie die wilden Locken mit der wohlbekannten Bewegung von der Stirn zurückgeschüttelt wurden, und die großen, lieben, bösen Augen weit anfgeschlagen an Fräulein Fliedners berichtenden Lippen hingen.​«</quote>
 
 Ich vergaß alles, was zwischen uns lag, und gab mich der Macht des Augenblickes widerstandslos hin.
 
@@ -4383,7 +4383,7 @@ Er sprang auf, nahm den Schirm ab und warf ihn auf den Tisch. Seine schlanke Fig
 
 Er ergriff meine Hand und wollte mich sanft an sich ziehen; das brachte mich plötzlich zur Besinnung und überflutete mein Herz mit der ganzen Qual des bösen Bewußtseins.
 
-Ich riß mich los. »​Nein,​« rief ich, »​seien Sie nicht gut gegen mich – ich habe es nicht um Sie verdient! ... Wenn Sie wüßten, was für ein abscheuliches Geschöpf ich bin, wie hinterlistig, falsch und grausam ich sein kann, Sie stießen mich aus Ihrem Hause –​«
+Ich riß mich los. <quote>»​Nein,​«</quote><suspension> rief ich,</suspension><quote> »​seien Sie nicht gut gegen mich – ich habe es nicht um Sie verdient! ... Wenn Sie wüßten, was für ein abscheuliches Geschöpf ich bin, wie hinterlistig, falsch und grausam ich sein kann, Sie stießen mich aus Ihrem Hause –​«</quote>
 
 »​Lenore –​«
 
