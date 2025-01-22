@@ -51,7 +51,7 @@ Die Faust ließ der neue Onkel auf seine Knie fallen:
 
 »​Gott sei's gedankt. Sie hat sich gehalten wie eine Heldin; keine Kaiserin hätt's besser gemacht.​«
 
-»​Sie ist eine Grünebaum​«, sagte Nikolaus mit Selbstbewußtsein, »​und die Grünebäume können im Notfall die Zähne zusammenbeißen. Auf was für 'n Namen willst du den Jungen gehen lassen, Anton?​«
+<quote>»​Sie ist eine Grünebaum​«,</quote><suspension> sagte Nikolaus mit Selbstbewußtsein,</suspension><quote> »​und die Grünebäume können im Notfall die Zähne zusammenbeißen. Auf was für 'n Namen willst du den Jungen gehen lassen, Anton?​«</quote>
 
 Mit der hagern Hand fuhr der Vater des Neugeborenen über die hohe, furchenreiche Stirn und starrte einige Augenblicke durch das Fenster ins Weite. Dann sagte er:
 
@@ -477,7 +477,7 @@ Aus der Kammer der Witwe war der Mondschein gänzlich wieder verschwunden, als d
 
 Fast den ganzen Sommer hindurch dauerte der Kampf gegen den Oheim Grünebaum. Einen so hartnäckigen Schuster hatte die Welt lange nicht gesehen. Tränen, Bitten und Vorstellungen erweichten, rührten und überzeugten ihn nicht. Ein Mann, der es mit den sieben weisen Meistern in jeder Beziehung aufnahm, ließ sich durch zwei alberne Weibsbilder und einen dummen Jungen so leicht nicht seinen Standpunkt verrücken. Beschlossen hatte er in seiner zottigen Männerbrust, daß Hans Unwirrsch wie alle andern Unwirrsche und Grünebäume ein Schuster werden müsse, und mit höhnischem Gepfeife schlug er alle Angriffe auf seinen Verstand, seine Vernunft und sein Herz zurück. Es verging kaum ein Tag, an welchem er nicht die Base Schlotterbeck aus ihrer Gelassenheit herausflötete. Je mehr sich die Frauen ärgerten, je hitziger sie in ihren Argumenten, je schärfer  sie in ihren Worten wurden, desto melodiöser wurde der Oheim Grünebaum. Mit einer mutigen, kriegerischen Weise begleitete er gewöhnlich den Anfang jeder neuen Unterhandlung, und unter den schmelzendsten, sehnsüchtigsten Melodien brachte er sie ergebnislos zu Ende.
 
-»​Gevatter, Gevatter​«, rief die Base, »​wenn das Kind unglücklich wird, so ist's Eure Schuld – Eure Schuld allein! Solch ein Mensch wie Ihr ist mir in meinem ganzen, lieben, langen Leben nicht vorgekommen.​«
+<quote>»​Gevatter, Gevatter​«,</quote><suspension> rief die Base,</suspension><quote> »​wenn das Kind unglücklich wird, so ist's Eure Schuld – Eure Schuld allein! Solch ein Mensch wie Ihr ist mir in meinem ganzen, lieben, langen Leben nicht vorgekommen.​«</quote>
 
 Ob nun das Lied vom Prinzen Eugen zur Beantwortung dieser Anmahnung gesungen worden war, konnte einigem Zweifel unterliegen: der Meister Grünebaum wie »​selber ein Türke!​« pfiff es.
 
@@ -535,7 +535,7 @@ Beide Frauen erhoben hier die Hände, um des Himmels Segen auf den jugendlichen 
 
 »​Und so mag es denn gehen, wie's geht, der Deibel nimmt die Graden und die Ungraden!​« schloß der Oheim.
 
-»​Niklas​«, rief aber die Frau Christine ärgerlich, »​ich hoffe, mein Sohn wird weder grad noch ungrad mit dem Teufel zu tun haben, und gehen lassen, wie's geht, soll er es auch nicht.​«
+<quote>»​Niklas​«,</quote><suspension> rief aber die Frau Christine ärgerlich,</suspension><quote> »​ich hoffe, mein Sohn wird weder grad noch ungrad mit dem Teufel zu tun haben, und gehen lassen, wie's geht, soll er es auch nicht.​«</quote>
 
 »​Keine Reverenzien und Übelnehmerischkeiten!​« brummte der Oheim. »​Also, was ich und der Herr Professor denn sagen wollten: Junge, da 'n Überstudierter am Ende doch auch ein Mensch bleibt, so sollst du unsertwegen deinen Willen haben. Basta, ich hab's gesagt! Die hochlöbliche Schusterei wird doch wohl nicht ein Mirakelum an dir Lümmel vorbeilassen.​«
 
@@ -1173,9 +1173,9 @@ Als Mutter und Sohn allein waren, sagte die Mutter:
 
 »​Du mußt es mir vergeben, Hans, daß ich dich von deiner Arbeit hab abrufen lassen; aber ich hatte solch ein groß Sehnen nach dir, daß es nicht anders ging. Du bist immer mein Trost gewesen, nun mußt du es auch jetzt sein. Ich habe ein so groß gewaltig Verlangen nach dir gehabt.​«
 
-»​O Mutter, liebe Mutter​«, rief Hans Unwirrsch, »​sprich nicht so, als sei an meinem Glück und Wohlergehen mehr gelegen als an dem deinigen. O wenn du wüßtest, wie gern ich alles, was ich durch meine Arbeit in der Fremde errungen habe, hergeben würde, wenn ich dir dadurch nur den kleinsten Teil deiner
+<quote>»​O Mutter, liebe Mutter​«,</quote><suspension> rief Hans Unwirrsch,</suspension><quote> »​sprich nicht so, als sei an meinem Glück und Wohlergehen mehr gelegen als an dem deinigen. O wenn du wüßtest, wie gern ich alles, was ich durch meine Arbeit in der Fremde errungen habe, hergeben würde, wenn ich dir dadurch nur den kleinsten Teil deiner
 
-Schmerzen verscheuchen könnte! Aber es wird auch besser werden, bald wirst du wieder gesund sein. O Mutter, du weißt nicht, wie nötig ich dich habe; keine Weisheit, die auf Erden gelehrt werden kann, kann das uns geben, was uns ein Wort und ein Blick der Mutter gibt.​«
+Schmerzen verscheuchen könnte! Aber es wird auch besser werden, bald wirst du wieder gesund sein. O Mutter, du weißt nicht, wie nötig ich dich habe; keine Weisheit, die auf Erden gelehrt werden kann, kann das uns geben, was uns ein Wort und ein Blick der Mutter gibt.​«</quote>
 
 »​Sieh, sieh den Jungen​«, rief Frau Christine. »​Will er über die alte Waschfrau lachen. Solch ein gelehrter Herr?! Aber es ist schon gut; – Hans, Hans, weißt du wohl, daß du deinem seligen Vater immer ähnlicher wirst? Der konnte sich auch so haben, wenn sich die Sonne einmal ein bißchen hinter der Wolke verkroch. Er war auch so 'n Gelehrter, wenn er auch nicht studiert hatte, und ich habe mich oft über den Mann wundern müssen. Den einen Tag war er so hoch in den Lüften wie 'ne Lerche, und am andern Tag kroch er auf der Erde wie die Schnecke. Wirst auch schon wieder ins Blaue aufsteigen, Hans, sorge dich nur nicht um mich; ich hab dem lieben Herrgott nichts vorzuwerfen, er hat's wohl mit mir gemacht, ein glückselig Leben hat er mir gegeben, und was er mir jetzt auferlegt, nun dazu kann er nichts; das ist am Ende jedem bestimmt, und es wird wohl niemand darum wegkommen.​«
 
@@ -1193,7 +1193,7 @@ Während er beim Licht der Glaskugel die Blätter seiner Bücher umwandte und vo
 
 Wenn die Mutter in solchen Augenblicken schlief, so konnte er sich nur dadurch aus dem ängstlichen Gewühl retten, daß er in den schwierigsten Teilen seiner Aufgabe so angestrengt als möglich fortarbeitete, und nicht immer gelang das. Wenn aber die Mutter wachte, so brauchte er nur die Feder niederzulegen und die treue Hand der Kranken zu nehmen: er bekam dann den besten Trost, den es für ihn gehen konnte. Wenn etwas später Einfluß auf seine Handlungen, seine Pläne, seine Ansichten und sein ganzes Leben hatte, so waren es die leisen Worte, die ihm in diesen Stunden zugeflüstert wurden.
 
-»​Sieh, liebes Kind​«, sagte die alte Frau, »​in meinem schlechten Verstande hab ich mir immer gedacht, daß aus der Welt nicht viel werden würde, wenn es nicht den Hunger darin gäbe. Aber das muß nicht bloß der Hunger sein, der nach Essen und Trinken und einem guten Leben verlangt, nein, ein ganz ander Ding. Da war dein Vater, der hatte solch einen Hunger, wie ich meine, und von dem hast du ihn geerbt. Dein Vater war auch nicht immer zufrieden mit sich und der Welt, aber nicht aus Mißgunst, weil andere in schöneren Häusern wohnten oder in Kutschen fuhren oder sonsten dergleichen: nein, er war nur deshalb bekümmert, weil es so viele Dinge gab, die er nicht verstand und die er gern hätte lernen mögen. Das ist der Männer Hunger, und wenn sie den haben und dazu nicht ganz derer vergessen, die sie liebhaben, dann sind sie die rechten Männer, ob sie nun weit kommen oder nicht – 's ist einerlei. Der Frauen  Hunger aber liegt nach der andern Seite. Da ist die Liebe das erste. Der Männer Herz muß bluten um das Licht, aber der Frauen Herz muß bluten um die Liebe. Um das müssen sie auch ihre Freude haben. O Kind, mir ist es viel besser geworden als deinem Vater, denn ich habe viel Liebe geben können, und viel, viel Liebe ist mir zu meinem Teil geworden. Er war so gut gegen mich, solange er lebte, und dann hab ich dich gehabt, und nun, wo ich meinem Anton nachgeh, sitzest du neben mir, und was er haben wollte, ist dir zuteil geworden, und ich habe dazu geholfen. Ist das nicht ein glückselig Ding? Du mußt dich nicht so sehr härmen um deine dumme Mutter, du machst mir sonsten nur das Herz schwer, und das willst du doch nicht, hast es ja nie getan.​«
+<quote>»​Sieh, liebes Kind​«, </quote><suspension>sagte die alte Frau,</suspension><quote> »​in meinem schlechten Verstande hab ich mir immer gedacht, daß aus der Welt nicht viel werden würde, wenn es nicht den Hunger darin gäbe. Aber das muß nicht bloß der Hunger sein, der nach Essen und Trinken und einem guten Leben verlangt, nein, ein ganz ander Ding. Da war dein Vater, der hatte solch einen Hunger, wie ich meine, und von dem hast du ihn geerbt. Dein Vater war auch nicht immer zufrieden mit sich und der Welt, aber nicht aus Mißgunst, weil andere in schöneren Häusern wohnten oder in Kutschen fuhren oder sonsten dergleichen: nein, er war nur deshalb bekümmert, weil es so viele Dinge gab, die er nicht verstand und die er gern hätte lernen mögen. Das ist der Männer Hunger, und wenn sie den haben und dazu nicht ganz derer vergessen, die sie liebhaben, dann sind sie die rechten Männer, ob sie nun weit kommen oder nicht – 's ist einerlei. Der Frauen  Hunger aber liegt nach der andern Seite. Da ist die Liebe das erste. Der Männer Herz muß bluten um das Licht, aber der Frauen Herz muß bluten um die Liebe. Um das müssen sie auch ihre Freude haben. O Kind, mir ist es viel besser geworden als deinem Vater, denn ich habe viel Liebe geben können, und viel, viel Liebe ist mir zu meinem Teil geworden. Er war so gut gegen mich, solange er lebte, und dann hab ich dich gehabt, und nun, wo ich meinem Anton nachgeh, sitzest du neben mir, und was er haben wollte, ist dir zuteil geworden, und ich habe dazu geholfen. Ist das nicht ein glückselig Ding? Du mußt dich nicht so sehr härmen um deine dumme Mutter, du machst mir sonsten nur das Herz schwer, und das willst du doch nicht, hast es ja nie getan.​«</quote>
 
 Der Sohn verbarg sein Gesicht in die Kissen der Kranken; er vermochte nicht zu sprechen, nur das Wort Mutter! wiederholte er schluchzend; es war aber alles, was ihn bewegte, darin zusammengefaßt. –
 
@@ -1437,7 +1437,7 @@ Er blickte schnell zur Seite. Die Idee war ihm gekommen, sein Gefährte habe ihn
 
 »​Wenn Sie genug von dem kuriosen Ding haben, so lassen Sie uns weitermarschieren. Es ist hier oben längst nicht so behaglich wie im Grünen Baum​«, meinte der Leutnant, den Arm des jungen Mannes nehmend.
 
-»​Das ist, wie das Meer sein muß​«, sagte Hans, »​und ich stehe am Rande wie ein Knabe, der das Schwimmen lernen soll. Es treibt mich mit unwiderstehlicher Gewalt hinab, und doch fürchte ich mich. Ich fürchte mich vor der Gewährung meiner Wünsche; – was mich vordem mit so tiefem Verlangen erfüllt hat, macht mir jetzt ebenso tiefes Grauen.​«
+<quote>»​Das ist, wie das Meer sein muß​«,</quote><suspension> sagte Hans,</suspension> <quote>»​und ich stehe am Rande wie ein Knabe, der das Schwimmen lernen soll. Es treibt mich mit unwiderstehlicher Gewalt hinab, und doch fürchte ich mich. Ich fürchte mich vor der Gewährung meiner Wünsche; – was mich vordem mit so tiefem Verlangen erfüllt hat, macht mir jetzt ebenso tiefes Grauen.​«</quote>
 
 »​Frisch mit einem Satz hinunter!​« rief der alte Kriegsmann. »​Streicht nur wacker mit Händen und Füßen aus, Freundchen! Man platzt noch nicht gleich, wenn man auch mal das Maul voll Wasser kriegt. Brr – fort! Was kümmert uns das Wasser? Vivat der Grüne Baum und die Neuntöter!​«
 
@@ -1867,7 +1867,7 @@ Mit einem tiefen Seufzer bemerkte der Hauslehrer, daß er nicht einsehen könne,
 
 »​Gewiß, gewiß – ich freue mich so sehr darauf! Erinnerst du dich wohl noch der Abende, die wir in deines Vaters Hinterstübchen und später auf der Universität zubrachten? Du hast mir oft den Angstschweiß auf die Stirn getrieben; aber es waren doch schöne Zeiten.​«
 
-»​O ja​«, seufzte Moses, »​sehr schöne Zeiten. Aber die Gegenwart ist auch etwas wert. Ich werde gewiß bald an deine Tür klopfen, Hans!​«
+<quote>»​O ja​«,</quote> <suspension>seufzte Moses,</suspension><quote> »​sehr schöne Zeiten. Aber die Gegenwart ist auch etwas wert. Ich werde gewiß bald an deine Tür klopfen, Hans!​«</quote>
 
 Nun schob aber plötzlich der Präzeptor seinen Stuhl zurück und sah den Freund an:
 
@@ -1907,7 +1907,7 @@ Theophile, wie wir den Sohn des Trödlers aus der Kröppelstraße von jetzt an i
 
 »​Du, der Skeptiker? Der Zweifler? Ich fasse es nicht!​« rief Hans in halber Verzweiflung.
 
-»​Lieber Alter​«, sagte Theophile, »​so schnell läßt sich das auch nicht begreifen. Du kennst allzu wenig von meinem Leben, um dir auf der Stelle ein Urteil über mich und meinen Weg bilden zu können. Es findet sich aber wohl noch Gelegenheit, wo du klarsehen wirst. Ich rechne dann auf deine Billigung. Jetzt laß uns auch über diesen Punkt schweigen; ich habe längst damit abgeschlossen.​«
+<quote>»​Lieber Alter​«,</quote><suspension> sagte Theophile,</suspension><quote> »​so schnell läßt sich das auch nicht begreifen. Du kennst allzu wenig von meinem Leben, um dir auf der Stelle ein Urteil über mich und meinen Weg bilden zu können. Es findet sich aber wohl noch Gelegenheit, wo du klarsehen wirst. Ich rechne dann auf deine Billigung. Jetzt laß uns auch über diesen Punkt schweigen; ich habe längst damit abgeschlossen.​«</quote>
 
 Wortlos und wie vernichtet saß Hans Unwirrsch da. Was er vernommen hatte und die Art, wie er es vernommen hatte, gefiel ihm gar nicht; schwindelnd sah er in die unergründlichen Tiefen fremden Lebens, die sich vor seinen Füßen öffneten. Er konnte seines Unbehagens in keiner Weise Herr werden.
 
@@ -2339,13 +2339,13 @@ Sie wollte an ihm vorüber, aber er trat ihr in den Weg und hielt den verächtli
 
 »​Monsieur, Ihr Freund ist eine canaille!​« rief sie, die Hand ballend. »​Lasse Sie mik vorbei – wolle Sie?​«
 
-»​Mein Fräulein​«, sagte Hans Unwirrsch sanft und traurig, »​der Doktor Theophile Stein ist mein Freund nicht. Hören Sie mich, mein Fräulein!​«
+<quote>»​Mein Fräulein​«, </quote><suspension>sagte Hans Unwirrsch sanft und traurig,</suspension><quote> »​der Doktor Theophile Stein ist mein Freund nicht. Hören Sie mich, mein Fräulein!​«</quote>
 
 »​Ik will Sie nik mehr hör! Ik will Sie nix seh! Ik will nix mehr seh von der Welt als ma figure in dies hier Wasser!​«
 
 Das wurde mit einer Heftigkeit, einer Wildheit gerufen, daß Hans unwillkürlich ihren Arm faßte, um sie vom Sprung in den Sumpf zurückzuhalten; sie aber riß sich los, lachte bitter, um dann mit beiden Händen das Gesicht zu bedecken und ebenso bitter zu weinen.
 
-»​Mein Fräulein​«, rief Hans, »​Sie haben harte Worte gegen mich gesprochen, Sie haben mich tief betrübt. Ich bin mir keiner Schuld gegen Sie bewußt, und ich will Ihnen helfen, wenn ich es kann; – ich wiederhole es Ihnen: ich bin nicht der Freund des Doktors Stein; – ich bin es nicht mehr!​«
+<quote>»​Mein Fräulein​«, </quote><suspension>rief Hans,</suspension><quote> »​Sie haben harte Worte gegen mich gesprochen, Sie haben mich tief betrübt. Ich bin mir keiner Schuld gegen Sie bewußt, und ich will Ihnen helfen, wenn ich es kann; – ich wiederhole es Ihnen: ich bin nicht der Freund des Doktors Stein; – ich bin es nicht mehr!​«</quote>
 
 Sie ließ langsam die Hände sinken und sah abermals dem Kandidaten in die Augen.
 
@@ -2521,7 +2521,7 @@ Fränzchen stand wieder auf von ihrem Stuhl; sie schritt zu dem Kandidaten, sie 
 
 Hans Unwirrsch schwankte auf den Füßen vor diesem Worte.
 
-»​O Fräulein – Franziska​«, stammelte er, »​nicht Sie, nicht Sie haben mir unrecht getan. Wir sind beide im Wirrsal dieser Welt gefangen gewesen. Böse Mächte haben ihr Spiel mit uns getrieben, und wir konnten uns nicht gegen sie wehren! Das ist doch ganz einfach und klar!​«
+<quote>»​O Fräulein – Franziska​«,</quote><suspension> stammelte er, </suspension><quote>»​nicht Sie, nicht Sie haben mir unrecht getan. Wir sind beide im Wirrsal dieser Welt gefangen gewesen. Böse Mächte haben ihr Spiel mit uns getrieben, und wir konnten uns nicht gegen sie wehren! Das ist doch ganz einfach und klar!​«</quote>
 
 »​Es ist so​«, sagte das Fränzchen. »​Wir haben uns nicht wehren können.​«
 
@@ -2921,7 +2921,7 @@ Er hatte seinen Weg einem heftigen Winde abzukämpfen; aber glücklich langte er
 
 »​Der Herr Kandidatus Drumwisch!​« rief Lämmert in den Qualm hinein, und wer dem hülflosen Hans den Rücken zuwandte, drehte sich um, wedelte den Rauch vor den Augen weg und stierte auf den Kandidaten.
 
-»​Holla​«, rief der einarmige Herr, »​eintreten! Tür zumachen! Abtreten, Lämmert – alles in der Ordnung. Hierher, Herr Pastore!​«
+<quote>»​Holla​«,</quote><suspension> rief der einarmige Herr, </suspension><quote>»​eintreten! Tür zumachen! Abtreten, Lämmert – alles in der Ordnung. Hierher, Herr Pastore!​«</quote>
 
 Da war der Vogel, der bald rechts, bald links war; da war der joviale Vogel mit dem seltsamen Husten; da waren noch verschiedene andere Vögel, die der Kandidat Unwirrsch bis jetzt noch nicht kannte, denen er aber nunmehr Vorgestellt wurde, und zwar als junger Mann, der imstande sei, mehr zu halten, als er verspreche, und der einmal einen recht brauchbaren Feldprediger abgeben werde.
 
@@ -2929,9 +2929,9 @@ Sie begrüßten ihn allesamt nach der Art der Neuntöter, und jeder sammelte feu
 
 »​Sie sind der Mann meines Herzens​«, sagte der einarmige Herr. »​Setzen Sie sich doch; ein Glas Grog sollen Sie auch haben. Setzen Sie sich; Sie sehen wahrhaftig aus, als ob Ihnen etwas Warmes sehr gut bekommen würde.​«
 
-»​O Herr Hauptmann​«, rief Hans, »​Sie werden mir Nachricht von dem Herrn Oberst von Bullau und dem Herrn Leutnant Götz geben können! Ich bitte Sie, sagen Sie mir, was mir  die beiden Herren sagen lassen. Ich habe so viel Böses und Trauriges in der letzten Zeit erlebt, daß ich kaum noch weiß, wie ich mich dagegen wehren soll. Es ist nicht etwas Warmes, was ich bedarf. Gestern abend bin ich aus meiner Geburtsstadt hierher zurückgekehrt; ich habe dort meine letzten Verwandten begraben; – ich bitte Sie, teilen Sie mir mit, was Sie mir zu sagen haben.​«
+<quote>»​O Herr Hauptmann​«,</quote><suspension> rief Hans,</suspension><quote> »​Sie werden mir Nachricht von dem Herrn Oberst von Bullau und dem Herrn Leutnant Götz geben können! Ich bitte Sie, sagen Sie mir, was mir  die beiden Herren sagen lassen. Ich habe so viel Böses und Trauriges in der letzten Zeit erlebt, daß ich kaum noch weiß, wie ich mich dagegen wehren soll. Es ist nicht etwas Warmes, was ich bedarf. Gestern abend bin ich aus meiner Geburtsstadt hierher zurückgekehrt; ich habe dort meine letzten Verwandten begraben; – ich bitte Sie, teilen Sie mir mit, was Sie mir zu sagen haben.​«</quote>
 
-»​Aber mein Junge!​« rief der einarmige Herr, »​wahrhaftig, bei meiner Seele! Kommen Sie, setzen Sie sich. Sie sehen in der Tat jämmerlich aus, und da mag der Spaß aufhören. Was haben Sie denn? Was ist Ihnen begegnet? Ich für mein Teil habe Ihnen weiter nichts zu sagen, als daß Sie hinbeordert sind.​«
+<quote>»​Aber mein Junge!​« </quote><suspension>rief der einarmige Herr,</suspension><quote> »​wahrhaftig, bei meiner Seele! Kommen Sie, setzen Sie sich. Sie sehen in der Tat jämmerlich aus, und da mag der Spaß aufhören. Was haben Sie denn? Was ist Ihnen begegnet? Ich für mein Teil habe Ihnen weiter nichts zu sagen, als daß Sie hinbeordert sind.​«</quote>
 
 »​Hinbeordert?! Wohin?! Zu wem?!​«
 
@@ -3045,7 +3045,7 @@ Hans gab kund, wer er sei und wie er auf Wunsch und Befehl des Herrn Obersten vo
 
 Hans berichtete kurz, wo er den Wagen verlassen habe, und in dem nämlichen Augenblicke vernahm man das Rollen desselben im Dorfe.
 
-»​Sehr schön​«, rief der Oberst, »​herein mit Euch, Kandidate! Grips, sorge für die Karrete im Dorf! Marsch, mein Söhnchen, der Leutnant hüpft in seinem Stuhl wie auf einem Senfpflaster. Ihr seid mir ein schöner Hahn, Herr Kandidate, der Alte hat's gut mit Euch im Sinne, er wird Euch schön den Text lesen.​«
+<quote>»​Sehr schön​«,</quote><suspension> rief der Oberst,</suspension><quote> »​herein mit Euch, Kandidate! Grips, sorge für die Karrete im Dorf! Marsch, mein Söhnchen, der Leutnant hüpft in seinem Stuhl wie auf einem Senfpflaster. Ihr seid mir ein schöner Hahn, Herr Kandidate, der Alte hat's gut mit Euch im Sinne, er wird Euch schön den Text lesen.​«</quote>
 
 Über den, wie es schien, ziemlich umfangreichen Hof führte der Oberst von Bullau seinen Gast in das Haus, Schloß oder Kastell von Grunzenow, in dem es dann auch wild genug aussah. Die Dienerschaft, die in der großen steinernen Halle erschien, hätte dem Jean in der Parkstraße jedenfalls unsägliches Entsetzen in die zarten Knochen gejagt, denn grimmige Kerle waren es. Jagd- und Fischergerätschaften aller Art hingen an den Wänden, und hie und da dazwischen ein altes Porträt längst vermoderter männlicher oder weiblicher Bullaus. Hunde waren im Überfluß vorhanden, sie lagen, gähnten und knurrten in der Halle, sie sahen aus geöffneten, dunkeln Türen, sie schlichen hinter dem Kandidaten Unwirrsch die Treppe hinauf. Und eine solche Treppe hatte Hans auch noch nicht gesehen. Man hätte hinaufreiten können, und es ging die Sage, daß ein Bullau des Dreißigjährigen Krieges das Stücklein wirklich ausgeführt habe. Des Obersten dröhnender Baß rollte durch den Korridor und erweckte die Echos des Hauses Grunzenow bis in die tiefsten Keller.
 
@@ -3091,7 +3091,7 @@ Hans gab einen kurzen Bericht von dem Tode und dem Begräbnis der Base Schlotter
 
 »​Auch meine Meinung!​« sagte der Pastor. »​Ehre Vater und Mutter –​«
 
-»​Base, Oheim und die übrige Sippschaft​«, fiel der Oberst ein, »​auf daß es dir wohl gehe et ceterum. Vorwärts, Leutnant, inquiriere mich ihn weiter, das Gros steckt noch im Defilee.​«
+<quote>»​Base, Oheim und die übrige Sippschaft​«,</quote><suspension> fiel der Oberst ein,</suspension><quote> »​auf daß es dir wohl gehe et ceterum. Vorwärts, Leutnant, inquiriere mich ihn weiter, das Gros steckt noch im Defilee.​«</quote>
 
 »​O Unwirrsch​«, rief der Leutnant Götz kläglich, »​ich habe mich in Ihnen getäuscht, ich habe mich sehr in Ihnen getäuscht. Weshalb hatte ich Sie mit so vieler Mühe in das Haus meines Bruders – meiner Schwägerin hineingebracht? Ich konnte es Ihnen doch nicht unter die Nase reiben, daß Sie mir auf mein Fränzchen, mein armes Fränzchen achten helfen sollten. Was haben Sie getan?  Was haben Sie mir da genützt? Sie haben den Wolf in das Haus gelassen, ohne mir Nachricht davon zu geben, und dann haben Sie sich ohne jede Gegenwehr fortjagen lassen und haben den Staub von Ihren Schuhen geschüttelt. Ich hielt Sie für einen guten, harmlosen Gesellen, an welchem das Fränzchen eine Stütze und einen Trost finden könnte, aber Sie haben sich schier noch mehr mißhandeln lassen als das Fränzchen. Sie sind mir ein schöner Patron! Hier sitze ich auf meinem Marterstuhl und höre von gar nichts, und das Kind schreibt mir ihre armen lieben Briefe und lügt darin wie gedruckt; das ganze Leben im Hause ihrer Tante ist wie ein einziges Christfest – zum Henker, eine schöne Bescherung ist's in der Tat! Drei Millionen blaue Teufel, Herr, habe ich Ihnen nicht schon damals in Windheim gesagt, daß Ihr Freund, den Sie so herausstrichen, eine Kanaille sei? Wie konnten Sie es dulden, daß er mit meinem Fränzchen dieselbe Luft in demselben Hause atmete? Die Gicht soll mir auf der Stelle in den Magen steigen, wenn das nicht das Schlimmste ist, was mir passieren konnte. Und sie hat es ertragen und wird nur im stillen geweint haben, und ich armseliger Tropf muß hier fest liegen und erfahre nicht das geringste davon, und dieser Herr konnte sich einen Gotteslohn um das Fränzchen und mich er werben, wenn er bloß das Maul aufsperrte und gleich einem Mann auftrat. Bewahre, er läßt Gott einen guten Mann sein – wozu hat er auch sonst Theologie studiert? Was geht's ihn an, was aus der bettelhaften Nichte des alten, abgedankten, verschollenen Bettelleutnants wird? Als die Blase platzt und der Jude mit dem saubern Fräulein Kleophea durchbrennt, da salviert sich natürlich auch mein Herr Präzeptor, und durch eine alte Zeitung erfährt der Leutnant Götz zu Grunzenow von dem, was im Hause seines Bruders vorgegangen ist; es wird's keiner glauben, dem ich es nicht auf mein Ehrenwort versichere. Das Fränzchen schreibt einen Brief Voll Tränenflecke, Gedankenstriche und Kleckse und meldet, der Onkel Theodor befinde sich nicht wohl – was ich wohl glaube! –, die Tante – zum Teufel mit ihr! –, die Tante halte sich meistens in ihrem Zimmer ein geschlossen und der Herr Kandidat Unwirrsch habe gleich nach  Kleopheas Eskapade das Haus verlassen. Und ich liege hier wie ein Klotz und kann dem armen Wurm, meinem Fränzchen, nicht zu Hülfe kommen, zapple mich ab, bis es dem Obersten zuviel wird und er das Elend nicht mehr mit ansehen kann. Also packt er auf und rückt bei Nacht und Nebel auf Kundschaft aus; als er dann wieder auf den Hof reitet, schüttelt er einen leeren Sack aus. Sie haben ihn fein abgeführt vor der Haustür der Geheimen Rätin Götz, und die Neuntöter haben nur das gewußt, was die ganze Stadt wußte, und der Kandidat Unwirrsch –​«
 
@@ -3119,7 +3119,7 @@ Jetzt hatten alle drei ihre Tonpfeifen weggelegt und starrten auf den Redner wie
 
 Der erste, der sich von seiner Verwunderung erholte, war der Oberst von Bullau.
 
-»​Potz Blitz. Rudolf​«, rief er, »​da rieche drauf! Davon kannst du mich manches gebrauchen und in die Tasche stecken. Tillenius, Mann, nächsten Sonntag soll dieser Jüngling uns eine Predigt halten. Donner und Wetter, Herr Kandidate, das geht Sie ja recht glatt ab, und ich glaube, einigemal haben Sie den Nagel richtig auf den Kopf getroffen. Alert, Götz, so was kann nicht ungerochen hingehen! – Was hast du ihm nun wieder drauf zu antworten, Kamerade?​«
+<quote>»​Potz Blitz. Rudolf​«, </quote><suspension>rief er,</suspension><quote> »​da rieche drauf! Davon kannst du mich manches gebrauchen und in die Tasche stecken. Tillenius, Mann, nächsten Sonntag soll dieser Jüngling uns eine Predigt halten. Donner und Wetter, Herr Kandidate, das geht Sie ja recht glatt ab, und ich glaube, einigemal haben Sie den Nagel richtig auf den Kopf getroffen. Alert, Götz, so was kann nicht ungerochen hingehen! – Was hast du ihm nun wieder drauf zu antworten, Kamerade?​«</quote>
 
 Der Leutnant zog einen Seufzer aus seinem tiefsten Innersten hervor und sagte, ohne den gesenkten grauen Kopf emporzuheben:
 
@@ -3359,7 +3359,7 @@ Fränzchen hob das Gesichtchen zu dem Freunde empor und lächelte durch die Trä
 
 »​Deine Liebe ist ja der Mantel, in welchem du mich an dein Herz genommen hast! Wie könnte mich frieren an deinem Herzen, in deiner Liebe? Und dazu soll ich eine Heimat an jenem Orte finden, ich, die ich niemals eine rechte Heimat gehabt habe, ich, die ich vom Leben immer so barsch hin und her geschoben worden bin durch Mangel und Überfluß, durch allen Wirrwarr und Zwiespalt! Wie könnt ich den Schnee, den Winter fürchten unter deinem Mantel, Johannes, an deinem Herzen?​«
 
-»​O Liebe. Liebe​«, rief Hans, »​ja du hast recht, wir sind gefeit gegen allen Erdenfrost und – sturm. Wir hören den Wind brausen, aber wir fühlen ihn nicht –​«
+<quote>»​O Liebe. Liebe​«, </quote><suspension>rief Hans,</suspension><quote> »​ja du hast recht, wir sind gefeit gegen allen Erdenfrost und – sturm. Wir hören den Wind brausen, aber wir fühlen ihn nicht –​«</quote>
 
 »​Und den Onkel Rudolf werde ich sehen – endlich, endlich werde ich ihn wiedersehen! Auch an seinem Herzen bin ich so sanft gebettet! Gottes Segen über ihn!​« fuhr das Fränzchen fort. »​Und den guten Oberst und den guten, alten Pastor werde ich sehen. O Johannes, wie großen Dank sind wir denen schuldig! Es ist so märchenhaft schön; o Gott, und das schönste ist, daß aller Kinderlebensmut dazu wieder herabgekommen ist vom Himmel. Ach, wäre nicht Kleophea, die helle, reine Kinderfreude käme auch wieder herab – O Johannes, Johannes, habe mich recht lieb, recht, recht lieb!​«
 
