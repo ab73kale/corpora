@@ -305,9 +305,11 @@ Voll Widerspruchsgeist bemerkte Adrienne mit einem herben Zug im Gesicht:
 
 »​Von Liebe steht nicht viel darin.​«
 
+
+
 Fanny ließ die Gabel sinken, die sie eben zum Munde führen wollte, und sah ihr Gegenüber ebenso erstaunt als traurig an.
 
-»​O,​« sagte sie schmerzlich, »​das verstehst Du nicht herauszulesen? Du fühlst nicht, wie Du und die Sorge um Dich ihn ganz beschäftigen? Armer Arnold!​«
+<quote>»​O,​«</quote> <suspension>sagte sie schmerzlich,</suspension> <quote>»​das verstehst Du nicht herauszulesen? Du fühlst nicht, wie Du und die Sorge um Dich ihn ganz beschäftigen? Armer Arnold!​«</quote>
 
 Bei diesem Bedauern regte sich in Adriennens Brust ein Gefühl von heftigem Zorn gegen ihren Gatten. Und Fanny, die das auf dem zarten Gesicht kommen und gehen sah wie Wolkenschatten über ein sonniges Blachfeld, Fanny bereute ihre Aeußerung. Sie war zu klug, um nicht zu wissen, daß sie nicht offen auf Arnolds Seite stehen dürfe, wenn sie das  ungesunde Gemüt dieser Frau sich erschließen und heilen wollte.
 
@@ -319,13 +321,13 @@ Bei diesem Bedauern regte sich in Adriennens Brust ein Gefühl von heftigem Zorn
 
 »​Er ist immer verliebt,​« bemerkte Adrienne, eine Mandel zerbrechend.
 
-»​Liebe Schwägerin,​« las Fanny halblaut, »​seit meinem letzten Brief – unglaublich eigentlich, daß es erst acht Tage sind – hat sich sehr viel ereignet. Das Wichtigste sei gleich gesagt: Fräulein Elly hat sich verlobt mit einem unausstehlichen Krautjunker, welcher Ellys Papa das Gut abkauft. Natürlich hört damit meine Stellung als Volontär auf, die mir auch ohne den Gutsverkauf sehr verleidet ist. Fräulein Elly sieht nicht sehr glücklich aus. Arme Kleine! Joachim  Herebrecht ist aber ein armer Schlucker, er konnte dir nicht helfen. Nun, liebe Adrienne, gilt es, eine neue Stellung suchen, und zwar endlich eine, wo ich verdiene. Getrost könnte ich auf Grund meiner Kenntnisse die Bewirtschaftung eines großen Gutes selbständig übernehmen; es fragt sich nur, ob ich einen unserer Standesherren bereit finde, mir eine solche Stellung anzuvertrauen. Mache Dir aber keine Sorgen, schreibe auch Arnold nichts. Ich kann hier bleiben, bis ich etwas anderes habe. Du hast mir lange nicht geschrieben; laß mich wissen, wie es Dir und dem Kleinen geht und ob Du kürzlich Nachrichten von Arnold hattest. Mit den innigsten Grüßen, Dein Joachim. Frage doch 'mal bei Fanny Förster an, vielleicht weiß die eine Vakanz, wo ich einrücken könnte.​«
+<quote>»​Liebe Schwägerin,​«</quote> <suspension>las Fanny halblaut,</suspension> <quote>»​seit meinem letzten Brief – unglaublich eigentlich, daß es erst acht Tage sind – hat sich sehr viel ereignet. Das Wichtigste sei gleich gesagt: Fräulein Elly hat sich verlobt mit einem unausstehlichen Krautjunker, welcher Ellys Papa das Gut abkauft. Natürlich hört damit meine Stellung als Volontär auf, die mir auch ohne den Gutsverkauf sehr verleidet ist. Fräulein Elly sieht nicht sehr glücklich aus. Arme Kleine! Joachim  Herebrecht ist aber ein armer Schlucker, er konnte dir nicht helfen. Nun, liebe Adrienne, gilt es, eine neue Stellung suchen, und zwar endlich eine, wo ich verdiene. Getrost könnte ich auf Grund meiner Kenntnisse die Bewirtschaftung eines großen Gutes selbständig übernehmen; es fragt sich nur, ob ich einen unserer Standesherren bereit finde, mir eine solche Stellung anzuvertrauen. Mache Dir aber keine Sorgen, schreibe auch Arnold nichts. Ich kann hier bleiben, bis ich etwas anderes habe. Du hast mir lange nicht geschrieben; laß mich wissen, wie es Dir und dem Kleinen geht und ob Du kürzlich Nachrichten von Arnold hattest. Mit den innigsten Grüßen, Dein Joachim. Frage doch 'mal bei Fanny Förster an, vielleicht weiß die eine Vakanz, wo ich einrücken könnte.​«</quote>
 
 Fanny lachte.
 
 »​Weshalb lachst Du?​« fragte Adrienne; »​ich finde es nicht sehr heiter, daß Joachim ohne Stelle ist. Arnold hätte ihn nicht Landwirt werden lassen dürfen; es ist so aussichtslos.​«
 
-»​Ich lache,​« sagte Fanny belustigt, »​weil ich mir aus diesem herzlich unbedeutenden Brief doch den ganzen guten, liebenswürdigen und vielleicht ein bisserl leichtsinnigen Jungen zusammenkonstruire. Dieser Zwischenruf ›​arme Kleine!​‹ ist köstlich. Und dann lache ich, weil ihm im Postskriptum Fanny Förster einfällt und weil diese eminent praktische Frau natürlich Rat weiß.​«
+<quote>»​Ich lache,​«</quote> <suspension>sagte Fanny belustigt,</suspension> <quote>»​weil ich mir aus diesem herzlich unbedeutenden Brief doch den ganzen guten, liebenswürdigen und vielleicht ein bisserl leichtsinnigen Jungen zusammenkonstruire. Dieser Zwischenruf ›​arme Kleine!​‹ ist köstlich. Und dann lache ich, weil ihm im Postskriptum Fanny Förster einfällt und weil diese eminent praktische Frau natürlich Rat weiß.​«</quote>
 
 »​Wie, Du wüßtest eine Stelle?​«
 
@@ -333,7 +335,7 @@ Fanny lachte.
 
 »​Jedes Geschäftsverhältnis zwischen Familienmitgliedern trägt den Keim von Unfrieden in sich,​« sagte Adrienne zweifelnd.
 
-»​O,​« sprach Fanny, den Kopf schüttelnd, »​ich bin ganz rücksichtslos, immer und überall, denn das ist am bequemsten für andere und mich.​«
+<quote>»​O,​«</quote> <suspension>sprach Fanny, den Kopf schüttelnd,</suspension> <quote>»​ich bin ganz rücksichtslos, immer und überall, denn das ist am bequemsten für andere und mich.​«</quote>
 
 »​Daß Du für Joachim erst eine Stellung schaffst, gibt der Sache den Stempel einer Wohlthat,​« grollte Adrienne.
 
@@ -341,7 +343,7 @@ Fanny lachte.
 
 Fanny verstummte plötzlich, und man sah es ihr unschwer an, daß ihr geschäftiger Geist mit Plänen, Zahlen, Einteilungen eifrig arbeitete.
 
-»​Wie kann eine Frau,​« dachte Adrienne voll Staunen, »​die vermöge ihres Reichtums und ihrer Schönheit in der Welt glänzen könnte, sich in einem Leben gefallen, das nicht mehr und nicht weniger ist, als ein Krautjunkertum ins Weibliche übersetzt.​« Und sie stand nicht an, mit dem lehrhaften Unfehlbarkeitsgeist, der noch von ihren Erzieherinjahren in ihr lebte, etwas hochmütig auf Fanny herabzublicken. Doch Fanny fuhr mit einer schnellen Frage aus ihren Grübeleien auf, mitten hinein in die überhebenden Gedanken der Schwägerin.
+<quote>»​Wie kann eine Frau,​«</quote> <suspension>dachte Adrienne voll Staunen,</suspension> <quote>»​die vermöge ihres Reichtums und ihrer Schönheit in der Welt glänzen könnte, sich in einem Leben gefallen, das nicht mehr und nicht weniger ist, als ein Krautjunkertum ins Weibliche übersetzt.​«</quote> Und sie stand nicht an, mit dem lehrhaften Unfehlbarkeitsgeist, der noch von ihren Erzieherinjahren in ihr lebte, etwas hochmütig auf Fanny herabzublicken. Doch Fanny fuhr mit einer schnellen Frage aus ihren Grübeleien auf, mitten hinein in die überhebenden Gedanken der Schwägerin.
 
 »​Treibt Joachim irgend eine Kunst?​«
 
@@ -355,7 +357,7 @@ Fanny verstummte plötzlich, und man sah es ihr unschwer an, daß ihr geschäfti
 
 »​Wann reisen wir?​« fragte Adrienne glücklich. All ihr inneres Widerstreben war schon in der Sekunde erstorben, als Fannys stolze Gestalt heiter über ihre Schwelle trat.
 
-»​Morgen,​« sagte Fanny, »​mit dem ersten Zug, dann sind wir mit Einbruch der Nacht in Mittelbach.​«
+<quote>»​Morgen,​«</quote> <suspension>sagte Fanny,</suspension> <quote>»​mit dem ersten Zug, dann sind wir mit Einbruch der Nacht in Mittelbach.​«</quote>
 
 Die beiden Frauen stießen fröhlich zusammen an. Und am späten Abend saß Fanny, deren Nerven offenbar keine Ermüdung kannten, noch im Gasthofzimmer am Tisch, um einen ihrer bündigen Briefe zu schreiben.
 
@@ -399,7 +401,7 @@ Der Inspektor eilte auch herbei und riß die Thür auf, der Fanny nun rasch ents
 
 »​Wir haben die gnädige Frau schon gestern abend erwartet,​« bemerkte der Inspektor.
 
-»​Ja,​« lachte Fanny, »​meine Schwägerin hat nicht meine Nerven. Wir mußten in Hamburg Aufenthalt nehmen. – Gib mir erst das Kind heraus, Adrienne. – Guten Tag, Very. Nun, wo kommst Du denn her? Ist der Baron gestern abend hier gewesen? Wie sieht's in Mittelbach aus, Mädchen? Deine Eltern wohl?​«
+<quote>»​Ja,​«</quote> <suspension>lachte Fanny,</suspension> <quote>»​meine Schwägerin hat nicht meine Nerven. Wir mußten in Hamburg Aufenthalt nehmen. – Gib mir erst das Kind heraus, Adrienne. – Guten Tag, Very. Nun, wo kommst Du denn her? Ist der Baron gestern abend hier gewesen? Wie sieht's in Mittelbach aus, Mädchen? Deine Eltern wohl?​«</quote>
 
 Dabei ergriff sie mit der Rechten das Bündel von Tüchern und Schleiern, in welchem der kleine Joachim stak, preßte es gegen sich und reichte die Linke Adrienne hinauf. Diese, überaus blaß und von Hitze ermattet, kletterte herab, die Magd mit sehr vielem Handgepäck folgte, und mit dumpfem Krach flog die Coupéthür wieder zu.
 
@@ -409,13 +411,13 @@ Da stand die kleine Gesellschaft nun im Sonnenschein, Adrienne verzagt über die
 
 »​Meine Eltern haben Ihre Rückkunft mit großer Sehnsucht erwartet,​« sagte Severina, mit ihren dunklen Augen einen so flehenden, bedeutungsvollen Blick auf Fanny richtend, daß diese augenblicklich fühlte, es sei etwas geschehen, wobei man ihrer bedürfe. Sie drückte Severina stark die Hand.
 
-»​Gestern abend,​« fuhr Severina fort, »​fuhr ich  mit Ihrem Wagen her; Sie kamen nicht. Auch der Baron war vergebens hier. Er beschloß, eine Depesche abzuwarten, aber ich bin, Ihre Verzeihung voraussetzend, heute wieder mit Ihrem Wagen gekommen.​«
+<quote>»​Gestern abend,​«</quote> <suspension>fuhr Severina fort,</suspension> <quote>»​fuhr ich  mit Ihrem Wagen her; Sie kamen nicht. Auch der Baron war vergebens hier. Er beschloß, eine Depesche abzuwarten, aber ich bin, Ihre Verzeihung voraussetzend, heute wieder mit Ihrem Wagen gekommen.​«</quote>
 
-»​Und das ist ein Glück,​« meinte Fanny freundlich, »​da wir nun gleich heimfahren können und keinen Wagen aus Mühlen brauchen. Die arme Adrienne hätte auch vielleicht geglaubt, ihre letzte Stunde sei gekommen, wenn sie auf einem Mühlener Bauernwagen durchschüttelt worden wäre.​«
+<quote>»​Und das ist ein Glück,​«</quote> <suspension>meinte Fanny freundlich,</suspension> <quote>»​da wir nun gleich heimfahren können und keinen Wagen aus Mühlen brauchen. Die arme Adrienne hätte auch vielleicht geglaubt, ihre letzte Stunde sei gekommen, wenn sie auf einem Mühlener Bauernwagen durchschüttelt worden wäre.​«</quote>
 
 Mühlen war ein zu Fannys Gütern gehöriges Dörfchen, welches in unmittelbarer Nähe der Station lag.
 
-»​Komm,​« sprach Fanny, den Arm des jungen Mädchens ergreifend, »​meine kleine Kalenderheilige muß erst beichten. – Wir nennen Very manchmal so, weil sie einen so furchtbar nach Weihrauch duftenden Namen hat,​« erklärte sie Adrienne. »​Besteige Du einstweilen den Wagen und installire Dich mit Baby. – Guten Tag, Christian,​« grüßte sie den Kutscher.
+<quote>»​Komm,​«</quote> <suspension>sprach Fanny, den Arm des jungen Mädchens ergreifend,</suspension> <quote>»​meine kleine Kalenderheilige muß erst beichten. – Wir nennen Very manchmal so, weil sie einen so furchtbar nach Weihrauch duftenden Namen hat,​«</quote> erklärte sie Adrienne. »​Besteige Du einstweilen den Wagen und installire Dich mit Baby. – Guten Tag, Christian,​« grüßte sie den Kutscher.
 
 Da Severina schwieg und neben Fanny mit sichtlichem Zögern einherschritt, so fragte Fanny mit einigem Nachdruck:
 
@@ -425,17 +427,17 @@ Da Severina schwieg und neben Fanny mit sichtlichem Zögern einherschritt, so fr
 
 »​Hat Dummheiten gemacht!​« setzte Fanny bestimmt dem von der andern zögernd ausgesprochenen Namen hinzu.
 
-»​Leider gleich zwei auf einmal,​« sagte Severina finster, »​und Mama und Papa geben nun einander schuld; Jedes behauptet, der andere habe ihn falsch erzogen.​«
+<quote>»​Leider gleich zwei auf einmal,​«</quote> <suspension>sagte Severina finster,</suspension> <quote>»​und Mama und Papa geben nun einander schuld; Jedes behauptet, der andere habe ihn falsch erzogen.​«</quote>
 
-»​Nun,​« meinte Fanny, »​in dieser Behauptung ist das Recht auf Seite des Vaters. Aber was hat denn unser Doktor Magnus Hesselbarth angestiftet?​«
+<quote>»​Nun,​«</quote> <suspension>meinte Fanny,</suspension> <quote>»​in dieser Behauptung ist das Recht auf Seite des Vaters. Aber was hat denn unser Doktor Magnus Hesselbarth angestiftet?​«</quote>
 
 »​Er hat – gespielt und dann, es mag in der Leidenschaft des Verlierens oder des Weinrausches gewesen sein, dann hat er ein Duell provozirt und ausgefochten, welches seinem Gegner eine Stirnwunde und ihm einen Schuß im linken Arm einbrachte. Nun ist er heimgekommen wie ein Flüchtling. Die Wunde will die Pflege der Mutter schon ausheilen, aber die Spielschuld kann die Cassa des Vaters nicht decken,​« berichtete das Mädchen.
 
-»​O weh,​« rief Fanny, »​das mag stürmische Zeit bei euch gegeben haben!​«
+<quote>»​O weh,​«</quote> <suspension>rief Fanny,</suspension> <quote>»​das mag stürmische Zeit bei euch gegeben haben!​«</quote>
 
 »​Ich bin ja da, alles auszubaden,​« sagte Severina mit großer Bitterkeit.
 
-»​Pfui, Very!​« schalt Fanny, über deren Gesicht sich die Schatten sorgenvoller Gedanken gebreitet hatten, »​in solchen Tagen sucht der Sorgende sich eben gern einen Blitzableiter für die üble Laune. Das ist menschlich, das solltest Du verzeihen.​«
+<quote>»​Pfui, Very!​«</quote> <suspension>schalt Fanny, über deren Gesicht sich die Schatten sorgenvoller Gedanken gebreitet hatten,</suspension> <quote>»​in solchen Tagen sucht der Sorgende sich eben gern einen Blitzableiter für die üble Laune. Das ist menschlich, das solltest Du verzeihen.​«</quote>
 
 »​So?​« fragte das Mädchen. »​Diese Menschlichkeit passirt doch nicht allen Menschen. Als im vorigen Frühling die Elbe austrat und Ihnen die mühsam  kultivirten Fichtenschonungen verschlammte und versandete, Ihnen die Mühe und Kosten von Jahren zerstörend, da hat kein Mensch ein ungeduldiges Wort von Ihnen gehört. Aber freilich, meine Pflegemutter ist auch eine fromme Christin, sie muß in jedem Unglück das Strafgericht Gottes oder die Versuchung Satans beklagen.​«
 
@@ -457,7 +459,7 @@ Das Dorf gruppirte sich um eine Kirche, die aus einem von blühendem Hollunder u
 
 Neben dem Pastorengarten bog eine tiefschattige Ulmenallee von der Dorfstraße ab und führte geradewegs in fünf Minuten auf das Schloß zu. Das Schloß verdiente im Grunde diesen stolze Baulichkeiten versprechenden Namen keineswegs. Es war ein großes, breites Haus, das über dem Parterre ein Stockwerk und einen zweifensterigen Erker trug. Vor der grün angestrichenen Hausthür befanden sich ein Beischlag, dessen Bänke je von einer Linde überschattet waren, die wie zwei Schildwachen rechts und links vor der grau getünchten Hausmauer standen.
 
-»​Schön ist er nicht, der alte Kasten,​« sagte Fanny mit einem Seufzer, »​und ich liebe so die Schönheit. Aber um das Idealschlößchen herzubauen, von welchem ich träume, fehlt mir immer das Geld.​«
+<quote>»​Schön ist er nicht, der alte Kasten,​«</quote> <suspension>sagte Fanny mit einem Seufzer,</suspension> <quote>»​und ich liebe so die Schönheit. Aber um das Idealschlößchen herzubauen, von welchem ich träume, fehlt mir immer das Geld.​«</quote>
 
 Adrienne lächelte; sie glaubte nicht anders, als daß dieser Seufzer ein gewisses Kokettiren mit Sparsamkeit sei, denn daß eine reiche Frau wie Fanny ihren Wünschen Grenzen ziehen müsse, schien ihr undenkbar.
 
@@ -467,7 +469,7 @@ Auf den Bänken im Beischlag saßen drei Männer und eine Frau. Sie sprangen auf
 
 »​Nein, so konnte Gott uns auch nicht strafen, er durfte Sie nicht länger fernhalten!​«
 
-»​Liebe Frau Pastorin,​« sprach Fanny, ihr die mageren Wangen streichelnd, die aus einer unter dem Kinn geschlossenen schwarzen Tüllhaube hervorsahen, »​liebe Frau Pastorin, ich bin zum Glück ja noch zur rechten Zeit gekommen, Ihnen Ihre Sorgen abzunehmen. – Grüß Gott, Herr Pastor. Ah, da ist ja auch unser junger Doktor Magnus. – Und Sie, Lanzenau, Sie sagen gar nichts?​«
+<quote>»​Liebe Frau Pastorin,​«</quote> <suspension>sprach Fanny, ihr die mageren Wangen streichelnd, die aus einer unter dem Kinn geschlossenen schwarzen Tüllhaube hervorsahen,</suspension> <quote>»​liebe Frau Pastorin, ich bin zum Glück ja noch zur rechten Zeit gekommen, Ihnen Ihre Sorgen abzunehmen. – Grüß Gott, Herr Pastor. Ah, da ist ja auch unser junger Doktor Magnus. – Und Sie, Lanzenau, Sie sagen gar nichts?​«</quote>
 
 »​Kann ich denn dazu kommen, die liebe Hand zu küssen?​« fragte der Baron Lanzenau lächelnd.
 
@@ -491,7 +493,7 @@ Der alte Pastor aber drückte ihr fest die Hand und sprach:
 
 »​Willkommen, herzlich willkommen!​«
 
-»​Ach,​« rief Fanny, »​wie ist das Heimkehren schön, und dabei habe ich nicht einmal Mann noch Kind! Was muß Arnold empfinden, wenn er von der Stunde seiner Heimkehr träumt?​«
+<quote>»​Ach,​«</quote> <suspension>rief Fanny,</suspension> <quote>»​wie ist das Heimkehren schön, und dabei habe ich nicht einmal Mann noch Kind! Was muß Arnold empfinden, wenn er von der Stunde seiner Heimkehr träumt?​«</quote>
 
 Adrienne fühlte sich immer unangenehm berührt, wenn ihr Gatte von Fanny erwähnt wurde. Sie sah stets eine Mahnung, einen Vorwurf darin. Und der Ausdruck von Verstimmung, der deswegen über ihre Züge kam, entging in diesem Augenblick dem jungen Doktor nicht, der die bleiche Frau fest im Auge behalten hatte.
 
@@ -507,7 +509,7 @@ Adrienne fühlte sich immer unangenehm berührt, wenn ihr Gatte von Fanny erwäh
 
 Die Frauen umarmten einander voll Herzlichkeit. Eine scheinbar grundlose Rührung übermannte beide.
 
-»​Und Du, kleiner Schelm,​« sagte Fanny, dem Kinde, das die Magd ihnen nachgetragen, in die Backen kneifend, »​Du schreie mir die Wände aus keiner andern Veranlassung an, als um Lungengymnastik zu treiben.​«
+<quote>»​Und Du, kleiner Schelm,​«</quote> <suspension>sagte Fanny, dem Kinde, das die Magd ihnen nachgetragen, in die Backen kneifend,</suspension> <quote>»​Du schreie mir die Wände aus keiner andern Veranlassung an, als um Lungengymnastik zu treiben.​«</quote>
 
 »​Wie schön es hier ist!​« rief Adrienne, die drei Zimmer durchschreitend, welche Fannys Güte ihr auf das wohnlichste geschmückt. Das Wohnzimmer war offenbar ganz neu eingerichtet; es zeigte dunkelblaue Farben und in allen Möbelstücken strenge, geradlinige Formen; eine Unzahl von kleinen, bunten Nippes und Luxusgegenständen übergoldete den ernsten Charakter des Gemaches mit dem Zauber der Behaglichkeit. Eine breite Glasthür führte auf einen Balkon, der, an der Rückseite des Hauses gelegen, einen weiten Ausblick über Park und Gegend gewährte.
 
@@ -521,7 +523,7 @@ Aber der unmusikalische, lang nachdröhnende Ton dieses asiatischen Signalinstru
 
 Mit finsterem Gesicht ging sie hinab, wo in dem großen Saal, der gerade unter ihren Zimmern lag  und sich auf eine Terrasse parkwärts öffnete, schon die ganze Gesellschaft versammelt war. Fanny sah mit mißbilligendem Erstaunen, daß ihre junge Schwägerin nicht die mindeste Bemühung gemacht hatte, ihr schlecht sitzendes, zerdrücktes Reisekleid zu wechseln oder ein wenig aufzuputzen.
 
-»​Sie ist ganz apathisch,​« sagte sie leise zu Lanzenau, »​wir müssen ihre Jugend aufwecken.​«
+<quote>»​Sie ist ganz apathisch,​«</quote> <suspension>sagte sie leise zu Lanzenau,</suspension> <quote>»​wir müssen ihre Jugend aufwecken.​«</quote>
 
 Das Mahl verlief so heiter, als befänden sich hier nicht Menschen, deren Existenz auf dem Spiel stand. Die Pastorsleute fühlten sich ihrer Sorgen ganz ledig: Fanny war da und hatte Hilfe versprochen. Doktor Hesselbarth fühlte sich nicht im mindesten vor Fanny genirt: sie kannte die Welt und verzieh wohl eine schwache Stunde. Selbst Severina, die im Wagen schweigsam und verbittert erschienen war, antwortete auf die jeweiligen Neckereien des Barons mit jäh aufsprühendem, schlagfertigem Witz, versank aber freilich ebenso rasch wieder in ihre Stummheit, wenn ein Blick aus den großen Augen der Pastorin sie traf.
 
@@ -535,7 +537,7 @@ Das reichliche Mahl von vielen Schüsseln, der starke Wein, die Aufwartung durch
 
 Adrienne hätte weinen mögen. »​Fanny wird sich meiner schämen,​« dachte sie verzweifelt. Sie beschloß, sich nach Tisch zurückzuziehen und aus sich noch zu machen, was ihr Kleidervorrat irgend gestattete. Dieser Entschluß, sich zurückziehen zu wollen, paßte in die Hausordnung, die Fanny alsbald verkündete.
 
-»​Nach Tische,​« sagte sie, »​bin ich in meinem Arbeitszimmer; wenn jemand mich zu sprechen wünscht, findet er mich dort. Im übrigen: allgemeine Siesta.​«
+<quote>»​Nach Tische,​«</quote> <suspension>sagte sie,</suspension> <quote>»​bin ich in meinem Arbeitszimmer; wenn jemand mich zu sprechen wünscht, findet er mich dort. Im übrigen: allgemeine Siesta.​«</quote>
 
 Lanzenau wußte, daß dies für die Pastorenfamilie gesagt war, und begab sich alsbald auf die Terrasse, wo er in einem Schaukelstuhl zwischen einer Epheuwand und einer Palmengruppe sein Schläfchen zu halten  pflegte. Severina kehrte in das Pfarrhaus zurück, nicht ohne daß Fanny ihr nachgerufen hätte, sie werde zum Abend wieder hier erwartet, und so sah die Hausherrin sich mit der Familie Hesselbarth allein, die ihr in der komischen Gefolgschaft des Gänsemarsches, eines hinter dem andern, ins Arbeitszimmer folgte.
 
@@ -551,13 +553,13 @@ Der Pastor seufzte zustimmend. Die Pastorin, die ihre Hände im Schoß gefaltet 
 
 »​Gewiß, Magnus, Du hast gefehlt wider besseres Erkennen und Wollen. Der Versucher kam über Dich,  und Du mußtest ihm gehorchen. Das ist der Fluch, der seit dem ersten Sündenfall auf uns allen ruht. Wir sind allzumal Sünder und mangeln des Ruhms, den ...​«
 
-»​Liebe Pastorin,​« sagte Fanny mit feinem Lächeln, »​Sie hörten, Magnus lehnt es von vornherein ab, unter dem Druck jener mysteriösen force majeur gehandelt zu haben, die Sie seit seinen Knabenjahren immer als Entschuldigung für alle seine Thorheiten citirten. Wir haben schon an den alltäglichen kleinen menschlichen Unvollkommenheiten unserer Charaktere genug Stoff, um Adam und Eva verantwortlich zu machen; suchen wir mit den Hauptnummern unseres Sündenregisters niemand zu belasten als unsere eigene Willensschwäche.​«
+<quote>»​Liebe Pastorin,​«</quote> <suspension>sagte Fanny mit feinem Lächeln,</suspension> <quote>»​Sie hörten, Magnus lehnt es von vornherein ab, unter dem Druck jener mysteriösen force majeur gehandelt zu haben, die Sie seit seinen Knabenjahren immer als Entschuldigung für alle seine Thorheiten citirten. Wir haben schon an den alltäglichen kleinen menschlichen Unvollkommenheiten unserer Charaktere genug Stoff, um Adam und Eva verantwortlich zu machen; suchen wir mit den Hauptnummern unseres Sündenregisters niemand zu belasten als unsere eigene Willensschwäche.​«</quote>
 
 Magnus lächelte Fanny an. Der Pastor seufzte zum zweitenmal zustimmend.
 
 »​Es war am Abend meines Doktorschmauses,​« begann Magnus; »​wir hatten stark getrunken, erst so stark, wie es solche Gelegenheit in studentischen Kreisen mit sich bringt, und dann noch stärker, als mitten in unsere Fröhlichkeit hinein mir ein Brief der großen X.schen Verlagsbuchhandlung kam, die mit mir fest kontrahirt über eine von mir zu liefernde Uebersetzung und Bearbeitung mehrerer griechischen Autoren zum Zweck einer Volksausgabe. Dies Ereignis ...​«
 
-»​Magnus,​« rief die Pastorin fieberhaft, »​und  davon hast Du bislang geschwiegen?! Diesen Trost, diese Entschuldigung uns vorenthalten! Was hab' ich immer gesagt; wer hat nun recht?​«
+<quote>»​Magnus,​«</quote> <suspension>rief die Pastorin fieberhaft,</suspension> <quote>»​und  davon hast Du bislang geschwiegen?! Diesen Trost, diese Entschuldigung uns vorenthalten! Was hab' ich immer gesagt; wer hat nun recht?​«</quote>
 
 »​Dieser Umstand hätte Dich vielleicht dahingeführt, liebe Mutter, mein Vergehen als Verdienst aufzufassen, und das ging doch angesichts des Umstandes nicht an, daß Frau Förster uns helfen muß, soll kein Unglück, kein Skandal geschehen,​« sprach Magnus mit jener liebevollen Lehrhaftigkeit, die erwachsene Männer den Schwächen der Mutter gegenüber annehmen.
 
@@ -567,11 +569,11 @@ Die roten Flecken auf den Wangen der Pastorin wurden dunkler. Ihr Herz schlug he
 
 »​Meine Fröhlichkeit wurde Uebermut; ich sah mich schon berühmt als unerreichten Uebersetzer, ich sah mich schon im Besitz der als Honorar für die in zwei Jahren zu liefernde Arbeit bedungenen fünftausend Mark. Als die Freunde Bank auflegten, verschmähte ich zum erstenmal nicht, daran teilzunehmen. Mein Verlust wuchs, meine Besinnung schwand. Endlich gab es Streit. Am andern Mittag hatte ich die Wunde im Arm und fünftausend Mark Spielschulden.​«
 
-»​Ach,​« sagte die Pastorin und sah ihren Sohn bewundernd an, »​was mögen das für Aufregungen gewesen sein!​«
+<quote>»​Ach,​«</quote> <suspension>sagte die Pastorin und sah ihren Sohn bewundernd an,</suspension> <quote>»​was mögen das für Aufregungen gewesen sein!​«</quote>
 
 »​Wenn Sie uns, teure Frau, die Summe vorstrecken wollen und sie mir allmälich am Gehalt abziehen ...​«, begann der Pastor, der mit einer unüberwindlichen Sehnsucht nach seinem Lehnstuhl kämpfte.
 
-»​Halt,​« rief Fanny, »​Magnus soll sich allein aus der Klemme ziehen, in die er sich hineingebracht. Er erhält die fragliche Summe von mir und verschreibt mir dafür sein Honorar. Und damit er nicht durch abermalige schwache Stunden in noch Aergeres gerät, schlage ich vor, daß er seine Arbeit im Elternhause vornimmt; da wird er billiger und ruhiger leben als in Berlin.​«
+<quote>»​Halt,​«</quote> <suspension>rief Fanny,</suspension> <quote>»​Magnus soll sich allein aus der Klemme ziehen, in die er sich hineingebracht. Er erhält die fragliche Summe von mir und verschreibt mir dafür sein Honorar. Und damit er nicht durch abermalige schwache Stunden in noch Aergeres gerät, schlage ich vor, daß er seine Arbeit im Elternhause vornimmt; da wird er billiger und ruhiger leben als in Berlin.​«</quote>
 
 »​Bravo!​« rief der Pastor erleichtert, weil die Sorge und die Unterredung bald ein Ende hatten.
 
@@ -579,7 +581,7 @@ Magnus ergriff die Hand Fannys und drückte sie mit wortloser Dankbarkeit. Im He
 
 Hier trat ein Diener ein und meldete, daß Wenzel und Riggers bäten, vorgelassen zu werden.
 
-»​Ah,​« sagte Fanny, »​da soll ich wohl den Schiedsrichter spielen wegen der strittigen Wiese?​«
+<quote>»​Ah,​«</quote> <suspension>sagte Fanny,</suspension> <quote>»​da soll ich wohl den Schiedsrichter spielen wegen der strittigen Wiese?​«</quote>
 
 »​Die Bauern bitten darum,​« antwortete der Diener; »​und hier, diese Depesche ist eingelaufen.​«
 
@@ -587,7 +589,7 @@ Fanny nahm die Depesche vom Tablet, erbrach und las sie, lächelte, wandte sich 
 
 »​Die Bauern können gleich vor. Ich rufe.​«
 
-»​Schnell, Magnus,​« mahnte sie dann, »​ich schreibe Ihnen einen Check für mein Berliner Bankhaus, morgen fahren Sie hin, ordnen Ihre Sachen und kehren übermorgen zurück. Ist vom Duell etwas ruchbar geworden?​«
+<quote>»​Schnell, Magnus,​«</quote> <suspension>mahnte sie dann,</suspension> <quote>»​ich schreibe Ihnen einen Check für mein Berliner Bankhaus, morgen fahren Sie hin, ordnen Ihre Sachen und kehren übermorgen zurück. Ist vom Duell etwas ruchbar geworden?​«</quote>
 
 »​Nein.​«
 
@@ -637,7 +639,7 @@ Aber auch der Doktor hatte, näher kommend, an dem hellen Gewand und den schmale
 
 »​Bewundern Sie auch den Mondaufgang, gnädige Frau?​« fragte er.
 
-»​Ach nein,​« sprach sie weinerlich, »​ich habe mich nur hieher verirrt. Bitte, bringen Sie mich zurück.​«
+<quote>»​Ach nein,​«</quote> <suspension>sprach sie weinerlich,</suspension> <quote>»​ich habe mich nur hieher verirrt. Bitte, bringen Sie mich zurück.​«</quote>
 
 »​Ich rate Ihnen, noch eine Viertelstunde auszuhalten. Wie der strahlenlose Feuerball sich allmälich in lauter Silberglanz wandelt, das ist ein überherrliches Schauspiel.​«
 
@@ -645,7 +647,7 @@ Er setzte sich Adrienne gegenüber; es war klar, er war hergekommen, dies Schaus
 
 Er aber sah auf dem dunkeltönigen Bilde, das mälich von weißlichen Lichtern überhellt wurde, ein junges, schönes Weib, welches in seiner überzarten Erscheinung wie die passendste Staffage in die Mondnacht gesetzt war. Der Mondschein spielte um ein weißes Gesicht, aus dem ein Paar großer Augen unsäglich trostlos himmelwärts schauten. Ueber dem Flußbett schwebten weißliche Nebel, die dampfend von der Wasserfläche aufstiegen. Auf dem feuchten Rasen, auf dem Laub der nächsten Büsche lag jener kalte Glanz, den das Nachtgestirn um sich verbreitet, und in Schatten flog es zuweilen wie ein Demantschimmer schnell vorüber: Johanniswürmchen begannen da ihre Nachtlust.
 
-»​Nicht wahr,​« sagte Magnus, »​es ist schön?​«
+<quote>»​Nicht wahr,​«</quote> <suspension>sagte Magnus,</suspension> <quote>»​es ist schön?​«</quote>
 
 Sie nickte nur.
 
@@ -653,7 +655,7 @@ Sie nickte nur.
 
 »​Ja,​« antwortete sie.
 
-»​O weh,​« dachte Magnus, »​das schöne Bild deckt eine Oede zu! Ich habe den ganzen Tag kein Wort gehört, das auch nur auf die notdürftigste Gedankenvegetation schließen ließe. Hinter der weißen Stirn und dem rötlichen Haar scheint steriler Boden.​«
+<quote>»​O weh,​«</quote> <suspension>dachte Magnus,</suspension> <quote>»​das schöne Bild deckt eine Oede zu! Ich habe den ganzen Tag kein Wort gehört, das auch nur auf die notdürftigste Gedankenvegetation schließen ließe. Hinter der weißen Stirn und dem rötlichen Haar scheint steriler Boden.​«</quote>
 
 Dabei sah er unwillkürlich sein Gegenüber ungenirt forschend an. Dieser Blick war Adrienne unbehaglich, sie sagte mit einer gewissen Schärfe:
 
@@ -661,7 +663,7 @@ Dabei sah er unwillkürlich sein Gegenüber ungenirt forschend an. Dieser Blick 
 
 So schnippisch kann nur eine unreife und unerfahrene Frau sein, deshalb freute er sich der Antwort, denn ihm wohnte, wie den meisten jungen Gelehrten, den Frauen gegenüber ein Gefühl der Ueberlegenheit, um nicht zu sagen Ueberhebung, inne.
 
-»​Verzeihen Sie,​« sprach er lächelnd, »​aber ich  bin kurzsichtig, und da erscheint mein Blick gleich unbescheiden, wenn ich jemand nahe ansehe.​«
+<quote>»​Verzeihen Sie,​«</quote> <suspension>sprach er lächelnd,</suspension> <quote>»​aber ich  bin kurzsichtig, und da erscheint mein Blick gleich unbescheiden, wenn ich jemand nahe ansehe.​«</quote>
 
 »​Haben Sie jetzt den Mond genug bewundert?​«
 
@@ -683,11 +685,11 @@ Adrienne ging hastig voran, aber kaum traten von rechts und links die dichten Ba
 
 »​Da fragen Sie mich zu viel. Seit ich ein Junge von zwölf Jahren bin, war ich von der Schule, dann von der Universität immer nur zum Besuch hier. Herrn Försters erinnere ich mich kaum, doch Sie wissen, man gewinnt mit der Zeit so was wie ein retrospektives Verständnis, und so verstehe ich auch jetzt, daß mit den Jahren die Lebensbilder, die ich hier im Ausschnitt sah, immer heiterer und friedlicher wurden. Lanzenau war schon immer eine stehende Figur darin, auch zu Försters Zeiten. Damals gehörte ihm Driesa.​«
 
-»​Ah,​« sagte Adrienne mit dem Ausdruck unaussprechlichen Verlangens in Stimme und Antlitz, »​wenn ich Fanny wäre, lebte ich anders.​«
+<quote>»​Ah,​«</quote> <suspension>sagte Adrienne mit dem Ausdruck unaussprechlichen Verlangens in Stimme und Antlitz,</suspension> <quote>»​wenn ich Fanny wäre, lebte ich anders.​«</quote>
 
 »​Wie denn?​« fragte Magnus, der von diesem Ausdruck gepackt wurde.
 
-»​Ich weiß nicht, wie,​« flüsterte sie, »​nur müßte jeder Tag eine neue Wonne, ein anderer Genuß sein.​«
+<quote>»​Ich weiß nicht, wie,​«</quote> <suspension>flüsterte sie,</suspension> <quote>»​nur müßte jeder Tag eine neue Wonne, ein anderer Genuß sein.​«</quote>
 
 Magnus schwieg mit einigem Herzklopfen. Das also, das stand hinter der weißen Stirn! Die schönen Lippen waren nur so schweigsam, weil der Durst sie zusammenpreßte!
 
@@ -717,7 +719,7 @@ Joachim von Herebrecht.​«
 
 »​Ein Geheimnis vor mir?​« fragte Lanzenau, scherzhaft drohend.
 
-»​Ja,​« sagte Fanny, »​das Geheimnis einer Verschwörung. Aber nun geh schlafen, armes Kind, Du siehst ganz bleich und übernächtig aus. Ich bin auch müde, aber ich habe noch einiges mit Lanzenau zu besprechen, wozu der Tag uns keine Muße gab.​«
+<quote>»​Ja,​«</quote> <suspension>sagte Fanny,</suspension> <quote>»​das Geheimnis einer Verschwörung. Aber nun geh schlafen, armes Kind, Du siehst ganz bleich und übernächtig aus. Ich bin auch müde, aber ich habe noch einiges mit Lanzenau zu besprechen, wozu der Tag uns keine Muße gab.​«</quote>
 
 Adrienne murmelte etwas davon, daß sie in der That sehr abgespannt sei, und war froh, sich von beiden verabschieden zu können.
 
@@ -737,15 +739,15 @@ Er schob das Windlicht auf dem Tisch neben Fannys Stuhl etwas weiter fort, nahm 
 
 »​Dreimal, liebe Fanny, haben Sie seit dem Tode Ihres Gatten meine Werbung um Ihre Hand abschlägig beschieden, aber jedesmal hat die Art der Abweisung, hat Ihre liebevolle Güte nachher neue Hoffnung in mir genährt. Die Jahre sind darüber hingegangen, ich habe keine mehr zu verlieren in dem Kampf um Glück; jetzt muß es mein werden oder ich muß für immer verzichten.​«
 
-»​Ja,​« seufzte Fanny, »​wir sind darüber alt geworden.​«
+<quote>»​Ja,​«</quote> <suspension>seufzte Fanny,</suspension> <quote>»​wir sind darüber alt geworden.​«</quote>
 
 »​Nicht Sie, nicht Sie! Sie sehen aus, als zählten Sie fünfundzwanzig Jahre.​«
 
 »​Sie wissen doch, Lanzenau, wenn man einer Frau von dreißig und darüber sagt, sie sähe aus wie fünfundzwanzig, so involvirt das Kompliment das Geständnis, daß ihre dreißig Jahre ein Verbrechen sind.​«
 
-»​Fanny,​« sagte er ungeduldig, »​Sie wissen, diese Spitzfindigkeit ist mir gegenüber nicht am Platz.​«
+<quote>»​Fanny,​«</quote> <suspension>sagte er ungeduldig,</suspension> <quote>»​Sie wissen, diese Spitzfindigkeit ist mir gegenüber nicht am Platz.​«</quote>
 
-»​Sie sagen mir im Tone des Vorwurfs,​« knüpfte sie mit plötzlichem Ernst an seine Eingangsworte an, »​daß mein Wesen Ihnen immer neue Hoffnung gegeben. Wie, sollte es immer die bittere Folge eines abgewiesenen Antrags sein, daß man einen lieben, unentbehrlichen Freund aus seinem Leben verliert? Könnten Sie mich je, könnte ich je Sie entbehren, so wie unser Dasein sich nun einmal gestaltet hat? Lieber Lanzenau, als Sie das erstemal um mich warben, war Ihre Aussicht die größte; ich schwankte. Und heute ist sie die geringste, denn heute wird mein ›​Nein!​‹ ein ganz bestimmtes sein. Ich hätte es Ihnen schon vor meiner Abreise geben können, aber Sie selbst baten um Antwort erst nach der Rückkehr. Glaubten Sie wirklich, ich hätte der fünftägigen Ueberlegung bedurft?​«
+<quote>»​Sie sagen mir im Tone des Vorwurfs,​«</quote> <suspension>knüpfte sie mit plötzlichem Ernst an seine Eingangsworte an,</suspension> <quote>»​daß mein Wesen Ihnen immer neue Hoffnung gegeben. Wie, sollte es immer die bittere Folge eines abgewiesenen Antrags sein, daß man einen lieben, unentbehrlichen Freund aus seinem Leben verliert? Könnten Sie mich je, könnte ich je Sie entbehren, so wie unser Dasein sich nun einmal gestaltet hat? Lieber Lanzenau, als Sie das erstemal um mich warben, war Ihre Aussicht die größte; ich schwankte. Und heute ist sie die geringste, denn heute wird mein ›​Nein!​‹ ein ganz bestimmtes sein. Ich hätte es Ihnen schon vor meiner Abreise geben können, aber Sie selbst baten um Antwort erst nach der Rückkehr. Glaubten Sie wirklich, ich hätte der fünftägigen Ueberlegung bedurft?​«</quote>
 
 »​Darf ich Sie bitten, mir klar zu machen, wie unsere gegenseitige Unentbehrlichkeit mit Ihrer Abneigung, mich zu heiraten, in Einklang zu bringen ist?​« fragte der Baron mit einer traurigen, mutlosen Stimme.
 
@@ -753,7 +755,7 @@ Er schob das Windlicht auf dem Tisch neben Fannys Stuhl etwas weiter fort, nahm 
 
 Er machte eine abwehrende Handbewegung.
 
-»​Nein,​« sagte sie hastig, »​einmal, einmal muß alles vom Herzen herunter.​«
+<quote>»​Nein,​«</quote> <suspension>sagte sie hastig,</suspension> <quote>»​einmal, einmal muß alles vom Herzen herunter.​«</quote>
 
 Ihre Augen bohrten sich in das nächtige Dunkel des Parkes, und sie sprach, in Unbeweglichkeit verharrend, langsam und leise in die Nacht hinein, als säße kein Zuhörer ihr nahe gegenüber, der mit scharfen, klugen Augen ihr jedes Wort von den Lippen las.
 
@@ -765,9 +767,9 @@ Ihre Augen bohrten sich in das nächtige Dunkel des Parkes, und sie sprach, in U
 
 »​O Fanny, wie hart!​«
 
-»​Ja,​« sagte sie herbe, »​wir wollen ganz wahr sein. Gott sei Dank, daß wir es können, und daß, wenn wir uns die Masken vom Gesicht nehmen, nur menschliche Irrtümer, menschliche Flecken zu sehen sind, keine teuflischen Häßlichkeiten. Wir redeten uns ein, in einander verliebt zu sein, und das kam so: Ich  war ein Kind, als ich Förster heiratete, ein unfertiges Kind, das Herz voll überspannter Gefühle, den Kopf voll übertriebener Ideen. Ich wollte lieben und geliebt sein wie eine Julia, ich wollte arbeiten und schaffen als die gleichberechtigte Genossin meines Mannes. Für den ernsten, älteren, vielbeschäftigten Förster sollte ich aber nur das liebenswürdige Aufheiterungsmittel der Erholungsstunden sein. Das war mir zu wenig. Ich war überzeugt, eine Frau werde entmündigt, wenn man sie nicht als Wirkerin und Richterin in den großen Fragen der Zeit heranzöge. Den Wust von ungeordneten Gedanken, der hinter meiner achtzehnjährigen Stirn umherwühlte, nahm ich für das Zeugnis bedeutender Anlagen, die zu erkennen Förster nicht im stande sei. Manch wirklich vernünftiger Wunsch erschien ihm thöricht, weil die Form, in welcher ich ihn vortrug, zu anspruchsvoll war. Vielleicht daß ihm in der That die Fähigkeit oder die Geduld abging, mich zu erziehen, zu verstehen – kurz, ich war bald ein Musterexemplar von jener Gattung, die man ›​unverstandene Frauen​‹ nennt, also ein unnützliches, unausstehliches Geschöpf. Für solche Frauen sollte im Strafgesetzbuch ein besonderer Paragraph stehen. Denn sehen Sie, bin ich, die ich hier sitze – eine ziemlich vernünftige Frau, die in mannigfachen Pflichten heiter ist und das Unvollkommene, das jegliches Dasein schließlich hat, gleichmütig erträgt – bin ich nicht dieselbe Fanny, die auch damals hätte schon Freude am Leben haben können und auch  anderen hätte zu machen vermögen? Das bißchen Vernunft, das heute zu Wort gekommen ist, saß doch schon immer in mir, weshalb hatte ich es damals nicht ausgegraben?​«
+<quote>»​Ja,​«</quote> <suspension>sagte sie herbe,</suspension> <quote>»​wir wollen ganz wahr sein. Gott sei Dank, daß wir es können, und daß, wenn wir uns die Masken vom Gesicht nehmen, nur menschliche Irrtümer, menschliche Flecken zu sehen sind, keine teuflischen Häßlichkeiten. Wir redeten uns ein, in einander verliebt zu sein, und das kam so: Ich  war ein Kind, als ich Förster heiratete, ein unfertiges Kind, das Herz voll überspannter Gefühle, den Kopf voll übertriebener Ideen. Ich wollte lieben und geliebt sein wie eine Julia, ich wollte arbeiten und schaffen als die gleichberechtigte Genossin meines Mannes. Für den ernsten, älteren, vielbeschäftigten Förster sollte ich aber nur das liebenswürdige Aufheiterungsmittel der Erholungsstunden sein. Das war mir zu wenig. Ich war überzeugt, eine Frau werde entmündigt, wenn man sie nicht als Wirkerin und Richterin in den großen Fragen der Zeit heranzöge. Den Wust von ungeordneten Gedanken, der hinter meiner achtzehnjährigen Stirn umherwühlte, nahm ich für das Zeugnis bedeutender Anlagen, die zu erkennen Förster nicht im stande sei. Manch wirklich vernünftiger Wunsch erschien ihm thöricht, weil die Form, in welcher ich ihn vortrug, zu anspruchsvoll war. Vielleicht daß ihm in der That die Fähigkeit oder die Geduld abging, mich zu erziehen, zu verstehen – kurz, ich war bald ein Musterexemplar von jener Gattung, die man ›​unverstandene Frauen​‹ nennt, also ein unnützliches, unausstehliches Geschöpf. Für solche Frauen sollte im Strafgesetzbuch ein besonderer Paragraph stehen. Denn sehen Sie, bin ich, die ich hier sitze – eine ziemlich vernünftige Frau, die in mannigfachen Pflichten heiter ist und das Unvollkommene, das jegliches Dasein schließlich hat, gleichmütig erträgt – bin ich nicht dieselbe Fanny, die auch damals hätte schon Freude am Leben haben können und auch  anderen hätte zu machen vermögen? Das bißchen Vernunft, das heute zu Wort gekommen ist, saß doch schon immer in mir, weshalb hatte ich es damals nicht ausgegraben?​«</quote>
 
-»​Liebste Fanny,​« sprach Lanzenau, »​der Wahn, nicht verstanden zu sein, ist bei den jungen Frauen ein Durchgangsstadium, wie bei den Kindern das Ausfallen der Milchzähne. Zum Durchbeißen der härteren Lebenskost wächst dann ein neues Gebiß.​«
+<quote>»​Liebste Fanny,​«</quote> <suspension>sprach Lanzenau,</suspension> <quote>»​der Wahn, nicht verstanden zu sein, ist bei den jungen Frauen ein Durchgangsstadium, wie bei den Kindern das Ausfallen der Milchzähne. Zum Durchbeißen der härteren Lebenskost wächst dann ein neues Gebiß.​«</quote>
 
 »​Mag sein. Nur hat der arme Förster gewiß viel zu leiden gehabt. Mißverstehen Sie mich nicht, ich verliere mich nicht in falsche Reue, denn mit ehrlichem Herzen habe ich auch damals ihn glücklich machen wollen; daß ich in den Wegen dazu irrte, ist Jugend schuld gewesen. Mangel an Erkenntnis entlastet vor jedem Richter. Aber dann kamen Sie. Die unverstandene Frau bekam ihr naturnotwendiges Attribut: den Tröster. Es mag eine Komödie zum Lachen gewesen sein mit uns beiden, Lanzenau. Sie langweilten sich in Driesa zum Sterben; der kleinen, temperamentvollen Nachbarin einen Roman zu schaffen, erschien eine standesgemäße Abwechslung. Ich bespiegelte mein Selbst wohlgefällig in den kleinen, tugendhaft bestandenen Versuchungen und redete mir in schlaflosen Nächten ein, daß Sie der Mann seien, der mich ›​verstehe​‹. Förster, der kluge, wachsame, mag, wie ich jetzt zurückdenkend die Situation sehe, uns ausgelacht haben in seiner schönen Sicherheit, daß er immer der Herr bleibe.  Genug – Förster starb plötzlich, als unsere – Flirtation einem Gipfelpunkt zutrieb. Ich erwachte und begriff, was ich verloren. In ernster Einsamkeit begann ich an mir zu arbeiten. Ach, warum warten so viele Frauen und Männer erst auf Katastrophen, um ihre Selbsterziehung zu beginnen! Es gäbe mehr glückliche Ehen, wenn das anders wäre, und auch Förster und ich hätten glücklicher sein können. Ein Jahr nach Försters Tod boten Sie mir Ihre Hand. Sie waren in meiner Nähe geblieben, aber die Erschütterung, welche auch Sie über Försters Tod empfanden, hatte Sie den Ton der Ehrfurcht und Bescheidenheit mir gegenüber gelehrt. Ich lehnte Ihren Antrag voll innerer Zweifel ab. Warum?​«
 
@@ -783,17 +785,17 @@ Fanny stand auf. Sie ging im spielenden Licht der Kerze hin und her, die Bewegun
 
 In ihren Augen standen Thränen. Sie ließ ihn los.
 
-»​Aber, Fanny,​« rief er erschüttert, »​teure Fanny, dies alles darf ein Grund mehr sein, mir Ihre liebe Hand zu geben. Aus der Achtung ist die Liebe erwachsen, sie hat das schönste Fundament. Und in den gemeinsamen Aufgaben ruht die Garantie zukünftigen Glücks.​«
+<quote>»​Aber, Fanny,​«</quote> <suspension>rief er erschüttert,</suspension> <quote>»​teure Fanny, dies alles darf ein Grund mehr sein, mir Ihre liebe Hand zu geben. Aus der Achtung ist die Liebe erwachsen, sie hat das schönste Fundament. Und in den gemeinsamen Aufgaben ruht die Garantie zukünftigen Glücks.​«</quote>
 
-»​Nein,​« rief sie leidenschaftlich, »​nein, mein Freund! Nichts in mir zwingt mich, diese schöne Genossenschaft der Arbeit in eine andere Genossenschaft umzuwandeln. In all diesen Jahren hat mich nie ein leidenschaftlicher Wunsch zu Ihnen gezogen. Sie werden mir sagen: was die Vernunft anbietet, kann die Vernunft ruhig annehmen, von Leidenschaft soll ja überhaupt keine Rede sein. Aber das ist es: in dem gesunden, schönen Leben, das wir uns gestaltet, ist meine Seele immer freier und jünger, immer glücksfähiger und glücksdurstiger geworden, und nicht immer, mein Freund, habe ich mir unaufhörlich neue Pflichten gesucht, um mein Arbeitspfund zu verwalten ... nein, ich habe mich auch oft – betäuben wollen. Sehen Sie,​« setzte sie mit schmerzlichem Lächeln hinzu, »​die Unvollkommenheit, die Ungestilltheit ist noch in mir wie damals; aber ich weiß, daß das gemeinmenschliches Los ist, ich erkenne, daß man sich keine Zeit geben darf, darüber zu klagen, und nur in Stunden wie diese zwischen uns darf man daran rühren.​«
+<quote>»​Nein,​«</quote> <suspension>rief sie leidenschaftlich,</suspension> <quote>»​nein, mein Freund! Nichts in mir zwingt mich, diese schöne Genossenschaft der Arbeit in eine andere Genossenschaft umzuwandeln. In all diesen Jahren hat mich nie ein leidenschaftlicher Wunsch zu Ihnen gezogen. Sie werden mir sagen: was die Vernunft anbietet, kann die Vernunft ruhig annehmen, von Leidenschaft soll ja überhaupt keine Rede sein. Aber das ist es: in dem gesunden, schönen Leben, das wir uns gestaltet, ist meine Seele immer freier und jünger, immer glücksfähiger und glücksdurstiger geworden, und nicht immer, mein Freund, habe ich mir unaufhörlich neue Pflichten gesucht, um mein Arbeitspfund zu verwalten ... nein, ich habe mich auch oft – betäuben wollen. Sehen Sie,​«</quote> setzte sie mit schmerzlichem Lächeln hinzu, »​die Unvollkommenheit, die Ungestilltheit ist noch in mir wie damals; aber ich weiß, daß das gemeinmenschliches Los ist, ich erkenne, daß man sich keine Zeit geben darf, darüber zu klagen, und nur in Stunden wie diese zwischen uns darf man daran rühren.​«
 
 Sie stand am Geländer der Terrasse und preßte  die geballten Hände an ihre Augen. Lanzenau trat zu ihr, nahm ihr sanft die Hände vom Gesicht und legte den Arm um ihre Schulter.
 
-»​Und ich,​« sagte er, sich zärtlich zu ihr beugend, »​ich kann durch meine Liebe nicht das nützliche, zufriedene Leben zu einem glückseligen verschönern? Ich, Fanny, habe mehr und mehr mit leidenschaftlichen Wünschen an Sie gedacht, es ist nicht die Vernunft, die um Sie wirbt, sondern die Liebe.​«
+<quote>»​Und ich,​«</quote> <suspension>sagte er, sich zärtlich zu ihr beugend,</suspension> <quote>»​ich kann durch meine Liebe nicht das nützliche, zufriedene Leben zu einem glückseligen verschönern? Ich, Fanny, habe mehr und mehr mit leidenschaftlichen Wünschen an Sie gedacht, es ist nicht die Vernunft, die um Sie wirbt, sondern die Liebe.​«</quote>
 
 Sie sah mit nassen Augen zu ihm empor. Ein unbeschreiblicher Ausdruck von Schelmerei, Rührung und Zärtlichkeit vergoldete ihr Gesicht.
 
-»​Es ist eine Lächerlichkeit, Lanzenau,​« sagte sie errötend, »​aber ich ... ich ... meine zuweilen ... Sie wären zu alt für mich. Ich sehe das Alter bei Ihnen, Sie sehen es vielleicht auch bei mir. Das thut die Liebe nicht. Sehen Sie ... Ihre Schläfenlocken geniren mich. Eine andere Generation, eine, die vor mir war, redet daraus. Ich bin eine Närrin.​«
+<quote>»​Es ist eine Lächerlichkeit, Lanzenau,​«</quote> <suspension>sagte sie errötend,</suspension> <quote>»​aber ich ... ich ... meine zuweilen ... Sie wären zu alt für mich. Ich sehe das Alter bei Ihnen, Sie sehen es vielleicht auch bei mir. Das thut die Liebe nicht. Sehen Sie ... Ihre Schläfenlocken geniren mich. Eine andere Generation, eine, die vor mir war, redet daraus. Ich bin eine Närrin.​«</quote>
 
 Sie mußten beide aus der Rührung lachen. Und dabei wallte in seinem Herzen die Hoffnung nur stärker auf. Sie wies ihn ab – ja, aber aus ihren Geständnissen nahm er ihr unbegrenztes Vertrauen und zugleich die Gewißheit, daß keine andere Liebe ihr Herz beherrschte.
 
@@ -809,9 +811,9 @@ Schnell von seiner Bereitwilligkeit, die Welt zu umschiffen, ernüchtert, fragte
 
 »​Es ist Ihr Ernst? Und was soll in Mittelbach geschehen?​«
 
-»​Erstens sind Sie eingeladen, jeden Tag zum Speisen hieher zu kommen, was ja für Sie kaum einen Unterschied macht, da Sie jetzt jeden Vormittag nach Driesa reiten; zweitens nehme ich einen Administrator für Mittelbach,​« erklärte Fanny und zog wieder die Depesche aus der Tasche. »​Da,​« sagte sie, »​so heißt er.​«
+<quote>»​Erstens sind Sie eingeladen, jeden Tag zum Speisen hieher zu kommen, was ja für Sie kaum einen Unterschied macht, da Sie jetzt jeden Vormittag nach Driesa reiten; zweitens nehme ich einen Administrator für Mittelbach,​« erklärte Fanny und zog wieder die Depesche aus der Tasche. »​Da,​«</quote> <suspension>sagte sie,</suspension> <quote>»​so heißt er.​«</quote>
 
-»​Joachim von Herebrecht,​« fragte er, »​der junge Schwager Adriennens? Und das war so eilig, daß es per Draht abgemacht werden mußte?​«
+<quote>»​Joachim von Herebrecht,​«</quote> <suspension>fragte er,</suspension> <quote>»​der junge Schwager Adriennens? Und das war so eilig, daß es per Draht abgemacht werden mußte?​«</quote>
 
 Sie hörte wohl die Bitterkeit in seiner Stimme, antwortete aber ruhig:
 
@@ -825,7 +827,7 @@ Fanny schüttelte lächelnd den Kopf, wie man bei der Thorheit eines Kindes thut
 
 »​Sie begannen das Gespräch, indem Sie mir sozusagen ein Ultimatum stellten: heute oder nie mehr! Und Sie endigen es mit dem Bekenntnis neuer Hoffnung.​«
 
-»​Ich kann nicht anders,​« sprach Lanzenau, »​ich fühle, daß die Hoffnung aufgeben, einfach das Leben oder doch die bisherige Daseinsform aufgeben heißt, und das bedeutet für Menschen in einem gewissen Alter einen tödlichen Schlag. Eine Erschütterung des Gemüts kann einen Zwanzigjährigen reifer und kraftvoller machen – uns würde sie in Greise wandeln. Gute Nacht, Fanny, ich gehe heiter, denn mein Glaube, daß Sie mein sind, steht fest wie die Sonne am Himmel!​«
+<quote>»​Ich kann nicht anders,​«</quote> <suspension>sprach Lanzenau,</suspension> <quote>»​ich fühle, daß die Hoffnung aufgeben, einfach das Leben oder doch die bisherige Daseinsform aufgeben heißt, und das bedeutet für Menschen in einem gewissen Alter einen tödlichen Schlag. Eine Erschütterung des Gemüts kann einen Zwanzigjährigen reifer und kraftvoller machen – uns würde sie in Greise wandeln. Gute Nacht, Fanny, ich gehe heiter, denn mein Glaube, daß Sie mein sind, steht fest wie die Sonne am Himmel!​«</quote>
 
 Fanny schüttelte ihm die Hand. Er nahm seinen Hut, der auf dem Tische neben dem Windlicht lag, und ging die Stufen hinab in den Park, wo er nach wenigen Schritten in der Dunkelheit verschwand; dennoch blieb Fanny stehen, als sähe sie ihm nach. Vor ihrem geistigen Auge schritt er dahin in seinem engen Wams, mit seinem spitzen Schnurrbart, dem Monocle im linken Auge und dem hohen Hut auf dem Kopfe. Sie sah seinen vorsichtigen, etwas steifbeinigen Gang, die zierliche Art, wie er zwei Finger der Linken zwischen die Knöpfe und die ganze Rechte außer dem Daumen in die Seitentasche des Jaquets steckte, – eine Gestalt, die auf dem Boulevard einer Weltstadt charakteristisch gewesen wäre, die aber in der Ländlichkeit von Mittelbach allezeit ein klein wenig an den alternden Bonvivant der Bühne erinnerte. Dabei verhütete ein  gewisses aristokratisches Etwas jeden Eindruck von Lächerlichkeit.
 
@@ -849,7 +851,7 @@ Dann ging sie, ein lustig Lied auf den Lippen, dessen Töne sie zum Summen dämp
 
 Joachim stand eine Weile unbeweglich und störend im Menschengewühl des Bahnhoftumultes, wie jemand, der für den Augenblick ganz verdummt ist.
 
-»​Den Teufel auch,​« dachte er verdutzt, »​da trete ich mit einer Unpünktlichkeit in den neuen Wirkungskreis. So was macht immer einen schlechten Eindruck. Aber die Frauenzimmer hätten doch auch in den Briefen, die der Depesche folgten, ein Wort davon einfließen lassen können, daß man nur mit dem edlen Beförderungsmittel der Bummelzüge in die Försterschen Gefilde gelangen kann. Na, wo Frauen regieren, kann man am Ende solche Vergeßlichkeit nicht befremdlich finden und kann auch wohl darauf rechnen, daß Unpünktlichkeit nicht als Untugend angesehen wird.​«
+<quote>»​Den Teufel auch,​«</quote> <suspension>dachte er verdutzt,</suspension> <quote>»​da trete ich mit einer Unpünktlichkeit in den neuen Wirkungskreis. So was macht immer einen schlechten Eindruck. Aber die Frauenzimmer hätten doch auch in den Briefen, die der Depesche folgten, ein Wort davon einfließen lassen können, daß man nur mit dem edlen Beförderungsmittel der Bummelzüge in die Försterschen Gefilde gelangen kann. Na, wo Frauen regieren, kann man am Ende solche Vergeßlichkeit nicht befremdlich finden und kann auch wohl darauf rechnen, daß Unpünktlichkeit nicht als Untugend angesehen wird.​«</quote>
 
 Damit beruhigte er sich, suchte ein Hotel in unmittelbarer Bahnhofsnähe auf und ließ sein Gepäck gleich an der Eisenbahn. Der andere Morgen sah ihn sehr übellaunig im Coupé des ersten Zuges, der mit viel Geräusch und wenig Eile durch den märkischen Sand fuhr. Joachim, von Berufswegen zum steten Frühaufstehen gezwungen, haßte dasselbe doch gründlich und liebte an den Tagen, wo der Zwang wegfiel, ein verlängertes Verweilen im Bett, bis zur Mittagsstunde womöglich. Und natürlich würde nun kein Wagen an der Station sein und er konnte das Vergnügen genießen, ein paar Stunden durch den sonnigen Morgen zu Fuß zu laufen.
 
@@ -873,7 +875,7 @@ Nach dieser Selbstmahnung bestieg er den Meilenstein neben der nächsten Pappel 
 
 Joachim, der auf alles Weibliche eine ungemeine Neugier besaß, eilte vorwärts, um womöglich da, wo Chaussee und Landweg sich schnitten, mit der Reiterin zusammenzutreffen. Das wäre nun selbst seinem schnellsten Gang nicht möglich gewesen, aber die Reiterin sah, als sie die Chaussee überschreiten wollte, den Herrn mit dem Sonnenschirm daherkommen. Sie hielt ihr Pferd an und schaute dem Kommenden entgegen; eine so kultivirte Männererscheinung in elegantem grauem Straßenanzug, mit einem Schirm über der Schulter, mochte wohl zu auffällig um diese Zeit, auf dieser Straße, und vor allen Dingen als Fußwanderer, sein.
 
-»​Aha,​« dachte Joachim, »​das ist natürlich Fanny Förster. Donnerwetter! Ich dachte sie mir überhaupt älter.​«
+<quote>»​Aha,​«</quote> <suspension>dachte Joachim,</suspension> <quote>»​das ist natürlich Fanny Förster. Donnerwetter! Ich dachte sie mir überhaupt älter.​«</quote>
 
 »​Herr von Herebrecht?​« rief Fanny ihm schon fragend entgegen. Sie hätte sein Gesicht überall wiedererkannt, nach dem Bilde, das Adrienne von ihm hatte.
 
@@ -911,7 +913,7 @@ Er schlich näher, und über die Schultern der vor ihm Sitzenden hinweg plötzli
 
 In der Stummheit einer halben Minute, die zwischen den beiden sich verdutzt Anschauenden brütete, war Joachim von dem angenehmen Bewußtsein erfüllt, daß er für die Verwechslung nicht verantwortlich und gar nicht strafbar sei. Ja, er schaute mit begreiflichem Interesse auf das Gesicht, das – er mußte es sich zugeben – nicht schön, aber unglaublich interessant war.
 
-»​Meine Gnädigste,​« begann er endlich mit aller Mühe, sehr ernst auszusehen, »​ich bitte um Vergebung. Aber Frau Förster sagte mir, Adrienne sei mit meinem Neffen im Park, und da ich Gründe hatte, mir Adrienne in Weiß gekleidet vorzustellen, so war die Ueberrumpelung gewiß verzeihlich.​«
+<quote>»​Meine Gnädigste,​«</quote> <suspension>begann er endlich mit aller Mühe, sehr ernst auszusehen,</suspension> <quote>»​ich bitte um Vergebung. Aber Frau Förster sagte mir, Adrienne sei mit meinem Neffen im Park, und da ich Gründe hatte, mir Adrienne in Weiß gekleidet vorzustellen, so war die Ueberrumpelung gewiß verzeihlich.​«</quote>
 
 »​Also Herr von Herebrecht?​« fragte sie, ihn immer noch groß ansehend.
 
@@ -987,13 +989,13 @@ So ging das schnelle Reden hin und her. Severina fühlte sich namenlos überflü
 
 Joachim ließ es sich nicht nehmen, den Kinderwagen zu schieben, Adrienne ging neben ihm her.
 
-»​Langweilen werde ich mich hier nicht,​« dachte er zufrieden, »​so viel nette Frauen! Erstens meine Schwägerin, sodann die Hausfrau, die offenbar ebenso  gütig als verständig ist, und endlich das Mädchen mit dem Gesicht, das aussieht, als könne aus Augen und Mund ein Flammenstrom sich ergießen ... du bist ein Glückspilz.​«
+<quote>»​Langweilen werde ich mich hier nicht,​«</quote> <suspension>dachte er zufrieden,</suspension> <quote>»​so viel nette Frauen! Erstens meine Schwägerin, sodann die Hausfrau, die offenbar ebenso  gütig als verständig ist, und endlich das Mädchen mit dem Gesicht, das aussieht, als könne aus Augen und Mund ein Flammenstrom sich ergießen ... du bist ein Glückspilz.​«</quote>
 
 An der Terrasse kam ihnen die Magd entgegen, die den Kinderwagen an sich zog. Joachim und Adrienne schritten durch den Saal, über den Flur in die Zimmer, welche für den neuen Hausgenossen fertiggestellt waren. Sie lagen vorn, nach dem Gutshof hinaus.
 
 »​Hier aus Deiner Wohnstube führt die Thür links in Dein Schlafkabinet, rechts in die sogenannte Amtsstube, welche Fannys Audienz- und Arbeitszimmer ist. Ihre Privatzimmer liegen gerade über den Deinen,​« erklärte Adrienne.
 
-»​So ist es recht,​« scherzte er, »​das Auge der Regentin und ihres ersten Ministers muß das Arbeitsreich jederzeit im Auge haben.​«
+<quote>»​So ist es recht,​«</quote> <suspension>scherzte er,</suspension> <quote>»​das Auge der Regentin und ihres ersten Ministers muß das Arbeitsreich jederzeit im Auge haben.​«</quote>
 
 Behaglich sah er sich in den einfachen, wohnlichen Räumen um. Als er dann über dem Sofa ein kleines, hübsch eingerahmtes Bild seines Bruders fand, drückte er der Schwägerin gerührt die Hand.
 
@@ -1003,7 +1005,7 @@ Behaglich sah er sich in den einfachen, wohnlichen Räumen um. Als er dann über
 
 Joachim wollte alle Briefe lesen, die bislang von Arnold eingetroffen seien, Adrienne holte sie herbei, man las und plauderte zusammen, dann wollte Joachim auch ihre Wohnung sehen.
 
-»​Donnerwetter,​« sagte er oben, »​Fanny muß ebensoviel Geld als Gutmütigkeit haben.​«
+<quote>»​Donnerwetter,​«</quote> <suspension>sagte er oben,</suspension> <quote>»​Fanny muß ebensoviel Geld als Gutmütigkeit haben.​«</quote>
 
 Der gewisse Respekt, den wohlangewendeter Reichtum immer einflößt, erfüllte schon Joachims Seele.
 
@@ -1025,7 +1027,7 @@ Während des Speisens mußte Joachim von dem Gut und der Familie erzählen, wo e
 
 Als Fanny dann in ihrem Arbeitszimmer mit den Dorfbewohnern – davon täglich der eine oder die andere erschien – deren Weh und Ach überlegte und verbesserte, war es ihr eine angenehme Empfindung, nebenan jemand rumoren und pfeifen zu hören. Joachim packte seine eben angekommenen Sachen aus. Als er damit fertig war, klopfte er an und trat von seiner Wohnstube aus ein.
 
-»​Wir haben, meine gnädigste Frau,​« begann er, »​mein Hieherkommen durch einen Depeschenwechsel abgemacht. Vielleicht haben Sie selbst schon daran gedacht, daß es doch noch einige Punkte zu erledigen gibt, deren wichtigster wohl der ist, den Umfang meiner Thätigkeit zu bestimmen.​«
+<quote>»​Wir haben, meine gnädigste Frau,​«</quote> <suspension>begann er,</suspension> <quote>»​mein Hieherkommen durch einen Depeschenwechsel abgemacht. Vielleicht haben Sie selbst schon daran gedacht, daß es doch noch einige Punkte zu erledigen gibt, deren wichtigster wohl der ist, den Umfang meiner Thätigkeit zu bestimmen.​«</quote>
 
 Fanny, die eben den letzten Bittsteller entlassen, drehte sich auf ihrem Stuhl Joachim zu, steckte die Feder hinter das Ohr, trommelte mit den Fingern der Rechten auf den Tisch, während sie die Linke in ihrem Schoß ruhen ließ, und sagte eifrig:
 
@@ -1055,7 +1057,7 @@ Taiß folgte augenblicklich, Fanny streckte dem hohen, bärtigen Mann beide Hän
 
 »​Haben Sie einen Platz für mich an Ihrem Abendtisch, teure Frau, und eine Stätte für mein Haupt zur Nacht?​«
 
-»​Beides. Fritz,​« rief sie dem Diener nach, »​das Zimmer für den Herrn Grafen!​«
+<quote>»​Beides. Fritz,​«</quote> <suspension>rief sie dem Diener nach,</suspension> <quote>»​das Zimmer für den Herrn Grafen!​«</quote>
 
 Der Graf, eine stolze Erscheinung, gut gewachsen und tadellos gekleidet, mit jener Eleganz, die der letzten Mode zu folgen weiß und doch das Geckenhafte vermeidet, hatte ein sonnenverbranntes Gesicht, dessen untere Hälfte sich in einem kurz gehaltenen dunklen  Vollbart verbarg, über den die flatternden Enden des viel hellern Schnurrbarts hingen. Aus den nicht schönen, aber angenehmen Zügen traten eine wohlproportionirte Nase und ein helles, adlerscharfes Augenpaar hervor.
 
@@ -1083,13 +1085,13 @@ Es hatte sich sehr lange und lebhaft mit den neuen Kolonien beschäftigt, wozu A
 
 Die Pastorin warf, je angeregter Taiß im Gespräch wurde, um so häufiger einen Seitenblick auf den Whisttisch, der am andern Ende der Terrasse aufgerichtet war.
 
-»​Wissen Sie,​« sagte Taiß, »​daß unser bisheriger Vertreter im Reichstag, der alte von Behren, sein Mandat wegen Altersschwächlichkeit niederlegt und daß wir an eine Neuwahl denken müssen?​«
+<quote>»​Wissen Sie,​«</quote> <suspension>sagte Taiß,</suspension> <quote>»​daß unser bisheriger Vertreter im Reichstag, der alte von Behren, sein Mandat wegen Altersschwächlichkeit niederlegt und daß wir an eine Neuwahl denken müssen?​«</quote>
 
 Fanny sah ihn sehr mißtrauisch an.
 
-»​Sind Sie deshalb gekommen?​« Taiß nickte. »​O weh,​« sagte sie, »​mir wird bange!​«
+<quote>»​Sind Sie deshalb gekommen?​« Taiß nickte. »​O weh,​«</quote> <suspension>sagte sie,</suspension> <quote>»​mir wird bange!​«</quote>
 
-»​Vor der Politik – das kennen wir,​« meinte Lanzenau, »​aber vielleicht ist Taiß nur gekommen, uns zu sagen, daß er selbst das seit fünfzehn Jahren von Behren innegehabte Mandat übernimmt.​«
+<quote>»​Vor der Politik – das kennen wir,​«</quote> <suspension>meinte Lanzenau,</suspension> <quote>»​aber vielleicht ist Taiß nur gekommen, uns zu sagen, daß er selbst das seit fünfzehn Jahren von Behren innegehabte Mandat übernimmt.​«</quote>
 
 »​Keineswegs,​« erklärte Taiß; »​ich werde meinem bisherigen Wählerkreis nicht untreu. Schmettow will für uns kandidiren, aber es ist ein sozialdemokratischer Gegenkandidat zu fürchten, der bekannte Schneider Mülding.​«
 
@@ -1097,7 +1099,7 @@ Fanny sah ihn sehr mißtrauisch an.
 
 »​Alle dem können Sie für Driesa, Mittelbach und Ihre Vorwerke vorbeugen, teure Frau, wenn Sie meinem Plan zustimmen. Versammeln Sie morgen Ihre Bauern, halten Sie ihnen eine Rede und sagen Sie den Leuten, daß sie unsern Kandidaten wählen sollen. Bei der blinden Verehrung, welche man Ihnen zollt, werden uns die hundertunddrei Stimmen Ihres Reiches bedingungslos zufallen.​«
 
-»​Ich,​« rief Fanny mit blitzenden Augen, »​ich sollte mich mit Politik befassen? Niemals! Die Rede, welche ich den Leuten halten würde, möchte ein Unikum sein und Ihnen für immer Stoff zum Lachen geben.​«
+<quote>»​Ich,​«</quote> <suspension>rief Fanny mit blitzenden Augen,</suspension> <quote>»​ich sollte mich mit Politik befassen? Niemals! Die Rede, welche ich den Leuten halten würde, möchte ein Unikum sein und Ihnen für immer Stoff zum Lachen geben.​«</quote>
 
 »​Aber eine Frau muß doch Stellung nehmen zu den großen Fragen der Zeit!​« rief Taiß entgegen.
 
@@ -1109,7 +1111,7 @@ Fanny sah ihn sehr mißtrauisch an.
 
 »​So haben Sie gar keine politische Ueberzeugung? So ist Ihnen die innere und äußere Entwicklung des Vaterlandes gleichgiltig? So wollen Sie, eine Frau von hervorragender Intelligenz, teilnahmslos zusehen?  Was soll man dann von den minder Begabten, den minder Selbständigen erwarten? Und überall sieht man doch die Frauen aus den bisherigen Grenzen hinausstreben,​« sprach Graf Taiß lebhaft.
 
-»​Das sind viele Fragen auf einmal,​« sagte Fanny ruhig, »​aber ich will sie Ihnen kurz beantworten. Ob die Kürze auch Bündigkeit ist, bleibe dahingestellt. Ich halte mich gern an den Ursprung der Dinge, um sie recht zu verstehen. Da die Natur nun einmal von Anfang an die große Teilung der Daseinsaufgaben vorgenommen und Mann und Weib je eine besondere Hälfte zugewiesen, so beuge ich mich kritik- und willenlos vor der großen Meisterin. Gewiß ist, daß im Laufe der Kulturentwicklung die Grenzen erweitert worden sind, die Wirkungs- und Ideenkreis der Frau einschlossen – er ist gewachsen mit dem des Mannes, der seinerseits, als die Frau sich mit Linnenweben und Kindertränken begnügte, auch bloß der Jagd und den primitivsten Staatsgeschäften, dem brutalsten Verteidigungskrieg oblag. Heute nimmt er an den grandiosen Formen des Weltverkehrs, des politischen Lebens, der wunderbarsten Erfindungen, der tausendfältigen Erwerbsthätigkeit als Mitwirkender oder Nutznießer oder wenigstens als kritischer Zuschauer teil. Soll das Weib ihm wie einst Gefährtin sein, so muß auch sie die Vorgänge der Zeit verstehen, wie sie ohne Zweifel damals verstehend zuhörte, wenn der Gatte vom Bärenfang, von wilder Schlacht erzählte. Die Mehranforderung  verführt nun viele, die natürlichen Grenzen zu vergessen, und die Pflicht, zu begreifen, mit der Pflicht, zuzugreifen, zu verwechseln. Das heißt aber gegen ewige Gesetze sündigen.​«
+<quote>»​Das sind viele Fragen auf einmal,​«</quote> <suspension>sagte Fanny ruhig,</suspension> <quote>»​aber ich will sie Ihnen kurz beantworten. Ob die Kürze auch Bündigkeit ist, bleibe dahingestellt. Ich halte mich gern an den Ursprung der Dinge, um sie recht zu verstehen. Da die Natur nun einmal von Anfang an die große Teilung der Daseinsaufgaben vorgenommen und Mann und Weib je eine besondere Hälfte zugewiesen, so beuge ich mich kritik- und willenlos vor der großen Meisterin. Gewiß ist, daß im Laufe der Kulturentwicklung die Grenzen erweitert worden sind, die Wirkungs- und Ideenkreis der Frau einschlossen – er ist gewachsen mit dem des Mannes, der seinerseits, als die Frau sich mit Linnenweben und Kindertränken begnügte, auch bloß der Jagd und den primitivsten Staatsgeschäften, dem brutalsten Verteidigungskrieg oblag. Heute nimmt er an den grandiosen Formen des Weltverkehrs, des politischen Lebens, der wunderbarsten Erfindungen, der tausendfältigen Erwerbsthätigkeit als Mitwirkender oder Nutznießer oder wenigstens als kritischer Zuschauer teil. Soll das Weib ihm wie einst Gefährtin sein, so muß auch sie die Vorgänge der Zeit verstehen, wie sie ohne Zweifel damals verstehend zuhörte, wenn der Gatte vom Bärenfang, von wilder Schlacht erzählte. Die Mehranforderung  verführt nun viele, die natürlichen Grenzen zu vergessen, und die Pflicht, zu begreifen, mit der Pflicht, zuzugreifen, zu verwechseln. Das heißt aber gegen ewige Gesetze sündigen.​«</quote>
 
 Lanzenau nickte, er kannte Fannys Glaubensbekenntnis wohl. Die Pastorin nickte auch, dachte aber, daß Fanny nur einfach hätte sagen sollen, es stehe schon in der Bibel, und alles andere sei Teufelsversuchung.
 
@@ -1131,15 +1133,15 @@ Fanny war erregt geworden, und eine leichte Blässe lag über ihrem Gesicht.
 
 »​Das rechte Glück kommt nur durch Glauben und Demut,​« murmelte die Pastorin, auf Severina blickend, die mit großen Augen und gespannten Mienen zuhörte.
 
-»​Auch wird jede Frau,​« fuhr Fanny, zum Ausgangspunkt des Gesprächs zurückkehrend, fort, »​wenn sie durch Verhältnisse gezwungen und durch Anlage befähigt ist, aus der Stille des Hauses herauszutreten, immer zuletzt irgendwo scheitern, und zwar nicht an Mangel von Verstand, sondern an Ueberschuß von Gefühl. Es kommt immer einmal eine Stunde, wo das Herz sie blind und ungerecht macht.​«
+<quote>»​Auch wird jede Frau,​«</quote> <suspension>fuhr Fanny, zum Ausgangspunkt des Gesprächs zurückkehrend, fort,</suspension> <quote>»​wenn sie durch Verhältnisse gezwungen und durch Anlage befähigt ist, aus der Stille des Hauses herauszutreten, immer zuletzt irgendwo scheitern, und zwar nicht an Mangel von Verstand, sondern an Ueberschuß von Gefühl. Es kommt immer einmal eine Stunde, wo das Herz sie blind und ungerecht macht.​«</quote>
 
 »​Das ist bei Ihnen nicht zu fürchten,​« bemerkte Lanzenau etwas bitter. Fanny sah ihn vorwurfsvoll an, lächelte aber sogleich wieder und scherzte:
 
 »​Wer weiß! Niemand soll die Ruhe seines Herzens vor seinem Lebensabend loben.​«
 
-»​Und das Ende vom Lied ist,​« sagte Graf Taiß seufzend, »​daß Sie ablehnen, in die Wahlagitation für unsern Kandidaten Ihr unentbehrliches Gewicht zu werfen.​«
+<quote>»​Und das Ende vom Lied ist,​«</quote> <suspension>sagte Graf Taiß seufzend,</suspension> <quote>»​daß Sie ablehnen, in die Wahlagitation für unsern Kandidaten Ihr unentbehrliches Gewicht zu werfen.​«</quote>
 
-»​Allerdings,​« sprach Fanny lachend, »​mein Patriotismus ist der eines Frauenzimmers. Ich liebe meinen Kaiser und sein Haus; hätte ich Söhne, würde ich sie stolz im Rock unseres Heeres sehen; meine Kasse ist allezeit offen für Zwecke, die der allgemeinen Wohlfahrt dienen. Und wenn Deutschland kleiner würde, möchte ich nicht mehr leben; aber die Regierungsgeschäfte von irgend einem Standpunkt rechts oder links zu bekritteln und zu verbessern, fühle ich mich nicht berufen.​«
+<quote>»​Allerdings,​«</quote> <suspension>sprach Fanny lachend,</suspension> <quote>»​mein Patriotismus ist der eines Frauenzimmers. Ich liebe meinen Kaiser und sein Haus; hätte ich Söhne, würde ich sie stolz im Rock unseres Heeres sehen; meine Kasse ist allezeit offen für Zwecke, die der allgemeinen Wohlfahrt dienen. Und wenn Deutschland kleiner würde, möchte ich nicht mehr leben; aber die Regierungsgeschäfte von irgend einem Standpunkt rechts oder links zu bekritteln und zu verbessern, fühle ich mich nicht berufen.​«</quote>
 
 »​So gestatten Sie mir, in einiger Zeit mit einigen Mitgliedern des Wahlkomites wieder zu kommen, damit wir eine Versammlung abhalten können.​«
 
@@ -1151,7 +1153,7 @@ Fanny war erregt geworden, und eine leichte Blässe lag über ihrem Gesicht.
 
 »​Ich trete aus,​« sagte der Pastor mit nicht allzu schwerem Herzen, denn er kannte Taiß als scharfen Spieler; auch stieß die Gegenwart von Gästen immer ihre billige Spieltaxe um.
 
-»​Bitte, nicht, Papachen,​« bat Fanny schmeichelnd, »​das Jäckchen muß noch fertig werden; Sie wissen, die Klassen ist noch zu schwach, selbst zu nähen, und das Kind hat nichts anzuziehen – ich kann nicht spielen.​«
+<quote>»​Bitte, nicht, Papachen,​«</quote> <suspension>bat Fanny schmeichelnd,</suspension> <quote>»​das Jäckchen muß noch fertig werden; Sie wissen, die Klassen ist noch zu schwach, selbst zu nähen, und das Kind hat nichts anzuziehen – ich kann nicht spielen.​«</quote>
 
 Ihr eine Bitte abzuschlagen, war der Pastor nie im stande. Er setzte sich mit dem Märtyrerbewußtsein, daß die Geschichte ihn einen halben Thaler oder mehr kosten könne.
 
@@ -1175,7 +1177,7 @@ Severina stand hinter Lanzenaus Stuhl, Joachim hinter dem des Pastors, ihr gegen
 
 »​Wollen wir nicht Adrienne und Ihrem Bruder folgen?​« fragte Joachim.
 
-»​Ach ja,​« sagte die Pastorin, den ersten Stich einnehmend, »​thut das.​«
+<quote>»​Ach ja,​«</quote> <suspension>sagte die Pastorin, den ersten Stich einnehmend,</suspension> <quote>»​thut das.​«</quote>
 
 Sie gingen in den Park und dachten nicht daran, die beiden anderen einzuholen. Joachim wollte Severina einmal ein bißchen »​auf den Zahn fühlen​«, das heißt, sie zu Mitteilungen über sich und ihr Leben veranlassen. Daß sie in seinem Interesse mehr als eben nur ein solches durch das nahe Beieinander der hiesigen Existenzen genugsam erklärtes sehen könne, fiel ihm nicht ein, und daß er ihr zuweilen in die Augen sah und überhaupt ihr ein wenig die Cour machte, war nach seiner Meinung das naturgemäße und selbstverständliche Verkehren zwischen zwei lebensfrohen jungen Menschen.
 
@@ -1189,7 +1191,7 @@ Sie gingen in den Park und dachten nicht daran, die beiden anderen einzuholen. J
 
 »​Warum nicht? War es so schrecklich?​« fragte  er leichtsinnig. Sie trat an einen Busch, der von wilden Rosen wie übersät war, und riß einige Blüten ab. Er sah, wie ihre Hände dabei zitterten.
 
-»​Wenn Fanny nicht wäre,​« fuhr Severina dann mit etwas heiserer Stimme fort, »​lebte ich vielleicht nicht mehr; ich wäre verdurstet vor Sehnsucht nach Sonnenschein. Aber sie – sie versteht, was meine Seele füllt und daß ich bis an das Ende der Welt fliegen möchte, um ...​«
+<quote>»​Wenn Fanny nicht wäre,​«</quote> <suspension>fuhr Severina dann mit etwas heiserer Stimme fort,</suspension> <quote>»​lebte ich vielleicht nicht mehr; ich wäre verdurstet vor Sehnsucht nach Sonnenschein. Aber sie – sie versteht, was meine Seele füllt und daß ich bis an das Ende der Welt fliegen möchte, um ...​«</quote>
 
 »​Um was?​« fragte Joachim, sich zu ihr beugend.
 
@@ -1335,19 +1337,19 @@ Sie konnte nicht scherzen und nichts sagen; ihr Gesicht war sehr bleich, aus ihr
 
 Das Kind, welches in den Graben hinabrollte, weckte wenigstens Joachim aus seinem Rausch. Er setzte sich wieder mit dem Kindchen auf dem Schoß und zog Severina neben sich.
 
-»​Das ist eine schöne Geschichte,​« sagte er lustig, »​wenn das Frau Pastorin wüßte. Du große Verführerin, Du hast Schuld!​«
+<quote>»​Das ist eine schöne Geschichte,​«</quote> <suspension>sagte er lustig,</suspension> <quote>»​wenn das Frau Pastorin wüßte. Du große Verführerin, Du hast Schuld!​«</quote>
 
 Severina lächelte traumbefangen.
 
-»​Im Grunde,​« fuhr er ernsthafter fort, »​sollte ich Dich sehr um Verzeihung bitten; ich bin ein armer und zurzeit noch aussichtsloser Teufel. Auf solche Küsse, wie wir eben gewechselt, sollte eine Verlobung folgen; ich müßte meinen Frack anziehen und zum Pastor gehen, Deine Hand zu erbitten, und das kann ich noch nicht.​«
+<quote>»​Im Grunde,​«</quote> <suspension>fuhr er ernsthafter fort,</suspension> <quote>»​sollte ich Dich sehr um Verzeihung bitten; ich bin ein armer und zurzeit noch aussichtsloser Teufel. Auf solche Küsse, wie wir eben gewechselt, sollte eine Verlobung folgen; ich müßte meinen Frack anziehen und zum Pastor gehen, Deine Hand zu erbitten, und das kann ich noch nicht.​«</quote>
 
-»​O,​« rief Severina mit heißem Ausdruck, »​sprich nicht davon, denke nicht an die Welt und was in ihr Sitte ist; ich liebe Dich, ich glaube an Dich, ich warte! Wenn Du mich nur liebst, füllt das heimliche Glück mir die ganze Welt mit Sonnenschein!​«
+<quote>»​O,​«</quote> <suspension>rief Severina mit heißem Ausdruck,</suspension> <quote>»​sprich nicht davon, denke nicht an die Welt und was in ihr Sitte ist; ich liebe Dich, ich glaube an Dich, ich warte! Wenn Du mich nur liebst, füllt das heimliche Glück mir die ganze Welt mit Sonnenschein!​«</quote>
 
-»​Schwärmerin,​« sagte er gerührt, »​so viel Liebe verdiene ich gar nicht.​«
+<quote>»​Schwärmerin,​«</quote> <suspension>sagte er gerührt,</suspension> <quote>»​so viel Liebe verdiene ich gar nicht.​«</quote>
 
 Sie saßen und plauderten und lachten, wie nur Verliebte können; Joachim bewunderte alle Reize, die Severina vor anderen voraus hatte, und selbst ihr Gesicht mit den tatarischen Zügen erschien ihm von einer wilden und trunkenen Schönheit. Endlich aber stieg die Sonne über die Weizenkoppel und glühte zu der kleinen Gruppe am Waldsaum hinüber.
 
-»​Ich muß weiter,​« rief Joachim, »​das hat eine schöne Zeitversäumnis gegeben!​«
+<quote>»​Ich muß weiter,​«</quote> <suspension>rief Joachim,</suspension> <quote>»​das hat eine schöne Zeitversäumnis gegeben!​«</quote>
 
 Sie nahmen Abschied, als gälte es eine Trennung auf Wochen; dann ging er mit seinen hastigsten Schritten an der Koppel entlang, den Weg fortsetzend, den er dahergekommen, aber er schaute sich noch mehreremale um, der Lieben einen Gruß zu winken.
 
@@ -1355,13 +1357,13 @@ Und dann schob Severina ihren Kinderwagen in den Wald zurück; sie ging wie im T
 
 Aber da stand schon der Pastor in der Gitterpforte vor seinem Hause und schaute nach ihr aus; man hatte auf sie gewartet. Er rauchte zwar seine lange Pfeife, aber er hatte seinen schwarzen Gehrock an und ein reines weißes Halstuch um, das bedeutete Außergewöhnliches. Severina atmete auf. Jedes Ereignis war willkommen – nur heute nicht der alltägliche Trott des Tagewerkes.
 
-»​Mein Kind,​« sagte der Pfarrer, »​Graf Taiß ist mit drei anderen Herren gekommen, es gibt ein Diner auf dem Schlosse, Fanny hat nach Dir geschickt; aber erst sollst Du der Mutter noch etwas helfen und Dich gleich auch umkleiden.​«
+<quote>»​Mein Kind,​«</quote> <suspension>sagte der Pfarrer,</suspension> <quote>»​Graf Taiß ist mit drei anderen Herren gekommen, es gibt ein Diner auf dem Schlosse, Fanny hat nach Dir geschickt; aber erst sollst Du der Mutter noch etwas helfen und Dich gleich auch umkleiden.​«</quote>
 
 Der ängstliche Tonfall in seiner Stimme verriet Severina, daß die Pastorin schon in Ungeduld vergehe; da gab es Schelte, viel Schelte, und das als erstes nach der seligen Stunde?
 
 In Severina wallte es warm auf. Segen und  Teilnahme konnte sie von niemand erbitten, aber ein gutes, ein liebevolles Wort mußte sie hören; sie legte ihr Haupt an ihres Pflegevaters Schulter und ihren Arm um seinen Nacken.
 
-»​Papachen,​« sagte sie schmeichelnd, »​nicht wahr, Du hast mich ein wenig lieb und möchtest, daß ich noch 'mal im Leben glücklich würde?​«
+<quote>»​Papachen,​«</quote> <suspension>sagte sie schmeichelnd,</suspension> <quote>»​nicht wahr, Du hast mich ein wenig lieb und möchtest, daß ich noch 'mal im Leben glücklich würde?​«</quote>
 
 »​Natürlich, natürlich; aber wie kommst Du auf die Frage, mein Kind? Und was hast Du für rote Backen? Aengstigst Dich wohl schon vor Mama? Na, Du weißt, sie meint es nicht so, und mit mir schilt sie auch 'mal,​« sagte der alte Herr gutmütig. »​Siehst Du, schließlich haben wir's ja bei der Schelte besser als Magnus bei der Güte.​«
 
@@ -1369,7 +1371,7 @@ Severina lächelte glücklich. Ja, der alte Mann hatte sie väterlich lieb. Er w
 
 »​Severina!​« rief eine heftige Stimme.
 
-»​Komme schon,​« rief sie zurück, »​ich will erst den Kleinen ins Schloß bringen!​«
+<quote>»​Komme schon,​«</quote> <suspension>rief sie zurück,</suspension> <quote>»​ich will erst den Kleinen ins Schloß bringen!​«</quote>
 
 Die Magd, die in der Pfarrküche gewartet hatte, kam aber schon um die Hausecke und nahm den Kinderwagen.
 
@@ -1401,15 +1403,15 @@ Joachim kürzte infolge dessen seine Mittagsstunde ab und war schon wieder versc
 
 Fanny nahm sich Zucker.
 
-»​Er ist übereifrig,​« sagte sie verstimmt, »​die Leute wären die Stunde lang auch ohne ihn fleißig gewesen.​«
+<quote>»​Er ist übereifrig,​«</quote> <suspension>sagte sie verstimmt,</suspension> <quote>»​die Leute wären die Stunde lang auch ohne ihn fleißig gewesen.​«</quote>
 
 »​O Frau Förster, Sie haben schon vier Stücke Zucker – die Tasse läuft über,​« bemerkte das junge Mädchen.
 
 Fanny lachte über ihre Gedankenlosigkeit.
 
-»​Der glückliche Herebrecht,​« sprach Taiß, »​er wird entbehrt.​«
+<quote>»​Der glückliche Herebrecht,​«</quote> <suspension>sprach Taiß,</suspension> <quote>»​er wird entbehrt.​«</quote>
 
-»​Er ist das enfant gaté unserer Damen,​« sagte Magnus scherzend, »​und er gibt sich weniger Mühe ihretwegen, als unsereiner. Wenn ich zwei Stunden vorlese, bekomme ich nicht so viel Dank, als wenn Herebrecht ein Lied singt.​«
+<quote>»​Er ist das enfant gaté unserer Damen,​«</quote> <suspension>sagte Magnus scherzend,</suspension> <quote>»​und er gibt sich weniger Mühe ihretwegen, als unsereiner. Wenn ich zwei Stunden vorlese, bekomme ich nicht so viel Dank, als wenn Herebrecht ein Lied singt.​«</quote>
 
 Lanzenau hatte Fanny erstaunt und aufmerksam angesehen, als sie nach Joachim fragte.
 
@@ -1453,13 +1455,13 @@ Fanny erhob sich, den Ausdruck allergrößten Mißbehagens im Gesicht.
 
 »​Vox populi,​« meinte Joachim lächelnd.
 
-»​Gnädige Frau,​« rief der Diener, auf die Terrasse eilend, »​gnädige Frau, der Hof ist voll von Leuten, man will Sie sprechen!​«
+<quote>»​Gnädige Frau,​«</quote> <suspension>rief der Diener, auf die Terrasse eilend,</suspension> <quote>»​gnädige Frau, der Hof ist voll von Leuten, man will Sie sprechen!​«</quote>
 
 »​Ich bin nicht zu sprechen!​« rief Fanny in höchstem Zorn.
 
 »​Aber, teure Frau, jeder Widerstand ist nutzlos, das ganze Dorf ist eben zu sehr gewöhnt, nichts ohne Ihr letztes Wort zu thun, Sie sind jahraus jahrein immer auf ihre Interessen eingegangen, aus der  Gewohnheit ist ein Recht geworden, nun fordert man, was Sie ursprünglich nur schenkten – Ihr reiferes Urteil,​« sprach Joachim zuredend.
 
-»​Aber in diesen Dingen will ich keins haben,​« sagte Fanny verzweifelt, »​wenigstens keins, das über den Kreis meiner Lebensgenossen hinausdringt.​«
+<quote>»​Aber in diesen Dingen will ich keins haben,​«</quote> <suspension>sagte Fanny verzweifelt,</suspension> <quote>»​wenigstens keins, das über den Kreis meiner Lebensgenossen hinausdringt.​«</quote>
 
 »​Kommen Sie, Ihre Klugheit wird das rechte Wort finden.​« Joachim nahm ihren Arm und legte ihn in den seinen. Er führte Fanny durch Saal und Flur nach vorn. Auf dem Beischlag ergab sich ein natürlicher Standpunkt für die unfreiwillige Heldin dieses seltsamen Vorganges. Vor dem Beischlag stand Taiß mit seinen Begleitern und lächelte Fanny zu – wie sie ihm später vorwarf – diabolisch schadenfroh. Hinter Fanny drängten sich Adrienne, die Pastorin, Magnus, Severina und Joachim.
 
@@ -1483,7 +1485,7 @@ Es wurde Fanny wahrhaftig schwer, nicht knappweg »​konservativ​« zu antwor
 
 »​Hoch, Frau Förster!​« schrie die Menge.
 
-»​Aber was darüber hinausgeht,​« fuhr Fanny fort, nachdem sie die Unterbrechung, ohne eine Miene zu verziehen, angehört, »​aber was darüber hinausgeht, ist vom Uebel.​«
+<quote>»​Aber was darüber hinausgeht,​«</quote> <suspension>fuhr Fanny fort, nachdem sie die Unterbrechung, ohne eine Miene zu verziehen, angehört,</suspension> <quote>»​aber was darüber hinausgeht, ist vom Uebel.​«</quote>
 
 »​Sehr verständig, eine seltene Frau!​« sagte der Schulmeister zum Dorfschulzen.
 
@@ -1527,7 +1529,7 @@ In diesen rauschenden Tagen erwachte Adrienne zu neuem Leben; das war eine Art z
 
 Seltsam, und sie und Arnold hatten nicht einmal in ihrer Einsamkeit zusammen Platz gehabt, das mußte unleugbar an Arnold gelegen haben, denn da sie hier gegen niemand anstieß, ja, im Gegenteil sich dem Kreis einfügte, als habe sie immer in demselben gelebt, so war damit erwiesen, daß ihm alle Schuld an ihrem kalten Verhältnis zuzuschreiben sei. Adrienne äußerte das einmal gegen Fanny, als diese ihre Freude aussprach, die Schwägerin so aufblühen zu sehen.
 
-»​Aber, mein Kind,​« sagte Fanny ernst, »​die Gemeinsamkeit in einem Vergnügen ist doch ein ander Ding als die Gemeinsamkeit in einer Ehe. Die Anforderungen für die erste sind die leichtesten, die an Menschen gestellt werden können, man braucht sich bloß von seiner vorteilhaftesten Seite zu zeigen, was jeder schon aus Eitelkeit thut. Die Anforderungen für die zweite sind die schwersten, die an uns ergehen können, da sollen wir just die unvorteilhafte Seite des andern mit Demut und Liebe ertragen, was natürlich nur nöglich ist, wenn wir uns vorstellen, daß der andere ja ebenso auch unsere Unerträglichkeiten geduldig trägt. Zum Glück ist in rechten Ehen diese Erkenntnis dann die Meisterin, sie bröckelt hier und dort Schroffen ab, bis beide Charaktere glatt zusammenpassen.​«
+<quote>»​Aber, mein Kind,​«</quote> <suspension>sagte Fanny ernst,</suspension> <quote>»​die Gemeinsamkeit in einem Vergnügen ist doch ein ander Ding als die Gemeinsamkeit in einer Ehe. Die Anforderungen für die erste sind die leichtesten, die an Menschen gestellt werden können, man braucht sich bloß von seiner vorteilhaftesten Seite zu zeigen, was jeder schon aus Eitelkeit thut. Die Anforderungen für die zweite sind die schwersten, die an uns ergehen können, da sollen wir just die unvorteilhafte Seite des andern mit Demut und Liebe ertragen, was natürlich nur nöglich ist, wenn wir uns vorstellen, daß der andere ja ebenso auch unsere Unerträglichkeiten geduldig trägt. Zum Glück ist in rechten Ehen diese Erkenntnis dann die Meisterin, sie bröckelt hier und dort Schroffen ab, bis beide Charaktere glatt zusammenpassen.​«</quote>
 
 Adrienne bereute sogleich, von Fanny eine solche Belehrung herausgefordert zu haben.
 
@@ -1541,7 +1543,7 @@ Alle anwesenden Männer fand Lucy gräßlich, mit der einzigen Ausnahme von Magn
 
 »​Es sind alle Barbaren! Dieser alte Geck von Lanzenau mit seinem steifbeinigen Gang – ah, wie schritt mein Arthur stolz dahin! Dieser Herr von  Dören – sieht er nicht mit seiner geraden, abgestumpften Nase, seinen Schlitzaugen und seinem auseinander gesträubten Schnurrbart aus wie ein Kater? Ach, Sie hätten Arthurs wundervollen Bart sehen sollen! Und dann Ihr Schwager! Pardon – aber diese blonden Jünglinge mit dem plebejischen Vergnügen am Dasein sind mir entsetzlich, wenn ich an die interessante Schwermut meines Arthurs denke! Haben Sie meinen Roman ›​Erfrorene Herzen​‹ gelesen? Darin habe ich ihm ein Denkmal gesetzt. Von Taiß spreche ich nicht erst, dieser Tyrann meiner Tage wäre meines Hasses würdig, wenn meine arme Schwester sich nicht einbildete, von ihm glücklich gemacht zu werden. Lassen wir ihr die Illusion, sie kennt nichts Besseres! Aber dieser junge Doktor Hesselbarth – ach, Adrienne, er hat so einen gewissen Augenaufblitz hinter seinem Lorgnon. Adrienne, er gilt Ihnen, dieser Aufblitz – Sie sind Magnus nicht gleichgiltig. Arme Freundin, dieser Mann wäre Ihrer würdig, er verstände Sie! Erwidern Sie sein Gefühl? O – Sie können mir vertrauen, ganz vertrauen, ich will Sie und ihn schützen gegen eine Welt von Philistern!​«
 
-»​Aber wohin denken Sie,​« stotterte Adrienne bestürzt, »​ich bin verheiratet und – und – und liebe meinen Mann.​«
+<quote>»​Aber wohin denken Sie,​«</quote> <suspension>stotterte Adrienne bestürzt,</suspension> <quote>»​ich bin verheiratet und – und – und liebe meinen Mann.​«</quote>
 
 Lucy schloß die Freundin in die Arme, in stummer Rührung über den Heldenmut des Herzens, das zu stolz war, Leiden zu gestehen.
 
@@ -1551,7 +1553,7 @@ Die kleine Frau von Dören spottete darüber und nannte sie »​die drei Gebild
 
 Fanny war in dieser Zeit sehr glücklich.
 
-»​Ich weiß nicht,​« sagte sie einmal zu Lanzenau, »​wie das so kommen mag – seit vielen Jahren habe ich immer im September diese oder andere lieben Gäste gehabt, aber es hat mich nie so gefreut wie diesmal. Wie schön ist doch das Leben, wenn man es mit guten Menschen teilen darf!​«
+<quote>»​Ich weiß nicht,​«</quote> <suspension>sagte sie einmal zu Lanzenau,</suspension> <quote>»​wie das so kommen mag – seit vielen Jahren habe ich immer im September diese oder andere lieben Gäste gehabt, aber es hat mich nie so gefreut wie diesmal. Wie schön ist doch das Leben, wenn man es mit guten Menschen teilen darf!​«</quote>
 
 Lanzenau blickte ihr beunruhigt in die strahlenden Augen, das verhängnisvolle Fragewort: »​Ist auch einer unter uns, von dem der neue Sonnenschein ausgeht?​« kam ihm zum Glück nicht von den Lippen, er bezwang sich.
 
@@ -1567,7 +1569,7 @@ Dören, Joachim und sie besprachen die Einzelheiten des für den Nachmittag gepl
 
 Lanzenau schloß die Augen, er war blaß geworden, langsam ging er tiefer in den Park hinein, seine Füße trugen ihn nicht weit, er stand an einer Buche still, legte die Handflächen gegen den Stamm und die Stirn gegen die Hände.
 
-»​Unmöglich,​« dachte er, »​unmöglich! Es kann nicht, es soll nicht sein! Vielleicht wird sie nicht erkennen, was jetzt in ihr keimt, es verdorrt im Beginn, gewiß, ganz gewiß, denn er ist ein unbefangener Jüngling, er wagte es nicht einmal, davon zu träumen, das sieht man wohl. Sie muß blind bleiben, sie muß!​«
+<quote>»​Unmöglich,​«</quote> <suspension>dachte er,</suspension> <quote>»​unmöglich! Es kann nicht, es soll nicht sein! Vielleicht wird sie nicht erkennen, was jetzt in ihr keimt, es verdorrt im Beginn, gewiß, ganz gewiß, denn er ist ein unbefangener Jüngling, er wagte es nicht einmal, davon zu träumen, das sieht man wohl. Sie muß blind bleiben, sie muß!​«</quote>
 
 Er stöhnte schwer.
 
@@ -1579,7 +1581,7 @@ Lanzenau dachte an seine Jugend zurück, er lächelte schmerzlich. Joachim müß
 
 Und gab all seine Treue ihm denn ein Recht, von Fanny etwas zu fordern? Seine Hand hatte sie mehrfach ausgeschlagen; durfte er erwarten, daß sie seinetwegen ihr Leben als Nonne beendigen würde?
 
-»​Sie muß blind bleiben,​« dachte er, mit Gewalt sich zu vernünftiger Fassung zwingend, »​aber ich muß hell sehen!​«
+<quote>»​Sie muß blind bleiben,​«</quote> <suspension>dachte er, mit Gewalt sich zu vernünftiger Fassung zwingend,</suspension> <quote>»​aber ich muß hell sehen!​«</quote>
 
 An diesem Tage erschienen Gäste aus der Nachbarschaft zu dem Wettschießen, das Fanny anberaumt hatte. Die Schießstände lagen neben der Parkgrenze am Ufer der Elbe, man wanderte gemeinsam durch den Park dahin; es war bald nach dem zweiten Frühstück und die Damen noch alle in ihren Morgenkleidern.
 
@@ -1609,9 +1611,9 @@ Severina nickte stumm, ein schneller Blick fuhr wie ein sengender Blitz zwischen
 
 Das Gespräch ward dann unter den vier Zusammenwandernden durch eine Frage Dörens ein allgemeines. Sie kamen zuletzt am Schießstand an.
 
-»​Natürlich,​« sagte Frau von Dören lachend, »​mein Mann war zu sehr mit den schönen Augen der Gräfin beschäftigt. Lieber Taiß, ich glaube, wir raffen uns doch noch zur Eifersucht auf.​«
+<quote>»​Natürlich,​«</quote> <suspension>sagte Frau von Dören lachend,</suspension> <quote>»​mein Mann war zu sehr mit den schönen Augen der Gräfin beschäftigt. Lieber Taiß, ich glaube, wir raffen uns doch noch zur Eifersucht auf.​«</quote>
 
-»​Laßt das nur,​« sprach Dören, sein Weibchen um die Taille fassend, »​die Niederlagen bei der gnädigsten Gräfin sind mir als Gegengewicht Deiner zu großen Liebe sehr gesund, Du siehst, ich thue selbst das Möglichste, um mich vor Eitelkeit zu bewahren.​«
+<quote>»​Laßt das nur,​«</quote> <suspension>sprach Dören, sein Weibchen um die Taille fassend,</suspension> <quote>»​die Niederlagen bei der gnädigsten Gräfin sind mir als Gegengewicht Deiner zu großen Liebe sehr gesund, Du siehst, ich thue selbst das Möglichste, um mich vor Eitelkeit zu bewahren.​«</quote>
 
 »​Auch eine Form der Selbsterziehung,​« meinte Taiß heiter.
 
@@ -1619,11 +1621,11 @@ Das Gespräch ward dann unter den vier Zusammenwandernden durch eine Frage Döre
 
 Die Schießstände, es waren ihrer zwei, zeigten sich dem Bedürfnis der lustigen Gesellschaft angepaßt, an dem einen boten sich den Damen Ziele dar, wie man sie in Schießbuden auf Jahrmärkten sieht, an dem andern konnten die Herren ihre Zielsicherheit an einer Scheibe bewähren. Fanny hatte zwei Preise gestiftet, für die schußfertigste Dame lag ein kostbares Jagdgewehr, für den besten Schützen ein sehr wertvoller Spitzenfächer bereit.
 
-»​Man sieht,​« sagte Fanny, »​mich hat die ruchlose Absicht geleitet, die Sieger in peinlichste Verlegenheit zu bringen, denn sie sollen ihren Preis einer Dame  respektive einem Herrn der Gesellschaft hier an Ort und Stelle verehren.​«
+<quote>»​Man sieht,​«</quote> <suspension>sagte Fanny,</suspension> <quote>»​mich hat die ruchlose Absicht geleitet, die Sieger in peinlichste Verlegenheit zu bringen, denn sie sollen ihren Preis einer Dame  respektive einem Herrn der Gesellschaft hier an Ort und Stelle verehren.​«</quote>
 
 »​Paris' Verlegenheit war ein kleiner Embarras gegen die Wahlschwierigkeit des Fächergewinners,​« sagte Herr von Dören; »​zum Glück bin ich ein schlechter Schütze und komme somit gar nicht in Gefahr, mir durch eine Huldigung viele Feindinnen zu machen.​«
 
-»​Und was mich anbetrifft,​« rief Frau von Dören, »​erkläre ich mich bei dem Fächer hors de concurrence, hoffe hingegen, über das Jagdgewehr verfügen zu dürfen!​«
+<quote>»​Und was mich anbetrifft,​«</quote> <suspension>rief Frau von Dören,</suspension> <quote>»​erkläre ich mich bei dem Fächer hors de concurrence, hoffe hingegen, über das Jagdgewehr verfügen zu dürfen!​«</quote>
 
 Auf dem Platz unter den alten Baumriesen, die zum Park gehörten, waren Stühle, Tische und ein kleines Buffet errichtet. Adrienne und Fräulein von Grävenitz setzten sich zusammen; die erstere hatte nicht allzu viel Interesse an dem Sport, die letztere fand Schießen eine kavaliermäßige Kunst, aber für Damen dünkte es sie selbst im Scherz abscheulich; jedesmal, wenn die Reihe, deren Folge man ausgelost hatte, an sie kam, drückte sie zitternd, erst nach langem Zureden und mit einem Schrei die harmlos geladene Flinte ab, natürlich mit geschlossenen Augen ins Blinde hinein.
 
@@ -1649,7 +1651,7 @@ Taiß schlug vor, eine Visitenkarte auf einen hohen Stecken zu befestigen und di
 
 Schwer schoß das Tier durch die Luft herab in den breiten Strom.
 
-»​Ich ergebe mich,​« sprach Joachims Konkurrent, »​das wäre ich nicht im stande.​«
+<quote>»​Ich ergebe mich,​«</quote> <suspension>sprach Joachims Konkurrent,</suspension> <quote>»​das wäre ich nicht im stande.​«</quote>
 
 »​Es ist nicht viel dabei,​« meinte Joachim.
 
@@ -1669,7 +1671,7 @@ Darauf trat er an Fanny heran und fragte leise:
 
 »​Fände unsere gnädige Königin es nicht am taktvollsten, wenn ich den Fächer der einzigen Dame im Kreise schenke, die nicht im stande ist, sich einen solchen zu kaufen?​«
 
-»​Das ist ein hübscher Gedanke,​« sagte Fanny, von seinem Zartgefühl entzückt, »​sie wird ebenso überrascht als beglückt sein.​«
+<quote>»​Das ist ein hübscher Gedanke,​«</quote> <suspension>sagte Fanny, von seinem Zartgefühl entzückt,</suspension> <quote>»​sie wird ebenso überrascht als beglückt sein.​«</quote>
 
 Und Joachim überreichte der erglühenden Severina den Fächer mit einer so förmlichen Verbeugung, als sei sie ihm wildfremd. Das wäre nun niemand aufgefallen und jeder hätte die Förmlichkeit für die komisch-feierliche Betonung des Vorgangs genommen, wenn nicht Lanzenau allein, seit einiger Zeit Joachim gegenüber immer auf dem Beobachterposten, das fremd-höfliche Gesicht des jungen Mannes um so sonderbarer gefunden hätte, je  mehr ihm vorher ein rascher Blick aufgefallen war, mit dem Joachim und Severina sich begegneten.
 
@@ -1695,21 +1697,21 @@ Am andern Morgen entdeckte Severina es am Rosenbusch, ein unnennbarer Schreck ü
 
 »​O, Fanny – das macht nichts, die hält viel von mir, das merke ich wohl, sie geht reizend mit mir um – wenn sie mich so ›​Achim​‹ nennt, denke ich immer, meine Mutter könnte es nicht gütiger gesagt haben,​« sprach Joachim mit nachdenklichem Gesicht; »​aber es ist mir um Dich – wegen des Gezeters, das die Pastorin dann ohne Zweifel anfängt, und es ist wegen Arnold, dem Adrienne es schriebe, er hat schon so viel Opfer und Sorgen für mich gehabt im Leben und ich bin ihm deshalb Gehorsam schuldig, er aber hat mir oft aus Herz gelegt, mich nie zu binden, ehe ich nicht eine Frau ernähren kann, damit stürzte ich nur zwei Familien in Sorgen und trübte meine und eines Mädchens Jugendfreude.​«
 
-»​Du bist nicht gebunden,​« rief sie heftig, »​ich will Dir und niemand eine Last sein, habe mich nur eine Weile lieb, nachher sei frei – geh und laß mich sterben!​«
+<quote>»​Du bist nicht gebunden,​«</quote> <suspension>rief sie heftig,</suspension> <quote>»​ich will Dir und niemand eine Last sein, habe mich nur eine Weile lieb, nachher sei frei – geh und laß mich sterben!​«</quote>
 
-»​Aber, Närrchen,​« flüsterte er, neu von ihrer Leidenschaftlichkeit entzückt, »​wer spricht von solchen Dingen! Uebrigens ist es ja noch gar nicht ausgemacht, daß Lanzenau gerade am Rosenbusch stand, wie wir unter der Tanne saßen. Gib mir das Augenglas, wenn ich es ihm überreiche, soll die Situation zwischen ihm und mir wenigstens klar werden.​«
+<quote>»​Aber, Närrchen,​«</quote> <suspension>flüsterte er, neu von ihrer Leidenschaftlichkeit entzückt,</suspension> <quote>»​wer spricht von solchen Dingen! Uebrigens ist es ja noch gar nicht ausgemacht, daß Lanzenau gerade am Rosenbusch stand, wie wir unter der Tanne saßen. Gib mir das Augenglas, wenn ich es ihm überreiche, soll die Situation zwischen ihm und mir wenigstens klar werden.​«</quote>
 
-»​Herr Baron,​« sagte Joachim, als man bei einander stand, des Dieners Meldung, daß servirt sei,  erwartend, »​Sie haben Ihr Glas gestern abend am Rosenbusch verloren, hier ist es.​«
+<quote>»​Herr Baron,​«</quote> <suspension>sagte Joachim, als man bei einander stand, des Dieners Meldung, daß servirt sei,  erwartend,</suspension> <quote>»​Sie haben Ihr Glas gestern abend am Rosenbusch verloren, hier ist es.​«</quote>
 
 Dabei sah er ihn herausfordernd an. Lanzenau zwinkerte mit den Augen sehr lustig und sehr wohlwollend.
 
 »​Hat Severina suchen helfen?​« fragte er, und klopfte Joachim auf die Schulter.
 
-»​Wenn sie es gethan hätte,​« sagte Joachim halblaut, mit einem herzlichen Bittton in der Stimme, »​dann würden Sie gewiß nicht die Indiskretion haben, es irgend jemand zu erzählen.​«
+<quote>»​Wenn sie es gethan hätte,​«</quote> <suspension>sagte Joachim halblaut, mit einem herzlichen Bittton in der Stimme,</suspension> <quote>»​dann würden Sie gewiß nicht die Indiskretion haben, es irgend jemand zu erzählen.​«</quote>
 
 »​Gewiß nicht, gewiß nicht, mein Lieber, ausgenommen, es wäre zu eurem Glück. Junge Leute in eurer Lebenslage können oft einen deus ex machina brauchen.​«
 
-»​Wenn Sie den Beruf in sich fühlen, diesen für uns zu spielen,​« erwiderte Joachim heiter, »​werde ich der letzte sein, es Ihnen zu verbieten; aber selbst in diesem Falle muß ich ernstlich bitten, immer nur mir die Mitteilung einer Thatsache zu überlassen, die mein Bruder durchaus von mir und durchaus an einem geeigneten Zeitpunkt erfahren muß, soll sie ihn nicht verstimmen.​«
+<quote>»​Wenn Sie den Beruf in sich fühlen, diesen für uns zu spielen,​«</quote> <suspension>erwiderte Joachim heiter,</suspension> <quote>»​werde ich der letzte sein, es Ihnen zu verbieten; aber selbst in diesem Falle muß ich ernstlich bitten, immer nur mir die Mitteilung einer Thatsache zu überlassen, die mein Bruder durchaus von mir und durchaus an einem geeigneten Zeitpunkt erfahren muß, soll sie ihn nicht verstimmen.​«</quote>
 
 Was blieb Lanzenau übrig, als sein Wort zu geben; aber diese Fessel ließ ihm immer noch die Freiheit, dem jungen Paar der fördernde Schutzgeist zu sein und auch Fanny unauffällig und indirekt zur Erkenntnis zu leiten.
 
@@ -1729,9 +1731,9 @@ Ging er mit einer der Damen allein, konnte er sicher sein, daß seine Mutter ihm
 
 Wenn Fanny diese kleinen Scenen beobachtete, in denen die ungemäßigte Mutterliebe den jungen Gelehrten quälte, wechselte sie wohl mit dem seufzenden Magnus einen Blick.
 
-»​Ja,​« sagte Magnus einmal, »​leicht ist die Buße nicht, die ich für meinen Leichtsinn trage.​«
+<quote>»​Ja,​«</quote> <suspension>sagte Magnus einmal,</suspension> <quote>»​leicht ist die Buße nicht, die ich für meinen Leichtsinn trage.​«</quote>
 
-»​Sie wird auch nicht ewig dauern,​« tröstete Fanny, »​das sehe ich wohl ein, blieben Sie lange beisammen, verlören Sie die kindliche Geduld mit den Schwächen Ihrer Mutter.​«
+<quote>»​Sie wird auch nicht ewig dauern,​«</quote> <suspension>tröstete Fanny,</suspension> <quote>»​das sehe ich wohl ein, blieben Sie lange beisammen, verlören Sie die kindliche Geduld mit den Schwächen Ihrer Mutter.​«</quote>
 
 »​Es ist ein bißchen zu viel Liebe, die sie mir schenkt,​« klagte Magnus.
 
@@ -1741,15 +1743,15 @@ Fräulein von Grävenitz kam zu diesem Gespräch, das Thema, welches Fanny mit i
 
 Fräulein von Grävenitz, die heute eine gelbe Bluse und einen weißen Rock trug, lehnte in malerischer Pose am Flügel, faltete ihre weißen Hände auf der glänzenden Ebenholzplatte desselben und neigte ihr Haupt mit der Goldspange.
 
-»​Ach,​« sagte sie, »​wie klingt es absonderlich in Fannys Mund, das hohe, das eine Wort; in ihrem Herzen, dem vielbegehrten, haben die Männer gewiß immer nur den geringsten Grad von Liebe gefunden, sie ist nicht geschaffen, einem Glück zu geben, sie geht in der Allgemeinheit auf – vor lauter Humanität kann sie keinen Mann lieben, wenn ich dagegen das tiefinnerliche Duldergemüt meiner Adrienne ansehe! Welch ein Schatz von Empfindungen! Wie viel Feuer verbirgt diese sanfte Melancholie!​«
+<quote>»​Ach,​«</quote> <suspension>sagte sie,</suspension> <quote>»​wie klingt es absonderlich in Fannys Mund, das hohe, das eine Wort; in ihrem Herzen, dem vielbegehrten, haben die Männer gewiß immer nur den geringsten Grad von Liebe gefunden, sie ist nicht geschaffen, einem Glück zu geben, sie geht in der Allgemeinheit auf – vor lauter Humanität kann sie keinen Mann lieben, wenn ich dagegen das tiefinnerliche Duldergemüt meiner Adrienne ansehe! Welch ein Schatz von Empfindungen! Wie viel Feuer verbirgt diese sanfte Melancholie!​«</quote>
 
 »​Warum mir das?​« dachte Magnus, etwas beunruhigt, denn er war sich wohl bewußt, Adrienne ein wenig »​sondirt​« zu haben, das heißt, in allerlei Gesprächen über philosophische Sentenzen und poetische Konflikte erforscht zu haben, ob sie in ihrer Ehe unglücklich und auf der Suche nach jemand sei, der sie dafür entschädigen solle.
 
-»​Und zu denken,​« fuhr das Fräulein schwärmerisch fort, »​daß diese zarte Frauenblume am Rande eines Gletschers vegetiren muß!​«
+<quote>»​Und zu denken,​«</quote> <suspension>fuhr das Fräulein schwärmerisch fort,</suspension> <quote>»​daß diese zarte Frauenblume am Rande eines Gletschers vegetiren muß!​«</quote>
 
 Die Pastorin zeigte sich in der Thür.
 
-»​Still,​« flüsterte Lucy sich selbst zu, denn nur sie hatte gesprochen, »​Ihre Mutter! Aber in Ihren Augen lese ich, daß Sie noch gern mehr gehört hätten, suchen Sie heute nachmittag die Gelegenheit, es drängt mich, offen gegen Sie zu sein.​«
+<quote>»​Still,​«</quote> <suspension>flüsterte Lucy sich selbst zu, denn nur sie hatte gesprochen,</suspension> <quote>»​Ihre Mutter! Aber in Ihren Augen lese ich, daß Sie noch gern mehr gehört hätten, suchen Sie heute nachmittag die Gelegenheit, es drängt mich, offen gegen Sie zu sein.​«</quote>
 
 Magnus hatte ein wenig Herzklopfen, das Fräulein wollte ihn so heimlich und wichtig sprechen? Sie war Adriennens Freundin? Was wollten die Frauen von ihm? Er dachte nach, ob er sich irgendwie in Blick und Ton zu weit vorgewagt und ob er nun eine Strafpredigt empfangen solle. Nein, zu einer Zurückweisung hatte er keine Veranlassung gegeben, er wußte bei alledem, was er Frau von Herebrecht schuldig war.
 
@@ -1791,7 +1793,7 @@ Fräulein von Grävenitz brannte auf den Augenblick, wo sie Magnus werde unbeach
 
 Als man endlich wieder landete und Adrienne erleichtert aufatmete, daß sie von dem nahen Beieinander mit Magnus erlöst sei, hielt es Lucy nicht mehr, sie  ergriff Magnus' Arm, zog ihn förmlich mit sich fort und schlug einen andern Weg mit ihm ein, als den die übrigen wählten.
 
-»​Mein Freund,​« begann sie mit bewegter Stimme, »​Sie sind erregt, darf ich ahnen, weshalb?​«
+<quote>»​Mein Freund,​«</quote> <suspension>begann sie mit bewegter Stimme,</suspension> <quote>»​Sie sind erregt, darf ich ahnen, weshalb?​«</quote>
 
 Magnus fühlte eine innere Wut in sich aufsteigen; wenn die Frauenzimmer doch die Indiskretion lassen wollten, sich mit seinen Gefühlen zu beschäftigen! Erst seine Mutter – nun dieses altjungferliche Fräulein mit dem keuschen Augenniederschlag – zum Henker auch – es schien, als sei Adrienne von Drachen bewacht, seinetwegen von einem ganzen Dutzend; wenn das bißchen Courmacherei ihm zu einem Kardinalverbrechen angerechnet werden sollte, mochte Frau von Herebrecht ihrem Gatten nur gleich nachreisen, dahin, wo der Pfeffer wächst, so sehr ihn die arme, kleine, tyrannisirte Frau auch dauerte.
 
@@ -1807,7 +1809,7 @@ Fräulein Lucy stand im Mondenschein still, hob die dunklen Schwärmeraugen zum 
 
 Dem war, als sei er verrückt geworden, er war geliebt – von Adrienne – und sie ließ es ihm sagen? Natürlich – von selbst, aus eigenem Sinn hätte er das nie zu fassen gewagt. Wie – so war sie doch eine schöne, trostbedürftige Sünderin? Er verlor den Kopf, welcher junge Mensch an seiner Stelle hätte das nicht gethan?
 
-»​Geben Sie ihr das Glück, das sie in ihrer Ehe nicht finden kann – nie finden wird,​« sagte Lucy, seine Hände drückend, »​in allem Kampf werde ich mit flammendem Schwert euch zur Seite stehen!​«
+<quote>»​Geben Sie ihr das Glück, das sie in ihrer Ehe nicht finden kann – nie finden wird,​«</quote> <suspension>sagte Lucy, seine Hände drückend,</suspension> <quote>»​in allem Kampf werde ich mit flammendem Schwert euch zur Seite stehen!​«</quote>
 
 Was wußte Magnus davon, daß es für Fräulein Lucy ein Bedürfnis war, wenn sie nicht selbst etwas erleben konnte – was ja unter den Augen ihres Schwagers ein für allemal ausgeschlossen – wenigstens einen Roman für andere einzufädeln und, als Zuschauer teilnehmend, Kämpfe, Leid, Thränen, Wonne mit zu genießen; er hatte Lucy und Adrienne im vertraulichsten Verkehr gesehen und durfte es glauben, wenn die eine ihm sagte, daß die andere ihn liebe.
 
@@ -1911,7 +1913,7 @@ Plötzlich erinnerte sich Fanny, daß unten Magnus aller Welt durch seine Leiche
 
 Kaum entstand der Verdacht, daß die Erregung Adriennens von dieser Seite angefacht sei, so hatte Fanny schon einen Entschluß gefaßt, der armen jungen Frau in der Krisis beizustehen, ohne sie durch zudringliche Fragen zu beschämen.
 
-»​Nun, Herzchen,​« sagte sie im leichtesten Ton, »​beruhige Dich; das beste Mittel gegen Heimweh ist dies: schreibe Deinem Mann einen langen, langen Brief und schütte ihm Dein Herz aus, er liebt Dich so sehr – freilich, er sagt es nicht – aber Du weißt es ja doch; schreibe ihm und bleibe heute abend oben.​«
+<quote>»​Nun, Herzchen,​«</quote> <suspension>sagte sie im leichtesten Ton,</suspension> <quote>»​beruhige Dich; das beste Mittel gegen Heimweh ist dies: schreibe Deinem Mann einen langen, langen Brief und schütte ihm Dein Herz aus, er liebt Dich so sehr – freilich, er sagt es nicht – aber Du weißt es ja doch; schreibe ihm und bleibe heute abend oben.​«</quote>
 
 Fanny wußte doch immer das rechte Wort zu sagen. Dankbar, in Liebe zu ihr aufwallend, umarmte Adrienne die Schwägerin.
 
@@ -1921,15 +1923,15 @@ Fanny ging sehr ernst und langsam hinunter, trat dann aber völlig wie sonst in 
 
 Magnus wußte nicht, was er von diesem Scherz denken sollte, denn er zitterte seit dem Augenblick, wo Fanny zu Adrienne gegangen war.
 
-»​Allerdings,​« sagte er, mühsam ebenfalls einen scherzenden Ton findend, »​ich bin Ihr Schuldgefangener; der Turm, in den Sie mich sperrten, ist weit genug, aber heimliche Ketten sind doch darin. Wäre nur erst der Augenblick da, wo ich meine Arbeit vollendet und das Honorar habe, um den Schein aus Ihrer Hand zu lösen.​«
+<quote>»​Allerdings,​«</quote> <suspension>sagte er, mühsam ebenfalls einen scherzenden Ton findend,</suspension> <quote>»​ich bin Ihr Schuldgefangener; der Turm, in den Sie mich sperrten, ist weit genug, aber heimliche Ketten sind doch darin. Wäre nur erst der Augenblick da, wo ich meine Arbeit vollendet und das Honorar habe, um den Schein aus Ihrer Hand zu lösen.​«</quote>
 
-»​Was denken Sie,​« sprach Fanny, ihn lustig ansehend, »​wenn ich so wenig Wert auf Ihre Gegenwart in Mittelbach lege, daß ich Ihnen jetzt den Schein schenke unter der Bedingung, daß Sie morgen reisen?  Unhöflich – was? Aber ich meine, hier haben Sie zu viel Abhaltung von der Arbeit.​«
+<quote>»​Was denken Sie,​«</quote> <suspension>sprach Fanny, ihn lustig ansehend,</suspension> <quote>»​wenn ich so wenig Wert auf Ihre Gegenwart in Mittelbach lege, daß ich Ihnen jetzt den Schein schenke unter der Bedingung, daß Sie morgen reisen?  Unhöflich – was? Aber ich meine, hier haben Sie zu viel Abhaltung von der Arbeit.​«</quote>
 
 »​Hat Frau von Herebrecht meine Entfernung gewünscht?​« fuhr es Magnus heraus, der Angstschweiß stand ihm auf der Stirn.
 
 »​Also richtig!​« dachte Fanny. »​Adrienne? Nein,​« sagte sie unbefangen, verwundert; »​was hätte sie, die an allen meinen Freunden leider nur zu teilnahmlos vorübergeht, an Ihrem Bleiben oder Reisen für ein Interesse? Nun, was denken Sie? Sie sind beleidigt, daß ich Sie hier entbehrlich finde?​«
 
-»​Ich denke,​« sprach Magnus, aufatmend und Fanny voll in das kluge Gesicht sehend, »​daß Sie mit Menschen umherschieben wie ein Theaterdiener mit Dekorationsstücken, aber Sie verstehen die Kunst, und es scheint, Sie haben immer recht und wissen immer alles, wenn Sie es gleich nicht gestehen. Ich gehe, wohin ich soll, ich nehme meinen Schuldschein zurück, wenn Sie es so wollen, das sind, ich weiß es, für Sie kleinliche Nebensachen; machen Sie meinen Eltern meine Reise und die Notwendigkeit dazu klar. Und ich habe ein Neidwort für Sie – es möchte ein weniger Aufrichtiger in einen Segenswunsch zum Abschied kleiden: Sie sind so klug und klar für andere, beneidenswerte Frau, und haben für sich selbst kein Klugsein nötig, bleibe Ihnen das!​«
+<quote>»​Ich denke,​«</quote> <suspension>sprach Magnus, aufatmend und Fanny voll in das kluge Gesicht sehend,</suspension> <quote>»​daß Sie mit Menschen umherschieben wie ein Theaterdiener mit Dekorationsstücken, aber Sie verstehen die Kunst, und es scheint, Sie haben immer recht und wissen immer alles, wenn Sie es gleich nicht gestehen. Ich gehe, wohin ich soll, ich nehme meinen Schuldschein zurück, wenn Sie es so wollen, das sind, ich weiß es, für Sie kleinliche Nebensachen; machen Sie meinen Eltern meine Reise und die Notwendigkeit dazu klar. Und ich habe ein Neidwort für Sie – es möchte ein weniger Aufrichtiger in einen Segenswunsch zum Abschied kleiden: Sie sind so klug und klar für andere, beneidenswerte Frau, und haben für sich selbst kein Klugsein nötig, bleibe Ihnen das!​«</quote>
 
 Fanny fühlte sich durch seine letzten Worte sehr bewegt und konnte sich das nicht erklären.
 
@@ -2019,7 +2021,7 @@ Joachim brachte sie nach Haus. Das hatte sich so als Brauch eingeschlichen, seit
 
 »​Freilich – weil Du dabei bist. Und wenn man so von all den verrückten Menschen hört, die die Liebe so tragisch nehmen und sich und anderen das Leben damit sauer machen, freut man sich der eigenen, modernen Vernünftigkeit,​« sagte Joachim behaglich.
 
-»​Die ganze ›​Vernünftigkeit​‹, die Du manchmal in diesem Punkt an Dir rühmst,​« bemerkte Severina mit einem zärtlichen Lächeln, »​ist weiter nichts als Dein ruhiges Glücksgefühl. Wenn Du früher zu lieben glaubtest, fandest Du fast immer Entgegenkommen; stellte es sich dann heraus, daß es bloß eine beiderseitige Täuschung gewesen war, tröstetest Du Dich aus dieser Erkenntnis sehr schnell.​«
+<quote>»​Die ganze ›​Vernünftigkeit​‹, die Du manchmal in diesem Punkt an Dir rühmst,​«</quote> <suspension>bemerkte Severina mit einem zärtlichen Lächeln,</suspension> <quote>»​ist weiter nichts als Dein ruhiges Glücksgefühl. Wenn Du früher zu lieben glaubtest, fandest Du fast immer Entgegenkommen; stellte es sich dann heraus, daß es bloß eine beiderseitige Täuschung gewesen war, tröstetest Du Dich aus dieser Erkenntnis sehr schnell.​«</quote>
 
 »​Die Liebe liebt das Wandern,
 
@@ -2031,15 +2033,15 @@ Fein's Liebchen, gute Nacht!​«
 
 sang Joachim halblaut.
 
-»​Und jetzt,​« fuhr Severina eifrig fort, »​wo Du  zum erstenmal wirklich liebst, mich, findest Du grenzenlose Gegenliebe. Du hast also gar keine Gelegenheit zur ›​Unvernunft​‹! Aber das ist gewiß, daß auch ein stilles Glück, ein vernünftiges Glück durch einen Querstrich ins übermenschlich Traurige umschlagen kann. Wenn ich Dir untreu würde, Du ertrügst es nicht. Und ich – ich stürbe, wenn Du mich verrietest.​«
+<quote>»​Und jetzt,​«</quote> <suspension>fuhr Severina eifrig fort,</suspension> <quote>»​wo Du  zum erstenmal wirklich liebst, mich, findest Du grenzenlose Gegenliebe. Du hast also gar keine Gelegenheit zur ›​Unvernunft​‹! Aber das ist gewiß, daß auch ein stilles Glück, ein vernünftiges Glück durch einen Querstrich ins übermenschlich Traurige umschlagen kann. Wenn ich Dir untreu würde, Du ertrügst es nicht. Und ich – ich stürbe, wenn Du mich verrietest.​«</quote>
 
 Sie hing leidenschaftlich an ihm.
 
-»​Aber, Kindchen,​« sagte er mißmutig, »​Du weißt, ich kann die überspannten Redensarten nicht leiden. Ob ich Dir treu bleibe – Du mir – wer kann's beschwören? Aber wir wollen es hoffen. Wenn wir erst verheiratet sind, macht sich das von selbst.​«
+<quote>»​Aber, Kindchen,​«</quote> <suspension>sagte er mißmutig,</suspension> <quote>»​Du weißt, ich kann die überspannten Redensarten nicht leiden. Ob ich Dir treu bleibe – Du mir – wer kann's beschwören? Aber wir wollen es hoffen. Wenn wir erst verheiratet sind, macht sich das von selbst.​«</quote>
 
 Severina zitterte. O, über seinen leichten Ton! Aber gewiß, es war nur der Ton.
 
-»​Lanzenau sagt mir,​« erzählte Joachim, »​daß er Aussichten für mich hat. In drei Wochen kann es sich entscheiden. Dann soll Fanny aber die erste sein, die es erfährt, vor ihr schäme ich mich der Heimlichkeit am meisten. Wie sie sich wohl freut, sie ist so teilnehmend. Weißt Du, bei der Geschichte mußte ich immer denken, daß Ginevra gewiß ebenso ausgesehen hat wie Fanny – es ist so das heldenhafte Genre.​«
+<quote>»​Lanzenau sagt mir,​«</quote> <suspension>erzählte Joachim,</suspension> <quote>»​daß er Aussichten für mich hat. In drei Wochen kann es sich entscheiden. Dann soll Fanny aber die erste sein, die es erfährt, vor ihr schäme ich mich der Heimlichkeit am meisten. Wie sie sich wohl freut, sie ist so teilnehmend. Weißt Du, bei der Geschichte mußte ich immer denken, daß Ginevra gewiß ebenso ausgesehen hat wie Fanny – es ist so das heldenhafte Genre.​«</quote>
 
 »​Nein, bei all ihrer Schönheit finde ich dafür Fanny nicht ideal genug. Sie ist viel zu klug und energisch, als daß man sie sich als Type für eine Ginevra denken könnte.​«
 
@@ -2127,13 +2129,13 @@ Als Fanny am nächsten Morgen Joachim sah, zitterten ihr die Kniee, die Stimme s
 
 Und unter der Dienerschaft des Hauses war großes Erstaunen: Frau Förster gab verkehrte Befehle! Frau Förster vergaß oft, was sie vor einer Viertelstunde angeordnet! Wenn man sie anredete, fuhr sie erschreckt auf! Und sie ritt allein bei regnerischem Windwetter aus! Und die Pastorsleute waren neulich abgewiesen worden – zum ersten, unerhört Aufsehen erregenden mal – weil Frau Förster Kopfweh habe! Was bedeutete das?
 
-»​Was bedeutet das?​« fragte sich auch Severina, als Fanny beim Vorlesen nicht mehr malen konnte, überhaupt nicht mehr stillsitzen zu können schien. Was bedeutete das, daß Fanny sie nicht immer aufforderte: »​Komm morgen wieder!​« War das Gedankenlosigkeit? Und warum dann diese Gedankenlosigkeit? Was beschäftigte sie so ganz? Oder wollte sie Severina nicht mehr so oft mit Joachim zusammenkommen lassen? Hatte sie das heimliche Verlöbnis entdeckt und billigte es nicht? Aber dann entsprach es Fannys Art, dies offen zu sagen und Severina sowie Joachim eine Vernunftrede zu halten. Was bedeutete das also?
+<quote>»​Was bedeutet das?​« fragte sich auch Severina, als Fanny beim Vorlesen nicht mehr malen konnte, überhaupt nicht mehr stillsitzen zu können schien. Was bedeutete das, daß Fanny sie nicht immer aufforderte: »​Komm morgen wieder!​«</quote> <suspension>War das Gedankenlosigkeit? Und warum dann diese Gedankenlosigkeit? Was beschäftigte sie so ganz? Oder wollte sie Severina nicht mehr so oft mit Joachim zusammenkommen lassen? Hatte sie das heimliche Verlöbnis entdeckt und billigte es nicht? Aber dann entsprach es Fannys Art, dies offen zu sagen und Severina sowie Joachim eine Vernunftrede zu halten. Was bedeutete das also?
 
 Mit dem Instinkt des liebenden Weibes, das im tiefsten Herzen weiß, der Geliebte sei kein Fels, sondern ein unergründliches Meer mit veränderlichem Wogenschlag, mit dem Instinkt, der sich an der Sorge schärft, fühlte Severina plötzlich, daß es bedeuten könne, Fanny liebe Joachim.
 
-Sie hatte nicht die Klugheit Lanzenaus, der sich gesagt, »​daran rühren, heißt Flammen schüren​«; sie hatte die eifersüchtige Todesangst ihrer Jugend und ihres Temperaments.
+Sie hatte nicht die Klugheit Lanzenaus, der sich gesagt,</suspension> <quote>»​daran rühren, heißt Flammen schüren​«</quote>; sie hatte die eifersüchtige Todesangst ihrer Jugend und ihres Temperaments.
 
-»​Joachim,​« sagte sie eines Tages, als sie sich in Adriennens Wohnzimmer befanden, während die junge Frau nebenan das schreiende Kind besänftigte, »​Joachim, merkst Du nicht, daß Fanny ganz verändert ist?​«
+<quote>»​Joachim,​«</quote> <suspension>sagte sie eines Tages, als sie sich in Adriennens Wohnzimmer befanden, während die junge Frau nebenan das schreiende Kind besänftigte,</suspension> <quote>»​Joachim, merkst Du nicht, daß Fanny ganz verändert ist?​«</quote>
 
 »​Wieso verändert?​«
 
@@ -2171,13 +2173,13 @@ Severina mußte für die wenigen Nächte im Herrenhause schlafen; der Pastor und
 
 Zwei Tage vor ihrer Abfahrt hüllte sich die Welt in einen frühen Winterschnee, der so andauernd und so dicht auf die leicht gefrorene Erde fiel, daß es offenbar ward, aus der Wagenreise würde eine lustige Schlittenfahrt werden. Das machte Fanny Spaß.
 
-»​Es gibt eine lustige Fuhre,​« sagte sie, »​voran Achim und ich im Schlitten mit den Juckern, hinterher  der Kartoffelschlitten mit den Braunen als Gepäckdroschke.​«
+<quote>»​Es gibt eine lustige Fuhre,​«</quote> <suspension>sagte sie,</suspension> <quote>»​voran Achim und ich im Schlitten mit den Juckern, hinterher  der Kartoffelschlitten mit den Braunen als Gepäckdroschke.​«</quote>
 
 Joachim staunte über den Riesenkoffer, den Fanny in den Flur schaffen ließ.
 
 »​Soll alles, was da drin ist, in drei Tagen angezogen werden?​« fragte er.
 
-»​Natürlich,​« sagte Fanny, »​ich gehe darauf aus, mit einigen Gersonschen Kleiderwundern Erfolg zu haben.​«
+<quote>»​Natürlich,​«</quote> <suspension>sagte Fanny,</suspension> <quote>»​ich gehe darauf aus, mit einigen Gersonschen Kleiderwundern Erfolg zu haben.​«</quote>
 
 Sie, die Einfache, nie Geputzte, hatte sich in die Mühe des Nachdenkens gestürzt, was ihr am schönsten stände. Severinas Hände zitterten, als sie Fanny beim Einpacken half, und ihr Herz klopfte, als sie jetzt Joachim darüber scherzen hörte. O, es war nur seinetwegen, nur um ihm zu gefallen.
 
@@ -2265,7 +2267,7 @@ Diese Worte vermehrten Joachims Verwirrung. Gewaltsam faßte er sich und sagte:
 
 »​Ich war von anderen Gedanken bestürzt. Später will ich sie Dir vielleicht gestehen. Aber wird Dir niemand Deine Wahl verargen? Fanny Förster und der junge, unbedeutende, arme Schlucker, der Dir nichts bringt als seinen schönen alten Namen! Und auch auf diesen legst Du kaum Wert, denn ich weiß, Du schätzest den Adel gering; man bot ihn Dir schon an und Du schlugst ihn ab.​«
 
-»​Ah,​« dachte Fanny, wieder in neuen Irrtum fallend, »​das war's, seine Armut fiel ihm ein und daß vielleicht gar Krämerseelen denken könnten ...​«
+<quote>»​Ah,​«</quote> <suspension>dachte Fanny, wieder in neuen Irrtum fallend,</suspension> <quote>»​das war's, seine Armut fiel ihm ein und daß vielleicht gar Krämerseelen denken könnten ...​«</quote>
 
 Deshalb ging sie liebevoll auf seine Schlußbemerkung ein, die er nur gemacht, um irgend eine Ablenkung zu finden.
 
@@ -2279,11 +2281,11 @@ Deshalb ging sie liebevoll auf seine Schlußbemerkung ein, die er nur gemacht, u
 
 »​Siehst Du, Dein Arnold denkt wie ich. Er begnügt sich nicht mit dem ererbten Namen Herebrecht, er will diesem neuen Glanz hinzufügen,​« sprach Fanny weiter.
 
-»​Nur ich als Krautjunker von Profession,​« scherzte Joachim, »​muß so ruhig im Dunkeln weiter wurzeln.​«
+<quote>»​Nur ich als Krautjunker von Profession,​«</quote> <suspension>scherzte Joachim,</suspension> <quote>»​muß so ruhig im Dunkeln weiter wurzeln.​«</quote>
 
-»​O,​« rief Fanny erglühend, »​Du sollst sehen, was wir noch alles zusammen Segensreiches wirken werden. Graf Taiß ist in unserem ganzen Bezirk der angesehenste, mächtigste und thätigste, auch erfolgreichste Landwirt und Patron; er pflegte bisher zu scherzen, daß ich allein seine Rivalin sei. Du und ich zusammen  müssen dasselbe, müssen mehr leisten als er. Sie sollen alle einmal begreifen, daß ich meinen zweiten Lebensgefährten klug wählte. Ja, auch das thörichte Herz kann klug wählen.​« Und dabei sah sie ihn stolz und voll Liebe an.
+<quote>»​O,​«</quote> <suspension>rief Fanny erglühend,</suspension> <quote>»​Du sollst sehen, was wir noch alles zusammen Segensreiches wirken werden. Graf Taiß ist in unserem ganzen Bezirk der angesehenste, mächtigste und thätigste, auch erfolgreichste Landwirt und Patron; er pflegte bisher zu scherzen, daß ich allein seine Rivalin sei. Du und ich zusammen  müssen dasselbe, müssen mehr leisten als er. Sie sollen alle einmal begreifen, daß ich meinen zweiten Lebensgefährten klug wählte. Ja, auch das thörichte Herz kann klug wählen.​«</quote> Und dabei sah sie ihn stolz und voll Liebe an.
 
-»​Mag kommen, was will,​« dachte Joachim mit dem blinden Mute jemandes, der sich in ein brennendes Haus gestürzt hat, »​so vieler Liebe gegenüber bleibe ein Felsen hart!​«
+<quote>»​Mag kommen, was will,​«</quote> <suspension>dachte Joachim mit dem blinden Mute jemandes, der sich in ein brennendes Haus gestürzt hat,</suspension> <quote>»​so vieler Liebe gegenüber bleibe ein Felsen hart!​«</quote>
 
 Das letzte Gespräch hatte ihnen beiden wenigstens die äußere Ruhe zurückgegeben, als sie in den Hof der Taißburg einfuhren, sahen sie scheinbar mit ihren gewöhnlichen heiteren Gesichtern in die Welt.
 
@@ -2333,11 +2335,11 @@ Armer Lanzenau! Meinetwegen wirst Du nicht empfangen, dachte Joachim mit unsägl
 
 »​Es ist gut, Sie können gehen.​«
 
-»​Ah,​« dachte Joachim glücklich, »​man hat Fanny ein besseres Logis gegeben​« – er sah sich in seinem einfachen Zimmer um – »​sie hat einen Salon, sie erteilt dort Audienzen, man kann zu ihr gehen.​«
+<quote>»​Ah,​«</quote> <suspension>dachte Joachim glücklich,</suspension> <quote>»​man hat Fanny ein besseres Logis gegeben​«</quote> – er sah sich in seinem einfachen Zimmer um – »​sie hat einen Salon, sie erteilt dort Audienzen, man kann zu ihr gehen.​«
 
 Dabei fiel ihm ein, daß er ihr Etui mit ihrem Brillantencollier in der Brusttasche seines Pelzes hergebracht habe, weil Fanny es nie in ihrem Koffer zu transportiren pflegte.
 
-»​Das werde ich ihr bringen,​« dachte er, »​es wird sich schon eine Zeit dazu finden heute.​«
+<quote>»​Das werde ich ihr bringen,​«</quote> <suspension>dachte er,</suspension> <quote>»​es wird sich schon eine Zeit dazu finden heute.​«</quote>
 
 Und in der That, sie fand sich.
 
@@ -2399,9 +2401,9 @@ Fanny fühlte es wie einen Schmerz, daß Joachim zwischen den jungen Mädchen bl
 
 Auch die anderen richteten ihre Beobachtungen auf das Bild, welches sich im Rahmen der Thür anmutig genug bot.
 
-»​Der junge Herebrecht ist ein selten liebenswürdiger Mensch,​« sagte Graf Taiß, »​insbesondere die Herzen der jungen Damen scheinen ihm nur so zuzufliegen. Ina Meerheim ist ja ganz aus dem Häuschen.​«
+<quote>»​Der junge Herebrecht ist ein selten liebenswürdiger Mensch,​«</quote> <suspension>sagte Graf Taiß,</suspension> <quote>»​insbesondere die Herzen der jungen Damen scheinen ihm nur so zuzufliegen. Ina Meerheim ist ja ganz aus dem Häuschen.​«</quote>
 
-»​Natürlich,​« sprach Lanzenau, während er sein Augenglas einklemmte, um auch seinerseits hinzusehen, »​natürlich, dieser außerordentliche junge Mann reitet wie der Teufel, schießt wie ein Freischütz und tanzt wie ein Lieutenant – erhabene Eigenschaften genug, um alle Weiber verrückt zu machen.​«
+<quote>»​Natürlich,​«</quote> <suspension>sprach Lanzenau, während er sein Augenglas einklemmte, um auch seinerseits hinzusehen,</suspension> <quote>»​natürlich, dieser außerordentliche junge Mann reitet wie der Teufel, schießt wie ein Freischütz und tanzt wie ein Lieutenant – erhabene Eigenschaften genug, um alle Weiber verrückt zu machen.​«</quote>
 
 Der bittere, ja, fast gehässige Spott in diesen Worten war so auffallend, daß alle sekundenlang schwiegen. Graf Taiß klopfte Lanzenau lächelnd auf die Schulter.
 
@@ -2417,7 +2419,7 @@ Er erhob sich. Dunkle Röte stieg langsam in sein Gesicht. Ihm schwindelte – e
 
 »​Was war das?​« fragte die Gräfin betroffen.
 
-»​Ich weiß es nicht,​« antwortete Fanny mit blassen Lippen, »​jedenfalls eine Thorheit.​«
+<quote>»​Ich weiß es nicht,​«</quote> <suspension>antwortete Fanny mit blassen Lippen,</suspension> <quote>»​jedenfalls eine Thorheit.​«</quote>
 
 Die Gesellschaft, obgleich oder vielleicht weil sie ohne Ausnahme die Sache durchschaute, ging rasch zu  einem andern Gespräch über. Beim Abendtisch, zu dem Lanzenau sich entschuldigen ließ, setzte die Gräfin Joachim neben Fanny.
 
@@ -2471,39 +2473,39 @@ Da begegnete er ihm im Korridor, er wollte ohne Zweifel auch Fanny gratuliren ge
 
 »​Auf ein Wort, Herebrecht!​«
 
-»​Ich bitte,​« sagte Joachim, »​nachher. Erst will ich Fanny zum Geburtstag Glück wünschen.​«
+<quote>»​Ich bitte,​«</quote> <suspension>sagte Joachim,</suspension> <quote>»​nachher. Erst will ich Fanny zum Geburtstag Glück wünschen.​«</quote>
 
 Joachim hatte eben dem Mittelbacher Schlitten den Brief an Severina zur Besorgung gegeben und war ganz froh.
 
 Er sagte »​Fanny​«; das fiel Lanzenau schmerzlich auf. Aber dann besann er sich; das war schon lange geschehen; sie waren ja sozusagen verwandt durch Adrienne.
 
-»​Gut,​« antwortete Lanzenau, »​ich bin in der Bibliothek und erwarte Sie.​«
+<quote>»​Gut,​«</quote> <suspension>antwortete Lanzenau,</suspension> <quote>»​ich bin in der Bibliothek und erwarte Sie.​«</quote>
 
 So legte er Joachim den Zwang auf, nicht zu lange bei Fanny zu bleiben. Das fühlte dieser wohl und von neuem wollte Unruhe durch seine Adern schleichen.
 
 Aber die entfloh wie Nebel vor dem Sturm, als er Fanny sah, wie sie dastand, umgeben von der Blumenpracht, und ihm entgegenlächelte, befangen fast wie ein Mädchen und doch mit dem Glutblitz des Weibes in den Augen.
 
-»​Fanny,​« sagte er tief bewegt, »​ich bringe Dir nichts als meinen heißen Wunsch, daß ...​«
+<quote>»​Fanny,​«</quote> <suspension>sagte er tief bewegt,</suspension> <quote>»​ich bringe Dir nichts als meinen heißen Wunsch, daß ...​«</quote>
 
 Er stockte. Er ihr Glück wünschen, er, um den sie weinen und leiden würde, wenn sie wüßte ...
 
 Fanny ergriff seine Hände.
 
-»​Du hast Dich mir gegeben, Deinen ganzen Menschen,​« sprach sie feierlich, ihn mit leuchtenden Augen ansehend, »​das ist das Gnadengeschenk, welches das Schicksal mir noch schuldete.​«
+<quote>»​Du hast Dich mir gegeben, Deinen ganzen Menschen,​«</quote> <suspension>sprach sie feierlich, ihn mit leuchtenden Augen ansehend,</suspension> <quote>»​das ist das Gnadengeschenk, welches das Schicksal mir noch schuldete.​«</quote>
 
 »​Geliebte!​« sagte er mit zitternder Stimme und küßte ihren Scheitel.
 
-»​Ja,​« fuhr sie mit dem Pathos höchster Leidenschaft fort, »​ja, es war mir das schuldig. Die Welt glaubte, ich sei glücklich, weil alle meine Kräfte froh und mit Segen sich bethätigen konnten. Die Welt glaubte, nur mein Verstand, nicht mein Herz brauche Beschäftigung. Aber ich fühlte tief innen immer, daß mir die Krone des Weibes fehlte. Ich hatte noch niemals geliebt. In meiner Ehe mit Förster hat die erschöpfende, die alles duldende Liebe gefehlt, was sonst wie ein Traum an Sehnsucht durch mein Herz zog und sich äußerte, war Selbstbetrug. Du bist meine Wahrheit, mein Leben, mein Glück.​«
+<quote>»​Ja,​«</quote> <suspension>fuhr sie mit dem Pathos höchster Leidenschaft fort,</suspension> <quote>»​ja, es war mir das schuldig. Die Welt glaubte, ich sei glücklich, weil alle meine Kräfte froh und mit Segen sich bethätigen konnten. Die Welt glaubte, nur mein Verstand, nicht mein Herz brauche Beschäftigung. Aber ich fühlte tief innen immer, daß mir die Krone des Weibes fehlte. Ich hatte noch niemals geliebt. In meiner Ehe mit Förster hat die erschöpfende, die alles duldende Liebe gefehlt, was sonst wie ein Traum an Sehnsucht durch mein Herz zog und sich äußerte, war Selbstbetrug. Du bist meine Wahrheit, mein Leben, mein Glück.​«</quote>
 
 »​Fanny,​« sagte Joachim – seine Augen waren naß und er drückte ihre Hand dagegen – »​Fanny, und doch war Deine Wahl eine Verirrung.​«
 
-»​Nein,​« rief sie flammend, »​tausendmal nein! Ich habe nicht gewählt, Du bist mir gegeben. Es gibt keine Wahl, wo ein gewaltiges Naturereignis alles in uns und um uns erschüttert. Ich mußte Dich lieben! Da gibt es keine Fragen nach Alter, nach Stand, nach Gaben, nach Vermögen – selbst nicht nach Güte, nach Herz. Man liebt – und wenn es sein muß,  erhebt die Liebe den Geliebten aus dem Staub und lehrt ihn, würdig und groß zu sein. Dafür ist sie die Gottheit, welche die Welt beherrscht.​«
+<quote>»​Nein,​«</quote> <suspension>rief sie flammend,</suspension> <quote>»​tausendmal nein! Ich habe nicht gewählt, Du bist mir gegeben. Es gibt keine Wahl, wo ein gewaltiges Naturereignis alles in uns und um uns erschüttert. Ich mußte Dich lieben! Da gibt es keine Fragen nach Alter, nach Stand, nach Gaben, nach Vermögen – selbst nicht nach Güte, nach Herz. Man liebt – und wenn es sein muß,  erhebt die Liebe den Geliebten aus dem Staub und lehrt ihn, würdig und groß zu sein. Dafür ist sie die Gottheit, welche die Welt beherrscht.​«</quote>
 
 Joachim war außer sich. Er sank vor ihr nieder und barg sein Gesicht in den Falten ihres Kleides, während seine Arme ihre Hüften umschlangen.
 
 Heiße Dankbarkeit hatte ihn überwältigt, und die Erkenntnis, daß dieses große Herz ihn auch geliebt haben würde, wenn es alles gewußt hätte, ihn noch lieben würde, wenn es die Wahrheit erführe.
 
-»​Ich aber,​« fuhr Fanny fort, während ihre triumphirende Sprache sich zu liebevollem Flüstern senkte, »​ich aber brauche Dich nicht zu mir zu erheben. Du bist jung und rein und gut.​«
+<quote>»​Ich aber,​«</quote> <suspension>fuhr Fanny fort, während ihre triumphirende Sprache sich zu liebevollem Flüstern senkte,</suspension> <quote>»​ich aber brauche Dich nicht zu mir zu erheben. Du bist jung und rein und gut.​«</quote>
 
 Sie legte ihre Hände zärtlich auf sein blondes Haar. So blieben sie lange, und so klang die hohe Erregung in sanften Schwingungen aus.
 
@@ -2517,11 +2519,11 @@ Lanzenau suchte erst mit einiger Umständlichkeit aus seiner Brusttasche ein Pap
 
 »​Sie werden sich erinnern, lieber Herebrecht, daß ich Ihnen versprach, für Sie nach einer auskömmlichen Stellung Umschau zu halten, damit Sie Ihr kleines Bräutchen baldigst vor der Welt als solches verkündigen und heimführen könnten.​«
 
-»​Allerdings,​« sagte Joachim sehr ruhig und mit sehr festem Blick, »​allein ich weiß nicht, ob Fräulein Severina zur Stunde noch gestatten würde, daß Sie sie meine ›​Braut​‹ nennen.​«
+<quote>»​Allerdings,​«</quote> <suspension>sagte Joachim sehr ruhig und mit sehr festem Blick,</suspension> <quote>»​allein ich weiß nicht, ob Fräulein Severina zur Stunde noch gestatten würde, daß Sie sie meine ›​Braut​‹ nennen.​«</quote>
 
 Lanzenau wußte nicht recht, was er aus der Antwort machen sollte.
 
-»​Hm,​« sprach er mit erkünstelter Scherzhaftigkeit, »​kleine Zwistigkeiten zwischen Liebenden, das kommt vor. Das gleicht sich aus. Jedenfalls wollte ich Ihnen sagen, daß meine Bemühungen nicht erfolglos waren; ich bekam heute die Nachricht, daß Ihnen hier,​« dabei überreichte er Joachim das Papier, »​hier die Administration der Itzelburgischen Güter angetragen wird. Sie ersehen aus der Zuschrift, daß die pekuniären Vorteile für Sie außerordentlich sind und die Thätigkeit Ihren Ehrgeiz befriedigen muß. Man erwartet  in vierzehn Tagen Ihren Entschluß und dann so bald als möglich Ihren Antritt. Ich gehe wohl nicht fehl, wenn ich annehme, daß es für Sie hier kein Besinnen gibt und daß Sie nicht zögern werden, der Gesellschaft, sowie insbesondere Frau Förster Ihre neue Stellung und Ihre Verlobung zu verkündigen.​«
+<quote>»​Hm,​«</quote> <suspension>sprach er mit erkünstelter Scherzhaftigkeit,</suspension> <quote>»​kleine Zwistigkeiten zwischen Liebenden, das kommt vor. Das gleicht sich aus. Jedenfalls wollte ich Ihnen sagen, daß meine Bemühungen nicht erfolglos waren; ich bekam heute die Nachricht, daß Ihnen hier,​«</quote> dabei überreichte er Joachim das Papier, »​hier die Administration der Itzelburgischen Güter angetragen wird. Sie ersehen aus der Zuschrift, daß die pekuniären Vorteile für Sie außerordentlich sind und die Thätigkeit Ihren Ehrgeiz befriedigen muß. Man erwartet  in vierzehn Tagen Ihren Entschluß und dann so bald als möglich Ihren Antritt. Ich gehe wohl nicht fehl, wenn ich annehme, daß es für Sie hier kein Besinnen gibt und daß Sie nicht zögern werden, der Gesellschaft, sowie insbesondere Frau Förster Ihre neue Stellung und Ihre Verlobung zu verkündigen.​«
 
 Da war Fannys Name heraus und der Zweck der langen Rede verraten.
 
@@ -2535,7 +2537,7 @@ Lanzenau tupfte sich mit seinem weißseidenen Taschentuch die Stirn.
 
 »​Gerade Frau Förster braucht am wenigsten von einer Sache zu erfahren, die ihr Veränderungen in der eigenen Oekonomie in Aussicht stellen. Hier soll sie ihre Gedanken von Wirtschaftssorgen frei halten,​« sprach Joachim mit einer Unbefangenheit, über die er sich selbst wunderte.
 
-»​Nun denn,​« sagte Lanzenau und erhob sich steif, »​wenn Sie mich durchaus nicht verstehen wollen, sei es gerade herausgesagt: Ich finde, daß es Ihre Pflicht ist, Frau Förster von Severina zu sprechen.​«
+<quote>»​Nun denn,​«</quote> <suspension>sagte Lanzenau und erhob sich steif,</suspension> <quote>»​wenn Sie mich durchaus nicht verstehen wollen, sei es gerade herausgesagt: Ich finde, daß es Ihre Pflicht ist, Frau Förster von Severina zu sprechen.​«</quote>
 
 Auch Joachim stand auf. Eine Minute lang sah er nachdenklich vor sich nieder. Es ging ihm durch den Kopf, daß der Mann da Fanny liebte und ein Recht zu haben glaubte, über ihr Glück zu wachen, daß er ihr viele Jahre mehr wie ein Vater oder ein Bruder gewesen. Und wieder dachte er, daß es für sie alle vielleicht am besten sein würde, wenn er jetzt sein Herz vor Lanzenau ausschütte. Zur Selbstlosigkeit des alternden Mannes hatte der junge Sieger alles Vertrauen. Aber diese Erwägungen, die aus seinem kindlich-ehrlichen Herzen kamen, wichen einem verderblich aufwallenden Trotz. Er that das Verkehrteste und sagte mit erhobenem Haupt:
 
@@ -2555,7 +2557,7 @@ Einer unglücklichen Eingebung folgend, die ihre Rettung in einer erbärmlichen 
 
 Lanzenau sah ihn stumm, geradezu entsetzt an.
 
-»​Ah,​« begann er dann, tief aufatmend, »​ich sehe, Herr von Herebrecht, Sie sind aus einer andern Generation wie ich. Zu meinen Zeiten bedurfte es in solchen Dingen nicht solcher Hinterthüren. Nicht allein das Wort, auch das Thun und Lassen band uns. Wenn Sie nur einen feierlichen Ringwechsel und ein Eheversprechen vor Zeugen als bindend für Ihre Ehre und Ihr Herz betrachten, dann allerdings haben Sie einen so weiten Spielraum für Ihre Tändeleien, daß ich darauf verzichten muß, mich für den Verlauf derselben zu interessiren. Eins aber, eins hören Sie: Wenn Sie es sich sollten beikommen lassen,  eine Frau in das Bereich dieser Ihrer Tändeleien zu ziehen, eine Frau, welche ich verehre – nicht wie eine Heilige, nein höher, wie den Inbegriff von aller menschlichen Frauengüte und Frauengröße, dann, mein Herr, würde ich Sie aus dem Weg dieser Frau zu entfernen wissen, und sollte ich Sie niederschießen wie ein fremdes Wild, das meinen Garten verwüstet.​«
+<quote>»​Ah,​«</quote> <suspension>begann er dann, tief aufatmend,</suspension> <quote>»​ich sehe, Herr von Herebrecht, Sie sind aus einer andern Generation wie ich. Zu meinen Zeiten bedurfte es in solchen Dingen nicht solcher Hinterthüren. Nicht allein das Wort, auch das Thun und Lassen band uns. Wenn Sie nur einen feierlichen Ringwechsel und ein Eheversprechen vor Zeugen als bindend für Ihre Ehre und Ihr Herz betrachten, dann allerdings haben Sie einen so weiten Spielraum für Ihre Tändeleien, daß ich darauf verzichten muß, mich für den Verlauf derselben zu interessiren. Eins aber, eins hören Sie: Wenn Sie es sich sollten beikommen lassen,  eine Frau in das Bereich dieser Ihrer Tändeleien zu ziehen, eine Frau, welche ich verehre – nicht wie eine Heilige, nein höher, wie den Inbegriff von aller menschlichen Frauengüte und Frauengröße, dann, mein Herr, würde ich Sie aus dem Weg dieser Frau zu entfernen wissen, und sollte ich Sie niederschießen wie ein fremdes Wild, das meinen Garten verwüstet.​«</quote>
 
 Mit einer Würde, die fern von jeder äußerlichen Leidenschaft war, aber dennoch in ihrer eisernen Festigkeit verriet, daß der Mann im stande sei, zu vollführen, was er drohte, kamen diese Worte von Lanzenaus Lippen. Und als er sie gesprochen, ging er hinaus, langsam, etwas steifbeinig, wie er immer ging.
 
@@ -2583,7 +2585,7 @@ Eine leichte Hand berührte seine Schulter. Er  erschrak wie ein nervöses Fraue
 
 Joachim bemühte sich, zu lächeln, und fragte, was sie hergeführt.
 
-»​Lächeln Sie nicht,​« sagte das zartgewachsene, aber sehr starksinnige Soldatenkind, »​ein Lächeln auf einem so seekranken Gesicht erweckt in mir eine furchtbare Ideenverbindung mit der Milchpflaumensuppe in meiner Pension. Also, ich habe Sie gesucht, um Ihnen zu sagen, daß ich mich heute morgen mit Heini gestritten habe, was Sie wohl schon wissen.​«
+<quote>»​Lächeln Sie nicht,​«</quote> <suspension>sagte das zartgewachsene, aber sehr starksinnige Soldatenkind,</suspension> <quote>»​ein Lächeln auf einem so seekranken Gesicht erweckt in mir eine furchtbare Ideenverbindung mit der Milchpflaumensuppe in meiner Pension. Also, ich habe Sie gesucht, um Ihnen zu sagen, daß ich mich heute morgen mit Heini gestritten habe, was Sie wohl schon wissen.​«</quote>
 
 Nein, er wußte nichts.
 
@@ -2615,17 +2617,17 @@ Nachher beim Tanze gelang es ihm, sie an seinen Arm zu bekommen. Er ließ sie ni
 
 »​Wie Du schön bist!​« flüsterte er; »​und das alles ist ganz und schrankenlos mein.​«
 
-»​Ich habe mich beinahe geschämt,​« sagte sie, ihm in die Augen sehend, »​all dies Gewoge von Spitzen und Atlas, zugestutzt nach den neuesten Modekünsten, um mich zu hängen. Aber ich war so kindisch – ich wollte sehr schön sein. Das ist nun die Frau, die sie vorhin so großartig anredeten.​«
+<quote>»​Ich habe mich beinahe geschämt,​«</quote> <suspension>sagte sie, ihm in die Augen sehend,</suspension> <quote>»​all dies Gewoge von Spitzen und Atlas, zugestutzt nach den neuesten Modekünsten, um mich zu hängen. Aber ich war so kindisch – ich wollte sehr schön sein. Das ist nun die Frau, die sie vorhin so großartig anredeten.​«</quote>
 
 Es gibt Schwächen, welche einem Weibe besser stehen als starre Tugend. Von der eben eingestandenen fühlte Joachim sich fast zu Thränen gerührt.
 
-»​Fanny,​« sagte er, »​o Fanny, wie hab' ich Dich lieb!​«
+<quote>»​Fanny,​«</quote> <suspension>sagte er,</suspension> <quote>»​o Fanny, wie hab' ich Dich lieb!​«</quote>
 
 Es war der Laut eines unaussprechlichen, wahren Gefühls. Fanny sah ihn an; sie schwiegen.
 
 In diesem Augenblick ging Lanzenau mit dem Rittmeister an ihnen vorüber und sah sie an. Joachim lief ein Frösteln über den Rücken.
 
-»​Liebe,​« sagte er, Fanny weiter führend, »​ich muß fort von hier. Laß mich, ich bitte Dich.​«
+<quote>»​Liebe,​«</quote> <suspension>sagte er, Fanny weiter führend,</suspension> <quote>»​ich muß fort von hier. Laß mich, ich bitte Dich.​«</quote>
 
 »​Fort? Wohin? Weshalb?​«
 
@@ -2635,11 +2637,11 @@ Auf die hastig hervorgestoßenen Fragen erwiderte er:
 
 »​So wollen wir sie verkünden.​«
 
-»​O nein,​« sagte er erschrocken, »​nur das nicht! Laß uns in der Stille Deines Hauses sehen, wie wir Lanzenau vorbereiten. Und dort auch, Geliebte, habe ich Dir eine Beichte abzulegen, die vielleicht meinen Wert in Deinen Augen sehr herabmindert.​«
+<quote>»​O nein,​«</quote> <suspension>sagte er erschrocken,</suspension> <quote>»​nur das nicht! Laß uns in der Stille Deines Hauses sehen, wie wir Lanzenau vorbereiten. Und dort auch, Geliebte, habe ich Dir eine Beichte abzulegen, die vielleicht meinen Wert in Deinen Augen sehr herabmindert.​«</quote>
 
 Sie sah forschend, doch keineswegs beunruhigt in sein Gesicht, auf dem sich deutlich eine große, innere Unruhe widerspiegelte. Es war der kluge, überlegene und im voraus verzeihende Blick, mit dem eine Mutter das Schuldbekenntnis ihres Sohnes erwartet.
 
-»​Du Kind,​« sprach sie, »​als ob ich mir nicht denken könnte, welcher Art Deine Beichte sein wird. Ein junger Mann wird selten fünfundzwanzig Jahre alt, ohne einige Herzenstäuschungen durchgemacht zu haben. Wenn Du willst, so beichte, aber meinetwegen kannst Du auch schweigen. Ich habe erst Rechte an Dein Leben, seit Du mich geküßt. Aber sprich, wo willst Du denn hin?​«
+<quote>»​Du Kind,​«</quote> <suspension>sprach sie,</suspension> <quote>»​als ob ich mir nicht denken könnte, welcher Art Deine Beichte sein wird. Ein junger Mann wird selten fünfundzwanzig Jahre alt, ohne einige Herzenstäuschungen durchgemacht zu haben. Wenn Du willst, so beichte, aber meinetwegen kannst Du auch schweigen. Ich habe erst Rechte an Dein Leben, seit Du mich geküßt. Aber sprich, wo willst Du denn hin?​«</quote>
 
 Sie waren bei ihrem Rundgang durch die Zimmer gekommen, wo die Kartenspieler saßen, und betraten nun wieder den Saal. Hier setzte Fanny sich auf einen Diwan zwischen zwei Thüren, um, wenn auch nicht ungesehen, so doch ungehört ihr Gespräch mit Joachim fortzuführen. Joachim blieb vor ihr stehen.
 
@@ -2683,7 +2685,7 @@ Sie reichte ihm den Brief. Lanzenau las zu seiner tiefinnersten Befriedigung:
 
 Während Lanzenau las, fand Fanny ihr Lächeln und ihre Glücksstimmung wieder.
 
-»​Er hat die Nachfrage Lanzenaus vorausgesehen,​« dachte sie, »​und deshalb so fremd geschrieben. Das war sehr klug.​«
+<quote>»​Er hat die Nachfrage Lanzenaus vorausgesehen,​«</quote> <suspension>dachte sie,</suspension> <quote>»​und deshalb so fremd geschrieben. Das war sehr klug.​«</quote>
 
 Ihre gläubige Seele ahnte nicht, daß Joachim hundertmal versucht hatte, »​geliebte Fanny​« zu schreiben,  daß aber die Buchstaben ihn wie Gespenster, wie Lügen, wie etwas, das nicht von ihm kam, anstarrten und daß er endlich, trotzdem vom rasenden Wunsch erfüllt, zu ihr zu sprechen, in der kühlen Form der Verehrung einige banale Redensarten aufs Papier geworfen.
 
@@ -2749,7 +2751,7 @@ Aufschluchzend klammerte sie sich dort an.
 
 Severina richtete sich auf und strich die Haare aus dem heißen roten Gesicht.
 
-»​Nein,​« sagte sie hastig, mit scheu abschweifendem Blick, »​nein. Es ist nichts. Zuweilen überkommt es mich, daß ich nirgendwo in der Welt ein Recht zum Dasein habe und daß ich eines Tages auch die Heimat verlieren kann, die eure Güte mir gewährt. Und in solchen Stimmungen denke ich, daß Mutter Holten es  besser hat als ich. Das Dach über ihrem Haupte ist ihr eigen, und ihr körperliches Elend klopft so laut an die Herzen der Mitmenschen, daß diese ihr nie Trost und Linderung vorenthalten werden. Das sind die heilbaren Schmerzen, die jeder sieht!​«
+<quote>»​Nein,​«</quote> <suspension>sagte sie hastig, mit scheu abschweifendem Blick,</suspension> <quote>»​nein. Es ist nichts. Zuweilen überkommt es mich, daß ich nirgendwo in der Welt ein Recht zum Dasein habe und daß ich eines Tages auch die Heimat verlieren kann, die eure Güte mir gewährt. Und in solchen Stimmungen denke ich, daß Mutter Holten es  besser hat als ich. Das Dach über ihrem Haupte ist ihr eigen, und ihr körperliches Elend klopft so laut an die Herzen der Mitmenschen, daß diese ihr nie Trost und Linderung vorenthalten werden. Das sind die heilbaren Schmerzen, die jeder sieht!​«</quote>
 
 Der Pastor sah ihr tief in die Augen, indem er mit seiner Hand unter ihr Kinn griff.
 
@@ -2757,7 +2759,7 @@ Der Pastor sah ihr tief in die Augen, indem er mit seiner Hand unter ihr Kinn gr
 
 Severina faßte sich mit Gewalt.
 
-»​An Undankbarkeit,​« sprach sie mit einem Versuch zu lächeln, »​denn ich konnte vergessen, daß Deine Liebe mein armes Dasein immer gütig ertragen hat.​«
+<quote>»​An Undankbarkeit,​«</quote> <suspension>sprach sie mit einem Versuch zu lächeln,</suspension> <quote>»​denn ich konnte vergessen, daß Deine Liebe mein armes Dasein immer gütig ertragen hat.​«</quote>
 
 Der Pastor drückte ihr die Hand. Er faßte diese Aeußerung als eine Hindeutung auf, daß Severinas »​armes Dasein​« von der Pastorin bekanntlich nie »​gütig ertragen​« werde und es war ihm zweifellos, daß seine Frau die Pflegetochter wieder durch irgend eine Bemerkung schwer gedemütigt habe. Natürlich war dann die Sache zu heikel, um dem Grund von Severinas Erregung näher nachzuforschen. Er begnügte sich mit einigen allgemeinen Beruhigungsworten.
 
@@ -2789,9 +2791,9 @@ Während Severina über ihm gebeugt stand und es mit scharfen Augen betrachtete,
 
 »​Das Kind hat Krämpfe,​« sagte Severina kurz. Adrienne schrie auf.
 
-»​Zahnkrämpfe,​« setzte die alte Magd hinzu, »​da hilft nichts gegen als Sympathie. Vielleicht ist im Dorf jemand, der besprechen kann.​«
+<quote>»​Zahnkrämpfe,​«</quote> <suspension>setzte die alte Magd hinzu,</suspension> <quote>»​da hilft nichts gegen als Sympathie. Vielleicht ist im Dorf jemand, der besprechen kann.​«</quote>
 
-»​Unsinn,​« sprach Severina finster, »​Zahnkrämpfe gibt es nicht. Dies ist eine Kinderkrankheit wie andere auch. Wir wollen das Kind nach oben tragen. Holen Sie Schnee herein; es muß kalte Umschläge auf den Kopf bekommen.​«
+<quote>»​Unsinn,​«</quote> <suspension>sprach Severina finster,</suspension> <quote>»​Zahnkrämpfe gibt es nicht. Dies ist eine Kinderkrankheit wie andere auch. Wir wollen das Kind nach oben tragen. Holen Sie Schnee herein; es muß kalte Umschläge auf den Kopf bekommen.​«</quote>
 
 »​Sollen wir die Pastorin nicht holen?​« fragte Adrienne bang.
 
@@ -2867,9 +2869,9 @@ Die Pastorin sah mit fassungslosem Entsetzen auf die junge Frau. Nach einer Weil
 
 »​Herr Jesu, deine Liebe macht ...​«
 
-»​Hinaus!​« schrie Adrienne auf, »​ich will allein mit der sterbenden Seele meines Kindes sein!​«
+<quote>»​Hinaus!​«</quote> <suspension>schrie Adrienne auf,</suspension> <quote>»​ich will allein mit der sterbenden Seele meines Kindes sein!​«</quote>
 
-»​Herr, mein Gott,​« betete die Pastorin mit gefaltet erhobenen Händen, »​höre nicht auf dieses irrenden Schäfleins Wahngeschrei!​«
+<quote>»​Herr, mein Gott,​«</quote> <suspension>betete die Pastorin mit gefaltet erhobenen Händen,</suspension> <quote>»​höre nicht auf dieses irrenden Schäfleins Wahngeschrei!​«</quote>
 
 Da geschah etwas ganz Unerwartetes. Der Pastor nahm seine Frau beim Arm und sagte halblaut:
 
@@ -2877,9 +2879,9 @@ Da geschah etwas ganz Unerwartetes. Der Pastor nahm seine Frau beim Arm und sagt
 
 Sie sah ihn an – beinahe wild, jedenfalls so empört, daß es ihr an Fassung gebrach, ihren Platz zu behaupten.
 
-»​Herr,​« murmelte sie endlich, »​mache nicht mich verantwortlich für seine Fahrlässigkeit im Glauben.​«
+<quote>»​Herr,​«</quote> <suspension>murmelte sie endlich,</suspension> <quote>»​mache nicht mich verantwortlich für seine Fahrlässigkeit im Glauben.​«</quote>
 
-»​Geh heim,​« sagte der Pastor, »​und wenn Du willst, bete dort.​«
+<quote>»​Geh heim,​«</quote> <suspension>sagte der Pastor,</suspension> <quote>»​und wenn Du willst, bete dort.​«</quote>
 
 Zorn im Herzen, Zorn in den erregten Mienen und überhastigen Geberden ging sie, aus der Not eine Tugend machend und sich sagend, daß ihre eigene Seele Gefahr laufe, wenn sie hier weile. Severina, die am Thürpfosten stand, ließ sie mit bitterem Lächeln vorbei.
 
@@ -2953,11 +2955,11 @@ So floß mühsam ein Gespräch bald mit Joachim, bald mit Lanzenau hin wie eine 
 
 Ueber der schneefreien, leichtgefrorenen Erde stand ein gleichmäßig hellgrauer Himmel, vollkommen sonnenlos und doch von jener blendenden Schärfe des Lichts, wie ihn nur der Norden kennt. An den dürren Knicken saß das braune Laub der Hainbuchen, der Wind rasselte darin; an den dünnästigen Kronen der Ebereschen saßen zum Teil noch die roten Beeren am blätterlosen Gezweig. Ueber die endlosen Stoppelbreiten rechts und links von den Wegen ging hie und da ein Pflug; dazwischen schoben sich Felder, welche die keimende Wintersaat schon mit leisem Grün überschleiert hatte.
 
-»​Ein vorzügliches Jagdwetter,​« bemerkte Taiß, »​schade um den zerstörten Plan.​«
+<quote>»​Ein vorzügliches Jagdwetter,​«</quote> <suspension>bemerkte Taiß,</suspension> <quote>»​schade um den zerstörten Plan.​«</quote>
 
-»​O,​« sagte Fanny und sah Joachim trostreich an, »​ich hoffe, daß die Kunde, die uns ward, erst von der Angst Adriennens und dann vom Kutscher noch übertrieben ward und daß der Kleine schon bald so wohl ist, daß wir nach Herzenslust jagen können.​«
+<quote>»​O,​«</quote> <suspension>sagte Fanny und sah Joachim trostreich an,</suspension> <quote>»​ich hoffe, daß die Kunde, die uns ward, erst von der Angst Adriennens und dann vom Kutscher noch übertrieben ward und daß der Kleine schon bald so wohl ist, daß wir nach Herzenslust jagen können.​«</quote>
 
-»​Gewiß,​« meinte auch Lanzenau, »​wenn der liebe Junge ernstlich krank wäre und in der That, wie der Kutscher erzählte, seit beinahe acht Tagen zu Besorgnissen Veranlassung gab, hätte doch Severina oder der Pastor geschrieben. Oder hatten Sie inzwischen irgendwelche Nachrichten von Fräulein Severina?​«
+<quote>»​Gewiß,​«</quote> <suspension>meinte auch Lanzenau,</suspension> <quote>»​wenn der liebe Junge ernstlich krank wäre und in der That, wie der Kutscher erzählte, seit beinahe acht Tagen zu Besorgnissen Veranlassung gab, hätte doch Severina oder der Pastor geschrieben. Oder hatten Sie inzwischen irgendwelche Nachrichten von Fräulein Severina?​«</quote>
 
 »​Ich – nein. Wie sollte ich?​« sagte Joachim verwirrt.
 
@@ -2987,7 +2989,7 @@ Sich an ihn lehnend, ihn mit beiden Armen umschlingend, flüsterte sie unter Thr
 
 »​Warum hast Du mich nicht gerufen, damit ich bei Dir und ihm sein konnte? Nun kann ich Arnold nichts von der letzten Stunde seines Kindes sagen. Ich war fern – o Gott – vielleicht gerade in einem leichtsinnigen Vergnügen verstrickt!​« klagte Joachim.
 
-»​Kommt,​« sagte Fanny weinend, »​quält euch nicht so. Wir wollen nicht an das Unabänderliche, Gewesene denken, sondern voraus, an unsern armen Arnold.​«
+<quote>»​Kommt,​«</quote> <suspension>sagte Fanny weinend,</suspension> <quote>»​quält euch nicht so. Wir wollen nicht an das Unabänderliche, Gewesene denken, sondern voraus, an unsern armen Arnold.​«</quote>
 
 Sie hatte gefühlt, daß endlich in dem Herzen der jungen Frau die rechte Gattenliebe erwacht war, und wußte, daß die Sehnsucht nach ihrem Manne der gesundeste Begleiter des natürlichen Kummers sein werde. – Adrienne antwortete auf Joachims Frage:
 
@@ -3019,11 +3021,11 @@ Dieser war, nach schnell beendetem Geschäft beim Pastor, ins Haus zurückgekehr
 
 So fand ihn Severina, die ihn seit seiner Ankunft noch nicht gesehen. Langsam kam sie auf ihn zu, ihre Augen wurzelten ineinander. Sie konnten beide nicht sprechen, den beiden schlug das Herz bis zum Halse hinauf, und die heiße Erregung der Angst schnürte ihnen die Kehle zu. Jeder fürchtete, vom andern sein Todesurteil zu hören, Joachim, daß sie sagen würde: »​Ich verachte Dich,​« und sein ganzes Wesen wallte doch auf im Wunsche, sie zu küssen, Severina, daß er sagen könne: »​Ich liebe Fanny allein,​« und doch hätte sie ihr Leben dafür gegeben, noch einmal an seinen Lippen zu hängen.
 
-»​Severina,​« murmelte er endlich, »​kannst Du mir verzeihen? Bei Gott, es ist keine Lüge, ich liebe Dich!​«
+<quote>»​Severina,​«</quote> <suspension>murmelte er endlich,</suspension> <quote>»​kannst Du mir verzeihen? Bei Gott, es ist keine Lüge, ich liebe Dich!​«</quote>
 
 Severina atmete tief; es klang wie ein Seufzer. Eine seltsame Härte breitete sich plötzlich über ihre Züge.
 
-»​Du wirst Fanny die Wahrheit sagen,​« sprach sie hart, »​die Wahrheit, daß Du mein bist.​«
+<quote>»​Du wirst Fanny die Wahrheit sagen,​«</quote> <suspension>sprach sie hart,</suspension> <quote>»​die Wahrheit, daß Du mein bist.​«</quote>
 
 »​Wie kann ich das?​« sagte er verzweifelt; »​Fanny einen Schmerz zufügen – Fanny, der ich so vielen Dank schulde?​«
 
@@ -3047,7 +3049,7 @@ Fanny trat zu ihm, legte ihm beide Hände auf die Schultern und sah ihn tief an.
 
 »​Ich hatte Severina gefragt, wie alles gekommen und verlaufen sei mit der Krankheit des Kleinen,​« antwortete er, errötend auf diesen Blick.
 
-»​Nein,​« dachte Fanny, »​das wäre zu schlecht – lügen – mir Aug' in Auge. Das kann er nicht.​«
+<quote>»​Nein,​«</quote> <suspension>dachte Fanny,</suspension> <quote>»​das wäre zu schlecht – lügen – mir Aug' in Auge. Das kann er nicht.​«</quote>
 
 Aber sie sprach doch noch – all ihre Liebe lag in den schmeichelnden Lauten ihrer Stimme – sie sprach doch noch:
 
@@ -3055,7 +3057,7 @@ Aber sie sprach doch noch – all ihre Liebe lag in den schmeichelnden Lauten ih
 
 Ihn wandelte das Gelüst an, ein befreiendes Geständnis abzulegen, er fühlte beinahe gewiß, daß sie vergeben werde und doch sein guter Engel bleiben würde. Aber seine Liebe – nein, die würde sie dann nicht mehr annehmen. Und wie ein Blitzstrahl fiel die Erinnerung an die erlebten göttlichen Stunden entzückend in sein Blut.
 
-»​Fanny,​« flüsterte er aufwallend, »​ich liebe Dich.​«
+<quote>»​Fanny,​«</quote> <suspension>flüsterte er aufwallend,</suspension> <quote>»​ich liebe Dich.​«</quote>
 
 Das war ihr Antwort und Gelübde genug. Die Wahrheit sprach aus seinen aufblitzenden Augen.
 
@@ -3077,7 +3079,7 @@ Lanzenau atmete schwer, wollte weiter gehen, doch knickten ihm die Kniee ein.
 
 Alsbald kam Joachim durch den Saal über die Terrasse herbeigelaufen. Doch als er Lanzenau mit stützen wollte, fand dieser in übermenschlicher Bezwingung seine Kräfte wieder und wehrte dem jungen Mann mit einem solchen Blick des Hasses, daß selbst Taiß davor erschrak.
 
-»​Der arme Lanzenau,​« dachte der Graf, während, auf seinen Arm gestützt, dieser mit ihm dem Haus zuschritt und Joachim, blaß und scheu, folgte, »​der arme Kerl – leidet an Ischias, an schlagartigen Blutstockungen und an allen möglichen anderen mementi mori und plagt sich noch obenein mit Eifersucht.​«
+<quote>»​Der arme Lanzenau,​«</quote> <suspension>dachte der Graf, während, auf seinen Arm gestützt, dieser mit ihm dem Haus zuschritt und Joachim, blaß und scheu, folgte,</suspension> <quote>»​der arme Kerl – leidet an Ischias, an schlagartigen Blutstockungen und an allen möglichen anderen mementi mori und plagt sich noch obenein mit Eifersucht.​«</quote>
 
 Fanny eilte dem Freunde schon besorgt entgegen und geleitete ihn in das Wohnzimmer, wo er sich auf die Ottomane legen mußte und von ihr mit starken Weinen, kalten Kompressen und dergleichen gepflegt wurde.
 
@@ -3091,7 +3093,7 @@ Joachim mußte sterben, das stand zuletzt für Lanzenau fest. Aber wie? Ihn zum 
 
 Er stöhnte. Sofort erhob Fanny sich und erneute den kalten Umschlag auf seiner Stirn.
 
-»​Lieber Lanzenau,​« sagte sie mit ihrer zärtlichsten Betonung, »​Ihre Stirn brennt, Sie sollten lieber ins Bett gehen.​«
+<quote>»​Lieber Lanzenau,​«</quote> <suspension>sagte sie mit ihrer zärtlichsten Betonung,</suspension> <quote>»​Ihre Stirn brennt, Sie sollten lieber ins Bett gehen.​«</quote>
 
 »​Ja – ja,​« stotterte er und versuchte mühsam, sich zu erheben.
 
@@ -3123,9 +3125,9 @@ Der Kummer und die Thränen der jungen Frau ängstigten Fanny aber nicht, es war
 
 ### Fünfzehntes Kapitel
 
-»​Wenn Sie mich noch haben wollen,​« sagte Graf Taiß am Tage nach dem Begräbnis des Kindes, »​so bleibe ich noch. Um die Wahrheit zu sagen: Lanzenau macht mir den Eindruck eines Menschen, der nicht alle seine fünf Sinne richtig beisammen hat. Ich kann kein Gespräch vernünftig mehr mit ihm zu Ende führen, er ist wie ein Berauschter, der keinen logischen Gedankengang hat, sondern irgend einer thörichten Idee nachbrütet.​«
+<quote>»​Wenn Sie mich noch haben wollen,​«</quote> <suspension>sagte Graf Taiß am Tage nach dem Begräbnis des Kindes,</suspension> <quote>»​so bleibe ich noch. Um die Wahrheit zu sagen: Lanzenau macht mir den Eindruck eines Menschen, der nicht alle seine fünf Sinne richtig beisammen hat. Ich kann kein Gespräch vernünftig mehr mit ihm zu Ende führen, er ist wie ein Berauschter, der keinen logischen Gedankengang hat, sondern irgend einer thörichten Idee nachbrütet.​«</quote>
 
-»​Wir wollen nach dem Arzt schicken,​« sprach Fanny erschreckt, »​wenn Lanzenau nur keinen Schlaganfall oder dergleichen bekommt.​«
+<quote>»​Wir wollen nach dem Arzt schicken,​«</quote> <suspension>sprach Fanny erschreckt,</suspension> <quote>»​wenn Lanzenau nur keinen Schlaganfall oder dergleichen bekommt.​«</quote>
 
 »​Bewegung im Freien möchte ihm besser sein als alle Medizin. Wie wäre es, wenn wir einen kleinen Streifzug unternähmen, um für unsern Tisch einen Rehrücken zu erjagen?​« schlug der Graf vor, der aus der eigenen Lust an der Jagd die Meinung faßte, es müsse für jedermann die beste Erholung sein.
 
@@ -3181,7 +3183,7 @@ Taiß wendet noch immer nicht den Blick.
 
 An Joachims Schulter färbt sich die graue Joppe dunkel, man sieht, eine Flüssigkeit saugt sich im rauhen Wollstoff weiter und weiter.
 
-»​Schnelle Hilfe thut not,​« sagt Taiß, »​ich eile ins Dorf, ein paar Leute zu holen. In zwanzig Minuten kann ich zurück sein.​«
+<quote>»​Schnelle Hilfe thut not,​«</quote> <suspension>sagt Taiß,</suspension> <quote>»​ich eile ins Dorf, ein paar Leute zu holen. In zwanzig Minuten kann ich zurück sein.​«</quote>
 
 So blieb Lanzenau allein mit dem Verwundeten. Er nahm seinen Jagdmuff, den er an einer Schnur um den Hals trug, und schob ihn vorsichtig unter den blonden Kopf. Dann stützte er sich auf seine Büchse und blickte stehend auf sein Opfer nieder.
 
@@ -3197,7 +3199,7 @@ Joachim schloß die Augen und blieb unbeweglich. Es schien, als wollte ihn zum z
 
 »​Es wird sofort Hilfe kommen. Wie ist Ihnen?​«
 
-»​Die Schulter,​« murmelte er, »​es brennt.​«
+<quote>»​Die Schulter,​«</quote> <suspension>murmelte er,</suspension> <quote>»​es brennt.​«</quote>
 
 Nach einigen weiteren stummen Minuten kam der Graf, atemlos vom Laufen. Er hatte vier Tagelöhner aus dem Dorf mit, die eine breite Heuleiter trugen, auf der ein blauweiß gewürfeltes Stück Bettzeug lag. Man hob Joachim auf diese seltsame Tragbahre, und im Schritt ging es zurück.
 
@@ -3279,17 +3281,17 @@ Nach einer kurzen Pause sagte sie mit derselben fremden, unnatürlichen Stimme:
 
 Er erschrak so sehr, daß ihm eine Weile die Stimme versagte.
 
-»​Fanny,​« begann er, sich bezwingend, »​ich muß Ihnen etwas Schreckliches gestehen: ich haßte diesen Mann, seit ich wußte, daß Sie ihn mit Ihrer Liebe beglückten. Ich sah Sie und ihn vorgestern am Fenster, und er küßte Sie. Er aber, ich wußte es lange, hatte auch mit dem Mädchen von Liebe gesprochen. Da kam es über mich – es war nicht so klar wie ein bestimmter Plan, nicht einmal ein Gedanke – es kam wie ein dunkler Wunsch in meine Seele, daß er sterben möge, damit Sie lieber seinen Tod als seinen Verrat beweinen möchten. Ich weiß gewiß, daß ich in diesem dunklen Wunsch den Vorschlag zur Jagd annahm. Alle Unglücksfälle, die bei solchen Gelegenheiten vorgekommen, fielen mir ein: wenn Taiß sich irrte – wenn Joachims Büchse ihm in der Hand platzte – lauter sonderbare, unwahrscheinliche Sachen. Ich dachte auch nach über alles, was nach solchem Unglücksfall geschehen konnte. Und als ich allein im Walde stand, da kam's mir plötzlich: wie, wenn meine Hand ihn niederstreckte unter der Maske des Zufalls? Es war ein fiebernder Gedanke, kein Entschluß – bei Gott, noch kein Entschluß! Und als mein getrübtes Auge, meine zitternde Hand erst einen Stein, dann Joachims graubraunen Jagdrock für das Tier, das wir jagten, genommen, da – da begriff ich, daß ich in Ge danken ein Mörder gewesen, daß die  Gedankensünde mir als That angerechnet werden müsse, weil ein Zufall sie wahr gemacht. Nicht vor anderen Menschen – nicht vor Taiß, der mich darum befragte – nein, aber vor Ihnen, Fanny, vor Ihnen bin ich schuldig, denn ich wollte Ihnen das Liebste töten, das die Erde für Sie trägt, und ich bedachte nicht, daß auch an seiner Leiche der Verrat noch offenbar werden würde, wie er an seiner Wunde offenbar geworden. Verzeihen Sie mir?​«
+<quote>»​Fanny,​«</quote> <suspension>begann er, sich bezwingend,</suspension> <quote>»​ich muß Ihnen etwas Schreckliches gestehen: ich haßte diesen Mann, seit ich wußte, daß Sie ihn mit Ihrer Liebe beglückten. Ich sah Sie und ihn vorgestern am Fenster, und er küßte Sie. Er aber, ich wußte es lange, hatte auch mit dem Mädchen von Liebe gesprochen. Da kam es über mich – es war nicht so klar wie ein bestimmter Plan, nicht einmal ein Gedanke – es kam wie ein dunkler Wunsch in meine Seele, daß er sterben möge, damit Sie lieber seinen Tod als seinen Verrat beweinen möchten. Ich weiß gewiß, daß ich in diesem dunklen Wunsch den Vorschlag zur Jagd annahm. Alle Unglücksfälle, die bei solchen Gelegenheiten vorgekommen, fielen mir ein: wenn Taiß sich irrte – wenn Joachims Büchse ihm in der Hand platzte – lauter sonderbare, unwahrscheinliche Sachen. Ich dachte auch nach über alles, was nach solchem Unglücksfall geschehen konnte. Und als ich allein im Walde stand, da kam's mir plötzlich: wie, wenn meine Hand ihn niederstreckte unter der Maske des Zufalls? Es war ein fiebernder Gedanke, kein Entschluß – bei Gott, noch kein Entschluß! Und als mein getrübtes Auge, meine zitternde Hand erst einen Stein, dann Joachims graubraunen Jagdrock für das Tier, das wir jagten, genommen, da – da begriff ich, daß ich in Ge danken ein Mörder gewesen, daß die  Gedankensünde mir als That angerechnet werden müsse, weil ein Zufall sie wahr gemacht. Nicht vor anderen Menschen – nicht vor Taiß, der mich darum befragte – nein, aber vor Ihnen, Fanny, vor Ihnen bin ich schuldig, denn ich wollte Ihnen das Liebste töten, das die Erde für Sie trägt, und ich bedachte nicht, daß auch an seiner Leiche der Verrat noch offenbar werden würde, wie er an seiner Wunde offenbar geworden. Verzeihen Sie mir?​«</quote>
 
 Sein Ton war matt geworden, die lange Erzählung hatte ihn sehr gemartert.
 
-»​Nein,​« sagte Fanny vor sich hin, »​nein, ich verzeihe Ihnen nicht, daß Sie ihn nicht in sein Herz geschossen haben.​«
+<quote>»​Nein,​«</quote> <suspension>sagte Fanny vor sich hin,</suspension> <quote>»​nein, ich verzeihe Ihnen nicht, daß Sie ihn nicht in sein Herz geschossen haben.​«</quote>
 
 »​Fanny, teure Fanny, seine unbedachte Jugend verdient nicht die Wucht Ihres Hasses,​« rief Lanzenau entsetzt. »​Sie werden diesen Schmerz überwinden. Was konnte Ihnen der junge, unbedeutende Mann sein? Eine ästhetische Aufwallung! Sie werden ihn vergessen.​«
 
 Sie schwieg.
 
-»​Fanny,​« sagte er leise, »​o Fanny, wie habe ich Dich lieb!​«
+<quote>»​Fanny,​«</quote> <suspension>sagte er leise,</suspension> <quote>»​o Fanny, wie habe ich Dich lieb!​«</quote>
 
 Es war der Trost, den sein Herz ihr zu bieten hatte, ihr das zu sagen. Sie aber löste ihre Glieder aus der erstarrten Ruhe, sie fuhr zusammen. Wie widerwärtig ihr das klang – und einst dasselbe, ganz dasselbe Wort aus Joachims Mund so süß.
 
@@ -3301,13 +3303,13 @@ Fanny warf sich zu Boden und legte ihr Gesicht auf die Kissen des Sofas.
 
 Sie erhob ihr Gesicht; es war so dunkel, daß man es nur weiß schimmern sah, ohne ihre Züge zu erkennen.
 
-»​Was er mir war? Wie ich ihn erkor?​« fragte sie leise, als richte sie an keinen Menschen, sondern an ein unsichtbares Wesen das Wort, »​warum gerade ihn – vor so vielen, vielen, die der höchsten Liebe, der höchsten Bewunderung wert waren? Ich weiß es nicht. Wunder kann man nicht erklären. Ich mußte. In ihm fühlte ich mich vollkommen als Weib, ihm glückselig unterthan. Die Vergangenheit mit ihrem ganzen Inhalt an Arbeit und Freude, die Zukunft mit ihrem ganzen Inhalt an Gram ist nichts. Ich habe nicht gelebt außer in den Stunden, wo ich mit ihm war. Sein Wert? Dagegen der meine? Handelt die Liebe mit Werten?​«
+<quote>»​Was er mir war? Wie ich ihn erkor?​«</quote> <suspension>fragte sie leise, als richte sie an keinen Menschen, sondern an ein unsichtbares Wesen das Wort,</suspension> <quote>»​warum gerade ihn – vor so vielen, vielen, die der höchsten Liebe, der höchsten Bewunderung wert waren? Ich weiß es nicht. Wunder kann man nicht erklären. Ich mußte. In ihm fühlte ich mich vollkommen als Weib, ihm glückselig unterthan. Die Vergangenheit mit ihrem ganzen Inhalt an Arbeit und Freude, die Zukunft mit ihrem ganzen Inhalt an Gram ist nichts. Ich habe nicht gelebt außer in den Stunden, wo ich mit ihm war. Sein Wert? Dagegen der meine? Handelt die Liebe mit Werten?​«</quote>
 
-»​Fanny,​« flüsterte er, »​so können, so werden Sie ihm verzeihen. Severina muß entsagen.​«
+<quote>»​Fanny,​«</quote> <suspension>flüsterte er,</suspension> <quote>»​so können, so werden Sie ihm verzeihen. Severina muß entsagen.​«</quote>
 
 All sein Haß, seine wahnsinnige Eifersucht erstarb in der wachsenden Angst, sie zu Grunde gehen zu sehen.
 
-»​Nein,​« sagte Fanny mit eisernem Ausdruck, »​ich hasse ihn!​«
+<quote>»​Nein,​«</quote> <suspension>sagte Fanny mit eisernem Ausdruck,</suspension> <quote>»​ich hasse ihn!​«</quote>
 
 Er schwieg. Was konnte er noch sagen? Er fühlte, ihr Herz glich erstarrter Lava. Worte konnten sie nicht wieder schmelzen.
 
@@ -3339,11 +3341,11 @@ Die glanzlosen, müden Augen Fannys hafteten auf dem Gesicht des Mädchens.
 
 Das also war sie, die er vor ihr geliebt. Fannys Seele hatte alle Energie verloren, sie wunderte sich nicht einmal.
 
-»​Er schrieb es mir,​« fuhr Severina fort, mit funkelnden Blicken Fanny messend, »​er klagte mir, ob es denn möglich sei, daß ein Herz zugleich zwei Frauen umfassen könne, er legte in meine Hände die Entscheidung. Er rechnete vielleicht auf meinen Edelmut, ich sollte ihn freigeben, damit er der Gatte der reichsten und angesehensten Frau werden könne.​«
+<quote>»​Er schrieb es mir,​«</quote> <suspension>fuhr Severina fort, mit funkelnden Blicken Fanny messend,</suspension> <quote>»​er klagte mir, ob es denn möglich sei, daß ein Herz zugleich zwei Frauen umfassen könne, er legte in meine Hände die Entscheidung. Er rechnete vielleicht auf meinen Edelmut, ich sollte ihn freigeben, damit er der Gatte der reichsten und angesehensten Frau werden könne.​«</quote>
 
 Da regte sich etwas in Fannys Herzen; durch die Erstarrung ging es wie ein Riß. Sie fühlte ganz  deutlich, daß dieses Mädchen ihn nicht so tief, so grenzenlos blind liebte, wie sie selbst es gethan. Es war niedrig von ihr, Joachim der Berechnung zu verdächtigen, und – das fühlte Fanny auch – solche Art Unlauterkeit hatte nie in Joachims adeligem Sinn Platz gehabt.
 
-»​Severina,​« sagte Fanny leise, »​ist denn an mir nur Geld und Stellung liebenswert?​«
+<quote>»​Severina,​«</quote> <suspension>sagte Fanny leise,</suspension> <quote>»​ist denn an mir nur Geld und Stellung liebenswert?​«</quote>
 
 Das Mädchen erschrak und verfiel von der auftrotzenden Zornesstimmung unvermittelt in den größten Jammer. Fannys Ton hatte sie tief erschüttert. Sie fiel ihr aufweinend um den Hals. Fanny stand wie eine Statue.
 
@@ -3353,7 +3355,7 @@ Dieses Mädchens ganze Jugend, von ihren frühen Kinderjahren her, wäre freudlo
 
 Um Fannys Lippen schlich ein Lächeln. Nun kam auch nicht einmal in leisester Aufwallung der Gedanke in Severinas Herz, um Fannys willen zu entsagen, nicht einmal ein Gedanke des Mitleids kam, daß doch auch Fanny leide.
 
-»​Laß mich allein,​« sagte sie, das Mädchen von sich wehrend, »​morgen ist auch ein Tag und morgen ...​«
+<quote>»​Laß mich allein,​«</quote> <suspension>sagte sie, das Mädchen von sich wehrend,</suspension> <quote>»​morgen ist auch ein Tag und morgen ...​«</quote>
 
 »​Morgen?​« drängte Severina fragend, als Fanny stockte.
 
@@ -3367,9 +3369,9 @@ Joachim lag auf dem für Lanzenau im Wohnzimmer hergerichtet gewesenen Lager. Er
 
 Während dann Lanzenau an dem Bette saß und es überdachte, was seit Monaten um ihn geschehen, in ihm vorgegangen, vollzog sich die Wandlung vollends, die gestern in seinem Herzen begonnen, als er in Fannys schrecklich verwandeltes Gesicht gesehen. All seine eifersüchtige Liebe verklärte sich zu dem selbstlosen, einzigen Wunsch, Fanny glücklich zu sehen. Wenn er sein Alter dann auch  nur an ihrer Freundschaft wärmen durfte, das war ihm genug.
 
-»​Lieber Herebrecht,​« sagte er einmal, »​könnte sich nicht alles so lösen, daß aus Ihnen und Fanny ein Paar würde? Severina mit ihren zweiundzwanzig Jahren wird überwinden. Aber sie – aber sie?! O, ich kenne sie, die späte Leidenschaft wird sie töten.​«
+<quote>»​Lieber Herebrecht,​«</quote> <suspension>sagte er einmal,</suspension> <quote>»​könnte sich nicht alles so lösen, daß aus Ihnen und Fanny ein Paar würde? Severina mit ihren zweiundzwanzig Jahren wird überwinden. Aber sie – aber sie?! O, ich kenne sie, die späte Leidenschaft wird sie töten.​«</quote>
 
-»​Sie haben mir beide ihr Herz entzogen,​« sprach Joachim schwach, »​ich fühle es. Severina ging gestern stumm und drohend um mein Lager – und sie ist noch gar nicht hier gewesen.​«
+<quote>»​Sie haben mir beide ihr Herz entzogen,​«</quote> <suspension>sprach Joachim schwach,</suspension> <quote>»​ich fühle es. Severina ging gestern stumm und drohend um mein Lager – und sie ist noch gar nicht hier gewesen.​«</quote>
 
 Er wagte nicht einmal Fannys Namen zu nennen.
 
@@ -3383,7 +3385,7 @@ In das menschengefüllte Zimmer trat nun Fanny. Wie mit einem Schlag erstarb jed
 
 Joachim schloß die Augen.
 
-»​Ich bitte,​« sagte Fanny laut und ganz sicher, »​daß der Leidende nicht von so vielen Personen auf einmal besucht wird. Lieber Herr Pastor, warten Sie vorn, es ist möglich, daß Herr von Herebrecht Ihnen nachher etwas zu sagen hat. Lanzenau, Sie bleiben wohl.​«
+<quote>»​Ich bitte,​«</quote> <suspension>sagte Fanny laut und ganz sicher,</suspension> <quote>»​daß der Leidende nicht von so vielen Personen auf einmal besucht wird. Lieber Herr Pastor, warten Sie vorn, es ist möglich, daß Herr von Herebrecht Ihnen nachher etwas zu sagen hat. Lanzenau, Sie bleiben wohl.​«</quote>
 
 Das hieß doch ohne Zweifel, daß alle bis auf den Baron das Zimmer verlassen sollten. Taiß hatte Erbarmen mit Severina und führte sie.
 
@@ -3393,27 +3395,27 @@ Joachim lag da mit wachsbleichem Gesicht; er wagte nicht die Augen zu öffnen, d
 
 Er erschrak vor dem Anruf und schlug den Blick zu ihr auf.
 
-»​Fanny,​« stammelte er, »​Fanny, vergib mir! Ich war Deiner Liebe nicht wert, das habe ich Dir immer gesagt. Ich bin schlecht und undankbar. Aber ich weiß nicht – ich konnte nicht anders – ich liebte Dich auch –​«
+<quote>»​Fanny,​«</quote> <suspension>stammelte er,</suspension> <quote>»​Fanny, vergib mir! Ich war Deiner Liebe nicht wert, das habe ich Dir immer gesagt. Ich bin schlecht und undankbar. Aber ich weiß nicht – ich konnte nicht anders – ich liebte Dich auch –​«</quote>
 
 »​Und Severina auch,​« schloß sie mit bitterem  Lächeln. »​Sage, wie es kam, daß Du ihr von Liebe sprachst.​«
 
-»​Ich – ich sah,​« stotterte er, »​ich sah, daß sie mich liebte ...​«
+<quote>»​Ich – ich sah,​«</quote> <suspension>stotterte er,</suspension> <quote>»​ich sah, daß sie mich liebte ...​«</quote>
 
 »​Und da war ich nicht im stande, ihr Gegenliebe zu versagen! Und Du sahst, daß ich Dich liebte ... und so hast Du es schon früher bei einem Dutzend gesehen und wirst es noch bei einem Dutzend sehen und immer wieder lieben. So ist Dein Herz kein Herz, es ist nur ein Echo!​« rief sie, endlich der stummen Qual Befreiung in harten Worten gebend.
 
 »​Fanny!​« mahnte Lanzenau.
 
-»​Gut,​« sagte sie, schon wieder zusammensinkend, »​ich habe nichts zu fragen als dies: die Stunde der Entscheidung ist gekommen; welche von uns beiden wird Dein Weib sein?​«
+<quote>»​Gut,​«</quote> <suspension>sagte sie, schon wieder zusammensinkend,</suspension> <quote>»​ich habe nichts zu fragen als dies: die Stunde der Entscheidung ist gekommen; welche von uns beiden wird Dein Weib sein?​«</quote>
 
 »​Fanny!​« rief Lanzenau entsetzt.
 
 Joachim sah Fanny an. Ihre Blicke brannten ineinander. Man hörte keinen Atemzug. Lanzenau, der dicht neben Fanny stand, beobachtete diese ineinander wurzelnden Blicke. Er las etwas darin – etwas, vor dem er zitterte. Es war, als ob in diesem bangen Schweigen der uralte Kampf Mann gegen Weib ausgefochten würde. Es war, als flammte die Verachtung des Weibes aus ihren Blicken, das alles hingegeben und für ihren höchsten Besitz nichts eingetauscht als die Kenntnis, wie Strohfeuer brennt und erlischt. Es war, als trotzte aus seinen Augen das Mannesrecht.
 
-»​Vielleicht,​« sprach sie endlich mit grausamer Härte, »​ist für Dein schwankendes Herz die Entscheidung heute noch ein zu bitterer Kelch, den Du lieber nicht tränkest. Aber ich will ihn Dir doch reichen.​«
+<quote>»​Vielleicht,​«</quote> <suspension>sprach sie endlich mit grausamer Härte,</suspension> <quote>»​ist für Dein schwankendes Herz die Entscheidung heute noch ein zu bitterer Kelch, den Du lieber nicht tränkest. Aber ich will ihn Dir doch reichen.​«</quote>
 
 Sie richtete sich höher auf und legte ihren Arm in den Lanzenaus, als solle der sie in der nächsten Minute fortführen.
 
-»​Lieber Freund,​« sagte sie, »​Sie haben die Güte, nachher an die Vormundschaft der jungen Grafen Itzelburg zu schreiben, daß Herr von Herebrecht die ihm angebotene Administratorstelle annimmt und daselbst eintreffen wird, sobald nur irgend der Zustand einer kleinen Verwundung, die er bei der Jagd erhalten, ihm zu reisen gestatte. Auch bitte ich Sie, unsern Herrn Pastor darauf vorzubereiten, daß Herr von Herebrecht noch heute um die Hand seiner Pflegetochter anhalten wird. Der Pastorin mag man sagen, daß ich mein früher gegebenes Versprechen, Severina auszusteuern, selbstverständlich so glänzend erfüllen werde, als es mir nur irgend möglich ist; habe ich doch das Vergnügen, sie in den Kreis meiner Verwandten treten zu sehen.​«
+<quote>»​Lieber Freund,​«</quote> <suspension>sagte sie,</suspension> <quote>»​Sie haben die Güte, nachher an die Vormundschaft der jungen Grafen Itzelburg zu schreiben, daß Herr von Herebrecht die ihm angebotene Administratorstelle annimmt und daselbst eintreffen wird, sobald nur irgend der Zustand einer kleinen Verwundung, die er bei der Jagd erhalten, ihm zu reisen gestatte. Auch bitte ich Sie, unsern Herrn Pastor darauf vorzubereiten, daß Herr von Herebrecht noch heute um die Hand seiner Pflegetochter anhalten wird. Der Pastorin mag man sagen, daß ich mein früher gegebenes Versprechen, Severina auszusteuern, selbstverständlich so glänzend erfüllen werde, als es mir nur irgend möglich ist; habe ich doch das Vergnügen, sie in den Kreis meiner Verwandten treten zu sehen.​«</quote>
 
 Sie sprach, als sei Joachim nicht zugegen; sie ging, als höre sie nicht seinen jähen Verzweiflungsruf:
 
@@ -3427,7 +3429,7 @@ Er stand vor ihr und sah sie mit tiefstem Mitleid an.
 
 »​Mußte es sein?​« fragte er. »​Wird Severina ihn so glücklich machen, als Sie es gethan hätten?​«
 
-»​Nein,​« sagte sie, »​nein; das ist die Rache, die mich sättigt. Ganz glücklich wird er niemals sein. Immer und überall wird der Gedanke an mich zwischen ihm und seinem Weibe stehen.​«
+<quote>»​Nein,​«</quote> <suspension>sagte sie,</suspension> <quote>»​nein; das ist die Rache, die mich sättigt. Ganz glücklich wird er niemals sein. Immer und überall wird der Gedanke an mich zwischen ihm und seinem Weibe stehen.​«</quote>
 
 »​Ist das unsere edelsinnige Fanny?​« rief er.
 
@@ -3435,7 +3437,7 @@ Er stand vor ihr und sah sie mit tiefstem Mitleid an.
 
 Sie sagte das alles so eintönig, als spräche sie nur, um ihn nicht durch Schweigen so sehr zu ängstigen.
 
-»​Nein, Fanny,​« sagte er, einen Entschluß fassend, »​das darf nicht sein. Sie beurteilen das ganze Geschehnis hart, so hart, wie Frauen immer über Männer urteilen, weil sie nicht verstehen, die ausgleichende Versöhnung zwischen den natürlichen Rechten beider Geschlechter zu finden. Charakter, Ehre, Herz, alles hat Joachim in Ihren Augen verloren, weil sein noch junges Blut, seine noch nicht ausgetobten Jahre nicht die Kraft hatten, die Liebe zu verschmähen, die ihm von zwei Seiten zugleich entgegengebracht wurde.​«
+<quote>»​Nein, Fanny,​«</quote> <suspension>sagte er, einen Entschluß fassend,</suspension> <quote>»​das darf nicht sein. Sie beurteilen das ganze Geschehnis hart, so hart, wie Frauen immer über Männer urteilen, weil sie nicht verstehen, die ausgleichende Versöhnung zwischen den natürlichen Rechten beider Geschlechter zu finden. Charakter, Ehre, Herz, alles hat Joachim in Ihren Augen verloren, weil sein noch junges Blut, seine noch nicht ausgetobten Jahre nicht die Kraft hatten, die Liebe zu verschmähen, die ihm von zwei Seiten zugleich entgegengebracht wurde.​«</quote>
 
 »​Sie nehmen ihn in Schutz – Sie, sein voriger Feind? Bloß vielleicht, weil Sie meinen, es gilt hier, Ihr ganzes Geschlecht zu verteidigen für das, was ja alle Tage vorkommt?​« bemerkte Fanny herbe.
 
@@ -3443,11 +3445,11 @@ Sie sagte das alles so eintönig, als spräche sie nur, um ihn nicht durch Schwe
 
 Fanny erhob sich langsam. Sie legte ihre Hände auf seine Schultern und sah ihn gramvoll an.
 
-»​Treuer, großmütiger Mann,​« sagte sie, »​nun versteh' ich Deine Beredsamkeit; Du sprichst für ihn, nur damit ich glücklich werde.​« Sie schloß die Augen. Einen Herzschlag lang setzten ihre Pulse aus, dann sprach sie, es ging nur wie ein Hauch an des Freundes Ohr vorüber: »​Es ist hoffnungslos. Es ist Severina, die ihm noch alles zu geben hat – nicht – ich – ich nicht.​«
+<quote>»​Treuer, großmütiger Mann,​«</quote> <suspension>sagte sie,</suspension> <quote>»​nun versteh' ich Deine Beredsamkeit; Du sprichst für ihn, nur damit ich glücklich werde.​«</quote> Sie schloß die Augen. Einen Herzschlag lang setzten ihre Pulse aus, dann sprach sie, es ging nur wie ein Hauch an des Freundes Ohr vorüber: »​Es ist hoffnungslos. Es ist Severina, die ihm noch alles zu geben hat – nicht – ich – ich nicht.​«
 
 Unwillkürlich, als müsse er sie retten und schützen, faßte er sie in seine Arme. Sie barg ihr Gesicht an seiner Schulter, und Thränen, die ersten Thränen stürzten aus ihren Augen.
 
-»​Fanny,​« sagte er mit zitternder Stimme, »​teure Fanny, bedenke Dein ganzes Leben, all Dein nützliches Wirken und wie Deine Augen über so viele sonnenlose Existenzen Licht verbreiten. Laß uns nicht allein – lebe für uns. Wir wollen Dich alle doppelt lieben.​«
+<quote>»​Fanny,​«</quote> <suspension>sagte er mit zitternder Stimme,</suspension> <quote>»​teure Fanny, bedenke Dein ganzes Leben, all Dein nützliches Wirken und wie Deine Augen über so viele sonnenlose Existenzen Licht verbreiten. Laß uns nicht allein – lebe für uns. Wir wollen Dich alle doppelt lieben.​«</quote>
 
 Sie weinte heftiger.
 
@@ -3481,13 +3483,13 @@ Lanzenau, der in der That ernstlich kränkelte, trug sich mit schweren Sorgen. W
 
 Man sprach in Fannys Gegenwart erst zaghaft und dann, als sie kein Anteilszeichen gab, lebhafter davon, in welcher Art die Hochzeit stattzufinden habe. Zuletzt hatte Lanzenau den Mut, Fanny geradeaus zu fragen, ob sie wünsche, daß Adrienne, die Pastorsleute und vielleicht er selbst mit der Braut nach Joachims Wohnsitz reisen, um daselbst die Trauung vorzunehmen.
 
-»​Nein,​« sagte Fanny mit ihrer so müde gewordenen Stimme, aber mit unbewegtem Gesicht, »​nein. Ich will, daß die Trauung hier in der Kirche sei und daß dann ein Mahl im Pastorenhause statthabe.​«
+<quote>»​Nein,​«</quote> <suspension>sagte Fanny mit ihrer so müde gewordenen Stimme, aber mit unbewegtem Gesicht,</suspension> <quote>»​nein. Ich will, daß die Trauung hier in der Kirche sei und daß dann ein Mahl im Pastorenhause statthabe.​«</quote>
 
 Von da an schien wieder etwas Leben in Fannys Brust zu kommen. Sie wies Severinas schüchterne, dankbare Liebkosungen nicht mehr herbe zurück, sondern sah ihr manchmal mit einem sonderbaren Ausdruck des Mitleids ins Gesicht. Sie zeigte auch dem alten Freunde eine erhöhte Teilnahme, die mit einer schmerzlichen Zärtlichkeit gemischt war, wie man vor einem nahen Abschied sie noch zeigt.
 
 So kam der Tag heran, an dem Fanny und Joachim sich wiedersehen mußten. Joachim traf erst am Abend zuvor ein, nahm das ihm bereitete Quartier im Pfarrhause und zeigte eine fröhliche, vollkommen unbefangene Bräutigamsmiene. Jedermann war zu taktvoll, ihm von Fanny zu reden, und weil er nicht nach ihr fragte, so schien es, als existire sie gar nicht für diesen Kreis von Menschen, die ihr ohne Ausnahme so viel verdankten.
 
-Severina hatte wohl den Mut gehabt, in Briefen an der Sache zu rühren, darüber zu sprechen, hier in Fannys Nähe fehlte ihr die Unbefangenheit, denn ihr Herz war von einer verzehrenden Unruhe erfüllt, daß Fannys Anblick genüge, Joachims Herz abermals in Zwiespalt zu bringen. »​Wenn er erst mein Gatte ist,​« gelobte sie sich mit der finsteren Entschlossenheit ihrer eifersüchtigen Natur, »​werde ich über ihn wachen.​«
+Severina hatte wohl den Mut gehabt, in Briefen an der Sache zu rühren, darüber zu sprechen, hier in Fannys Nähe fehlte ihr die Unbefangenheit, denn ihr Herz war von einer verzehrenden Unruhe erfüllt, daß Fannys Anblick genüge, Joachims Herz abermals in Zwiespalt zu bringen. <quote>»​Wenn er erst mein Gatte ist,​«</quote> <suspension>gelobte sie sich mit der finsteren Entschlossenheit ihrer eifersüchtigen Natur,</suspension> <quote>»​werde ich über ihn wachen.​«</quote>
 
 Wie eine Erlösung kam ihr denn auch die Botschaft von Fanny, daß diese »​wegen eines Unwohlseins​« nicht an der Vorfeier im Pfarrhause teilnehmen könne, auch aus dem gleichen Grund auf das morgige Festmahl verzichten müsse und nur bei der Trauung zugegen sein könne. Bei der Trauung – dann war Joachim schon ihr Gatte, dann hatte schon der Schullehrer von Mittelbach in seiner Eigenschaft als Standesbeamter sie zusammengegeben.
 
@@ -3547,7 +3549,7 @@ Und nun fiel sie doch dem gemeinen Frauenlos zum Opfer. Es war einmal so in der 
 
 Eine Vision erstand vor Fannys Auge. Es war ihr, als stehe ein Cherub vor ihr, der in einer Wagschale ihr Dasein gegen das Joachims abwog. In ihre Schale fielen alle Dankesthränen, die man über ihrer arbeitsamen, segenspendenden Hand geweint, all ihr nützliches Wirken im Umkreis ihrer Pflichten,  alle die selbstlosen Freundesthaten, die sie an den Ihrigen gethan, und all das deckte ganz die eine Schwäche ihres rasch und urteilslos entflammt gewesenen Herzens zu, und ihre Schale neigte sich schwergewichtig, die andere Schale aber flog leicht in die Höhe – nein, sie beide konnten nicht zusammen gewogen werden.
 
-Thränen verdunkelten Fannys Augen. »​Muß es denn sein?​« fragte sie sich in stummer Qual, »​muß ich denn unterliegen, bloß weil ich ein Weib bin?​« Es regte sich etwas in ihr – etwas, das nach Befreiung, nach Erhebung schrie; etwas, das sich wild dagegen empörte, dem Mann den Sieg zu lassen; etwas, das ihr zuraunte, sie kämpfe für ihr Geschlecht, wenn sie für sich kämpfe.
+Thränen verdunkelten Fannys Augen. <quote>»​Muß es denn sein?​«</quote> <suspension>fragte sie sich in stummer Qual,</suspension> <quote>»​muß ich denn unterliegen, bloß weil ich ein Weib bin?​«</quote> Es regte sich etwas in ihr – etwas, das nach Befreiung, nach Erhebung schrie; etwas, das sich wild dagegen empörte, dem Mann den Sieg zu lassen; etwas, das ihr zuraunte, sie kämpfe für ihr Geschlecht, wenn sie für sich kämpfe.
 
 Ihr Herz klopfte. Unvermittelt, wie ein Blitzstrahl, fiel ein Licht in Fannys Seele. Ein unnennbarer Stolz dehnte ihr ganzes Bewußtsein. Eine neue Kraft kam über sie – die Kraft, würdig zu leiden.
 
