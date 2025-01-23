@@ -107,7 +107,7 @@ Franzl lachte. »​Aber Fräuln Konteß! Unser Herr Graf? Und krank? Der reißt
 
 »​Aber weshalb kommt er nicht? Es muß ihm doch Freude machen, mich wiederzusehen.​«
 
-Betroffen schaute Franzl in Kittys Augen; der Klang ihrer Worte brachte ihn aus seiner fröhlichen Ruhe. »​Aber freilich,​« stammelte er, »​gwiß freut er sich! Aber gwiß!​«
+Betroffen schaute Franzl in Kittys Augen; der Klang ihrer Worte brachte ihn aus seiner fröhlichen Ruhe. <quote>»​Aber freilich,​«</quote><suspension> stammelte er, </suspension><quote>»​gwiß freut er sich! Aber gwiß!​«</quote>
 
 Kitty stand schweigend; ihre Finger knitterten an den Blättern des Fächers.
 
@@ -131,7 +131,7 @@ Während Franzl unter geduldigem Trösten neben der Kleesberg stehenblieb, trat 
 
 Rings um die Hütte hatte sich eine breite Pfütze gebildet, und überall auf dem Berghang sprudelten die Regenbäche.
 
-»​Da wird sich der Heimweg hart machen,​« meinte Franzl, »​wie, zeigen S' amal her, gnädigs Fräuln, was haben S' denn für Schucherln an?​«
+<quote>»​Da wird sich der Heimweg hart machen,​«</quote><suspension> meinte Franzl, </suspension><quote>»​wie, zeigen S' amal her, gnädigs Fräuln, was haben S' denn für Schucherln an?​«</quote>
 
 Kitty hob das Kleid und streckte das Füßchen vor.
 
@@ -211,7 +211,7 @@ Da fand sie ihre heitere Laune; lachend nickte sie und reichte ihm die Hand. »�
 
 »​Gearbeitet?​« Sie schien den Sinn dieses Wortes nicht zu verstehen. Da gewahrte sie die Geräte des Künstlers. »​Ach, Sie malen!​« Dem respektvollen Staunen, mit dem sie ihren jungen Retter betrachtete, war es anzumerken, daß vor ihren Augen ein lebendiger Künstler nicht viel geringer wog als einst in vergangenen Zeiten vor dem Blick des Burgfräuleins der tapfere Ritter, der den Drachen überwand. Neugierig spähte sie nach dem Leinwandrahmen, der gegen die Mauer gelehnt stand.
 
-Der junge Maler schien nicht eitel zu sein; sonst hätte er diesen Blick zu deuten gewußt. »​Auch mich hat das Gewitter überrascht, mitten in der besten Arbeit,​« erzählte er, »​und ich mußte eine Stunde hier unter der Tür sitzen. Aber es war herrlich, so hineinzuschauen in den Zorn der Natur. Sie ist immer schön, ob sie lächelt oder grollt, fast schöner noch in ihrem Zorn als in ihrem Frieden. Wenn ich sie so toben sehe, fühl' ich auch, daß ich ihr in solchen Augenblicken näher komme als in sonniger Stunde. In der Sonne steht sie vor mir wie ein Geheimnis in bunten Kleidern. Im Sturme seh' ich die Riesin, wie sie vor meinem Blick die Hülle zerreißt. Ich spähe ihr in das wildpochende Herz, und mir ist, als flösse in mich etwas über von ihrer Kraft.​« Er sagte das ruhig, wie man selbstverständliche Dinge äußert.
+Der junge Maler schien nicht eitel zu sein; sonst hätte er diesen Blick zu deuten gewußt. <quote>»​Auch mich hat das Gewitter überrascht, mitten in der besten Arbeit,​«</quote><suspension> erzählte er, </suspension><quote>»​und ich mußte eine Stunde hier unter der Tür sitzen. Aber es war herrlich, so hineinzuschauen in den Zorn der Natur. Sie ist immer schön, ob sie lächelt oder grollt, fast schöner noch in ihrem Zorn als in ihrem Frieden. Wenn ich sie so toben sehe, fühl' ich auch, daß ich ihr in solchen Augenblicken näher komme als in sonniger Stunde. In der Sonne steht sie vor mir wie ein Geheimnis in bunten Kleidern. Im Sturme seh' ich die Riesin, wie sie vor meinem Blick die Hülle zerreißt. Ich spähe ihr in das wildpochende Herz, und mir ist, als flösse in mich etwas über von ihrer Kraft.​«</quote> Er sagte das ruhig, wie man selbstverständliche Dinge äußert.
 
 Kitty blickte zu ihm auf mit großen Augen.
 
@@ -341,7 +341,7 @@ Da hörte Franzl über den Zaum her eine Männerstimme – sie redete jene zweif
 
 Neugierig drückte Franzl die Haselnußzweige auseinander und gewahrte einen kniemageren Touristen, dessen Rucksack, Joppe und Lederhose an diesem Tage wohl zum erstenmal die Berge erblickt hatten; quer in den Händen hielt er einen wahren Baum von Bergstock, mit dem er einem jungen, schmucken Mädel den schmalen Pfad verlegte.
 
-»​'s Zollheben is 'n alter Brauch,​« erklärte der kühne Wegelagerer in seinem zweifelhaften Dialekt, »​und drum sog i dir, du saubers Diandl, du kommst mir nit ummi, eh du nit dein Zoll zahlt hast.​«
+<quote>»​'s Zollheben is 'n alter Brauch,​«</quote><suspension> erklärte der kühne Wegelagerer in seinem zweifelhaften Dialekt, </suspension><quote>»​und drum sog i dir, du saubers Diandl, du kommst mir nit ummi, eh du nit dein Zoll zahlt hast.​«</quote>
 
 »​Gehst aus'm Weg?​«
 
@@ -429,7 +429,7 @@ Lichtschein fiel aus der offenen Tür über die steinerne, von wildem Wein und J
 
 Als Kitty und Tante Gundi die Veranda betraten, kam ihnen ein junger Diener entgegen, der sich besorgt erkundigte, ob die Damen nicht ins Gewitter geraten wären.
 
-»​Nein, Fritz,​« sagte Kitty, »​wir kommen trocken nach Hause. Wo ist mein Bruder?​«
+<quote>»​Nein, Fritz,​«</quote><suspension> sagte Kitty, </suspension><quote>»​wir kommen trocken nach Hause. Wo ist mein Bruder?​«</quote>
 
 »​Der Herr Graf arbeiten in seinem Zimmer.​«
 
@@ -675,7 +675,7 @@ Tassilo lächelte. »​Sie kennen Italien noch nicht?​«
 
 Mit beiden Händen machte Forbeck freien Platz vor sich und begann mit dem Finger unsichtbare Linien auf das Tischtuch zu zeichnen. »​Hier, zwischen der Klause und dem Wetterbach, den ich näher gegen die Klause rücke, damit der Baum, der sich über den Bach geworfen, die Mitte des Bildes bekommt – hier also, hier auf dem Rasen – wissen Sie, Doktor, so ein saftiges Grün, aus dem jede andere Farbe herausspringt wie ein Licht – hier auf dem Rasen denk' ich mir ein konfuses Häuflein Menschen, Sommergäste und Schiffer, mitten im lustigen Picknick. Und da kommt nun das Gewitter, plötzlich! Wie das alles aufspringt, rennt und stolpert, um die Klause zu gewinnen, halb in Lustigkeit und halb in Angst! Wie da die Farben und Linien durcheinanderwirbeln! Und drüben über dem Wetterbach kommt eine kleine Touristengesellschaft über den steilen Weg heruntergehastet, Männer und Frauen –​«
 
-»​Ich sehe das Bild!​« fiel Tassilo ein, »​wie es lebt und redet!​«
+<quote>»​Ich sehe das Bild!​«</quote><suspension> fiel Tassilo ein, </suspension><quote>»​wie es lebt und redet!​«</quote>
 
 »​Ein paar von den Leuten stehen schon am Ufer des Wildbaches, ratlos – nirgends eine Brücke, nur dieser einzige Baum! Es fängt schon zu gießen an. Nur hinüber! Aber wie! Und sehen Sie, Doktor, hier ist der Baum, und da hab' ich einen Jäger, eine Figur, wie von Gott am Sonntag erschaffen. Das ist der einzige, der Hilfe weiß, freilich nur Hilfe für eine einzige: für ein junges Mädchen. Und dieses Mädchen, Doktor! Das ist Jugend, Frühling! Und das wird der Kern in meinem Bild: hier, auf dem schwankenden Baum mein Jäger, bei jedem Schritt mit dem Stürzen kämpfend und auf seinem Arm das Mädchen, das zwischen Lachen und Angst den Hals des Jägers umklammert – ein Bild, Doktor, ein Bild! Aber das sehen Sie nicht aus meinen Worten, das muß ich Ihnen zeigen –​«
 
@@ -817,7 +817,7 @@ Das Mädel machte große Augen: »​Dei' Mali? Du redst dich leicht!​«
 
 »​Und die deinigen sind noch allweil die gleichen Haselnußkern!​« sagte Mali lächelnd.
 
-»​No also, nachher stimmt ja alles! Da fangen wir gleich die alte Kameradschaft wieder an. Und schau,​« Franzl nahm den Hut ab und löste die Nelken aus der Schnur, »​da hab ich dir zum Einstand gleich was mitbracht.​«
+<quote>»​No also, nachher stimmt ja alles! Da fangen wir gleich die alte Kameradschaft wieder an. Und schau,​«</quote><suspension> Franzl nahm den Hut ab und löste die Nelken aus der Schnur, </suspension><quote>»​da hab ich dir zum Einstand gleich was mitbracht.​«</quote>
 
 Malis Wangen brannten, als ihr der Jäger das Sträußchen reichte. Sie wollte die Nelken ans Mieder stecken. Da streckte das Kind verlangend die Ärmchen aus dem Kissen und griff mit den bleichen Fingerchen nach den roten Blüten. Mali hatte nicht das Herz, dem kranken Kind die kleine Freude zu stören. »​Gelt, Nettele, schöne Blümerln!​« plauderte sie zärtlich. »​Und alle ghören dem Netterl, alle!​« Die Händchen des Kindes zupften und rissen an den Blüten, daß die roten Flocken zu Boden fielen. Mali wurde unruhig. »​Gelt, Franzl, bist net harb?​«
 
@@ -841,7 +841,7 @@ Franzl sah zu dem großen Fenster hinauf. Da hörte er hinter sich ein leises Kl
 
 »​No, no, no! Ich hab mir halt denkt, es könnt dir a bißl Verdienst net zwider sein.​«
 
-»​Ja, Lenzi,​« fiel Mali ein, »​sei gscheit! Dreißg Markln sind net von Holz!​«
+<quote>»​Ja, Lenzi,​«</quote><suspension> fiel Mali ein, </suspension><quote>»​sei gscheit! Dreißg Markln sind net von Holz!​«</quote>
 
 »​In Ruh laß mich!​« Der Bauer trat auf die Schwelle, musterte den Jäger über die Schulter und sagte grob: »​Willst noch was?​«
 
@@ -937,7 +937,7 @@ Noch ehe Franzl zu dem die Hütte umschließenden Stangenzaun gekommen war, hatt
 
 In der Stube klang die wuchtige Stimme des Grafen: »​Das muß ein Ende nehmen. Oder ich verliere die Geduld. Dein Bezirk hat eine Lage, wie man sie schöner im ganzen Gebirg nicht findet. Da sollten die Rudel nur so umeinanderstehen. Und wie sieht es in Wirklichkeit aus? Daß einem grausen könnte! Mir scheint, du hast die Schußliste vom letzten Jahr schon völlig vergessen? Armselige drei Hirsche und sieben Gamsböcke, einer schlechter wie der andere! Glaubst denn du, das ist mir die sieben Zentner Salz und das ganze Winterfutter wert? Von deinem Gehalt schon gar nicht zu reden! Der ist ohnehin zum Fenster hinausgeworfen!​«
 
-»​Aber ich bitt, Herr Graf,​« stammelte eine scheue Stimme, »​ich lauf mir bei Tag und Nacht schier d' Füß ab! Mein Bezirk liegt halt an der Grenz. Und drüben die Bauernjagd! Die Gams und 's Wildbret kann ich net anbinden, und was halt nüberwechselt, wird drüben niedergschossen. Wie soll ich denn da an Wildstand in d' Höh bringen? Da weiß ich mir wahrhaftig kein Rat nimmer.​«
+<quote>»​Aber ich bitt, Herr Graf,​«</quote><suspension> stammelte eine scheue Stimme, </suspension><quote>»​ich lauf mir bei Tag und Nacht schier d' Füß ab! Mein Bezirk liegt halt an der Grenz. Und drüben die Bauernjagd! Die Gams und 's Wildbret kann ich net anbinden, und was halt nüberwechselt, wird drüben niedergschossen. Wie soll ich denn da an Wildstand in d' Höh bringen? Da weiß ich mir wahrhaftig kein Rat nimmer.​«</quote>
 
 »​Natürlich! Du hast eben andere Dinge im Kopf. Dein Bezirk wird schlechter von Jahr zu Jahr, und dafür soll ich dir noch den Gehalt aufbessern? Erlaub mir, Patscheider, das ist eine starke Zumutung!​«
 
@@ -1217,7 +1217,7 @@ Sie bot ihm die Hand, und als er sie erfaßte, begann sie wieder zu zittern und 
 
 »​Doch, doch, es ist nur – ich habe gestern –​«
 
-»​Für Fräulein von Kleesberg ist das Abenteuer nicht so glücklich ausgefallen wie für meine Schwester,​« fiel Tassilo ein, »​die Folge war eine Unpäßlichkeit, die noch immer nicht ganz behoben ist.​«
+<quote>»​Für Fräulein von Kleesberg ist das Abenteuer nicht so glücklich ausgefallen wie für meine Schwester,​«</quote><suspension> fiel Tassilo ein, </suspension><quote>»​die Folge war eine Unpäßlichkeit, die noch immer nicht ganz behoben ist.​«</quote>
 
 In Forbeck regte sich ehrliche Sorge. »​Ach, das bedaure ich aber!​«
 
@@ -1285,7 +1285,7 @@ Forbeck erwies sich folgsam. Als sie wieder um den Tisch saßen, löste er seine
 
 »​Gewiß!​« nickte Tante Gundi, ohne von der Stickerei aufzublicken, an der sie zu arbeiten begonnen.
 
-»​Wir waren nur zwei Tage in München,​« fiel Kitty ein, »​und da waren wir dreimal im Glaspalast. Tante Gundi konnte sich nicht satt sehen. Sie versteht sehr, sehr viel von Kunst.​«
+<quote>»​Wir waren nur zwei Tage in München,​«</quote><suspension> fiel Kitty ein, </suspension><quote>»​und da waren wir dreimal im Glaspalast. Tante Gundi konnte sich nicht satt sehen. Sie versteht sehr, sehr viel von Kunst.​«</quote>
 
 »​Aber Kind!​«
 
@@ -1307,7 +1307,7 @@ Gundi Kleesberg warf ihr einen mißbilligenden Blick zu und sagte entschuldigend
 
 Forbeck lächelte. »​Da haben Sie nicht viel verloren.​«
 
-»​Na, nur nicht so bescheiden,​« fiel Tassilo ein, »​Ihr Bildchen ist eine famose Arbeit. Sogar Werner war zufrieden, und das will viel sagen.​«
+<quote>»​Na, nur nicht so bescheiden,​«</quote><suspension> fiel Tassilo ein, </suspension><quote>»​Ihr Bildchen ist eine famose Arbeit. Sogar Werner war zufrieden, und das will viel sagen.​«</quote>
 
 Die Kleesberg zerrte an dem Seidenfaden, der sich im Stoff verfangen hatte. »​Professor Werner ist Ihr Lehrer, Herr Forbeck?​«
 
@@ -1413,7 +1413,7 @@ Tassilo setzte sich wieder an den Schreibtisch. Als er nach einer  Weile den Bri
 
 »​Was ist denn geschehen?​«
 
-»​Ich kann es mir gar nicht erklären, wie es möglich war,​« stammelte sie, »​aber denken Sie, ich habe eingewilligt, daß er sie malen soll.​«
+<quote>»​Ich kann es mir gar nicht erklären, wie es möglich war,​«</quote><suspension> stammelte sie, </suspension><quote>»​aber denken Sie, ich habe eingewilligt, daß er sie malen soll.​«</quote>
 
 Tassilo lachte. »​Aber Tante Gundi!​«
 
@@ -1499,9 +1499,9 @@ In der Stube verstummte das Zitherspiel. Schipper deckte den Tisch. Das war kurz
 
 Franzl erschien, in der einen Hand die dampfende Pfanne, in der anderen ein kleines rußiges Brettchen, das er in die Mitte des Tisches legte, als Untersatz für die Pfanne.
 
-Graf Egge erhob sich. Stehend, mit gefalteten Händen, wurde der Abendsegen gesprochen, wie in einer Bauernstube. Nach dem Amen sagte der Graf: »​Guten Abend miteinander!​« Und die Jäger antworteten: »​Guten Abend, gnädiger Herr Graf!​« Dann schoben sie sich hinter den Tisch; in der zugesicherten Ecke saß Graf Egge, Schipper zu seiner Rechten, Franzl zur Linken. Den Löffel in der Hand, mit aufgestütztem Arm, warteten die Jäger, bis der Graf den ersten Bissen genommen hatte; dann griffen auch sie zu, und einträchtig löffelte das Kleeblatt die grobe, fette Kost aus der Pfanne.
+Graf Egge erhob sich. Stehend, mit gefalteten Händen, wurde der Abendsegen gesprochen, wie in einer Bauernstube. Nach dem Amen sagte der Graf: »​Guten Abend miteinander!​« Und die Jäger antworteten: <quote>»​Guten Abend, gnädiger Herr Graf!​«</quote><suspension> Dann schoben sie sich hinter den Tisch; in der zugesicherten Ecke saß Graf Egge, Schipper zu seiner Rechten, Franzl zur Linken. Den Löffel in der Hand, mit aufgestütztem Arm, warteten die Jäger, bis der Graf den ersten Bissen genommen hatte; dann griffen auch sie zu, und einträchtig löffelte das Kleeblatt die grobe, fette Kost aus der Pfanne.
 
-Als das Mahl zu Ende war, trug Schipper die Pfanne in die Küche und brachte für seinen Herrn einen Maßkrug voll Wasser, in das Graf Egge einen Schluck Enzian goß, »​damit 's Schmalz im Magen net rebellisch wird​«, wie er sagte. »​Wer rauchen will, kann 's Pfeifl anzünden. Du, Franzl, mach dir dein Bier auf!​«
+Als das Mahl zu Ende war, trug Schipper die Pfanne in die Küche und brachte für seinen Herrn einen Maßkrug voll Wasser, in das Graf Egge einen Schluck Enzian goß, </suspension><quote>»​damit 's Schmalz im Magen net rebellisch wird​«</quote>, wie er sagte. »​Wer rauchen will, kann 's Pfeifl anzünden. Du, Franzl, mach dir dein Bier auf!​«
 
 Schmunzelnd, mit feierlicher Umständlichkeit, entkorkte Franzl die Flasche und goß ihren Inhalt vorsichtig in eine hölzerne Bitsche – eine Flasche Bier bedeutete in Graf Egges Jagdhütte soviel wie auf einem bürgerlichen Tisch eine Flasche Champagner, im Staatsbetrieb ein hoher Orden.
 
@@ -1603,7 +1603,7 @@ Endlich sagte Schipper: »​Da droben in der Latschen is er glegen. Da hat der 
 
 »​Freilich, es hätt auch net viel gholfen. Der Hund hat ja rein auf den Bock auffifallen müssen, daß er ihn findt. Aber gelten S', Herr Graf, gelten S', hätten S' mir gfolgt gestern abend, und hätten wir den Bock gleich gsucht. Vielleicht wär er zum ausmachen gwesen, und 's Malör wär net gschehen. Weil S' aber auch gar nie folgen wollen und allweil 's eiserne Köpfl aufsetzen. Ich kann mir's gar net anders denken: einer von die Hüterbuben muß der ganzen Jagd zugschaut haben –​«
 
-»​Aber geh,​« fiel Franzl ein, »​die Hüter sind ordentliche Leut.​«
+<quote>»​Aber geh,​«</quote><suspension> fiel Franzl ein, </suspension><quote>»​die Hüter sind ordentliche Leut.​«</quote>
 
 Schipper verlor die Ruhe. »​Es muß aber doch einer gwesen sein! Wo is denn die Kruck? Wer hat s' denn davon? Der Lump, der gottvergessene, hat von weitem den angschossenen Bock in der Wand drin gsehen. Und kaum sind wir in der Hütten gwesen, is der her, der Tropf, und hat schön heimlich gwart, bis der Bock abigfalln is.​«
 
@@ -1619,7 +1619,7 @@ Graf Egge hielt die Augen auf Franzl geheftet und fragte mit schmalen Lippen: »
 
 »​Aber Herr Graf! Man wird mir halt außen anmerken, wie mir inwendig z'mut is.​« Franzl würgte mühsam jedes Wort hervor. »​Ich weiß doch, was Ihnen die Krucken gilt. Und ich bin außer Rand und Band, ich spür kein Tropfen Blut nimmer.​« Die Stimme erlosch ihm.
 
-»​Dös is doch begreiflich,​« nickte Schipper, »​mir selber is gradso, in jedem Augenblick siedheiß und wieder eiskalt. Um Gotts willen, Herr Graf, was machen wir denn?​«
+<quote>»​Dös is doch begreiflich,​«</quote><suspension> nickte Schipper, </suspension><quote>»​mir selber is gradso, in jedem Augenblick siedheiß und wieder eiskalt. Um Gotts willen, Herr Graf, was machen wir denn?​«</quote>
 
 »​Macht, was ihr wollt!​« Graf Egge ging mit wankendem Knie auf einen Felsblock zu und ließ sich nieder. »​Hier sitze ich und stehe nicht wieder auf, eh ich nicht die Kruck in meiner Hand habe. Macht, was ihr wollt! Die Kruck muß her!​« Zwei rote Flecken brannten auf seinen Wangen. »​Und wenn ich umsonst warte, seid ihr um euren Dienst! Alle beide!​«
 
@@ -1755,7 +1755,7 @@ Graf Egge stand am Fenster und sah ihnen nach, bis sie verschwunden waren. Dann 
 
 Graf Egge zog das Messer aus der Lederhose und sprengte den kleinen Holzdeckel. Eine in Watte gehüllte Schachtel kam zum Vorschein, und als Graf Egge sie öffnete, flammten seine Augen in Freude. Auf einem mit schwarzem Samt überzogenen Brettchen waren, in vier Reihen übereinander, ungefaßte, in absonderlichen Formen geschliffene Saphire und Rubinen mit feinen Silberdrähten angeheftet. Durch das Fenster fiel die Sonne auf die Steine, und das funkelte und gleißte in schönen Farben. Der Juwelier schien den Geschmack seines Kunden getroffen zu haben. Zufrieden musterte Graf Egge die Sendung. Rasch überflog er den Begleitbrief und zählte die Steine mit tippendem Finger. »​Stimmt!​« Er unterschrieb den Postschein und reichte ihn dem Boten. »​Alles in Ordnung.​«
 
-Der Alte erhob sich. »​Bhüt Ihnen Gott, Herr Graf!​« Bei der Tür blieb er zögernd stehen, als wäre die Sache für ihn noch nicht erledigt. Graf Egge hatte sich schon wieder in die Betrachtung der Steine vertieft. »​Ich bitt, Herr Graf,​« fragte der Alte kleinlaut, »​haben S' kein Auftrag nunter? Oder sonst was?​«
+Der Alte erhob sich. »​Bhüt Ihnen Gott, Herr Graf!​« Bei der Tür blieb er zögernd stehen, als wäre die Sache für ihn noch nicht erledigt. Graf Egge hatte sich schon wieder in die Betrachtung der Steine vertieft. <quote>»​Ich bitt, Herr Graf,​«</quote><suspension> fragte der Alte kleinlaut, </suspension><quote>»​haben S' kein Auftrag nunter? Oder sonst was?​«</quote>
 
 Ohne aufzublicken, schüttelte Graf Egge den Kopf.
 
@@ -1847,7 +1847,7 @@ Mit kurzen Worten erzählte Franzl Wortlos nickte Graf Egge und trug den Hund zu
 
 »​Hab ich einen Verdacht gegen dich ausgesprochen?​«
 
-»​Dös is freilich wahr, aber –​« Dem Jäger verschlug's die Rede, weil er hörte, daß Schipper in die Hütte trat. Mühsam hielt er seine fünf Sinne beisammen, und als er nur erst ein paar verworrene Sätze herausgestottert hatte, kam er in warmen Zug. Forschend hing Graf Egges Blick an dem Jäger, dem die Worte immer heißer von den Lippen sprudelten. Wie er zu Mali gesprochen, so redete er jetzt zu seinem Herrn, Ehrlichkeit in jeder Silbe, in jedem Laut seiner Stimme. »​Herr Graf,​« so schloß er, »​meine Händ sind sauber. Glauben S' mir jetzt?​«
+»​Dös is freilich wahr, aber –​« Dem Jäger verschlug's die Rede, weil er hörte, daß Schipper in die Hütte trat. Mühsam hielt er seine fünf Sinne beisammen, und als er nur erst ein paar verworrene Sätze herausgestottert hatte, kam er in warmen Zug. Forschend hing Graf Egges Blick an dem Jäger, dem die Worte immer heißer von den Lippen sprudelten. Wie er zu Mali gesprochen, so redete er jetzt zu seinem Herrn, Ehrlichkeit in jeder Silbe, in jedem Laut seiner Stimme. <quote>»​Herr Graf,​«</quote><suspension> so schloß er, </suspension><quote>»​meine Händ sind sauber. Glauben S' mir jetzt?​«</quote>
 
 Kühl und ruhig klang die Antwort. »​Ja, ich glaub dir.​«
 
@@ -2075,7 +2075,7 @@ Gereizt fuhr Wastl Zauner auf die Tochter zu und hob ihr die Faust vor das nette
 
 Meister Zauner warf einen halb wütenden, halb scheuen Blick auf das appetitliche Figürchen seiner Tochter. Das Argument seines Weibes schien ihm einzuleuchten, und er brummte ein paar unverständliche Worte.
 
-»​Und weil wir grad schon reden,​« dozierte die Zaunerin, »​für was is denn a Madl auf der Welt? Die guten Heiraten tragt man heutigentags nimmer in der Butten umanand. Da muß sich a Madl umschauen. Wenn's dir nachging, könnt 's Lieserl hinterm Ofen hocken und sitzenbleiben!​«
+<quote>»​Und weil wir grad schon reden,​«</quote><suspension> dozierte die Zaunerin, </suspension><quote>»​für was is denn a Madl auf der Welt? Die guten Heiraten tragt man heutigentags nimmer in der Butten umanand. Da muß sich a Madl umschauen. Wenn's dir nachging, könnt 's Lieserl hinterm Ofen hocken und sitzenbleiben!​«</quote>
 
 »​Sitzenbleiben!​« grollte Meister Zauner. »​Deswegen braucht s' net alle Tag a Gspusi anfangen, daß d' Leut rebellisch werden. Und wenn's ihr ums Heiraten is – der Pointner-Andres nimmt 's Madl auf der Stell!​«
 
@@ -2287,7 +2287,7 @@ Tassilo trat mit der Schwester in eine Schiffshütte. Hier bestiegen sie das Boo
 
 Während die beiden den kleinen Garten durchschritten, gesellte sich zu den Tönen des Flügels der Gesang einer Altstimme, wie der Klang einer Glocke.
 
-»​Bleib, ich bitte dich,​« stammelte Kitty, »​laß mich hören!​«
+<quote>»​Bleib, ich bitte dich,​«</quote><suspension> stammelte Kitty, </suspension><quote>»​laß mich hören!​«</quote>
 
 »​Das hörst du in der Nähe besser!​«
 
@@ -2561,7 +2561,7 @@ Gundi Kleesberg warf ihm einen strengen Blick zu, und Kitty saß schweigend, mit
 
 Als Fritz das Dessert servierte, erhob sich auch Willy. »​Ich mache noch einen Bummel.​«
 
-Im Speisezimmer blieb es still. Tante Gundi flüchtete sich mit ihrem Buch in einen Erker, und Kitty saß mit aufgestützten Armen einsam am Tisch, während im Zimmer nebenan die Billardbälle klapperten. Als Tassilo endlich erschien, flog ihm Kitty entgegen und schlang mit leidenschaftlicher Zärtlichkeit die Arme um seinen Hals. »​Komm nur,​« stammelte sie, »​ich leiste dir Gesellschaft.​« Sie zog ihn zum Tisch und drückte auf die Glocke. Schon wollte Tassilo seinen Platz einnehmen, als er das Geklapper der Billardbälle hörte. Einen Augenblick zögerte er; dann schritt er dem anstoßenden Zimmer zu; er sah nicht, daß Kitty eine Bewegung machte, als wollte sie ihn zurückhalten.
+Im Speisezimmer blieb es still. Tante Gundi flüchtete sich mit ihrem Buch in einen Erker, und Kitty saß mit aufgestützten Armen einsam am Tisch, während im Zimmer nebenan die Billardbälle klapperten. Als Tassilo endlich erschien, flog ihm Kitty entgegen und schlang mit leidenschaftlicher Zärtlichkeit die Arme um seinen Hals. <quote>»​Komm nur,​«</quote><suspension> stammelte sie, </suspension><quote>»​ich leiste dir Gesellschaft.​«</quote> Sie zog ihn zum Tisch und drückte auf die Glocke. Schon wollte Tassilo seinen Platz einnehmen, als er das Geklapper der Billardbälle hörte. Einen Augenblick zögerte er; dann schritt er dem anstoßenden Zimmer zu; er sah nicht, daß Kitty eine Bewegung machte, als wollte sie ihn zurückhalten.
 
 Robert salbte gerade den Stock, als Tassilo eintrat.
 
@@ -2607,7 +2607,7 @@ Mali wurde ein wenig verlegen, aber dem kleinen Netterl schien die Annäherung d
 
 »​Schau nur grad dös Kindl an!​« lächelte Mali. »​Geh, laß ihm sei' Freud a bißl!​«
 
-»​Aber freilich!​« Um dem Kind das Spiel zu erleichtern, beugte Franzl sich vor; dabei war ihm der linke Arm ein bißchen hinderlich, und er mußte ihn um Malis Schultern legen. »​Ja, du,​« sagte er, »​völlig staunen tu ich, um wieviel dös Kindl heut besser ausschaut gegen 's letztemal.​«
+»​Aber freilich!​« Um dem Kind das Spiel zu erleichtern, beugte Franzl sich vor; dabei war ihm der linke Arm ein bißchen hinderlich, und er mußte ihn um Malis Schultern legen. <quote>»​Ja, du,​«</quote><suspension> sagte er, </suspension><quote>»​völlig staunen tu ich, um wieviel dös Kindl heut besser ausschaut gegen 's letztemal.​«</quote>
 
 Die Freude glänzte in Malis Augen. Und um dem Netterl die Sache recht bequem zu machen, schmiegte sie sich eng an den Jäger. »​Gelt, ja? Die ganzen Nachbarsleut reden schon davon, wie dös gute Kindl völlig wieder auflebt!​«
 
@@ -2711,7 +2711,7 @@ Franzl mahnte zum Aufbruch. Als man bereit war, trennte sich einer der Träger v
 
 »​Gehört der Mann nicht zu uns?​« fragte Tassilo.
 
-»​Aber freilich,​« versicherte Moser und zwinkerte, »​der tragt die heimliche Zehrung in d' Holzerhütten auffi. Man muß ja alles verstecken vor 'm gnädigen Herrn Grafen. Sie wissen ja, wie er is!​«
+<quote>»​Aber freilich,​«</quote><suspension> versicherte Moser und zwinkerte, </suspension><quote>»​der tragt die heimliche Zehrung in d' Holzerhütten auffi. Man muß ja alles verstecken vor 'm gnädigen Herrn Grafen. Sie wissen ja, wie er is!​«</quote>
 
 Tassilo furchte die Brauen. »​Wer hat das angeordnet?​«
 
@@ -2835,7 +2835,7 @@ Schipper stieg mit Robert nach links über das Gehäng empor, während Franzl un
 
 Moser, der in Eile weiterstieg, mahnte: »​A bißl flinker, junger  Herr! Wir haben nimmer viel Zeit und müssen noch a gutes Stückl in d' Höh.​«
 
-»​Es pressiert nicht,​« meinte Willy, »​ich muß mich schonen.​«
+<quote>»​Es pressiert nicht,​«</quote><suspension> meinte Willy, </suspension><quote>»​ich muß mich schonen.​«</quote>
 
 Inzwischen richtete Franzl der Zirbe zu Füßen einen bequemen Sitz.
 
@@ -2869,7 +2869,7 @@ Tassilo hatte wohl nach der Büchse gegriffen, doch keinen Versuch gemacht, sie 
 
 Franzl freilich war anderer Meinung. Kopfschüttelnd und mit vorwurfsvoller Trauer sagte er: »​Aber Herr Graf! Was haben S' denn da jetzt angstellt! Es ist wie 's reine Wunder, daß der Hirsch bei uns da kommen is. Und Sie lassen ihn durch! Mar' und Josef! Was wird der gnädige Herr sagen! Da gibt's an ordentlichen Spitakel!​«
 
-Nun wurde auch Tassilo nachdenklich; eine verdrießliche Szene, die aus diesem weidmännischen Schwabenstreich hervorwachsen konnte, erschien ihm als eine nicht sehr günstige Einleitung für alles andere, was sich in diesen Tagen zwischen seinem Vater und ihm entscheiden sollte; er mußte jeden Verdruß zu vermeiden suchen. »​Wir brauchen keine Unwahrheit zu sagen,​« meinte er, »​aber wenn die Sache nicht von selbst zur Sprache kommt, können wir schweigen.​«
+Nun wurde auch Tassilo nachdenklich; eine verdrießliche Szene, die aus diesem weidmännischen Schwabenstreich hervorwachsen konnte, erschien ihm als eine nicht sehr günstige Einleitung für alles andere, was sich in diesen Tagen zwischen seinem Vater und ihm entscheiden sollte; er mußte jeden Verdruß zu vermeiden suchen. <quote>»​Wir brauchen keine Unwahrheit zu sagen,​«</quote><suspension> meinte er, </suspension><quote>»​aber wenn die Sache nicht von selbst zur Sprache kommt, können wir schweigen.​«</quote>
 
 Franzl kraute sich hinter den Ohren. »​Gscheiter wär's, wenn S' sagen möchten, Sie hätten Ihrem Herrn Vater so an Endstrumm Hirsch net wegschießen mögen.​«
 
@@ -2973,7 +2973,7 @@ Nun wurde Graf Egge lebendig. »​Was ist mit dem Hirsch?​«
 
 »​Warum hast du mir nicht sofort gemeldet, daß der gute Hirsch im Treiben war?​«
 
-»​Aber ich bitt, Herr Graf,​« stotterte Franzl, »​es is ja kei' Zeit zum Reden gwesen. Der Herr Graf is ja gleich davon, und ich hab bei die Gamsböck zruckbleiben müssen.​«
+<quote>»​Aber ich bitt, Herr Graf,​«</quote><suspension> stotterte Franzl, </suspension><quote>»​es is ja kei' Zeit zum Reden gwesen. Der Herr Graf is ja gleich davon, und ich hab bei die Gamsböck zruckbleiben müssen.​«</quote>
 
 »​Das ist eine Ausrede, die ich absolut nicht dulde! Es war deine Pflicht, mir sofort die Patzerei zu melden, die dein Schütze gemacht hat, und du mit ihm! Oder habt ihr euch etwa verabredet zu schweigen?​«
 
@@ -3023,13 +3023,13 @@ Franzl, dem die Luft in der Stube nicht geheuer schien, drückte sich schleunigs
 
 Graf Egge lachte. »​Aaaah! Du gibst also wenigstens zu, daß ein Wildschütz ein Verbrecher ist?​«
 
-»​Na, sieh mal, mit diesem Zugeständnis hast du Papa eine Freude gemacht,​« fiel Robert ein, »​und ich vermutete schon, daß du eigentlich etwas ganz anderes sagen wolltest. Oder nicht?​«
+<quote>»​Na, sieh mal, mit diesem Zugeständnis hast du Papa eine Freude gemacht,​«</quote><suspension> fiel Robert ein, </suspension><quote>»​und ich vermutete schon, daß du eigentlich etwas ganz anderes sagen wolltest. Oder nicht?​«</quote>
 
 Willy sah den Blick, den die Brüder tauschten, und versuchte einzulenken. »​Natürlich ein Verbrecher! Der Kerl ist ja auch richtig verknurrt worden. Tas plädierte doch nur auf mildernde Umstände, und die waren in diesem Falle wirklich am Platz. Wenn man die Sache genau betrachtet, bestand das einzige Verbrechen dieses Menschen doch eigentlich darin, daß er nicht vorsichtig genug in der Wahl seiner Eltern war. Wäre er mit dieser Leidenschaft für die Jagd als der Sohn eines reichen Vaters auf die Welt gekommen, so hätte  er sich ein paar Reviere pachten können, wäre ein großer Nimrod geworden und dabei ein anständiger Mensch geblieben. Hab' ich nicht recht?​« Willy ging auf den Vater zu und faßte ihn scherzend am Bart. »​Sei mal ehrlich, Papa, und setze den Fall, daß du selbst als armer Teufel auf die Welt gekommen wärst. Ich glaube, aus dir wär' auch ein Wildschütz geworden, dazu noch ein riesig gefährlicher.​«
 
 »​Nein!​« entschied Graf Egge. »​Ein Wildschütz gewiß nicht, wahrscheinlich ein pflichtgetreuer Jäger.​«
 
-»​Ein solcher würde auch aus meinem Klienten werden,​« sagte Tassilo, »​wenn du auf meine Bitte gehört und den Mann in deine Dienste genommen hättest!​«
+<quote>»​Ein solcher würde auch aus meinem Klienten werden,​«</quote><suspension> sagte Tassilo, </suspension><quote>»​wenn du auf meine Bitte gehört und den Mann in deine Dienste genommen hättest!​«</quote>
 
 »​Das hätt' mir taugen können nach aller Galle, die mir die Sache gemacht hat, und nach dem verwünschten Klatsch!​«
 
@@ -3091,7 +3091,7 @@ Während Schipper in der Herrenstube Graf Egges Bein frottierte, taten Robert un
 
 Früh am Morgen hatte Forbeck sich erhoben, um vor seinem Gang nach Hubertus noch einige Stunden für die Arbeit zu gewinnen. Er öffnete das Fenster und rückte die Leinwand in das beste Licht. Er nahm auch die Palette. Doch als er vor das Bild trat und den Blick auf die leuchtende Mädchengestalt heftete, die vor ihm zu leben schien, umschimmert von einem letzten Sonnenstrahl, den das ausbrechende Unwetter schon zu ersticken droht – da schien er seine Arbeit wieder zu vergessen. Er hörte nicht, daß Mali die Stube betrat, um das Frühstück zu bringen. Erst als die Tasse klirrte, erwachte er und nickte zerstreut einen Gruß, den Mali nicht erwiderte. In Hast verließ sie die Stube. Forbeck hüllte die Leinwand in ein weißes Tuch, legte den Malkasten auf den Tisch und machte sich zum Ausgang fertig, ohne das Frühstück zu berühren. Im Flur begegnete ihm Mali mit dem kleinen Netterl auf den Armen.
 
-»​Wenn jemand von Schloß Hubertus kommt, um meine Geräte zu holen,​« sagte er, »​ich habe droben alles bereitgestellt. Und bitte, sagen Sie dem Diener –​« Da verstummte Forbeck und sah erschrocken in das Gesicht des Mädels.
+<quote>»​Wenn jemand von Schloß Hubertus kommt, um meine Geräte zu holen,​«</quote><suspension> sagte er, </suspension><quote>»​ich habe droben alles bereitgestellt. Und bitte, sagen Sie dem Diener –​«</quote> Da verstummte Forbeck und sah erschrocken in das Gesicht des Mädels.
 
 Mali sah aus wie ein Gespenst ihrer selbst. Der Ausdruck eines trostlosen Kummers lag auf ihren vergrämten Zügen, und dunkle Ränder zogen sich um die Augen.
 
@@ -3189,7 +3189,7 @@ In halber Höhe des Baumes saß der Adler auf einem Ast, die Fänge weit gesprei
 
 Kitty befahl energisch: »​Ruhe!​« Schweigen trat ein, aber vom Schloß herüber hörte man den Jammerschrei der Kleesberg: »​Kitty! Kitty!​« Das klang immer näher, niemand kümmerte sich drum, alle spähten nach dem Adler.
 
-»​Der Vogel kennt die Kraft seiner Schwingen nicht,​« sagte Forbeck zu Kitty, »​sonst würde er nicht so ruhig sitzen. Er ist an die Gefangenschaft gewöhnt. Wenn wir ihn aufstören, wird er zu Boden flattern. Ihn mit den Händen zu packen, das möchte übel ausfallen. Mit einem Netz vielleicht –​«
+<quote>»​Der Vogel kennt die Kraft seiner Schwingen nicht,​«</quote><suspension> sagte Forbeck zu Kitty, </suspension><quote>»​sonst würde er nicht so ruhig sitzen. Er ist an die Gefangenschaft gewöhnt. Wenn wir ihn aufstören, wird er zu Boden flattern. Ihn mit den Händen zu packen, das möchte übel ausfallen. Mit einem Netz vielleicht –​«</quote>
 
 »​Fritz! Das große Forellennetz! Und eine Leiter!​« befahl Kitty.
 
@@ -3205,7 +3205,7 @@ Moser schüttelte den Kopf und ging.
 
 »​Kitty! Kitty!​« Tante Gundi erschien mit ausgebreiteten Armen in der Ulmenallee.
 
-»​Fräulein von Kleesberg ist in Sorge,​« sagte Forbeck und faßte Kittys Hand, »​ich glaub' auch, es wäre besser, wenn Sie sich entfernen wollten, bis die Sache vorüber ist.​«
+<quote>»​Fräulein von Kleesberg ist in Sorge,​«</quote><suspension> sagte Forbeck und faßte Kittys Hand, </suspension><quote>»​ich glaub' auch, es wäre besser, wenn Sie sich entfernen wollten, bis die Sache vorüber ist.​«</quote>
 
 Mit großen Augen sah ihn Kitty an. »​Nein. Ich bleibe bei Ihnen. Angst hab' ich nicht.​«
 
@@ -3219,7 +3219,7 @@ In Verzweiflung kam Gundi Kleesberg herbeigestürzt und umklammerte Kittys Arm. 
 
 Einen Augenblick sträubte Kitty sich noch. Dann sagte sie: »​Gut, ich gehe. Aber dann haben auch Sie keine Veranlassung, hierzubleiben. Moser soll allein sehen, wie er seine Dummheit wieder gutmacht. Kommen Sie, Herr Forbeck.​« Sie streckte die Hand nach ihm.
 
-Da kam der Diener mit dem Netz gelaufen, und der Stallbursche brachte eine hohe Leiter. »​Seien Sie vorsichtig,​« rief Forbeck dem Burschen zu, der die Leiter aufzurichten versuchte, »​stoßen Sie mit der Leiter an keinen Ast!​«
+Da kam der Diener mit dem Netz gelaufen, und der Stallbursche brachte eine hohe Leiter. <quote>»​Seien Sie vorsichtig,​«</quote><suspension> rief Forbeck dem Burschen zu, der die Leiter aufzurichten versuchte, </suspension><quote>»​stoßen Sie mit der Leiter an keinen Ast!​«</quote>
 
 Die Warnung kam zu spät. Dem Adler schien die Sache nicht mehr geheuer. Er breitete die Schwingen aus. Des Fluges ungewohnt, vermochte er sich aus dem Gezweig der Ulme nicht hervorzuheben und kam ins Fallen.
 
@@ -3279,7 +3279,7 @@ Ein müdes Lächeln, und zögernd löste Kitty die Hände. »​Tante Gundi – 
 
 Forbeck sah sie verschwinden, wie ein Erwachender die Bilder einer traumseligen Nacht im kalten Grau des beginnenden Tages zerrinnen sieht – für immer.
 
-»​Ich bitte, Herr Forbeck,​« fragte Moser, »​soll ich Ihnen vielleicht die Malsachen heimtragen? Jetzt wird wohl ausgmalt sein?​«
+<quote>»​Ich bitte, Herr Forbeck,​«</quote><suspension> fragte Moser, </suspension><quote>»​soll ich Ihnen vielleicht die Malsachen heimtragen? Jetzt wird wohl ausgmalt sein?​«</quote>
 
 Der Alte redete diese Worte aus seiner ehrlichen Betrübnis heraus; Forbeck empfand ihren Doppelsinn wie einen schmerzenden Stich. Ohne zu antworten, ging er an Moser vorüber. Als er zur Staffelei kam, stand er lange in die Betrachtung des Bildes versunken. Dann deckte er hastig das Tuch über die Leinwand und schloß den Malkasten. Einen letzten Blick noch ließ er über den Rasen gleiten, über den leeren Armstuhl und über die Fenster des Schlosses, aus dessen Mauern die hundert Enden der mächtigen Hirschgeweihe hervorstarrten wie die Spitzen gefällter Lanzen.
 
@@ -3315,7 +3315,7 @@ Graf Egge war in schlechter Laune. Zwei Triebe seit dem Morgen. Und er hatte noc
 
 Nun ging es auf Mittag, und es sollte der dritte Bogen beginnen. Die Treiber waren schon abmarschiert und mit ihnen Tassilo und Franzl, die den Rückwechsel zu besetzen hatten. Robert und Willy warteten auf Schipper, der mit seinem Herrn in flüsterndem Gespräche abseits stand.
 
-»​Sieh nur, wie die beiden die Köpfe zusammenstecken,​« sagte Robert zu seinem Bruder, »​Papa scheint seinem Hof- und Staatsrat geheime Order zu geben.​«
+<quote>»​Sieh nur, wie die beiden die Köpfe zusammenstecken,​«</quote><suspension> sagte Robert zu seinem Bruder, </suspension><quote>»​Papa scheint seinem Hof- und Staatsrat geheime Order zu geben.​«</quote>
 
 Das war nicht weit vom Ziel geschossen. »​Den Bertl stell' auf den nächsten Stand!​« befahl Graf Egge seinem Büchsenspanner. »​Der kann allein bleiben. Bei dem bin ich sicher, daß er mir den Anlauf nicht verdirbt. Und du geh mit dem anderen! Sonst brennt er mir am End' wirklich noch eine Geiß nieder. Wenn er auf einen Bock zu Schuß kommt, in Gottes Namen!​« Dieses Zugeständnis löste sich etwas zögernd von Graf Egges Lippen. »​Aber nicht zu früh! Das bitt' ich mir aus!​«
 
@@ -3355,7 +3355,7 @@ Auch Tassilo hatte den Hirsch schon gewahrt und hob die Waffe.
 
 »​Jetzt halten S' aber sauber hin! Wann wieder a Malör passiert, gibt's den ärgsten Verdruß mit Ihrem Herrn Vater.​«
 
-Das schien auch Tassilo zu befürchten, und dieser Gedanke machte ihn unruhig. »​Nehmen Sie Ihre Büchse,​« sagte er leis, »​und wenn der Hirsch mit meiner Kugel weitergeht, so geben Sie einen Fangschuß ab!​«
+Das schien auch Tassilo zu befürchten, und dieser Gedanke machte ihn unruhig. <quote>»​Nehmen Sie Ihre Büchse,​«</quote><suspension> sagte er leis, </suspension><quote>»​und wenn der Hirsch mit meiner Kugel weitergeht, so geben Sie einen Fangschuß ab!​«</quote>
 
 »​Gut! Aber treffen müssen S' ihn! Sonst komm ich in die schönste Suppen eini, wenn ich schieß!​« Dem Jäger zitterte vor Erregung die Hand, mit der er lautlos den Hahn seiner Büchse spannte.
 
@@ -3391,7 +3391,7 @@ Langsam drehte Graf Egge das Gesicht und streifte Robert mit wütendem Blick.
 
 Ohne zu antworten, verließ Graf Egge den Stand, und als er einen Treiber aus den Latschen hervortreten sah, schrie er ihn mit heiserer Stimme an: »​Heut habt ihr wieder einmal getrieben wie die Schweine!​« Das war die Einleitung zu einem Ungewitter, das sich unter Blitz und Donner entlud. Von allen Seiten kamen die Treiber herbeigerannt, drückten sich auf ein Häuflein zusammen wie  geduldige Schafe und ließen schweigend die Köpfe hängen. Sie wußten aus Erfahrung, daß sie mit wortloser Zerknirschung dem Zorn ihres Jagdherrn flinker entrannen als mit dem Versuch einer Verteidigung. Schließlich unterbrach Graf Egge seinen mit Flüchen reich gespickten Erguß und fragte: »​Was hat denn der Kerl da hinten geschossen?​«
 
-»​Dem Grafen Tassilo muß an Endstrumm Hirsch kommen sein,​« sagte einer der Treiber, »​aber ich weiß net, ob er ihn hat.​«
+<quote>»​Dem Grafen Tassilo muß an Endstrumm Hirsch kommen sein,​«</quote><suspension> sagte einer der Treiber, </suspension><quote>»​aber ich weiß net, ob er ihn hat.​«</quote>
 
 »​Das wäre noch schöner!​« Mit diesem mystischen Ausspruch, der nach Art der delphischen Orakel eine doppelte Auslegung zuließ, eilte Graf Egge langen Schrittes davon. Schweigend trotteten die Treiber hinter ihm her, Robert blieb zurück und steckte lachend eine Zigarette in Brand, und während Willy hoch im Geröll des Latschenfeldes auftauchte, kam Schipper, der für die Laune seines Herrn die richtige Witterung zu haben schien, mit langen Sätzen über den Berghang heruntergesprungen.
 
@@ -3405,7 +3405,7 @@ Auch Tassilo zeigte ein Gesicht, als wäre ihm diese Entdeckung nicht willkommen
 
 Franzl atmete schwer und ließ den Kopf sinken. »​Freilich, ich kann's Ihnen net verdenken. Lügen tut keiner gern. Aber beim  Herrn Grafen kommt man net aus mit die graden Weg. Dös hab ich schon bitter schmecken müssen. No also, mein Klampferl hab ich schon droben am Buckel, jetzt kommt noch a Span dazu!​«
 
-»​Seien Sie ohne Sorge, Hornegger,​« sagte Tassilo mit mühsam bewahrter Ruhe, »​ich stehe dafür ein, daß Ihnen jeder Verdruß erspart bleibt. Wenn mein Vater hört, daß Sie nur auf meine Weisung geschossen haben –​«
+<quote>»​Seien Sie ohne Sorge, Hornegger,​«</quote><suspension> sagte Tassilo mit mühsam bewahrter Ruhe, </suspension><quote>»​ich stehe dafür ein, daß Ihnen jeder Verdruß erspart bleibt. Wenn mein Vater hört, daß Sie nur auf meine Weisung geschossen haben –​«</quote>
 
 »​Dös wird net viel helfen! Natürlich, Ihnen ins Gesicht wird der Herr Vater sagen: es ist alles gut. Aber hinterrucks krieg ich mein Putzer. Es wär net 's erstemal.​«
 
@@ -3425,7 +3425,7 @@ Eine halbe Wegstunde hatte er zurückgelegt; da hörte er neben dem Pfad ein Ras
 
 »​Patscheider? Du?​« Das klang nicht freundlich. Graf Egge schien diese Begegnung als eine willkommene Gelegenheit zu begrüßen, um seinen Zorn zu kühlen. »​Was hast du hier zu schaffen? Warum bist du nicht in deinem Bezirk? Oder kommst du mir schon wieder mit der Zumutung, daß ich deinen Gehalt –​« Graf Egge verstummte, als er das fahle Gesicht des Jägers sah. Eine unbehagliche Ahnung mochte in ihm aufdämmern. »​Patscheider?​«
 
-Der Jäger ließ einen scheuen Blick über den Weg auf- und niedergleiten. »​Ich bitt, Herr Graf,​« sagte er mit gepreßter Stimme, »​bei mir drüben liegt einer.​«
+Der Jäger ließ einen scheuen Blick über den Weg auf- und niedergleiten. <quote>»​Ich bitt, Herr Graf,​«</quote><suspension> sagte er mit gepreßter Stimme, </suspension><quote>»​bei mir drüben liegt einer.​«</quote>
 
 »​Pfui Teufel! Das is zwider!​« fuhr es über Graf Egges Lippen.
 
@@ -3445,7 +3445,7 @@ Graf Egge zauste am Bart. »​Verflucht! Wer war's denn?​«
 
 »​Bist du verrückt?​« fuhr Graf Egge auf. »​Diese Laufereien und das Geschrei in der ganzen Gegend! Das könnte mir grad noch abgehen!​«
 
-»​Aber ich bitt, Herr Graf,​« stammelte Patscheider, »​wenn ich die Sach net zur Anzeig bring, da kann ich in die ärgste Schlamastik einikommen. Aber wenn ich den rechtlichen Weg geh – ich hab am End net mehr als mei' Pflicht erfüllt und in Notwehr gehandelt.​«
+<quote>»​Aber ich bitt, Herr Graf,​«</quote><suspension> stammelte Patscheider, </suspension><quote>»​wenn ich die Sach net zur Anzeig bring, da kann ich in die ärgste Schlamastik einikommen. Aber wenn ich den rechtlichen Weg geh – ich hab am End net mehr als mei' Pflicht erfüllt und in Notwehr gehandelt.​«</quote>
 
 »​So? Notwehr? Hat der ander geschossen auf dich?​«
 
@@ -3507,7 +3507,7 @@ Franzl stand mit weißem Gesicht, und Tassilo sah den Vater an, als hätte er ei
 
 »​Herr Graf?​« stammelte der Jäger endlich. »​Dös kann doch net Ihr Ernst sein?​«
 
-»​Nein, Hornegger,​« fiel Tassilo mit bebender Stimme ein, »​mein Vater hat im Ärger ein Wort gesprochen, das er gern zurücknehmen wird, wenn er ruhiger geworden.​«
+<quote>»​Nein, Hornegger,​«</quote><suspension> fiel Tassilo mit bebender Stimme ein, </suspension><quote>»​mein Vater hat im Ärger ein Wort gesprochen, das er gern zurücknehmen wird, wenn er ruhiger geworden.​«</quote>
 
 Graf Egge fuhr mit dem Gesicht herum. »​Da kennst du mich schlecht.​«
 
@@ -3537,7 +3537,7 @@ Zögernd nickte Graf Egge. »​Für den Patscheider ja! Der ander liegt!​«
 
 »​Das Exempel hat wohl seine gute Wirkung, aber so was bleibt doch immer eine böse Sache. Ich bin kein Freund von Geschrei und Scherereien. Am liebsten wär' mir's, wenn Staub über die Geschichte fiele. Patscheider hat als Jäger seine Pflicht getan, ich will nicht, daß er Unannehmlichkeiten hat. Da drüben muß sauber gemacht werden, noch heut. Wenn dann das Laufen und Suchen der Verwandten angeht – im Gebirg' ist überall Unglück möglich. Wenn einer vermißt wird, muß man ihn noch lang nicht erschossen haben. Was meinst du? Kann ich mich auf dich verlassen?​«
 
-»​Herr Graf –​« Schipper blies die Backen auf und griff nach seiner Nase, »​da tät ich schon lieber wieder a Kitz auf d' Seit räumen. Aber wenn's der Jagd z'lieb sein muß, in Gotts Namen!​«
+<quote>»​Herr Graf –​«</quote><suspension> Schipper blies die Backen auf und griff nach seiner Nase, </suspension><quote>»​da tät ich schon lieber wieder a Kitz auf d' Seit räumen. Aber wenn's der Jagd z'lieb sein muß, in Gotts Namen!​«</quote>
 
 Er setzte sich dicht an die Seite seines Herrn, und flüsternd steckten sie die Köpfe zusammen. Als Schipper sich nach einer Weile erhob, sagte Graf Egge: »​Sei vorsichtig! Und drüben geh barfuß, die Bauern kennen deine Nagelfährte.​«
 
@@ -3759,7 +3759,7 @@ Willy schüttelte den Kopf. »​Danke, Papa, ich brauche nichts.​«
 
 »​Ja, Papa!​« Willy erhob sich müd und folgte dem Vater; schweigend saß er auf dem Herdrand und starrte die Pfanne an.
 
-»​Erzähl' mir, Junge,​« sagte Graf Egge, während er mit dem langen Eisenlöffel im brodelnden Schmarren herumarbeitete, »​wie hast du drunten unsere kleine Schmalgeiß angetroffen?​«
+<quote>»​Erzähl' mir, Junge,​«</quote><suspension> sagte Graf Egge, während er mit dem langen Eisenlöffel im brodelnden Schmarren herumarbeitete, </suspension><quote>»​wie hast du drunten unsere kleine Schmalgeiß angetroffen?​«</quote>
 
 »​Danke, Papa, gut!​« erwiderte Willy mit zerstreuter Scheu. »​Wie lang hast du sie nicht mehr gesehen?​«
 
@@ -3781,7 +3781,7 @@ Nun trat wieder Schweigen ein. Die brennenden Scheite krachten, und in der Pfann
 
 Willy erhob sich und guckte wie ein Träumender auf den Stein, der gleich einem großen erstarrten Blutstropfen auf seiner flachen Hand lag.
 
-»​Geh vor die Tür hinaus ins Licht,​« sagte Graf Egge, »​dann siehst du sein Feuer besser.​«
+<quote>»​Geh vor die Tür hinaus ins Licht,​«</quote><suspension> sagte Graf Egge, </suspension><quote>»​dann siehst du sein Feuer besser.​«</quote>
 
 Willy trat ins Freie; doch er hielt über dem Stein die Hand geschlossen und spähte gegen den Steig. »​Ob er die Alm schon erreicht hat?​« Hastig schob er den Rubin in die Westentasche und rannte zu der Graskuppe, auf der die Holzbank unter den Fichten stand. Von hier aus konnte er den Steig im Tal auf eine weite Strecke übersehen.
 
@@ -3811,7 +3811,7 @@ Ein Schauer rüttelte die Schultern des Jägers. Keuchend drückte er die Fäust
 
 Taumelnd erhob sich Franzl. »​Ich bin verruckt! In mir steigen Gedanken auf – ich kann mir nimmer helfen. Und da soll ich nunter ins Ort und soll –​« Die Stimme versagte ihm fast. »​Was wird d' Mutter sagen! Mar' und Josef! Den Vater haben s' ihr am Schragen bracht. Und ich komm so daher! Davongjagt mit Schimpf und Schand, als hätt' ich 's ärgste Verbrechen angstellt!​«
 
-Tassilo hatte Mühe, die Erregung zu beschwichtigen, die aus dem Jäger herausbrach. Franzl wurde ruhiger, je länger Tassilo zu ihm redete, und schließlich bat er reumütig: »​Sind S' mir net harb, Herr Graf, daß ich Ihnen solche Unglegenheiten mach!​« Aber die Gedanken, die ihn vor dem Marterl seines Vaters befallen hatten, wollten nicht mehr von ihm lassen. Während des Niederstieges zum Wetterbach hörte Franzl nur mit halbem Ohr auf Tassilos Zusage, daß er einen guten Posten für den Jäger zu finden hoffe. Franzl erwachte erst aus seiner Verlorenheit, als er das Dorf überblicken konnte; das erste Gehöft, das ihm in die Augen fiel, war das Brucknerhaus. Ein schwerer Atemzug hob seine Brust. »​Da wird's jetzt schlecht ausschauen! Mit uns zwei!​« Trotz dieser hoffnungslosen Stimmung fuhr ihm eine merkwürdige Eile in die Beine. »​Ich lauf a bißl voraus,​« sagte er, »​sonst müssen wir z'lang auf a Schiffl warten.​« Er rannte talwärts.
+Tassilo hatte Mühe, die Erregung zu beschwichtigen, die aus dem Jäger herausbrach. Franzl wurde ruhiger, je länger Tassilo zu ihm redete, und schließlich bat er reumütig: »​Sind S' mir net harb, Herr Graf, daß ich Ihnen solche Unglegenheiten mach!​« Aber die Gedanken, die ihn vor dem Marterl seines Vaters befallen hatten, wollten nicht mehr von ihm lassen. Während des Niederstieges zum Wetterbach hörte Franzl nur mit halbem Ohr auf Tassilos Zusage, daß er einen guten Posten für den Jäger zu finden hoffe. Franzl erwachte erst aus seiner Verlorenheit, als er das Dorf überblicken konnte; das erste Gehöft, das ihm in die Augen fiel, war das Brucknerhaus. Ein schwerer Atemzug hob seine Brust. »​Da wird's jetzt schlecht ausschauen! Mit uns zwei!​« Trotz dieser hoffnungslosen Stimmung fuhr ihm eine merkwürdige Eile in die Beine. <quote>»​Ich lauf a bißl voraus,​«</quote><suspension> sagte er, </suspension><quote>»​sonst müssen wir z'lang auf a Schiffl warten.​«</quote> Er rannte talwärts.
 
 Als Tassilo bei sinkendem Abend den Wetterbach erreicht und den frisch gezimmerten Steg überschritten hatte, blieb er vor der öden Klause stehen. Auf der Marmortafel über der Tür war in der Dämmerung die halb verwitterte Inschrift kaum mehr zu erkennen.
 
@@ -4017,7 +4017,7 @@ Werner war vor das Bild getreten. »​Sag' mir, Hans, wie hast du das fertigbri
 
 Forbeck, in dessen Augen die Freude sich umschleierte, wollte sprechen. Werner ließ ihn nicht zu Wort kommen.
 
-»​Aber jetzt diesen Zettel weg!​« Er zerknüllte das Blatt, das er an die Leinwand geheftet hatte. »​Weißt du, Junge, das war nur der erste Jubelschuß. Jetzt kommt der Ernst. Bis das Bild in den Rahmen taugt, wird es noch ein tüchtiges Stück Arbeit brauchen. Da sollst du keine Zeit verlieren. Unsere italienische Reise schieben wir auf, Italien läuft dir nicht davon. Aber die Stimmung, in der du das begonnen hast, die mußt du festhalten wie mit Eisen. So was verträgt keinen Riß, das will sich ausströmen in einem Zug. Morgen kutschieren wir heim nach München.​« Werner lachte wieder. »​Ohne ein paar Hahnenkämpfe wird es da zwischen uns nicht abgehen, denn hier, und hier,​« er deutete auf verschiedene Stellen des Bildes, »​da hab' ich meine Bedenken. Aber diese Mittelgruppe! Das bleibt. Da sollst du mir keinen Strich mehr ändern. Dieser Jäger! Wie er dasteht in gesunder Kraft, in seiner Glückseligkeit! Und das Mädel erst! Wie bist du denn zu diesem Modell gekommen? Du Sonntagskind! Und wie du das gestellt hast! So mitten hinein ins höchste Licht! Dieser letzte Sonnenstrahl, der sie umschmeichelt wie ein Verliebter, scheint zu ihr sagen zu wollen: ›​Dich hab' ich, und dich laß ich nimmer!​‹ Hast du für das Bild schon einen Titel gefunden?​«
+»​Aber jetzt diesen Zettel weg!​« Er zerknüllte das Blatt, das er an die Leinwand geheftet hatte. »​Weißt du, Junge, das war nur der erste Jubelschuß. Jetzt kommt der Ernst. Bis das Bild in den Rahmen taugt, wird es noch ein tüchtiges Stück Arbeit brauchen. Da sollst du keine Zeit verlieren. Unsere italienische Reise schieben wir auf, Italien läuft dir nicht davon. Aber die Stimmung, in der du das begonnen hast, die mußt du festhalten wie mit Eisen. So was verträgt keinen Riß, das will sich ausströmen in einem Zug. Morgen kutschieren wir heim nach München.​« Werner lachte wieder. <quote>»​Ohne ein paar Hahnenkämpfe wird es da zwischen uns nicht abgehen, denn hier, und hier,​«</quote><suspension> er deutete auf verschiedene Stellen des Bildes, </suspension><quote>»​da hab' ich meine Bedenken. Aber diese Mittelgruppe! Das bleibt. Da sollst du mir keinen Strich mehr ändern. Dieser Jäger! Wie er dasteht in gesunder Kraft, in seiner Glückseligkeit! Und das Mädel erst! Wie bist du denn zu diesem Modell gekommen? Du Sonntagskind! Und wie du das gestellt hast! So mitten hinein ins höchste Licht! Dieser letzte Sonnenstrahl, der sie umschmeichelt wie ein Verliebter, scheint zu ihr sagen zu wollen: ›​Dich hab' ich, und dich laß ich nimmer!​‹ Hast du für das Bild schon einen Titel gefunden?​«</quote>
 
 »​Ja, Werner! Jetzt!​«
 
@@ -4041,7 +4041,7 @@ Eine Weile war Stille. »​Komm, Hans! Wir müssen in frische Luft! Wir beide!�
 
 Sie verließen das Haus. Es dämmerte schon im Tal. Über das zerfließende Gewölk her traf noch ein glühender Sonnengruß die Zinnen der Berge und die Almen; alle Höhen waren so scharf beleuchtet, daß man jede Sennhütte und jeden einzelnen Felsblock deutlich unterscheiden konnte; mit klaren Linien hob sich jeder Baum aus dem schimmernden Hintergrund, und die kahlen Felswände ragten gleich erstarrten Flammen in das tiefe Blau des sich klärenden Himmels.
 
-»​Sieh, Hans,​« sagte Werner, »​wie schön das ist!​«
+<quote>»​Sieh, Hans,​«</quote><suspension> sagte Werner, </suspension><quote>»​wie schön das ist!​«</quote>
 
 Forbeck nickte.
 
@@ -4331,7 +4331,7 @@ Werner eilte in das Haus und über die Treppe hinauf. Die geräumte Giebelstube 
 
 Vor dem Haus erwartete sie der Bauer. Auch Mali erschien mit dem Netterl auf dem Arm; als ihr Forbeck die Hand reichte, fand sie nur ein paar kurze Worte; wie erleichtert atmete sie auf, als der Wagen davonrollte.
 
-»​Geh,​« sagte der Bauer, »​hättst mit dem jungen Herrn doch a bißl freundlicher sein sollen! Soviel gut is er gwesen mit uns! Und du hast dich gestellt, als ob d' froh wärst, daß er endlich draußen is zum Haus!​«
+<quote>»​Geh,​«</quote><suspension> sagte der Bauer, </suspension><quote>»​hättst mit dem jungen Herrn doch a bißl freundlicher sein sollen! Soviel gut is er gwesen mit uns! Und du hast dich gestellt, als ob d' froh wärst, daß er endlich draußen is zum Haus!​«</quote>
 
 »​Froh?​« Zwei Tränen rannen über Malis Mund. »​Dös Wörtl kenn ich nimmer, Lenzi! Und was wir zwei mitanander tragen müssen, tragt sich leichter unter uns als vor fremde Augen!​« Sie trat ins Haus.
 
@@ -4427,7 +4427,7 @@ Als sie die Haustür öffnete und Patscheider vor ihr stand, war sie noch zu seh
 
 Patscheider legte das Gewehr auf die Wandbank. »​Was macht er denn?​«
 
-Die Horneggerin schüttete ihr bekümmertes Herz aus. Der Jäger saß mit bleichem Gesicht, und als die Försterin auf das üble Leutgerede zu sprechen kam, ballten sich Patscheiders Hände zu zitternden Fäusten. »​Hab schon ghört davon,​« sagte er heiser, »​und grad hat im Wirtshaus einer von die Schiffknecht a Wörtl fallen lassen. Den hab ich hindruckt an d' Wand. Der wird 's Maul halten jetzt! Aber weil wir schon reden davon – d' Leut sagen, daß der alte Mühltaler grad bei enk da gwesen is?​«
+Die Horneggerin schüttete ihr bekümmertes Herz aus. Der Jäger saß mit bleichem Gesicht, und als die Försterin auf das üble Leutgerede zu sprechen kam, ballten sich Patscheiders Hände zu zitternden Fäusten. <quote>»​Hab schon ghört davon,​«</quote><suspension> sagte er heiser, </suspension><quote>»​und grad hat im Wirtshaus einer von die Schiffknecht a Wörtl fallen lassen. Den hab ich hindruckt an d' Wand. Der wird 's Maul halten jetzt! Aber weil wir schon reden davon – d' Leut sagen, daß der alte Mühltaler grad bei enk da gwesen is?​«</quote>
 
 Die Försterin nickte.
 
@@ -4523,11 +4523,11 @@ Es waren zwei Hirschgranen von selten dunkler Färbung; Graf trug sie seit Jahre
 
 »​Ja, Junge, es sind die besten, die ich zu verschenken habe. Aber nimm sie nur! Dir geb ich sie gern. Dich hab' ich lieb!​« Mit beiden Händen griff er in Willys Haar und zog ihm sacht den Kopf hin und her. »​Vergiß das dumme Wort von vorhin, aber tu mir den Gefallen und laß die andere Geschichte begraben sein. Ich hab's hinuntergewürgt und will Ruhe haben. Mach' du mir Freude, und alles ist ausgeglichen.​« Er küßte den Sohn auf beide Wangen, nickte ihm lachend zu und trat in die Hütte.
 
-Ein bißchen konsterniert über den ungewohnten Zärtlichkeitsausbruch, sah Willy dem Vater nach und steckte die Granen zu dem Rubin in die Westentasche. Er machte auch keinen Versuch mehr, von »​der anderen Geschichte​« zu sprechen. Im stillen schmiedete er allerlei Pläne. Als er den Bruder ins Vertrauen ziehen wollte, erfuhr er eine kühle Abweisung. »​Ich mische mich nicht in diesen Quark,​« sagte Robert, »​und rate dir, das gleiche zu tun. Laß den Narren seiner Wege gehen und sei froh, daß du selbst beim Vater schön Kind bist!​« Willy erwiderte gereizt, und die Sache endete zwischen den Brüdern mit verletzenden Worten.
+Ein bißchen konsterniert über den ungewohnten Zärtlichkeitsausbruch, sah Willy dem Vater nach und steckte die Granen zu dem Rubin in die Westentasche. Er machte auch keinen Versuch mehr, von »​der anderen Geschichte​« zu sprechen. Im stillen schmiedete er allerlei Pläne. Als er den Bruder ins Vertrauen ziehen wollte, erfuhr er eine kühle Abweisung. <quote>»​Ich mische mich nicht in diesen Quark,​«</quote><suspension> sagte Robert, </suspension><quote>»​und rate dir, das gleiche zu tun. Laß den Narren seiner Wege gehen und sei froh, daß du selbst beim Vater schön Kind bist!​«</quote> Willy erwiderte gereizt, und die Sache endete zwischen den Brüdern mit verletzenden Worten.
 
 Nun baute Willy seine ganze Hoffnung auf die Hilfe Kittys. Was ihm selbst nicht gelungen war, das mußte der Schwester gelingen. Willy sah, daß der Vater auch in der übelsten Laune dieser Tage einen freundlicheren Ton anschlug, sobald die Sprache auf die »​kleine Schmalgeiß​« kam. Und den Verlust des Adlers hatte er ihr so flink verziehen, daß Moser, der Kittys Brief gebracht hatte und das Märchen von der im Flug geschossenen Krähe erzählte, mit einem gelinden »​Wischer​« davonkam. So ließ nun Willy keinen Tag vergehen, ohne dem Vater die Sehnsucht, die Kitty nach ihm empfände, in den wärmsten Farben zu schildern.
 
-»​Ja, Junge,​« pflegte die Antwort zu lauten, »​nur noch diesen letzten Trieb und morgen die Frühpirsch. Dann gehen wir!​«
+<quote>»​Ja, Junge,​«</quote><suspension> pflegte die Antwort zu lauten, </suspension><quote>»​nur noch diesen letzten Trieb und morgen die Frühpirsch. Dann gehen wir!​«</quote>
 
 Am 1. September kam Graf Egge gegen Mittag in die Hütte zurück, mit Zorn geladen wie eine Kartätsche. Auf einen »​Kapitalbock​« hatte ihm die Patrone versagt, und der zweite Schuß, den er im Ärger der flüchtig gewordenen Gemse nachschickte, war ihm »​zu kurz​« geraten und hatte den Bock weidwund getroffen. Willy suchte den Vater zu beschwichtigen. Das wollte ihm fast gelingen. Da kam Schipper, der die Unglückspatrone geladen hatte, mit Robert von der Pirsche zurück und brachte zu allem Unheil noch die Meldung, daß seinem Schützen ein Doppelschuß auf einen Zehner- und Sechserhirsch gelungen wäre. Nun ging das Gewitter wieder los, und über das gebeugte Haupt des Büchsenspanners prasselte eine Litanei von Schimpfworten nieder. Schipper wartete das Ende dieses Ergusses nicht ab, sondern packte seine Büchse und rannte davon, um den angeschossenen Bock zu suchen.
 
@@ -4539,7 +4539,7 @@ Der Klang dieser Worte drang durch die Decke zum Heuboden hinauf, ohne Robert in
 
 An dieses zweite Kapitel seines Zornes fügte Graf Egge eine Jeremiade über das Jagdpech dieser letzten Tage. »​Da könnte man wirklich abergläubisch werden! Es ist gerade, als ob ein Fluch auf meiner Büchse läge, seit –​« Die nähere Zeitbestimmung verschluckte er.
 
-»​Du hast recht, Papa,​« fiel Willy ein, diese Wendung zugunsten seiner Pläne benützend, »​du bist in einem ganz schauderösen Pech! Das läßt sich mit Gewalt nicht ändern. Das beste Mittel ist immer, ein paar Tage aussetzen.​« Er legte den Arm um den Hals des Vaters. »​Es wäre das beste, uns augenblicklich auf die Socken zu machen. Du gehst deinem Pech aus dem Weg, und unserer kleinen Geiß machst du eine Freude. Wir wollen dir drunten die Langweil schon vertreiben! Jeden Nachmittag schießen wir auf Tontauben, und die kleine Geiß muß sich einüben auf den laufenden Hirsch. Ich wette, sie flickt ihm eins aufs Blatt! Sie müßte deine Tochter nicht sein!​«
+<quote>»​Du hast recht, Papa,​«</quote><suspension> fiel Willy ein, diese Wendung zugunsten seiner Pläne benützend, </suspension><quote>»​du bist in einem ganz schauderösen Pech! Das läßt sich mit Gewalt nicht ändern. Das beste Mittel ist immer, ein paar Tage aussetzen.​«</quote> Er legte den Arm um den Hals des Vaters. »​Es wäre das beste, uns augenblicklich auf die Socken zu machen. Du gehst deinem Pech aus dem Weg, und unserer kleinen Geiß machst du eine Freude. Wir wollen dir drunten die Langweil schon vertreiben! Jeden Nachmittag schießen wir auf Tontauben, und die kleine Geiß muß sich einüben auf den laufenden Hirsch. Ich wette, sie flickt ihm eins aufs Blatt! Sie müßte deine Tochter nicht sein!​«
 
 Graf Egge lächelte und faßte den Sohn an dem Haarschopf, der ihm in die Stirn hing. »​Ja, Bub, recht hast!​« sagte er in seinem  breitesten Dialekt. »​Mach' dich fertig und fahr' in die Schuh! Weck' den Lappschwanz da droben! Oder wenn ihm von der Pirsch die Knie schnackeln, soll er liegenbleiben. Ich geh mit dir, ich brauch' keinen andern! Und durchs Hochholz nunter mach' ich eine Pirsch mit dir. Da drunten stehen um die Mittagszeit die guten Hirsch gern um einander. Nimm dein Büchsl! Ich laß das meine in der Hütt, damit ich net in Versuchung komm, wenn ein Hirsch vor uns aufspringt. Ich will dir eine Freud' machen. Drum geh ich lieber mit dem Stecken. Weißt du, ich kenn' mich!​« Lachend holte er Willys Bergschuhe unter dem Ofen hervor und stellte sie ihm vor die Füße.
 
@@ -4671,7 +4671,7 @@ Willy las: »​Übermorgen mittag ein Uhr in der Frauenkirche.​« Erschrocken
 
 »​Ja, Maus, recht hast du! Das ist eine wahrhaft geniale Idee! Ich reise. Noch heute nacht. Ich freue mich närrisch auf das Gesicht, das er machen wird. Und dir, das versprech' ich, dir schick' ich ein ellenlanges Telegramm.​«
 
-»​Das kannst du dir sparen,​« erklärte Kitty, »​ich fahre mit!​«
+<quote>»​Das kannst du dir sparen,​«</quote><suspension> erklärte Kitty, </suspension><quote>»​ich fahre mit!​«</quote>
 
 »​Du? Nein, Maus, das ist Unsinn!​«
 
@@ -4805,7 +4805,7 @@ Linde Klänge gaukelten durch den Wald – im Dorfe läutete man den Abendsegen.
 
 Mit Wangen so rot wie blühender Mohn duckte Lieserl das Gesicht. »​Aber! Warten S', Sie Schlimmer Sie!​« Kichernd wand sie sich aus seinen Armen und huschte davon.
 
-Mit dem Hochgefühl eines Siegers nach heißer Entscheidungsschlacht sah Willy dem Mädel nach. Doch als das flatternde Röckl hinter den Buchenstauden verschwand, schien ein Gefühl in ihm zu erwachen, das mit einem moralischen Katzenjammer eine unleugbare Ähnlichkeit besaß. »​Natürlich,​« murrte er vor sich hin und schob die Mütze in den Nacken, »​da wäre mein heißer Schimmel glücklich wieder mit meinen guten Vorsätzen durchgegangen!​« Eine Weile überlegte er. »​Na also! Den letzten Unsinn noch, und dann Schluß!​«
+Mit dem Hochgefühl eines Siegers nach heißer Entscheidungsschlacht sah Willy dem Mädel nach. Doch als das flatternde Röckl hinter den Buchenstauden verschwand, schien ein Gefühl in ihm zu erwachen, das mit einem moralischen Katzenjammer eine unleugbare Ähnlichkeit besaß. <quote>»​Natürlich,​«</quote><suspension> murrte er vor sich hin und schob die Mütze in den Nacken, </suspension><quote>»​da wäre mein heißer Schimmel glücklich wieder mit meinen guten Vorsätzen durchgegangen!​«</quote> Eine Weile überlegte er. »​Na also! Den letzten Unsinn noch, und dann Schluß!​«
 
 Wie sehr sich auf dem Wege bis zum Seehof seine Stimmung noch zum Besseren wandelte, verriet das Wort, mit dem er auf der laut belebten Terrasse die Kellnerin begrüßte: »​Flink, Mädel! Eine Flasche Monopol ins Eis! Dann reden wir weiter!​«
 
@@ -4839,7 +4839,7 @@ Nun schwiegen sie. Der Waffenstillstand währte nicht lange. Energisch wandte si
 
 »​Gut Nacht, Schatzerl! Laß dir was Guts träumen!​« Mit diesem Segenswunsch wollte die Zaunerin ihre Schlafstube aufsuchen; aber da gewahrte sie den Lichtschein, der durch die Ritzen der Tür quoll, und wurde neugierig. Sie guckte durch das Schlüsselloch und sah, daß ihr feines Lieserl vor dem Spiegel saß und sich frisierte, als ging es zur Kirche oder zum Tanz. Schmunzelnd richtete sich die Meisterin auf, schlich auf den Zehen in ihre Stube, und während sie ihren grauen Schopf der Schlafhaube anvertraute, monologisierte sie im stillen: »​Schau, jetzt hat er am End doch recht? Sie muß was im Köpfl haben! No also, in Gotts Namen! Warum soll man ihr an unschuldigs Spassetterl net vergönnen? 's Madl is gscheit, 's Madl wird schon wissen, was verlaubt is und was net! Man is ja nur einmal jung!​« Sie ließ sich in die Federn fallen, streckte sich, legte die Hände auf die Bettdecke und gähnte. Es währte nicht lange, und die Zaunerin schnarchte.
 
-Drunten ging der Meister noch überall im Haus umher, versperrte die Küchentür, die Zimmertür und zuletzt das Haustor; alle Schlüssel zog er ab und schob sie in die Tasche. »​So,​« brummte er, als er an Lieserls Kammer vorüberkam, »​jetzt flieg aus, du Stieglitz, du leichtsinniger! Heut hab ich den Käfig versichert!​«
+Drunten ging der Meister noch überall im Haus umher, versperrte die Küchentür, die Zimmertür und zuletzt das Haustor; alle Schlüssel zog er ab und schob sie in die Tasche. <quote>»​So,​«</quote><suspension> brummte er, als er an Lieserls Kammer vorüberkam, </suspension><quote>»​jetzt flieg aus, du Stieglitz, du leichtsinniger! Heut hab ich den Käfig versichert!​«</quote>
 
 Er trat in die Schlafstube, öffnete das in den Garten führende  Fenster und suchte sein Bett, ohne daß die Meisterin erwachte. Mit offenen Augen lag er neben dem schnarchenden Weib, wälzte seine Vatersorgen, überlegte, wie er sein »​narrisches​« Lieserl auf »​verstandsame​« Wege bringen könnte, und sann auf ein Mittel, durch das sich der Eigensinn seiner Tochter brechen ließ und ihr Herz für den braven Pointner-Andres zu gewinnen wäre.
 
@@ -4973,7 +4973,7 @@ Forbeck verstand die Frage nicht.
 
 Kitty erschrak, daß ihre Wangen sich verfärbten. »​Das ist doch ganz unmöglich! Er ist doch eigens hergefahren, damit Tas am heutigen Tag nicht allein wäre!​« In jagenden Worten erzählte sie von der Verabredung, die sie mit Willy getroffen hatte, von seinem vermeintlichen Wortbruch, von ihrer Vermutung, daß er in der Nacht gefahren wäre, allein, um ihr den Unwillen des Vaters zu ersparen. »​Und nun ist er nicht hier! Und nicht daheim! Wie soll ich denn das begreifen?​«
 
-Forbeck suchte sie zu beruhigen; dabei empfand er eine Sorge, die ihm die Worte durcheinanderwirrte. Das bemerkte Kitty, und nun begann sie selbst nach einer Möglichkeit zu suchen, die Willys Abwesenheit erklären konnte. Vielleicht hatte er in der Eile einen falschen Zug bestiegen und die Versäumnis nicht wieder einholen können? »​Da machen wir uns das Herz schwer,​« sagte sie, »​und  mein Bruder Leichtfuß sitzt, der Himmel mag wissen, wo, und ist kreuzfidel! Wenn ich wieder daheim bin, wird sich alles aufklären! Wir beide wollen miteinander noch lachen über die Sorge, die wir uns gemacht haben. Wann kommen Sie wieder nach Hubertus? Ihr Bild dürfen Sie nicht warten lassen. Nun haben Sie meinen Bruder Tas den Freundschaftsdienst geleistet, um den er Sie gebeten hat, nun sind Sie wieder Herr Ihrer Zeit. Wann kommen Sie?​«
+Forbeck suchte sie zu beruhigen; dabei empfand er eine Sorge, die ihm die Worte durcheinanderwirrte. Das bemerkte Kitty, und nun begann sie selbst nach einer Möglichkeit zu suchen, die Willys Abwesenheit erklären konnte. Vielleicht hatte er in der Eile einen falschen Zug bestiegen und die Versäumnis nicht wieder einholen können? <quote>»​Da machen wir uns das Herz schwer,​«</quote><suspension> sagte sie, </suspension><quote>»​und  mein Bruder Leichtfuß sitzt, der Himmel mag wissen, wo, und ist kreuzfidel! Wenn ich wieder daheim bin, wird sich alles aufklären! Wir beide wollen miteinander noch lachen über die Sorge, die wir uns gemacht haben. Wann kommen Sie wieder nach Hubertus? Ihr Bild dürfen Sie nicht warten lassen. Nun haben Sie meinen Bruder Tas den Freundschaftsdienst geleistet, um den er Sie gebeten hat, nun sind Sie wieder Herr Ihrer Zeit. Wann kommen Sie?​«</quote>
 
 Erschrocken sah Forbeck zu ihr auf; er schien sprechen zu wollen und brachte keinen Laut heraus. Jedes Wort war auch überflüssig; die ratlose Pein, die ihm das Herz bedrückte, redete deutlich aus seinen Augen.
 
@@ -4987,7 +4987,7 @@ Sie hatte verstanden.
 
 Der Wagen machte eine jähe Kurve und hielt. Lachend öffnete der Kutscher den Schlag. »​So bin ich schon lang nimmer gfahren. Drei Schandarm haben mich aufgschrieben!​«
 
-Die beiden im Wagen erwachten, als hätte eine derbe Faust sie aufgerüttelt. Forbeck stammelte: »​Noch fünf Minuten. Wir müssen den Zug noch im Bahnhof finden!​« Er sprang aus dem Wagen und reichte Kitty die Hand. Dankend nickte sie, stieg aus und eilte über die Stufen des Portals hinauf. Als sie die riesige, von Menschen, von Geschrei und rollendem Getös belebte Bahnhalle betrat, blieb sie stehen und sah zu Forbeck auf; ihre Wangen glühten, doch keine Spur von Verwirrung oder Scheu war an ihr zu bemerken. »​Nicht wahr,​« sagte sie mit strengem Ernst, »​zu Tas und Anna kein Wort wegen Willy! Das ist nicht die Stunde, um ihnen Sorge zu machen. Was mich betrifft, da muß ich eben lügen, wenn ich Tas nicht die Freude verderben will. Und Ihnen muß ich Mühe verursachen, Herr Forbeck! Bitte, sehen Sie auf dem Fahrplan nach,  welchen Zug ich zur Heimfahrt benützen könnte. Bitte – genau! Ich bin keine Freundin von Irrtümern.​«
+Die beiden im Wagen erwachten, als hätte eine derbe Faust sie aufgerüttelt. Forbeck stammelte: »​Noch fünf Minuten. Wir müssen den Zug noch im Bahnhof finden!​« Er sprang aus dem Wagen und reichte Kitty die Hand. Dankend nickte sie, stieg aus und eilte über die Stufen des Portals hinauf. Als sie die riesige, von Menschen, von Geschrei und rollendem Getös belebte Bahnhalle betrat, blieb sie stehen und sah zu Forbeck auf; ihre Wangen glühten, doch keine Spur von Verwirrung oder Scheu war an ihr zu bemerken. <quote>»​Nicht wahr,​«</quote><suspension> sagte sie mit strengem Ernst, </suspension><quote>»​zu Tas und Anna kein Wort wegen Willy! Das ist nicht die Stunde, um ihnen Sorge zu machen. Was mich betrifft, da muß ich eben lügen, wenn ich Tas nicht die Freude verderben will. Und Ihnen muß ich Mühe verursachen, Herr Forbeck! Bitte, sehen Sie auf dem Fahrplan nach,  welchen Zug ich zur Heimfahrt benützen könnte. Bitte – genau! Ich bin keine Freundin von Irrtümern.​«</quote>
 
 Ohne seine Antwort abzuwarten, huschte sie davon; ein Schaffner führte sie zu dem Gleis, auf dem der Kurierzug stand. In einem schon geschlossenen Wagen erster Klasse gewahrte sie den Bruder. »​Tas! Lieber Tas!​« Sie riß die Kupeetür auf und sprang in den Wagen.
 
@@ -5211,7 +5211,7 @@ Diese dunkle Einleitung brachte den jungen Pointner aus seiner ohnehin recht zwe
 
 Dem Andres versagte vor Verblüffung die Sprache. Seine klobigen Fäuste zitterten, mit offenem Mund und großen Augen starrte er die Zaunerin an, und Röte und Blässe wechselten auf seinem ungeschlachten Gesicht. »​Wie? Was denn? Ich hab dem Lieserl kein unguts Wörtl net geben! Soviel dürsten tut mich nach dem Lieserl! Allweil lachen mich d' Leut drum aus! Und 's Lieserl is soviel unfreundlich. Allweil sagt's mir, daß ihr keiner auf der Welt so zwider wär wie ich.​« Andres strich mit den Händen übers Haar und seufzte schwer.
 
-»​Du? Zwider? Dem Lieserl?​« Die Zaunerin stellte den Korb zu Boden und schlug die Hände über dem Kopf zusammen. »​Bist denn du mit Blindheit gschlagen? Da muß ich schon aussi mit der Sprach!​« Nun ging es weiter wie ein klapperndes Mühlwerk. Ohne sich eine Kunstpause zu vergönnen, spielte die Zaunerin ihre strohdumme Komödie zu Ende. Jeder andere wäre stutzig geworden. Aber der Pointner-Andres war blind, trotz seiner scharfen Augen. Er war gewiß kein großes Geisteskind, aber auch nicht dumm – nur eben verliebter als für ihn gesund war. Um die heißen Kohlen in seinem Herzen zur Flamme anzublasen, hätte es gar nicht dieses langen Märchens von der unverstandenen Liebe bedurft, von Lieserls bleichen Wangen und ihren schlaflosen Nächten, von den heißen Tränen, bei denen die Zaunerin ihr armes Kind überraschte, von Lieserls Beichte am Mutterherzen und von ihrem verzeihlichen Groll über den Pointner-Andres, »​der halt gar net Ernst macht​«. Hätte die Zaunerin statt dieses langen Schwindels nur kurzweg gesagt: »​Komm, Andres! Zum Lieserl!​« – sie hätte die gleiche Wirkung ebenso sicher erzielt, nur um vieles rascher.
+»​Du? Zwider? Dem Lieserl?​« Die Zaunerin stellte den Korb zu Boden und schlug die Hände über dem Kopf zusammen. <quote>»​Bist denn du mit Blindheit gschlagen? Da muß ich schon aussi mit der Sprach!​«</quote><suspension> Nun ging es weiter wie ein klapperndes Mühlwerk. Ohne sich eine Kunstpause zu vergönnen, spielte die Zaunerin ihre strohdumme Komödie zu Ende. Jeder andere wäre stutzig geworden. Aber der Pointner-Andres war blind, trotz seiner scharfen Augen. Er war gewiß kein großes Geisteskind, aber auch nicht dumm – nur eben verliebter als für ihn gesund war. Um die heißen Kohlen in seinem Herzen zur Flamme anzublasen, hätte es gar nicht dieses langen Märchens von der unverstandenen Liebe bedurft, von Lieserls bleichen Wangen und ihren schlaflosen Nächten, von den heißen Tränen, bei denen die Zaunerin ihr armes Kind überraschte, von Lieserls Beichte am Mutterherzen und von ihrem verzeihlichen Groll über den Pointner-Andres, </suspension><quote>»​der halt gar net Ernst macht​«</quote>. Hätte die Zaunerin statt dieses langen Schwindels nur kurzweg gesagt: »​Komm, Andres! Zum Lieserl!​« – sie hätte die gleiche Wirkung ebenso sicher erzielt, nur um vieles rascher.
 
 Der baumschwere Mensch zitterte an allen Gliedern, seine Augen glänzten, und so lange Schritte machte er, daß ihm die Zaunerin kaum zu folgen vermochte. Und wie er den Kopf trug, wie seine schwere Gestalt sich reckte!
 
@@ -5229,7 +5229,7 @@ Lieserl schluckte, und ihr farbloses Gesicht verzerrte sich, als hätte man ihr 
 
 Mit verstörtem Gesicht stand Lieserl an die Mauer gelehnt. »​Aber Mutter!​« stotterte sie und schlug den Arm über die Augen.
 
-»​No also, jetzt red!​« sagte die Zaunerin zum jungen Pointner. Doch Andres stand wie angewurzelt und wußte nicht, was er sagen sollte. »​Wenn dir 's Glück die Red verschlagt,​« meinte die Zaunerin, »​so mach halt kurzen Prozeß und gib ihr a Bussel, a richtigs!​« Sie versetzte dem Andres einen Puff in den Rücken, und um dem schwerfälligen Freier diesen »​kurzen Prozeß​« zu erleichtern, ließ sie ihn mit der Braut allein.
+»​No also, jetzt red!​« sagte die Zaunerin zum jungen Pointner. Doch Andres stand wie angewurzelt und wußte nicht, was er sagen sollte. <quote>»​Wenn dir 's Glück die Red verschlagt,​«</quote><suspension> meinte die Zaunerin, </suspension><quote>»​so mach halt kurzen Prozeß und gib ihr a Bussel, a richtigs!​«</quote> Sie versetzte dem Andres einen Puff in den Rücken, und um dem schwerfälligen Freier diesen »​kurzen Prozeß​« zu erleichtern, ließ sie ihn mit der Braut allein.
 
 Draußen an der Tür blieb sie stehen und wollte das Ohr an die Bretter drücken. Da hörte sie das Knarren der Haustür und Schritte im Flur. Unwillig humpelte sie über die Stiege hinunter, und als sie den Doktor sah, bekam sie einen fürchterlichen Schreck. Aber gleich die ersten Worte des Arztes ließen sie die Ausflucht erraten, die das Lieserl in der Nacht gebraucht hatte. Nun fand die Zaunerin flink ihre Sprache wieder, drückte die Hände auf den umfangreichen Magen und schilderte die »​grausamen Schmerzen​«, von denen sie in der Nacht geplagt worden wäre.
 
@@ -5253,13 +5253,13 @@ Diesen Schuß hatte Graf Egge abgegeben. Und das Wild, dem der Schuß gegolten, 
 
 Schipper, der das seltsame Wild ausgespürt und seinen Herrn auf dem glücklich geratenen Pirschgang begleitet hatte, gratulierte lachend, als der Rehbock im Feuer stürzte. »​No also, da liegt er! Wünsch Glück, Herr Graf! Hab ich's net gsagt: Sie bleiben net umsonst heroben! Gelt, es hat sich rentiert, daß der junge Herr Graf allein hat heimmarschieren müssen. Wären S' mit ihm abitrappt, so hätten S' den Bock net. Schauen S' ihn an! Was der für Gwichtl hat!​«
 
-Es hätte bei Graf Egge dieser Aufforderung nicht bedurft. In der Hand die rauchende Büchse, sprang er auf seine Beute zu. Als er das verendete Wild erreichte und das seltene, wertvolle Gehörn in der Nähe sah, schwang er im ersten Ungestüm seiner Jägerfreude das verwitterte Filzhütl wie ein Hüterbub, dem ein Glück vom Himmel herunter ins Herz gefallen. So groß war seine Freude, daß er den Jäger mit keiner Hand an den Rehbock rühren ließ. Er selber nahm das Messer, um den Bock »​aufzubrechen​« und ihn mit verschränkten Läufen in die Tragriemen einzuschnüren. Es fehlte nicht viel, so hätte Graf Egge seine Beute auch noch auf den Rücken genommen; erst nach längerer Debatte gönnte er dem Jäger die »​Ehre​«, den Bock zur Jagdhütte tragen zu dürfen. »​Aber ich geh hinter dir drein, Schritt um Schritt,​« sagte er, »​sonst gschieht am End mit dem Gwichtl wieder so eine Zauberei sie selbigsmal mit der Gamskruck.​«
+Es hätte bei Graf Egge dieser Aufforderung nicht bedurft. In der Hand die rauchende Büchse, sprang er auf seine Beute zu. Als er das verendete Wild erreichte und das seltene, wertvolle Gehörn in der Nähe sah, schwang er im ersten Ungestüm seiner Jägerfreude das verwitterte Filzhütl wie ein Hüterbub, dem ein Glück vom Himmel herunter ins Herz gefallen. So groß war seine Freude, daß er den Jäger mit keiner Hand an den Rehbock rühren ließ. Er selber nahm das Messer, um den Bock »​aufzubrechen​« und ihn mit verschränkten Läufen in die Tragriemen einzuschnüren. Es fehlte nicht viel, so hätte Graf Egge seine Beute auch noch auf den Rücken genommen; erst nach längerer Debatte gönnte er dem Jäger die »​Ehre​«, den Bock zur Jagdhütte tragen zu dürfen. <quote>»​Aber ich geh hinter dir drein, Schritt um Schritt,​«</quote><suspension> sagte er, </suspension><quote>»​sonst gschieht am End mit dem Gwichtl wieder so eine Zauberei sie selbigsmal mit der Gamskruck.​«</quote>
 
 Schipper, der den Rehbock auf den Rücken schwang, hielt es für das beste, diesen Spaß zu überhören.
 
 Mit einem Moosbüschel säuberte Graf die roten Hände, wischte sie noch ein paarmal über die Rückseite der Lederhose, steckte  sein Pfeiflein in Brand und wanderte hinter dem Jäger her. Da hatte er immer das schöne Geweih vor den Augen.
 
-»​Du, das sag' ich dir,​« unterbrach er das Schweigen, »​auf der Stell, wie wir in d' Hütten kommen, wird das Gwichtl runtergsägt und ausgsotten. Das kriegt kein anderer mehr in d' Händ. Das nimm ich heut selber mit nunter.​«
+<quote>»​Du, das sag' ich dir,​«</quote><suspension> unterbrach er das Schweigen, </suspension><quote>»​auf der Stell, wie wir in d' Hütten kommen, wird das Gwichtl runtergsägt und ausgsotten. Das kriegt kein anderer mehr in d' Händ. Das nimm ich heut selber mit nunter.​«</quote>
 
 »​Wollen S' denn heut wirklich heim?​« fragte Schipper, über alle Anzüglichkeit in Graf Egges Worten harmlos hinweggleitend. »​'s Jagdpech is vorbei und 's Glück is wieder einzogen. Dös sollten S' ausnutzen.​«
 
@@ -5491,7 +5491,7 @@ Kitty war so schwach, so zerschlagen an Herz und Gliedern, daß sie taumelte und
 
 »​Wo ist der Herr?​« fragte Gundi Kleesberg scheu.
 
-»​Noch immer oben,​« flüsterte Fritz, »​die Tür ist noch immer versperrt. Auch der Herr Pfarrer mußte wieder fortgehen.​«
+<quote>»​Noch immer oben,​«</quote><suspension> flüsterte Fritz, </suspension><quote>»​die Tür ist noch immer versperrt. Auch der Herr Pfarrer mußte wieder fortgehen.​«</quote>
 
 »​Und Robert?​«
 
@@ -5961,7 +5961,7 @@ Franzl stand so betäubt, als hätte er einen schweren Schlag auf den Kopf bekom
 
 Graf Egge empfing ihn mürrisch. »​Was ist denn mit dir? Ich wart' mir da die Seel' heraus! Wo bleibst du so lang?​«
 
-»​Gredt hab ich mit'm Madl,​« keuchte der Jäger atemlos, »​ich bitt um Entschuldigung.​«
+<quote>»​Gredt hab ich mit'm Madl,​«</quote><suspension> keuchte der Jäger atemlos, </suspension><quote>»​ich bitt um Entschuldigung.​«</quote>
 
 Bei Graf Egge schien der Zorn über die weiße Schürze sich schon gelegt zu haben; er nahm die Wanderung wieder auf und fragte zerstreut: »​Wer war es?​«
 
@@ -6031,7 +6031,7 @@ Franzl schüttelte den Kopf. Ohne ein weiteres Wort erhob sich Patscheider, klop
 
 Graf Egge stimmte noch immer an seiner Elegienzither; der Klang der Akkorde war ihm noch nicht rein genug. Eine Saite schraubend, sah er auf.
 
-»​Ich bitt, Herr Graf,​« sagte Patscheider verlegen, »​ich hätt gern a bißl nach meine Leut gschaut. Wenn S' nix dagegen hätten? Morgen am Abend vor dem Pirschgang wär ich wieder heroben.​«
+<quote>»​Ich bitt, Herr Graf,​«</quote><suspension> sagte Patscheider verlegen, </suspension><quote>»​ich hätt gern a bißl nach meine Leut gschaut. Wenn S' nix dagegen hätten? Morgen am Abend vor dem Pirschgang wär ich wieder heroben.​«</quote>
 
 »​Geh nur!​« Graf Egge schlug einen Akkord an und neigte das Ohr gegen die Saiten. »​Und sag' dem Hornegger, er kann sich schlafen legen.​«
 
@@ -6255,7 +6255,7 @@ Der Doktor sprang in die Stube, kam mit Hut und Ledertasche und folgte der Magd.
 
 Als der Doktor eine Stunde später das Haus des Bruckner verließ, begleitete ihn der Bauer bis zur Straße. Lenzi ging gebeugt wie ein Greis, sein Gesicht war nur noch Haut und Knochen; die Sorgen des Winters hatten ihm die Haare grau bestäubt, und seine Augen blickten unstet und kummervoll.
 
-»​Ich komme nach Tisch und am Abend wieder,​« sagte der Arzt, »​befolgen Sie nur genau, was ich verordnet habe. Und vor allem: die Magd mit den beiden anderen Kindern muß hinauf ins Giebelzimmer, sie dürfen mit dem kranken Kind in keine Berührung kommen.​«
+<quote>»​Ich komme nach Tisch und am Abend wieder,​«</quote><suspension> sagte der Arzt, </suspension><quote>»​befolgen Sie nur genau, was ich verordnet habe. Und vor allem: die Magd mit den beiden anderen Kindern muß hinauf ins Giebelzimmer, sie dürfen mit dem kranken Kind in keine Berührung kommen.​«</quote>
 
 »​Um Gotts willen!​« Nur mühsam brachte der Bauer Wort um Wort heraus. »​Steht's denn schon so schlecht, Herr Doktor? Is am End kei Hoffnung nimmer?​«
 
@@ -6337,7 +6337,7 @@ Verdrossen betrachtete Graf Egge das Blatt. Außer den vielen überflüssigen W�
 
 Während Moser den Tisch räumte, preßte Graf Egge stöhnend die Faust in den Rücken. »​Zum Teufel auch! Was ist denn mit meinen Knochen?​«
 
-»​Herr Graf,​« sagte Moser vorwurfsvoll, »​es wär kein Wunder! Den ganzen Winter eine Strapaz um die ander und nach der weiten Heimreis wieder am Berg auffi! Sie verlangen a bißl z'viel von Ihrem Alter.​«
+<quote>»​Herr Graf,​«</quote><suspension> sagte Moser vorwurfsvoll, </suspension><quote>»​es wär kein Wunder! Den ganzen Winter eine Strapaz um die ander und nach der weiten Heimreis wieder am Berg auffi! Sie verlangen a bißl z'viel von Ihrem Alter.​«</quote>
 
 »​Alter? Du Rindvieh! Ich hoffe noch meine zwanzig Jahr' zu jagen! Und wenn ich steif und krumm werde, laß ich mich tragen auf die Jagd. Wenn nur die Augen aushalten! Die Hand ist Nebensache. Wackelt beim Zielen das Korn aus dem Hirsch heraus, so kann's auch wieder hineinwackeln. Das Aug' macht es. Und meine Augen sind gut. Die haben noch Falkenblick! – Aber müd bin ich.​«
 
@@ -6541,7 +6541,7 @@ In der Nähe des Jagdhauses traf er in der grauen Dämmerung mit Franzl zusammen
 
 Franzl schwieg; aber er schluckte hörbar, als hätte er im Hals einen Bissen stecken, der nicht hinunter wollte.
 
-»​Koch' mir den Schmarren,​« sagte Graf Egge, als er in die Hütte trat, »​ich bin zu müd, um mich selber an den Herd zu stellen. Weiß  der Teufel, was das ist! Sonst hat mich eine siebzehnstündige Sommerpirsch nicht müd gemacht. Jetzt robelt mir ein Katzensprung alle Knochen im Leib durcheinander.​«
+<quote>»​Koch' mir den Schmarren,​«</quote><suspension> sagte Graf Egge, als er in die Hütte trat, </suspension><quote>»​ich bin zu müd, um mich selber an den Herd zu stellen. Weiß  der Teufel, was das ist! Sonst hat mich eine siebzehnstündige Sommerpirsch nicht müd gemacht. Jetzt robelt mir ein Katzensprung alle Knochen im Leib durcheinander.​«</quote>
 
 Am anderen Morgen, gegen drei Uhr, weckte Franzl seinen Herrn. –
 
@@ -6611,7 +6611,7 @@ In gerader Linie unter dem Horst, senkrecht zur Felswand, wurden die vier Leiter
 
 Die Seile erreichten den Boden, und mit einem Dutzend fester Knoten wickelte Franzl sie um das obere Ende der Leiter. Mit Pflöcken und Seilen wurde der Fuß der Leiter festgelegt, so daß er nicht mehr von der Stelle rücken konnte. Dann rief Graf Egge durch die hohlen Hände das Kommando zur Höhe: »​Auf!​«
 
-Die Seile spannten sich, und langsam begann der Kopf der Leiter sich zu heben. Von der Höhe der Felswand klangen die eintönigen  Rufe herab, mit denen die Holzknechte jeden Zug und Ruck begleiteten. Immer höher schwankte die Leiter, deren schwere Stangen sich ächzend bogen wie dünne Gerten. »​Herr Graf,​« stammelte Franzl, »​die langen Hölzer haben an unsinniges Gwicht. Passen S' auf, Herr, d' Leitern halten den Druck net aus!​«
+Die Seile spannten sich, und langsam begann der Kopf der Leiter sich zu heben. Von der Höhe der Felswand klangen die eintönigen  Rufe herab, mit denen die Holzknechte jeden Zug und Ruck begleiteten. Immer höher schwankte die Leiter, deren schwere Stangen sich ächzend bogen wie dünne Gerten. <quote>»​Herr Graf,​«</quote><suspension> stammelte Franzl, </suspension><quote>»​die langen Hölzer haben an unsinniges Gwicht. Passen S' auf, Herr, d' Leitern halten den Druck net aus!​«</quote>
 
 »​Wart' es ab!​« murrte Graf Egge. »​Und wenn die da brechen, laß ich andere machen. Ich muß hinauf!​« Mit gespanntem Blick verfolgte er die Bewegung der riesigen Leiter, die sich fast schon zu einem Halbkreis gebogen hatte. Doch die Stangen hielten aus, langsam begannen sie sich wieder zu strecken, und bald war das Ende der Leiter schon so hoch gestiegen, daß der oberste Teil so winzig und zierlich anzusehen war wie ein Kinderspielzeug. Nun standen die Stangen senkrecht und neigten sich, als die Seile nachgelassen wurden, schwankend gegen die Felswand. Dicht unter dem Horste legte sich die letzte Sprosse an das Gestein.
 
@@ -6671,7 +6671,7 @@ Franzl stand schweigend abseits und gab den Leuten auf der Zinne mit seinem Hut 
 
 Unten sahen sie, wie Graf Egge mit beiden Händen in jenen kleinen grauen Strich hineingriff – in das wirr verschlungene Astwerk des Horstes. Da rieselte weißlicher Staub in dicker Menge über die Felsen nieder, und während im Horst die jungen Adler schrien, als wären sie lebendig an den Spieß gesteckt, zog Graf Egge hastig den Kopf zurück und griff nach seinem Gesicht.
 
-»​Um Gotts willen, Herr Graf,​« schrie Franzl, »​was haben S' denn?​«
+<quote>»​Um Gotts willen, Herr Graf,​«</quote><suspension> schrie Franzl, </suspension><quote>»​was haben S' denn?​«</quote>
 
 Keine Antwort kam; unten sahen sie nur, daß Graf Egge sich mit den Händen an seinen Augen zu schaffen machte.
 
@@ -6743,9 +6743,9 @@ Kitty schien nicht zu hören. Die schlanke, etwas voller gewordene Gestalt, von 
 
 Vor ihren Gedanken stieg das Bild jener Einsamkeit auf, wie sie es hundertmal gesehen, wenn sie am Fenster stand: die kahlen Bäume des Schloßhügels, die plumpen Dächer der Wirtschaftsgebäude mit ihren knarrenden Windfahnen, die öden Weinberge mit den zu Stößen geschichteten Rebstöcken, der vereiste Fluß im Tal und über dem winterlichen Wald der graue Himmel mit seinen Schneewolken.  Dazu in ihrer Seele die Erinnerung an die Kummertage von Hubertus und der Gedanke an den Vater, der über Elchhirschen und Bären seines Kindes vergaß, an die Mutter, deren Leidensgang und Schicksal sie nun kannte, an Tassilo und Anna, von deren Glück und Liebe sie geschieden war. Und zwischen diesen beglückenden Bildern klang in ihrem verschlossenen Herzen ruhelos ein schwermütiges und dennoch sehnsuchtsvolles Lied – die Erinnerung an einen, an den sie nicht denken sollte, nicht denken durfte.
 
-Den stillen gleichförmigen Schneckengang dieser grauen Wintertage unterbrachen zwei Ereignisse. In der Weihnachtswoche traf Werners »​Spätherbst​« in Eggeberg ein, um die Kleesberg in einen andauernden Zustand unzurechnungsfähiger Ekstase zu versetzen. Und im März, an einem Sonntag, der ein bißchen Sonne hatte, kam Tante Gundi gleich einer glückselig Beschwipsten in Kittys Stübchen gezappelt, mit einem Zeitungsblatt, das sie wie eine Fahne schwenkte. »​Kind! Das mußt du lesen! Du mußt! Komm her, Kind! Komm! Und lies, was da gedruckt steht! Schwarz auf weiß!​«
+Den stillen gleichförmigen Schneckengang dieser grauen Wintertage unterbrachen zwei Ereignisse. In der Weihnachtswoche traf Werners »​Spätherbst​« in Eggeberg ein, um die Kleesberg in einen andauernden Zustand unzurechnungsfähiger Ekstase zu versetzen. Und im März, an einem Sonntag, der ein bißchen Sonne hatte, kam Tante Gundi gleich einer glückselig Beschwipsten in Kittys Stübchen gezappelt, mit einem Zeitungsblatt, das sie wie eine Fahne schwenkte. <quote>»​Kind! Das mußt du lesen! Du mußt! Komm her, Kind! Komm! Und lies, was da gedruckt steht! Schwarz auf weiß!​«</quote><suspension>
 
-Es war die Nachricht, daß Hans Forbeck für sein großes, »​Der letzte Sonnenstrahl​« betiteltes Gemälde, das der Liebling aller Besucher der Berliner Jahresausstellung war, die Goldene Medaille erhalten hatte.
+Es war die Nachricht, daß Hans Forbeck für sein großes, </suspension><quote>»​Der letzte Sonnenstrahl​«</quote> betiteltes Gemälde, das der Liebling aller Besucher der Berliner Jahresausstellung war, die Goldene Medaille erhalten hatte.
 
 Heiß flog es über Kittys schmächtige Wangen. Dann schlug sie die Hände vor das Gesicht und brach in Schluchzen aus.
 
@@ -6811,7 +6811,7 @@ Betroffen schüttelte Kitty den Kopf. »​Aber Tante Gundi? Was ist denn nur mi
 
 »​Komm nur! Kümmere dich nicht um mich! Ich bin ein bißchen verrückt. Es ist so schön hier, so unglaublich schön! Und alles andere, du ahnst ja nicht –​« Gundi Kleesberg verstummte erschrocken, als hätte sie zuviel gesagt. »​Komm nur! Komm!​«
 
-Vor dem Hotel erwartete sie der Cicerone mit dem schwarzen Samtflaus. Er zog den grauen Schlapphut. »​Primieramente,​« begann er mit seiner quiekenden Tenorstimme, »​condurrò le signore alla bella vista nel giardino degli Affliti –​«
+Vor dem Hotel erwartete sie der Cicerone mit dem schwarzen Samtflaus. Er zog den grauen Schlapphut. <quote>»​Primieramente,​«</quote><suspension> begann er mit seiner quiekenden Tenorstimme, </suspension><quote>»​condurrò le signore alla bella vista nel giardino degli Affliti –​«</quote>
 
 »​Was kümmert mich die Aussicht im ›​Garten der Betrübten​‹!​« unterbrach ihn Gundi Kleesberg. »​Wir wollen zum Palazzo Rufalo.​«
 
@@ -7111,7 +7111,7 @@ Der Arzt hatte dem Büchsenspanner ein paar Worte zugeflüstert und ging, währe
 
 Graf Egge wurde unruhig. Dann sagte er trocken: »​Reden wir ehrlich miteinander! Zwei so alte Hasen wie wir brauchen sich keine  Kindereien vorzumachen. Diese sogenannten Freunde? Da ist wohl ihr Münchener Wundertier dabei, von dem sie neulich sprachen? Sie haben da ein bißchen auf eigene Faust bestellt? Stimmt das?​«
 
-»​Ja, Erlaucht! Zu Ihrem Besten, wie ich hoffe,​« die Stimme des Doktors schwankte, »​und zu meiner Beruhigung!​«
+<quote>»​Ja, Erlaucht! Zu Ihrem Besten, wie ich hoffe,​«</quote><suspension> die Stimme des Doktors schwankte, </suspension><quote>»​und zu meiner Beruhigung!​«</quote>
 
 »​Na also! Auch das noch! Ich beginne mürb zu werden. Wenn Ihre zwei Kathederbonzen dazu beitragen, mich flinker aus dem langweiligen Blindekuhspielen zu erlösen, will ich ihnen dankbar sein. In Gottes Namen, man soll sie holen lassen!​«
 
@@ -7141,7 +7141,7 @@ Dem Alten kugelten die Tränen über den Schnurrbart.
 
 Graf Egge wurde ungeduldig. »​Das Fenster auf! Die Quacksalber können mich doch nicht in der Finsternis untersuchen. Mach' das Fenster hell!​«
 
-»​Aber ich bitt, Herr Graf,​« stammelte Moser, »​ich hab ja d' Läden schon lang aufgmacht, es ist ja hellichter Tag in der Stub!​«
+<quote>»​Aber ich bitt, Herr Graf,​«</quote><suspension> stammelte Moser, </suspension><quote>»​ich hab ja d' Läden schon lang aufgmacht, es ist ja hellichter Tag in der Stub!​«</quote>
 
 »​Du bist wohl verrückt?​« lallte Graf Egge tonlos. »​Oder betrunken?​« Mit zitternden Fingern fühlte er an seine Augen. »​Das ist doch Unsinn! – Das ist doch Unsinn!​« Ein dutzendmal wiederholte er dieses Wort. Da hörte er Schritte im Flur und gedämpftes Gespräch; die Züge vor Erregung wie gelähmt, wandte er die Augen nach der Richtung dieses Geräusches. Er vernahm, daß die Tür geöffnet wurde – und mit grauenhaftem Schreck zuckte es über sein Gesicht.
 
@@ -7389,13 +7389,13 @@ Während dieses Gespräches waren sie über die Treppe hinaufgestiegen. Aus dem 
 
 Tassilo fragte leis: »​Sie hat keine Ahnung?​«
 
-»​Keine! Daß er mein Sohn ist, erriet sie auf den ersten Blick. Mehr kann sie nicht ahnen. Wie soll sie denken, daß der eigene Vater sie belog? Daß er, um sie von dem ›​obskuren Tagdieb​‹ loszureißen, der mit dem Fieber kämpfenden Tochter das herzlose Märchen vom Tod ihres Kindes vorgaukelte? Ich habe doch auch an diese Lüge geglaubt! Noch heute wär' ich ein einsamer Mensch, wenn ich nicht die Sehnsucht empfunden hätte, das einzige zu suchen, was hinter meinem vernichteten Glück noch übrig war: dieses kleine Grab! Es wollte sich nicht finden lassen. Dennoch hab' ich jahrelang gebraucht, bis der erste Zweifel in mir erwachte, und bis die halb erloschene Spur, der ich hartnäckig folgte, mich meinen Jungen finden ließ. Und wie hab' ich ihn gefunden! Ich wollte, daß ich dieses Bild vergessen könnte!​«
+<quote>»​Keine! Daß er mein Sohn ist, erriet sie auf den ersten Blick. Mehr kann sie nicht ahnen. Wie soll sie denken, daß der eigene Vater sie belog? Daß er, um sie von dem ›​obskuren Tagdieb​‹ loszureißen, der mit dem Fieber kämpfenden Tochter das herzlose Märchen vom Tod ihres Kindes vorgaukelte? Ich habe doch auch an diese Lüge geglaubt! Noch heute wär' ich ein einsamer Mensch, wenn ich nicht die Sehnsucht empfunden hätte, das einzige zu suchen, was hinter meinem vernichteten Glück noch übrig war: dieses kleine Grab! Es wollte sich nicht finden lassen. Dennoch hab' ich jahrelang gebraucht, bis der erste Zweifel in mir erwachte, und bis die halb erloschene Spur, der ich hartnäckig folgte, mich meinen Jungen finden ließ. Und wie hab' ich ihn gefunden! Ich wollte, daß ich dieses Bild vergessen könnte!​«</quote><suspension>
 
-Da klangen heitere Stimmen, rasche Tritte, das Rauschen eines Kleides. Arm in Arm erschienen Kitty und Forbeck unter der Tür. Während Werner das junge Paar betrachtete, streifte Tassilo zärtlich die Hand über das Haar der Schwester. Im Speisezimmer, dessen Tisch zum Frühstück gedeckt und mit Blumen geschmückt war, fanden sie Gräfin Anna und die Kleesberg. Und da wollte nun Kitty, die das Heim ihres Bruders an diesem Morgen zum erstenmal betrat, vor allem sehen, »​wie das Glück wohnt!​«
+Da klangen heitere Stimmen, rasche Tritte, das Rauschen eines Kleides. Arm in Arm erschienen Kitty und Forbeck unter der Tür. Während Werner das junge Paar betrachtete, streifte Tassilo zärtlich die Hand über das Haar der Schwester. Im Speisezimmer, dessen Tisch zum Frühstück gedeckt und mit Blumen geschmückt war, fanden sie Gräfin Anna und die Kleesberg. Und da wollte nun Kitty, die das Heim ihres Bruders an diesem Morgen zum erstenmal betrat, vor allem sehen, </suspension><quote>»​wie das Glück wohnt!​«</quote>
 
 Es wohnte schön – in Räumen, welche Zeugnis gaben von vornehmem Kunstsinn und erlesenem Geschmack. Kitty faßte ihr Entzücken in das Urteil: »​Das ist keine Wohnung, die man eingerichtet hat. Das kommt mir vor, als wäre das gewachsen, ganz von selbst, wie ein Baum, wie eine Blume. Ihr beide müßt so wohnen! Ich kann es mir gar nicht anders denken.​« Nur im Zimmer der Gräfin vermißte sie etwas – das Allerwichtigste. »​Anna? Wo ist dein Flügel?​«
 
-»​Der steht, wo sein Platz ist,​« fiel Tassilo lächelnd ein, »​in meinem Zimmer! Komm! Da sollst du auch noch was anderes sehen.​« Er öffnete die Tür des anstoßenden Raumes.
+<quote>»​Der steht, wo sein Platz ist,​«</quote><suspension> fiel Tassilo lächelnd ein, </suspension><quote>»​in meinem Zimmer! Komm! Da sollst du auch noch was anderes sehen.​«</quote> Er öffnete die Tür des anstoßenden Raumes.
 
 Ein leiser Schrei glücklichster Überraschung.
 
@@ -7747,7 +7747,7 @@ In der Tiefe der Waldstraße tauchte die Parkmauer von Hubertus auf, und eine ge
 
 Der Wagen hielt, Doktor Eisler erwartete ihn.
 
-»​Ihr Vater verlangt nach Ihnen,​« sagte der Arzt zu Kitty, »​aber bitte, beherrschen Sie sich! Jede Äußerung Ihres Schmerzes bedrückt ihn. Seine Augen sehen nicht, aber sein Gehör empfindet doppelt scharf.​«
+<quote>»​Ihr Vater verlangt nach Ihnen,​«</quote><suspension> sagte der Arzt zu Kitty, </suspension><quote>»​aber bitte, beherrschen Sie sich! Jede Äußerung Ihres Schmerzes bedrückt ihn. Seine Augen sehen nicht, aber sein Gehör empfindet doppelt scharf.​«</quote>
 
 Kitty trocknete die Wangen. »​Er soll keinen Laut von mir hören.​« Sie sah zu ihrem Bruder auf. »​Und du?​«
 
@@ -7771,7 +7771,7 @@ Bleich fiel Tassilo auf eine Gartenbank und bedeckte das Gesicht. Es währte lan
 
 »​Das kann ich nicht sicher beantworten. Er beherrscht sich, seiner Tochter zuliebe. Aber er macht sich wohl seine Gedanken – wenigstens hat er selbst die Frage gefunden: Gift im Blut? Ich habe natürlich verneint.​«
 
-»​Und wie lange –​« Tassilos Stimme versagte, »​wie lange geben Sie ihm noch Frist?​«
+<quote>»​Und wie lange –​«</quote><suspension> Tassilos Stimme versagte, </suspension><quote>»​wie lange geben Sie ihm noch Frist?​«</quote>
 
 »​Bis morgen. Mit dem Abend, fürchte ich, werden die stillen Delirien und die Schlafsucht beginnen. Das ist der Vorbote des Äußersten.​«
 
@@ -7895,7 +7895,7 @@ Immer lauter klangen die Worte, die Graf Egge im Schlummer lallte. Er redete wir
 
 Moser hatte die Stube betreten, deutete mit dem Daumen hinter sich und machte ein Kreuz in die Luft.
 
-»​Vater! Der hochwürdige Herr ist hier,​« sagte Tassilo, »​bist du bereit, ihn zu empfangen?​«
+<quote>»​Vater! Der hochwürdige Herr ist hier,​«</quote><suspension> sagte Tassilo, </suspension><quote>»​bist du bereit, ihn zu empfangen?​«</quote>
 
 »​Ja!​« Graf Egges Stimme klang ruhig und klar. »​Aber nicht so, wie ich hier liege. Moser! Ruf den Fritz, er soll dir helfen, mich anzukleiden. Und bring' mir von meinem Jagdzeug das Allerbeste: die gute Sommerjoppe – sie hat weite Ärmel – meine neue Lederhose  und die grüne Weste mit den schwarzen Hirschgranen! Den lieben Herrgott muß man in Gala empfangen. Und man darf ihn nicht warten lassen. Flink!​«
 
@@ -7969,7 +7969,7 @@ Ein ruhiger Tag kam über Schloß Hubertus. Gräfin Anna, Kitty und die Kleesber
 
 »​Der eine wird in den nächsten Tagen aus München kommen. Er ist ein abgestrafter Wilddieb, aber ich weiß, er wird ein braver Mensch und verläßlicher Jäger werden. Und ich erwarte, daß ihm keiner von euch aus seiner Vergangenheit einen Vorwurf machen wird. Nehmt ihn als guten Kameraden auf, er hat aus Leidenschaft gefehlt, und das ist verzeihlich. In diesem milderen Sinne will ich in meinen Revieren auch den Schutz geführt wissen. Tretet jedem ungesetzlichen Eingriff mit Strenge entgegen, aber erspart euch und mir die Folgen jähzorniger Übereilung. Ich will edles Weidwerk pflegen und in meinen Revieren den Boden grün erhalten. Und  was den zweiten Jäger betrifft – Hornegger? Glauben Sie, daß mit Patscheider zu reden wäre? Der Mann war tüchtig, ich möcht' ihn gerne wiedergewinnen.​«
 
-»​Mar' und Joseph, Herr Graf,​« stotterte Franzl in Freude, »​an einzigs Wörtl, und der Michl springt wie narrisch. Ich weiß, er hat Heimweh.​«
+<quote>»​Mar' und Joseph, Herr Graf,​«</quote><suspension> stotterte Franzl in Freude, </suspension><quote>»​an einzigs Wörtl, und der Michl springt wie narrisch. Ich weiß, er hat Heimweh.​«</quote>
 
 »​Gut, sprechen Sie mit ihm, Sie haben freie Hand, Hornegger! Und nicht nur in dieser Frage. Sie sind von heut an mein Förster, der Leiter meiner Jagd. Es war der letzte Wille meines Vaters, seine Jagd im besten Stand zu erhalten. Für die streng weidmännische Erfüllung dieses Wunsches weiß ich mir keinen Besseren als Sie, lieber Hornegger! Sie haben mein volles Vertrauen, und Ihr Wort hat den Jägern zu gelten wie das meine. Auf Wiedersehen im nächsten Jahr!​«
 
