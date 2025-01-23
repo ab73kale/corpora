@@ -1301,7 +1301,7 @@ Walter hatte, ungefähr bis zum Zeitpunkt unserer Verheirathung, in einer gewiss
 
 Nervöse Menschen sind so unberechenbar. Was sie heut freut, ärgert sie morgen. Ich ängstigte mich wenn eine schlechte Kritik über ihn in der Zeitung stand. Er war dann immer so böse auf mich. Ich wußte nie, was ich in einem gegebenen Augenblick zu thun oder zu lassen hatte, ob ich heiter sein sollte oder ernst, ob reden oder schweigen.
 
-Ich plauderte etwa bei Tisch von kleinen, wirtschaftlichen Vorfällen. »​Du willst wohl Conversation machen?​« sagte er, »​bitte incommodir dich nicht.​« Ich brach jäh ab. Schwieg ich, so fragte er, ob wir bei einem Leichenschmaus säßen.
+Ich plauderte etwa bei Tisch von kleinen, wirtschaftlichen Vorfällen. <quote>»​Du willst wohl Conversation machen?​«</quote><suspension> sagte er, </suspension><quote>»​bitte incommodir dich nicht.​«</quote> Ich brach jäh ab. Schwieg ich, so fragte er, ob wir bei einem Leichenschmaus säßen.
 
 Einmal, als er mir aufgeräumt vorkam, erzählte ich ihm ein kleines Abenteuer, das mir auf der Straße passirt war: ein junger Mann, der mich verfolgte u.s.w.
 
@@ -1429,7 +1429,7 @@ Nach Jahr und Tag hatte ich die erforderliche Summe beisammen. Und als ich sie n
 
 Ich kam selten mit dem Wirthschaftsgeld aus, darum suchte ich immer nach billigen Quellen. Ich erinnere mich, wie glücklich ich eines Tages nach Hause kam, als ich auf dem Markt, im Schweiß meines Angesichtes, eine Fasanenhenne für einen Thaler erhandelt hatte. Die Lina – sie war der Auguste auf den Fuß gefolgt, die neben mir stand, hatte bei dem Handel so verbissen geschwiegen, als wollte sie sagen: handle Du nur, da wird was Schönes herauskommen. Sie briet die Henne aber doch schön braun. Ich war gespannt auf Walters freudige Ueberraschung.
 
-An einem Wochentag Fasan! Und in meinem  Eifer sagte ich gleich: »​Und denke Dir nur, der ganze Fasan hat nur einen Thaler gekostet.​« Er ließ die Gabel, mit der er eben den ersten Bissen zum Mund geführt hatte, fallen, »​Natürlich, sagte er höhnisch, für einen Thaler hat sie auch das Recht, ein bischen zu stinken.​« Ich war wie vom Donner gerührt, und würgte mit meinen Thränen große Stücke der so schwer verdächtigten Henne herunter. Es war gar nicht so arg, sie hatte nur einen kleinen Stich, und ich habe heute noch die Lina im Verdacht, daß sie sie absichtlich in die Sonne gelegt, um ihr und mir den Stich beizubringen.
+An einem Wochentag Fasan! Und in meinem  Eifer sagte ich gleich: »​Und denke Dir nur, der ganze Fasan hat nur einen Thaler gekostet.​Er ließ die Gabel, mit der er eben den ersten Bissen zum Mund geführt hatte, fallen, »​Natürlich, sagte er höhnisch, für einen Thaler hat sie auch das Recht, ein bischen zu stinken.​ Ich war wie vom Donner gerührt, und würgte mit meinen Thränen große Stücke der so schwer verdächtigten Henne herunter. Es war gar nicht so arg, sie hatte nur einen kleinen Stich, und ich habe heute noch die Lina im Verdacht, daß sie sie absichtlich in die Sonne gelegt, um ihr und mir den Stich beizubringen.
 
 Ein andrer Sparversuch trug mir auch nicht viel ein. Im Hinterhaus bei uns wohnte eine arme Schneiderfrau, die schwärmte mir von einem so billigen Mehl vor, das sie in Steglitz (ein Vorort Berlin's) in einer Mühle kaufe, und wenn ich davon profitiren wolle, würde sie mir gern ihren kleinen Jungen mit einem Wägelchen mitgeben.
 
@@ -1697,7 +1697,7 @@ Walter ließ mir so ziemlich freie Hand bei der Erziehung der Kinder. Er hatte g
 
 Er steckte den Kindern Cigaretten in den Mund, gab ihnen Wein zu trinken, wollte sich dann über ihre lustigen Capriolen halbtodt lachen, und nannte Walterchen sein kleines Corpsbrüderchen. Die Kinder sollten ihm eben, wie alles übrige, Plaisir machen.
 
-Walterchen artete ganz nach dem Vater. Er wußte alle Dinge zu seinem Vortheil oder seinem Vergnügen auszubeuten. Und schlau war das Bübchen, viel schlauer als Traut. Einmal war er sehr unartig gewesen, und ich schalt ihn heftig. Er will sich vor Lachen kugeln. – »​Wie, Du lachst, wenn ich schelte?​« – »​Ja, weil ich mir nichts daraus mache.​« – »​Du machst Dir nichts daraus?​« – »​Weil Du doch gar nicht wirklich böse bist, Dich kennt man schon.​« Ich erzählte ihm von einer Familie, die so arm war, daß sie Mittags nichts zu essen hatte. Ob er ihr nicht von seinem Mittagbrot etwas abgeben wollte. »​Ja, ja,​« rief er gleich, »​bitte Muttchen, gieb ihnen meine Suppe, daraus mache ich mir nichts.​« Sie stritten sich einmal, wer mich am liebsten hätte. »​Ich,​« sagte Walterchen, »​habe Dich so lieb, wie der Teufel bös ist.​«
+Walterchen artete ganz nach dem Vater. Er wußte alle Dinge zu seinem Vortheil oder seinem Vergnügen auszubeuten. Und schlau war das Bübchen, viel schlauer als Traut. Einmal war er sehr unartig gewesen, und ich schalt ihn heftig. Er will sich vor Lachen kugeln. – »​Wie, Du lachst, wenn ich schelte?​« – »​Ja, weil ich mir nichts daraus mache.​« – »​Du machst Dir nichts daraus?​« – »​Weil Du doch gar nicht wirklich böse bist, Dich kennt man schon.​« Ich erzählte ihm von einer Familie, die so arm war, daß sie Mittags nichts zu essen hatte. Ob er ihr nicht von seinem Mittagbrot etwas abgeben wollte. <quote>»​Ja, ja,​«</quote><suspension> rief er gleich, </suspension><quote>»​bitte Muttchen, gieb ihnen meine Suppe, daraus mache ich mir nichts.​«</quote> Sie stritten sich einmal, wer mich am liebsten hätte. <quote>»​Ich,​«</quote><suspension> sagte Walterchen, </suspension><quote>»​habe Dich so lieb, wie der Teufel bös ist.​«</quote>
 
 Und Traut: »​ich habe Dich so lieb, wie der Gott gut ist.​«
 
@@ -1841,7 +1841,7 @@ Nur die ersten Seiten dieser Dichtung schrieb ich wirklich nieder. Ich wollte do
 
 Ach Arnold, ich möchte schreiben können wie man flüstert, pianissimo, verklingende Orgeltöne, oder stark, gewaltig – Posaunenklänge, vor denen verschlossene Himmel aufspringen.
 
-Als ich einmal mit Traut durch den Thiergarten ging, der ganz im Schnee begraben lag, sagte sie: »​Nicht wahr, Muttchen, der liebe Gott hat all den Zucker gestreut, für die kleinen Sperlinge?​« Ich nickte. »​Aber,​« fuhr sie nachdenklich fort, »​sie haben doch nichts, worauf sie den Zucker streuen können.​«
+Als ich einmal mit Traut durch den Thiergarten ging, der ganz im Schnee begraben lag, sagte sie: »​Nicht wahr, Muttchen, der liebe Gott hat all den Zucker gestreut, für die kleinen Sperlinge?​« Ich nickte. <quote>»​Aber,​«</quote><suspension> fuhr sie nachdenklich fort, </suspension><quote>»​sie haben doch nichts, worauf sie den Zucker streuen können.​«</quote>
 
 Mir hat der liebe Gott auch Zucker gestreut,  aber ich habe doch auch nichts, worauf ich ihn streuen könnte.
 
@@ -1875,7 +1875,7 @@ Die Pflanze auf trocknem Boden, die Feuchtigkeit braucht, streckt ihre Wurzeln w
 
 An jenem Abend hielt ich es nicht länger im Zim mer aus. Ich brauchte Luft, Bewegung, Kälte, nach dem schwülen Grübeln und dem heißen Thee.
 
-Ich wußte selten, wo Walter seine Abende zubrachte. Zuweilen aber sagte er es mir. An dem Abend wollte er ein Concert in der Singakademie besuchen. Ob ich mitgehen wolle, hatte er so obenhin gefragt, er habe zwei Billets. – »​Nein,​« antwortete ich, »​ich bleibe lieber zu Hause.​«
+Ich wußte selten, wo Walter seine Abende zubrachte. Zuweilen aber sagte er es mir. An dem Abend wollte er ein Concert in der Singakademie besuchen. Ob ich mitgehen wolle, hatte er so obenhin gefragt, er habe zwei Billets. – <quote>»​Nein,​«</quote><suspension> antwortete ich, </suspension><quote>»​ich bleibe lieber zu Hause.​«</quote>
 
 Und ich wäre doch so gern mitgegangen. Aus seinem Ton aber hatte ich herausgehört, daß er lieber allein ging, – er ging fast immer lieber allein – und nichts in der Welt hätte mich dazu gebracht, mich jemandem aufzudrängen.
 
@@ -2005,7 +2005,7 @@ Schon bei diesem ersten Besuch fragte ich sie, warum wohl die Leute bei dem gest
 
 Sie schien eine Weile nachzudenken; dann erklärte sie »​der kleinen, süßen Frau​« – sie nannte mich oft so – reinen Wein einschenken zu wollen. Ich wäre nämlich gar nicht eingeladen gewesen, daher die Verlegenheit der Wirthin. Mein Nachbar hätte eigentlich eine andere Dame, für die er sich lebhaft interessirte, zu Tisch führen sollen. Daher sein Verdruß, als er mir den Arm bieten mußte.
 
-»​Und dann, liebes Kind,​« fuhr sie fort, indem sie mich liebevoll an sich zog, »​wie konnten sie nur  diese kindlichen falschen Perlen tragen! Das thut man doch nicht. Das überläßt man doch den Nähmamsells.​«
+<quote>»​Und dann, liebes Kind,​«</quote><suspension> fuhr sie fort, indem sie mich liebevoll an sich zog, </suspension><quote>»​wie konnten sie nur  diese kindlichen falschen Perlen tragen! Das thut man doch nicht. Das überläßt man doch den Nähmamsells.​«</quote>
 
 Mir war schon wieder das Weinen nahe, und ich stotterte, sie hätten doch so gut zu dem Kleid gepaßt, und ich hätte gedacht, es käme nur darauf an, ob etwas hübsch aussähe, nicht auf den Geldwerth, und die Schnüre wären auch gar nicht so billig wie sie wohl annähme, ich hätte 11/2 Thaler dafür ausgegeben.
 
@@ -2333,7 +2333,7 @@ Ich konnte nicht genug darüber staunen, daß die Kunst der Schmeichelei eigentl
 
 Am ehesten entgingen noch routinirte Weltleute den Fallstricken dieser Circen. Die hatten zu oft hinter den Coulissen gestanden, und die abgebrannten, hölzernen Gerüste gesehen, nachdem das Feuerwerk verpufft war.
 
-Ja, ich wollte auch zaubern lernen, auch kokett werden, mich auch des Lebens freuen, »​so lange das Lämpchen glühte, die Rose pflücken, ehe sie verblühte.​«
+Ja, ich wollte auch zaubern lernen, auch kokett werden, mich auch des Lebens freuen,»​so lange das Lämpchen glühte, die Rose pflücken, ehe sie verblühte.​«
 
 Ich erinnere mich noch genau meines ersten Debüt's auf dieser schlüpfrigen Bahn. Ich saß in einer Gesellschaft zur Rechten eines Herrn, der mir, im angeregten  Gespräch mit seiner Dame zur Linken, unentwegt den Rücken kehrte. Ich ergriff die Gelegenheit, als er mir einmal aus Höflichkeit einen Brocken von Unterhaltung zuwarf, und fragte ihn mit kalter, ironischer Berechnung, ob er vielleicht mit dem Herrn S. verwandt wäre, dem Schriftsteller, dessen Werke ich mit solchem Entzücken gelesen hätte.
 
@@ -2723,9 +2723,9 @@ In dem tiefen, weißen, weichen Sand wurden die Körperchen leicht eingegraben, 
 
 Die Sandhügel waren über und über mit Blumen besteckt. Merkwürdigerweise waren die Begrabenen lauter Mädchen. Die Knaben machten die Totengräber. All' diese kleinen Mädchen mit den frischen und verbrannten Gesichtern, und den hellen, offenen Aeuglein, sahen nicht besonders verstorben aus. Nur Traut allein schien die Rolle ernst zu nehmen. Sie lag ganz still mit geschlossenen Augen da; die langen, dunklen Wimper ließen sie noch blasser erscheinen, als sie war. Sie hatte nur weiße Blumen auf ihrem Sandhügel gewollt. Und in diesem Augenblick schlug ein Knabe auf einer Trommel jenen monotonen Wirbel, wie er bei Militärbegräbnissen üblich ist.
 
-Ein Entsetzen packte mich. »​Traut,​« rief ich, »​Traut​«.
+Ein Entsetzen packte mich. <quote>»​Traut,​«</quote><suspension> rief ich, </suspension><quote>»​Traut​«</quote>.
 
-»​St!​« flüsterte sie, »​ich bin ja todt.​«
+<quote>»​St!​«</quote><suspension> flüsterte sie, </suspension><quote>»​ich bin ja todt.​«</quote>
 
 Was den unheimlichen Eindruck noch vermehrte, war die Stimmung des Meeres, die sich in der letzten halben Stunde geändert hatte. Grauschwarz wie von Erz war es. Rothe, feurige Lichtstrahlen fuhren darüber hin wie ein blutiges Schwert.
 
@@ -3153,7 +3153,7 @@ Und zwischen Cypressen und Blumenlauben immer der Blick in's Gebirge, in diese w
 
 In der Villa Matthäi standen wir vor einem Wasserbassin. An dem dahinter liegendem Felsgestein üppiges Rosengehänge. Der Rand des Bassin's mit Schilf und Vergißmeinnicht umsäumt. Die Vergißmeinicht waren so blaß. Meine Augen füllten sich mit Thränen. Adalbert wollte wissen, was mich bewegte. Nicht um alles in der Welt hätte ich ihm gesagt, daß ich an Traut dachte. Er weiß nichts von ihr.
 
-»​Thränen in den Augen sind schön,​« sagte er, »​aber weine sie nicht, es verhäßlicht.​«
+<quote>»​Thränen in den Augen sind schön,​«</quote><suspension> sagte er, </suspension><quote>»​aber weine sie nicht, es verhäßlicht.​«</quote>
 
 »​So liebst Du mich wohl mehr im Profil als en face?​« fragte ich im Scherz. (Du weißt ja, das Profil ist das beste an meinem Gesicht.)
 
@@ -3205,7 +3205,7 @@ Ich träume nicht mehr. Ich will wach sein immer wach, mit allen Sinnen das Lebe
 
 Ich will mein Leben noch einmal leben, aber anders, ganz anders. Die Stunden will ich wieder haben, wo ich Kinderkleidchen und Kinderschürzchen stickte, wo ich Kochbücher las und studirte, wo ich weinte – weinte – weinte!
 
-Ich will in einem einzigen Jahr zehn Jahre leben. In 33 Jahren habe ich kaum 33 Tage gelebt. Ich will Freude, aber nicht die Freude jener öden Gesellschaftstage in Berlin, nicht »​Freut Euch des Lebens, so lange das Lämpchen glüht​«, nein, »​Freude, schöner Götterfunke, Tochter aus Elysium​« die Freude will ich.
+Ich will in einem einzigen Jahr zehn Jahre leben. In 33 Jahren habe ich kaum 33 Tage gelebt. Ich will Freude, aber nicht die Freude jener öden Gesellschaftstage in Berlin, nicht <quote>»​Freut Euch des Lebens, so lange das Lämpchen glüht​«</quote><suspension>, nein, </suspension><quote>»​Freude, schöner Götterfunke, Tochter aus Elysium​«</quote> die Freude will ich.
 
 Nachholen! Das Wort läßt mich nicht los.
 
