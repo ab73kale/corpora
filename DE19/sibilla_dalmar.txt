@@ -453,11 +453,11 @@ Frau Dalmar lief in die Speisekammer und kam mit einem Büchschen Orangegelée �
 
 Frau Dalmar war zu glücklich über die Heiterkeit ihres Kindes, um über den Spott empfindlich zu sein.
 
-»​Und nun, Mutti,​« fuhr Sibilla in demselben Tone fort, »​ich sehe ja, Du brennst vor Neugierde die Schauermähr zu vernehmen von der Untreue des Ritters Ewald de Born. Ach, hieße er Bertram, nie hätte er solchen Verrat geübt. Nämlich: Frau Rechtsanwalt Barer schenkte mir reinen Wein ein, aus ›​herzlicher Freundschaft​‹, die herzliche Freundschaft mit Anführungszeichen.
+<quote>»​Und nun, Mutti,​«</quote><suspension> fuhr Sibilla in demselben Tone fort, </suspension><quote>»​ich sehe ja, Du brennst vor Neugierde die Schauermähr zu vernehmen von der Untreue des Ritters Ewald de Born. Ach, hieße er Bertram, nie hätte er solchen Verrat geübt. Nämlich: Frau Rechtsanwalt Barer schenkte mir reinen Wein ein, aus ›​herzlicher Freundschaft​‹, die herzliche Freundschaft mit Anführungszeichen.
 
 Also eine Verschwörung gegen mich, Klatsch, Verleumdung, meine Koketterie, alles ist ihm hinterbracht worden.
 
-Frau Rechtsanwalt brannten darauf, mir die Details dieser Verleumdung – pardon – unter die Nase zu reiben. Ich aber zuckte so abwehrend hoheitsvoll meine silbergazenen Schultern, daß ihr der Klatsch in der Kehle stecken blieb.​«
+Frau Rechtsanwalt brannten darauf, mir die Details dieser Verleumdung – pardon – unter die Nase zu reiben. Ich aber zuckte so abwehrend hoheitsvoll meine silbergazenen Schultern, daß ihr der Klatsch in der Kehle stecken blieb.​«</quote>
 
 »​Und die Verschwörer?​« fragte Frau Dalmar.
 
@@ -471,7 +471,7 @@ Plötzlich aber ließ sie den vollen Löffel mit dem Gelée fallen und wurde ver
 
 »​Fort in die Speisekammer mit dem Gelée, ich verdiene es nicht. Das hatte ich ja ganz vergessen. Die Geschichte hat ja ein Nachspiel, ein schauriges, ein trauriges! Wehe! wehe! Rette mich, Mutti! rette mich! oder ich muß den schönen Arthur heiraten, Arthur Meier natürlich.​«
 
-In halb komischer Verzweiflung warf sie sich der Mutter in die Arme. Und sie erzählte: Über Ewald de Borns Abtrünnigkeit wäre sie doch wohl etwas verstimmt gewesen. Das Tanzen hätte sie gelangweilt. Darüber hätte sie sich wiederum geärgert, und da sie doch nicht auf den Ball gegangen wäre, um sich zu ärgern, hätte sie sich nun à tout prix amüsieren wollen. Der schöne Arthur – Mitternacht – ein Erker – rote Ampel, Palmen und Blumen, süßduftende, aus dem Nebenzimmer schmelzender Gesang: »​Das Lied vom Asra​«, und sie, erpicht auf etwas Extraes, Schlagsahnenstimmung. – Und da – hat er ihr sein  Herz offeriert, und sie, in einer halben Verliebtheit, aus Champagner, Blumenduft, Musik und Rachegefühlen notdürftig zusammengekratzt, habe nicht – nein gesagt. »​Und nun, Mutti,​« schloß sie ihre halb verdrießlich, halb neckisch vorgebrachte Geschichte, »​nun wird er heut kommen, im Cylinder und hellen Handschuhen mit schwarzen Nähten, und Dich um meine Hand bitten. Rundweg abschlagen, Mutti, selbstverständlich. Ich kann ihn doch unmöglich heiraten, pour ses beaux yeux, die er wirklich hat. Komm, wir wollen uns auf Gründe besinnen, da ich mich nun doch einmal so schofel benommen habe.​«
+In halb komischer Verzweiflung warf sie sich der Mutter in die Arme. Und sie erzählte: Über Ewald de Borns Abtrünnigkeit wäre sie doch wohl etwas verstimmt gewesen. Das Tanzen hätte sie gelangweilt. Darüber hätte sie sich wiederum geärgert, und da sie doch nicht auf den Ball gegangen wäre, um sich zu ärgern, hätte sie sich nun à tout prix amüsieren wollen. Der schöne Arthur – Mitternacht – ein Erker – rote Ampel, Palmen und Blumen, süßduftende, aus dem Nebenzimmer schmelzender Gesang: »​Das Lied vom Asra​«, und sie, erpicht auf etwas Extraes, Schlagsahnenstimmung. – Und da – hat er ihr sein  Herz offeriert, und sie, in einer halben Verliebtheit, aus Champagner, Blumenduft, Musik und Rachegefühlen notdürftig zusammengekratzt, habe nicht – nein gesagt. <quote>»​Und nun, Mutti,​«</quote><suspension> schloß sie ihre halb verdrießlich, halb neckisch vorgebrachte Geschichte, </suspension><quote>»​nun wird er heut kommen, im Cylinder und hellen Handschuhen mit schwarzen Nähten, und Dich um meine Hand bitten. Rundweg abschlagen, Mutti, selbstverständlich. Ich kann ihn doch unmöglich heiraten, pour ses beaux yeux, die er wirklich hat. Komm, wir wollen uns auf Gründe besinnen, da ich mich nun doch einmal so schofel benommen habe.​«</quote>
 
 Mutter und Tochter hatten kaum ihre Beratung begonnen, als das Mädchen mit einer Karte eintrat: »​Frau Kommerzienrat Moller.​«
 
@@ -541,7 +541,7 @@ Die letzte Erfahrung legte den Grund in ihr zu einer kalten Skepsis, zu einer Ge
 
 Nein, sie hatte auch diesen nicht geliebt, wenigstens nur so obenauf, ein Nervenreiz, eine Lust, eine Neugierde am Ungewöhnlichen, Geheimnisvollen.
 
-»​Und weißt Du,​« sagte sie einmal zu ihrer Mutter, »​ich traue mir die unglaubliche Albernheit zu, daß der Grafentitel bei mir mitgewirkt hat, bei mir! Und ich halte mich für radikal. Ich gehe mit dem Plan um, Lassalle'sche und Marx'sche und andere soziale Schriften zu lesen – Dummkopf ich!​«
+<quote>»​Und weißt Du,​«</quote><suspension> sagte sie einmal zu ihrer Mutter, </suspension><quote>»​ich traue mir die unglaubliche Albernheit zu, daß der Grafentitel bei mir mitgewirkt hat, bei mir! Und ich halte mich für radikal. Ich gehe mit dem Plan um, Lassalle'sche und Marx'sche und andere soziale Schriften zu lesen – Dummkopf ich!​«</quote>
 
 Sie stellte auch Reflexionen an, die ihre Geringschätzung gegen die Abtrünnigen einigermaßen dämpften. War sie nicht ungerecht aus persönlicher Rancüne? Warum sollte das Weib diesen jungen Männern alles sein?
 
@@ -561,7 +561,7 @@ Hatte der Liebling Kopfschmerzen, so las Frau Dalmar ihr vor, und Sibilla komman
 
 Und Sibilla hätte jemand gebraucht, der sie auf-und zusammengerüttelt zu irgend etwas – ja – wozu?
 
-»​Die einfältigsten unter den goldenen Grünen,​« äußerte sie einmal im Gespräch mit der Mutter, »​sind am Ende doch noch mehr wert, als wir unnützlichen Mädchen, zwischen Morgen und Abend liegt bei ihnen Arbeit. Aber wir? Was thue ich denn? Ich schlafe bis 10 Uhr, ich stelle meine Ballbouquets ins Wasser, ich lese die Zeitung, ein Buch, ich richte meine Toilette für den Abend, ich empfange oder mache einen Besuch, medisiere mit Timäa über Frau X. und Herrn Y. etc.​«
+<quote>»​Die einfältigsten unter den goldenen Grünen,​«</quote><suspension> äußerte sie einmal im Gespräch mit der Mutter, </suspension><quote>»​sind am Ende doch noch mehr wert, als wir unnützlichen Mädchen, zwischen Morgen und Abend liegt bei ihnen Arbeit. Aber wir? Was thue ich denn? Ich schlafe bis 10 Uhr, ich stelle meine Ballbouquets ins Wasser, ich lese die Zeitung, ein Buch, ich richte meine Toilette für den Abend, ich empfange oder mache einen Besuch, medisiere mit Timäa über Frau X. und Herrn Y. etc.​«</quote>
 
 Frau Dalmar bemerkte, daß andere junge Mädchen Zeichnen und Musik trieben, Vorträge im Lyceum hörten.
 
@@ -579,7 +579,7 @@ Ihre Freundin Timäa? wirklich Freundin? Dem Titel nach. Ein komplizierter Chara
 
 Letzthin hatte sie die Herzensgeschichte mit dem jungen Diplomaten erraten. Sibilla wußte es und litt unter ihrer mitleidigen Zärtlichkeit. Sie fing an sich beinah leidenschaftlich nach einer Veränderung zu sehnen, mit der nörgelnden Sehnsucht aller Unzufriedenen und Kranken, die von einem Ortswechsel auch einen Stimmungswechsel erhoffen. Sie drängte die Mutter zu einer Reise nach Italien. Frau Dalmar wagte nicht, ihren Gatten ganz sich selbst zu überlassen. Es war auch kein Geld da.
 
-Sibilla fühlte sich nicht gerade unglücklich, aber böse, verdrossen. – »​Ach, Mutti,​« klagte sie, »​ich bekomme  einen schlechten Charakter, ich fühl's. Ich will fort von Berlin.​«
+Sibilla fühlte sich nicht gerade unglücklich, aber böse, verdrossen. – <quote>»​Ach, Mutti,​«</quote><suspension> klagte sie, </suspension><quote>»​ich bekomme  einen schlechten Charakter, ich fühl's. Ich will fort von Berlin.​«</quote>
 
 »​Könntest Du nicht Benno Raphalo heiraten?​« fragte nicht ohne Bitterkeit die zärtlich bekümmerte Frau. »​Du brauchtest dann nicht in Berlin zu bleiben. Die Direktorstelle an der ersten Münchener Bank ist ihm angeboten, was die Anwartschaft auf den Erwerb von Millionen bedeutet. Er liebt Dich treu, und er ist ein guter Mensch.​«
 
@@ -617,7 +617,7 @@ Er ergriff gern die Gelegenheit, eine launige Tischrede zu halten und berauschte
 
 Gegen das Ende des Mahls fiel ihm plötzlich ein, daß er mit dem Musikalienhändler eine Verabredung habe, eine Viertelstunde nur, gleich sei er wieder da. Er schloß Sibilla in seine Arme, küßte sie mehrmals, schüttelte seinem Schwiegersohn die Hände, und fort war er und – kam nicht wieder. Sibilla hatte es im voraus gewußt. Er hatte die Flucht vor dem Abschied ergriffen. Er konnte Thränen nicht sehen. Und sie flossen in Strömen aus Sibillas Augen, als sie am Halse ihrer Mutter hing. Eine grenzenlose Traurigkeit und Mutlosigkeit war über sie gekommen, das Gefühl, als hätte sie etwas Unerhörtes, Ungereimtes, ganz Wahnsinniges gethan, und wenn die Mutter, die begriff, was auf dem Spiel stand, nicht mit zärtlicher Überredung, mit sanftem, aber festem Ernst Öl in die Wogen des aufziehenden Sturmes gegossen hätte, wer weiß, ob nicht der Anfang dieser Ehe zugleich ihr Ende gewesen wäre.
 
-Der gute Benno ahnte nichts von dem, was in der Seele seiner jungen Frau vorging. Als sich aber Sibilla gar nicht von der Mutter trennen wollte, schüttelte er mit einem kräftigen Ruck die feierliche Rührung ab und riskierte ein Scherzwort. »​Spaß beiseite,​« rief er fröhlich, »​und bringen wir unser Schäfchen ins Trockene.​«
+Der gute Benno ahnte nichts von dem, was in der Seele seiner jungen Frau vorging. Als sich aber Sibilla gar nicht von der Mutter trennen wollte, schüttelte er mit einem kräftigen Ruck die feierliche Rührung ab und riskierte ein Scherzwort. <quote>»​Spaß beiseite,​«</quote><suspension> rief er fröhlich, </suspension><quote>»​und bringen wir unser Schäfchen ins Trockene.​«</quote>
 
 Und Sibilla lachte, lachte ebenso krampfhaft, wie sie vorher geweint hatte, und unter Lachen und Weinen reisten sie zu einer kurzen Hochzeitsreise ab.
 
@@ -699,7 +699,7 @@ Ein finanzielles Unternehmen, die Gründung einer Zuckerfabrik, brachte Benno Ra
 
 Der Graf war sehr lebhaft, sehr geistreich, sehr frivol und sehr häßlich. Mit ihm kam die Welt wieder zu Sibilla.
 
-Kurz nach dieser Anknüpfung ließ sich ihre alte Freundin Timäa, die einen hervorragenden Maler, Peter von Gregori, geheiratet hatte, in München nieder. Ihr Erstaunen, Sibilla in einer verhältnismäßig untergeordneten Position zu finden, war grenzenlos. Die Eigenschaften, die Sibilla fehlten, um ihr Leben zu gestalten, Energie, Ehrgeiz, Ausdauer, besaß Timäa im höchsten Maße. Sie begriff nicht, wie eine Frau von der Persönlichkeit Sibillas, die noch dazu immens reich war, wie eine bourgeoise leben könne. – »​Du bist doch eigentlich die geborene Botschafterin,​« redete sie auf Sibilla ein, »​Dein Bankdirektor ist nur ein zufälliger Nebenumstand.​«
+Kurz nach dieser Anknüpfung ließ sich ihre alte Freundin Timäa, die einen hervorragenden Maler, Peter von Gregori, geheiratet hatte, in München nieder. Ihr Erstaunen, Sibilla in einer verhältnismäßig untergeordneten Position zu finden, war grenzenlos. Die Eigenschaften, die Sibilla fehlten, um ihr Leben zu gestalten, Energie, Ehrgeiz, Ausdauer, besaß Timäa im höchsten Maße. Sie begriff nicht, wie eine Frau von der Persönlichkeit Sibillas, die noch dazu immens reich war, wie eine bourgeoise leben könne. – <quote>»​Du bist doch eigentlich die geborene Botschafterin,​«</quote><suspension> redete sie auf Sibilla ein, </suspension><quote>»​Dein Bankdirektor ist nur ein zufälliger Nebenumstand.​«</quote>
 
 Und sie ruhte nicht eher, bis Sibillas Bankdirektor ein wundervolles Haus mit einem großen  Garten kaufte, eine Art Palast, dessen Ausstattung Sibilla mit Hilfe Timäas besorgte.
 
@@ -905,7 +905,7 @@ Mein Raphael erduldet die geistreichen Tiraden Ferlanis, ohne mit der Wimper zu 
 
 Am Vormittag meines Geburtstages gab ein Gratulant dem andern die Thürklinke in die Hand. Ferlani hielt stand, Raphael floh, als Frau Bürgens mit einem enormen, auf Draht gezogenen Rosenbouquet acte de présence machte. Sie war eben erst von einer Reise nach Rom zurückgekehrt. Man fragte nach ihren römischen Eindrücken.
 
-»​O Gott,​« seufzte sie als Antwort, »​was ich inzwischen hier alles versäumt habe, die Marisson und die Spitzer​« – – das sind, wie Du vielleicht nicht weißt, zwei berühmte Wiener Schneiderinnen, die in jedem Winter auf acht Tage nach München kommen, um Bestellungen der eleganten Welt einzuheimsen.
+<quote>»​O Gott,​«</quote><suspension> seufzte sie als Antwort, </suspension><quote>»​was ich inzwischen hier alles versäumt habe, die Marisson und die Spitzer​«</quote> – – das sind, wie Du vielleicht nicht weißt, zwei berühmte Wiener Schneiderinnen, die in jedem Winter auf acht Tage nach München kommen, um Bestellungen der eleganten Welt einzuheimsen.
 
 Auch römische Eindrücke!
 
@@ -929,15 +929,15 @@ Da gerade unter den Gratulanten einige Unverheiratete waren, brachte sie geschic
 
 Er antwortete in seiner phlegmatisch süffisanten Art, er liebe Weintrauben nur, wenn sie gekeltert und junge Mädchen nur, wenn sie einige Jahre verheiratet seien, am allerwenigsten aber dann, wenn sie schon jahrelang verheiratet sein könnten.
 
-»​Oho!​« rief Timäa erzürnt, »​ziemen sich solche Dekadencewitze für den konservativen Agrarier; der im Parlament seine Reden für die Heiligkeit der Familie, Ehe, Religion u.s.w. mit Donnerkeilen und Pfuis würzt? Zweierlei Moral, mein Herr Graf?​«
+<quote>»​Oho!​«</quote><suspension> rief Timäa erzürnt, </suspension><quote>»​ziemen sich solche Dekadencewitze für den konservativen Agrarier; der im Parlament seine Reden für die Heiligkeit der Familie, Ehe, Religion u.s.w. mit Donnerkeilen und Pfuis würzt? Zweierlei Moral, mein Herr Graf?​«</quote>
 
-»​Schöne und geistesgewaltige Timäa,​« entgegnete Ferlani, »​viele Dinge auf Erden und im Himmel sind Ihnen kund geworden, nur die Politik nicht. Staatsklugheit und Weltweisheit ist eben zweierlei. Gerade weil ich Volksvertreter bin, rede ich im Parlament nicht was mir, sondern was dem Volke frommt.​«
+<quote>»​Schöne und geistesgewaltige Timäa,​«</quote><suspension> entgegnete Ferlani, </suspension><quote>»​viele Dinge auf Erden und im Himmel sind Ihnen kund geworden, nur die Politik nicht. Staatsklugheit und Weltweisheit ist eben zweierlei. Gerade weil ich Volksvertreter bin, rede ich im Parlament nicht was mir, sondern was dem Volke frommt.​«</quote>
 
 »​Gott, Sie Übermensch mit Ihrer schwächlichen Sophisterei,​« spottete Timäa. »​Das wird ein Spaß werden, wenn wir Frauen erst in den Reichs- und Landtagen sitzen, und Euch Blitzeschleuderer als komische Operetten-Jupiterleins entlarven werden. Wir haben die Sachkenntnis.​«
 
 Sie verfährt immer recht unglimpflich mit meinem Brackenburg. Weil es nicht der ihre ist vielleicht?
 
-»​Wissen Sie,​« flüsterte Ferlani mir zu, »​warum ich Timäa Frau Venus getauft habe?​«
+<quote>»​Wissen Sie,​«</quote><suspension> flüsterte Ferlani mir zu, </suspension><quote>»​warum ich Timäa Frau Venus getauft habe?​«</quote>
 
 – »​Wegen ihrer griechischen Haarfrisur etwa?​«
 
@@ -969,7 +969,7 @@ Als ich aufsah, bemerkte ich, daß Ferlani aus der Thür schlüfen wollte.
 
 Er habe mit einer That den Anfang machen wollen, indem er als Böser sich den Guten aus dem Wege räume.
 
-»​Gehen Sie nur,​« sagte Jolante, »​was geht Sie auch das Elend der Welt an? Sie sitzen in Ihrer Bel-Etage in der Maximilianstraße bei Ihrem Diner von vier oder fünf Gängen, und gehen, wenn es kalt ist, in einem dicken Zobelpelz spazieren. Hunger und Kälte giebt's nicht, weil Sie sie nicht fühlen.​«
+<quote>»​Gehen Sie nur,​«</quote><suspension> sagte Jolante, </suspension><quote>»​was geht Sie auch das Elend der Welt an? Sie sitzen in Ihrer Bel-Etage in der Maximilianstraße bei Ihrem Diner von vier oder fünf Gängen, und gehen, wenn es kalt ist, in einem dicken Zobelpelz spazieren. Hunger und Kälte giebt's nicht, weil Sie sie nicht fühlen.​«</quote>
 
 »​Irrtum, Baronesse, ich hatte einen Freund, der schoß sich todt, weil der Arzt ihm jeden Tropfen Wein verboten, und er verschmachtete darnach. Das Leiden ist dasselbe, ob die Not oder ob der Arzt einem die irdischen Genüsse verbietet. Ich z.B. hungere und dürste leidenschaftlich, wenn auch nicht nach materieller Speise, ich verschmachte nach – –​«
 
@@ -981,7 +981,7 @@ Schon auf der Schwelle, wandte er sich noch einmal zurück.
 
 »​Wo sind Sie eigentlich geboren, Baronesse? Ich schwanke zwischen Utopien, Arkadien oder einem olympischen Hain.​«
 
-»​Ich würde den olympischen Hain vorziehen,​« antwortete sie, »​da wohnen Götter.​«
+<quote>»​Ich würde den olympischen Hain vorziehen,​«</quote><suspension> antwortete sie, </suspension><quote>»​da wohnen Götter.​«</quote>
 
 »​Gleich mehrere?​«
 
@@ -1019,7 +1019,7 @@ Die Feier fing recht lebhaft, wenn auch nicht gerade geburtstagsmäßig an. Dara
 
 In dem Kunstgespräch, das sich daran entwickelte, platzten gleich die Geister aufeinander. Man haranguierte Benno, wie er ein solches Bild habe kaufen können.
 
-»​Aber ich bin doch Kunstmäcen,​« verteidigte er sich ganz naiv, »​und da dachte ich, ich müßte der neuen Richtung ein bißchen unter die Arme greifen.​«
+<quote>»​Aber ich bin doch Kunstmäcen,​«</quote><suspension> verteidigte er sich ganz naiv, </suspension><quote>»​und da dachte ich, ich müßte der neuen Richtung ein bißchen unter die Arme greifen.​«</quote>
 
 Man fand das Bild unmöglich, lächerlich, und hageldicht fielen die Stich- und Schlagworte von dem Mangel an Idealität, vom Kultus des Häßlichen, dem Verrat an Wahrheit, Schönheit u.s.w. Und die Rufe: Hie Uhde, hie Liebermann! Hie Rubens und Titian! schwirrten leidenschaftlich durcheinander.
 
@@ -1037,11 +1037,11 @@ Man lächelte und ihre Apostrophe wäre ohne Antwort geblieben, wenn nicht Isold
 
 Wie die Baronesse nur Mitleid und Kunst vermengen könne! Schmutz bleibe Schmutz und Kunst – Kunst! Es passierten jetzt aber wirklich unglaubliche Dinge in der Kunstwelt. In Wien z.B. (sie hätten sich dort auf der Rückreise im Herbst einige Tage aufgehalten) da stände auf einem der vornehmsten Plätze ein Denkmal von einem sogenannten berühmten Bildhauer. Am Sockel des Denkmals zwei weibliche Figuren, die Poesie und Philosophie darstellend. Und sie wisse es ganz authentisch, zur Philosophie habe ihm ein dem Trunke ergebenes Proletarierweib, und zur Poesie eine Kellnerin gesessen. Unfaßlich, wie man einem so sittenlosen Schlingel, wie dieser Apologet betrunkener Proletarierweiber, und der gewiß auch nicht immer nüchternen Kellnerin es notorisch sei, die Ausführung eines patriotischen Denkmals habe übertragen können. Da wäre doch in Wien der Bildhauer X. (ich habe den Namen vergessen), dessen Moralität über allem Zweifel erhaben sei –
 
-»​Ja, über allem Zweifel,​« unterbrach sie Gregori trocken, »​ebenso wie seine Talentlosigkeit. Der sittenlose Schlingel aber ist ein Genie.​«
+<quote>»​Ja, über allem Zweifel,​«</quote><suspension> unterbrach sie Gregori trocken, </suspension><quote>»​ebenso wie seine Talentlosigkeit. Der sittenlose Schlingel aber ist ein Genie.​«</quote>
 
 »​Ach, Sie Spaßvogel,​« zirpte Isoldchen und wandte sich dann an Timäa. »​Nicht wahr, Frau von Gregori, Sie sind meiner Meinung?​«
 
-»​Ach was,​« wehrte Timäa ab, »​ich bin in der Kunst für Feuerzauber!​« (Zwischenrufe: »​Aha, Wagner.​«) Sie hatte sich in den Fauteuil zurückgelehnt, und aus ihren halbgeschlossenen Augen fuhr ein schwefelfeuriger Blitz, der auf Riedling gemünzt war und auch einzuschlagen schien. Die gemalte Serpentindame, das wäre ihr Fall, durchseeltes Anilin. Sie sprach entzückt von einem Bild auf der letzten Ausstellung: »​Der Maskenball​«. Wie da aus Pantalons, Lampions und allerhand Fratzen brechende Feuerflammen, durch elektrisch geladene, glühende Lüfte gerast seien! Und die Bilder der Schotten, die wie brennende Kaleidoskope wirkten.
+<quote>»​Ach was,​«</quote><suspension> wehrte Timäa ab, </suspension><quote>»​ich bin in der Kunst für Feuerzauber!​«</quote> (Zwischenrufe: »​Aha, Wagner.​«) Sie hatte sich in den Fauteuil zurückgelehnt, und aus ihren halbgeschlossenen Augen fuhr ein schwefelfeuriger Blitz, der auf Riedling gemünzt war und auch einzuschlagen schien. Die gemalte Serpentindame, das wäre ihr Fall, durchseeltes Anilin. Sie sprach entzückt von einem Bild auf der letzten Ausstellung: »​Der Maskenball​«. Wie da aus Pantalons, Lampions und allerhand Fratzen brechende Feuerflammen, durch elektrisch geladene, glühende Lüfte gerast seien! Und die Bilder der Schotten, die wie brennende Kaleidoskope wirkten.
 
 Jawohl – die Apotheose der Kleckse! schrie man durcheinander. Solche Bilder sollte man zum Reinigen zu Spindler schicken.
 
@@ -1049,7 +1049,7 @@ Riedling rief, er hätte augenblicklich ein prächtiges Modell für diese Klecks
 
 Traute drohte ihrem Mann: »​Aber Georg!​«
 
-– »​Die Schotten gehen Dich ja nichts an, liebes Kind,​« beschwichtigte er, »​ich lasse Dir ja Deinen Gabriel Max.​«
+– <quote>»​Die Schotten gehen Dich ja nichts an, liebes Kind,​«</quote><suspension> beschwichtigte er, </suspension><quote>»​ich lasse Dir ja Deinen Gabriel Max.​«</quote>
 
 Ja, das sei ihr Mann. Sie liebe in der Malerei das Verklingen, Verträumen, Verbluten, zartgebrochene Töne wie aus einem verzauberten Harmonium, oder mystische Schatten, hinter denen ein Neuland der Seele locke.
 
@@ -1057,7 +1057,7 @@ Sie wandte sich zu Gregori: »​Sie, Gregori, nähern sich ja dem Geisterreich,
 
 Der arme Gregori ist in Traute verliebt.
 
-»​Möchten Sie mir nur ein einziges Mal sitzen,​« bat er, »​und ich würde das Überirdische schon sichtbar machen.​«
+<quote>»​Möchten Sie mir nur ein einziges Mal sitzen,​«</quote><suspension> bat er, </suspension><quote>»​und ich würde das Überirdische schon sichtbar machen.​«</quote>
 
 Sie schüttelte den Kopf, sie möchte noch nicht ins Schattenreich. Die Worte thaten ihr aber gleich leid, als sie sah, daß er zusammenzuckte, und sie versprach ihm eine Sitzung, aber erst im Sommer, wenn er nach Berchtesgaden käme. In der Nähe ihrer Villa sei ein See, am Rand des Sees wolle sie für ihn, ganz Ophelia, in irrer Schwermut malerische Kränze flechten.
 
@@ -1065,7 +1065,7 @@ Eva Broddin saß immer irgendwo in einer reizenden Pose, und flüsterte mit irge
 
 Von den jüngsten Malerschulen zu den jüngsten litterarischen Richtungen war nur ein Schritt. Ewald de Born that ihn, indem er verkündete, daß er auch schwarz in die Zukunft der Dichtkunst sähe. Der moderne, widrige Geschmack vergifte den reinen castalischen Quell aller wahren Poesie, und was das ärgste wäre, diese Giftdünste lähmten allmählich auch die Flügel des Genies.
 
-»​Doch nur,​« warf Gregori ein, »​wenn die Flügel von Wachs und ihr Besitzer Ikarus ist.​«
+<quote>»​Doch nur,​«</quote><suspension> warf Gregori ein, </suspension><quote>»​wenn die Flügel von Wachs und ihr Besitzer Ikarus ist.​«</quote>
 
 »​Ob etwa ihr Ewald Flügel von Wachs habe?​« fuhr Isoldchen auf.
 
@@ -1121,17 +1121,17 @@ Ferlani, der fürchtete, ich könnte mich schließlich doch verletzt fühlen, sc
 
 Mäuschenstille trat ein. Man erwartete, daß er mich durch seine Gegenrede ecrasieren würde.
 
-»​Wenn man den Ausdruck nicht zu hart findet,​« begann er, »​möchte ich sagen: Tant de bruit pour une omelette. Die Omelette ist die Kunst, der bruit der  fanatische Streit um die Kunstrichtungen. Kunst! Warum überhaupt so viel Wesens von der Kunst machen! Kunst lockt in der sozialen Welt keinen Hund vom Ofen, höchstens ein Damenmöpschen. Die Kunst hat die Welt noch nicht um einen Schritt vorwärts gebracht. An dem massiven Gebäude der Kultur besorgt sie nur die Ausschmückung, die Ornamente. Hätte es nie einen Titian, Rubens, Raphael gegeben (die Anwesenden sind ausgeschlossen, sonst würde ich sagen einen Riedling, Born, Gregori), die Welt wäre wie sie ist. Selbst als Freudenspender und Sinnenweide finde ich die Kunst diskutabel. Kann sie uns mehr bieten als die Natur, die sie doch nur nachstümpert? Die Krone der Schöpfung ist das Weib. Wer möchte es nicht lieber lebendig besitzen, als gemalt! Und es ist sehr die Frage, ob es nicht lohnender wäre, durch – durch wissenschaftlichen Calcül (bitte anzuerkennen, daß ich hier das Wort Zuchtwahl unterdrücke) die Schönheit des Menschen in Fleisch und Blut zu veredeln, zu potenzieren, anstatt sie in Stein und Farbe uns vorzulügen. Mit einem Wort: die Kunst ist nur das Schmunzeln, das die großen Zeitereignisse begleitet.
+<quote>»​Wenn man den Ausdruck nicht zu hart findet,​«</quote><suspension> begann er, </suspension><quote>»​möchte ich sagen: Tant de bruit pour une omelette. Die Omelette ist die Kunst, der bruit der  fanatische Streit um die Kunstrichtungen. Kunst! Warum überhaupt so viel Wesens von der Kunst machen! Kunst lockt in der sozialen Welt keinen Hund vom Ofen, höchstens ein Damenmöpschen. Die Kunst hat die Welt noch nicht um einen Schritt vorwärts gebracht. An dem massiven Gebäude der Kultur besorgt sie nur die Ausschmückung, die Ornamente. Hätte es nie einen Titian, Rubens, Raphael gegeben (die Anwesenden sind ausgeschlossen, sonst würde ich sagen einen Riedling, Born, Gregori), die Welt wäre wie sie ist. Selbst als Freudenspender und Sinnenweide finde ich die Kunst diskutabel. Kann sie uns mehr bieten als die Natur, die sie doch nur nachstümpert? Die Krone der Schöpfung ist das Weib. Wer möchte es nicht lieber lebendig besitzen, als gemalt! Und es ist sehr die Frage, ob es nicht lohnender wäre, durch – durch wissenschaftlichen Calcül (bitte anzuerkennen, daß ich hier das Wort Zuchtwahl unterdrücke) die Schönheit des Menschen in Fleisch und Blut zu veredeln, zu potenzieren, anstatt sie in Stein und Farbe uns vorzulügen. Mit einem Wort: die Kunst ist nur das Schmunzeln, das die großen Zeitereignisse begleitet.
 
 Nun denken Sie sich aber einmal die Wissenschaft aus der Welt fort und diejenigen, die ihre Theorieen in Praxis umsetzen. Denken Sie sich die Erfindungen und Entdeckungen fort! Wir lebten noch heute in geistiger Wildnis, und den grünen Zweig, auf den wir gekommen wären, könnten wir höchstens als eine veredelte Affenart occupieren.
 
 Die Malerei ist eine Illustrationsfrage. Erfindet aber eine Maschine mit der Kraft von 10,000 Pferden, die in einem Moment 100,000 Nähnadeln einfädelt – das ist grandios. Bewässert die Wüste Sahara, erfindet die Flugmaschinen und ich beuge die Kniee.
 
-Mithin, den großen Entdeckern und Erfindern die goldenen Lorbeerkränze! Ein paar grüne Blätter den Herren Künstlern!​«
+Mithin, den großen Entdeckern und Erfindern die goldenen Lorbeerkränze! Ein paar grüne Blätter den Herren Künstlern!​«</quote>
 
 Man war noch unentschieden, ob man lachen oder böse werden sollte, als Born unheilverkündend seine Backen blähte. Er wolle sich über die bildenden Künste kein Urteil erlauben, aber die Litteratur, die Dichtkunst, die Presse – das sei eine Macht.
 
-»​Ha!​« fiel ihm Ferlani ins Wort, »​die Presse! Die Künste seien wenigstens unschädlich und angenehm, die Presse aber sei ebenso unangenehm wie gemeingefährlich. Nicht bloß eine Macht, eine Tyrannei sei sie. Alles Unheil komme von der Erfindung der Buchdruckerkunst, ohne sie gäbe es den gottverdammten Journalismus nicht, dem er damit seinen Fluch nicht einen Augenblick vorenthalten wolle. Wenn heute einer von ihm drucken ließe, er wäre als Offizier wegen falschen Spiels infam kassiert worden, so sei er ruiniert. Er könne es dementieren, den Verleumder bestrafen lassen, er sei doch ruiniert. So ein einzelner Schuft würde nur ihm schaden, verleumdeten aber 25–30 Schufte der Presse die staatserhaltenden Kräfte, Minister u.s.w., so machten sie Weltgeschichte, eine miserable Weltgeschichte von Reporters Gnaden.​«
+<quote>»​Ha!​«</quote><suspension> fiel ihm Ferlani ins Wort, </suspension><quote>»​die Presse! Die Künste seien wenigstens unschädlich und angenehm, die Presse aber sei ebenso unangenehm wie gemeingefährlich. Nicht bloß eine Macht, eine Tyrannei sei sie. Alles Unheil komme von der Erfindung der Buchdruckerkunst, ohne sie gäbe es den gottverdammten Journalismus nicht, dem er damit seinen Fluch nicht einen Augenblick vorenthalten wolle. Wenn heute einer von ihm drucken ließe, er wäre als Offizier wegen falschen Spiels infam kassiert worden, so sei er ruiniert. Er könne es dementieren, den Verleumder bestrafen lassen, er sei doch ruiniert. So ein einzelner Schuft würde nur ihm schaden, verleumdeten aber 25–30 Schufte der Presse die staatserhaltenden Kräfte, Minister u.s.w., so machten sie Weltgeschichte, eine miserable Weltgeschichte von Reporters Gnaden.​«</quote>
 
 Darum rufe er, nicht wie vorhin unsere anmutige Wirtin »​Tod der Autorität,​« er rufe: »​Eine Axt an den Giftbaum des Journalismus! eine Bartholomäusnacht für die Presse!​«
 
@@ -1203,13 +1203,13 @@ Riedling und Professor Krusen traten ein. Sie kamen aus einer Première im Theat
 
 Ihre Kunde von dem großen Erfolg des Stückes, das man gegeben, war Wasser auf Borns Mühle. Das Stück heißt »​Glück​«. Ich hatte es gelesen: ein banales Machwerk. Spießbürger - Weltanschauung unter der Devise: »​Freut Euch des Lebens, weil noch das Lämpchen glüht.​«
 
-Das Stück hatte Enthusiasmus erregt, nicht nur des Philisters, nein, auch ganz gescheuter Leute. »​Ihr Ibsen,​« rief mir der so kluge Professor Krusen zu, »​könnte froh sein, wenn er je so etwas geschrieben hätte.​«
+Das Stück hatte Enthusiasmus erregt, nicht nur des Philisters, nein, auch ganz gescheuter Leute. <quote>»​Ihr Ibsen,​«</quote><suspension> rief mir der so kluge Professor Krusen zu, </suspension><quote>»​könnte froh sein, wenn er je so etwas geschrieben hätte.​«</quote>
 
 Gott steh' mir bei!
 
 Da man aber gerade am Werk war, geriet man in eine Max Nordau-Stimmung und that sich gütlich im Verhöhnen aller modernen künstlerischen Bestrebungen mit dem bekannten Hohnlächeln: eine nette Gesellschaft da beisammen.
 
-Mir giebt's immer einen Ruck, wenn ich dergleichen höre. Vor den Klingerschen Bildern und Radierungen  habe ich Leute stehen sehen, die sich den Bauch vor Lachen hielten. Andere grinsten wenigstens über »​das verrückte Zeug​«, »​den Blödsinn​«. Und bis zu Friedrich Nietzsche, dem einsamen Adler, der, über Bergwipfel kreisend, seine Schwingen in Morgen- und Abendröten taucht, blaffen sie hinauf. Sarcey, der erste Kritiker Frankreichs, nennt seinen Hund Ibsen, um dem Dichter die ganze Tiefe seiner Verachtung auszudrücken. Der berühmte Chirurg Billroth traktiert Nietzsche sogar als Kerl und Schuft.
+Mir giebt's immer einen Ruck, wenn ich dergleichen höre. Vor den Klingerschen Bildern und Radierungen  habe ich Leute stehen sehen, die sich den Bauch vor Lachen hielten. Andere grinsten wenigstens über <quote>»​das verrückte Zeug​«</quote><suspension>, </suspension><quote>»​den Blödsinn​«</quote>. Und bis zu Friedrich Nietzsche, dem einsamen Adler, der, über Bergwipfel kreisend, seine Schwingen in Morgen- und Abendröten taucht, blaffen sie hinauf. Sarcey, der erste Kritiker Frankreichs, nennt seinen Hund Ibsen, um dem Dichter die ganze Tiefe seiner Verachtung auszudrücken. Der berühmte Chirurg Billroth traktiert Nietzsche sogar als Kerl und Schuft.
 
 Aber Billroth war ein ehrenwerter Mann, und Nietzsche sitzt im Irrenhaus.
 
@@ -1267,7 +1267,7 @@ Als die meisten gegangen waren, blieb noch ein kleiner Kreis Intimer zusammen un
 
 Merkwürdiger Kontrast unserer Zeit. Auf der einen Seite zügellose Frivolität bis zur frechsten Unmoral in den höheren und höchsten Ständen, und auf der anderen Seite die unaufhaltsam vorwärts drängende Wissenschaft, Männer mit dem apostolischen Zug, wie Tolstoi, Egidy, politische Schwärmer, und der zu voller Lebensintegrität heranreifende vierte Stand.
 
-Und ich stehe dazwischen, und halb zieht es mich dahin, halb sinke ich dorthin, und da wird's denn wohl um mich geschehen sein. Meine Situation ist ungefähr die eines Wanderers, der in kalter Nacht ein Feuer im Freien anmacht. Aber die Kälte aus der Peripherie dringt doch zu ihm, und im Mittelpunkt des Feuers kann er nicht leben. So pendelt er zwischen Frost und Hitze. Auf der einen Seite gebraten zu werden und auf der andern zu frieren, das ist unsere Situation. »​Und so soll ich die Brahmane, – Mit dem Haupt im Himmel weilend, – Fühlen Paria dieser Erde – Niederziehende Gewalt.​« (Ein indischer Spruch, den ich irgendwo gelesen habe.)
+Und ich stehe dazwischen, und halb zieht es mich dahin, halb sinke ich dorthin, und da wird's denn wohl um mich geschehen sein. Meine Situation ist ungefähr die eines Wanderers, der in kalter Nacht ein Feuer im Freien anmacht. Aber die Kälte aus der Peripherie dringt doch zu ihm, und im Mittelpunkt des Feuers kann er nicht leben. So pendelt er zwischen Frost und Hitze. Auf der einen Seite gebraten zu werden und auf der andern zu frieren, das ist unsere Situation. <quote>»​Und so soll ich die Brahmane, – Mit dem Haupt im Himmel weilend, – Fühlen Paria dieser Erde – Niederziehende Gewalt.​«</quote><suspension> (Ein indischer Spruch, den ich irgendwo gelesen habe.)
 
 8. Oktober. Gestern war ich müde und abgespannt, ließ mich aber doch von Benno überreden, mit in die Oper zu fahren: Tristan und Isolde. In meiner Müdigkeit hörte ich nur klingende Schreie, abgerissene Töne, schmetternde hohe A's und dazwischen ein Gemurmel, das sich ins Orchester hinein verlief. Trotzdem war ich hingerissen mit dem allgemeinen Gefühl, daß ich mich in Poesie badete und daß die geistreichste Kauserie daneben – Pardon – Schund ist.
 
@@ -1289,7 +1289,7 @@ Ach, Mutti, unsere ethischen Anschauungen stecken noch in den Kinderschuhen. Die
 
 Du schreibst, daß, ganz abgesehen von sittlichen Gründen, schon aus Rücksicht auf die Welt und meinen Ruf, ich nicht dürfte was ich möchte. Ja, selbst den Schein eines Unrechts müsse ich vermeiden.
 
-Den Schein vermeiden? Fällt mir gar nicht ein, und wäre es auch nur aus Hochmut gegen das Urteil der blöden Menge, »​das Rabenlied des Pöbels, das  ich ganz verachte​«. Es ist mir so gleichgültig, was Frau X. oder Frau Y. von mir denken. Und überhaupt ist's so ungeheuer gleichgültig, wie und was ich bin. Ob ich einen Liebhaber habe oder ob ich keinen habe, im Weltall kräht kein Hahn darnach. Und in fünfzig Jahren sind wir ja alle, alle tot.
+Den Schein vermeiden? Fällt mir gar nicht ein, und wäre es auch nur aus Hochmut gegen das Urteil der blöden Menge, </suspension><quote>»​das Rabenlied des Pöbels, das  ich ganz verachte​«</quote>. Es ist mir so gleichgültig, was Frau X. oder Frau Y. von mir denken. Und überhaupt ist's so ungeheuer gleichgültig, wie und was ich bin. Ob ich einen Liebhaber habe oder ob ich keinen habe, im Weltall kräht kein Hahn darnach. Und in fünfzig Jahren sind wir ja alle, alle tot.
 
 Rücksicht auf die Welt? Welcher Welt? Der, in der ich lebe und in der die Haut-goût-Damen dominieren. Die thun mir nichts, Mutti, sie sind ja froh, wenn man ihnen nichts thut.
 
@@ -1389,7 +1389,7 @@ Er begrüßte mich steif. Er hätte gehört, ich sei nicht wohl (Lüge), er käm
 
 »​Und von nun an wollen Sie wohl ganz ceremoniell mit mir verkehren?​« fragte ich.
 
-»​Freilich,​« sagte er, »​haben Sie nicht bemerkt, daß ich im Cylinder komme?​«
+<quote>»​Freilich,​«</quote><suspension> sagte er, </suspension><quote>»​haben Sie nicht bemerkt, daß ich im Cylinder komme?​«</quote>
 
 Ich lachte. Da thaute er auf; das heißt, er wurde wütend und sprudelte alles heraus, was in der Tiefe seiner Brust brodelte: seine Qual, seine Liebe, meine Koketterie. Er hätte nie wiederkommen wollen, da ich doch fände, daß mein Mann alle und er gar kein Talent habe, und ich so weit gesunken wäre, sogar von den schönen Augen des geistlosen Adonis Notiz zu nehmen.
 
@@ -1463,7 +1463,7 @@ Was wollen wir denn? in süßer Extase einer des anderen sein? Und Benno? Ach, U
 
 Ehebruch! Breche ich denn eine Ehe? eine wahre Ehe?
 
-Kennst Du das schöne Wort Nietzsches, das wie ein Psalm klingt: »​Ehe, so heiße ich den Willen zu zweien, das Eine zu schaffen, das mehr ist, als die es schufen. Ehrfurcht vor einander nenne ich Ehe als vor den Wollenden eines solchen Willens.​«
+Kennst Du das schöne Wort Nietzsches, das wie ein Psalm klingt: <quote>»​Ehe, so heiße ich den Willen zu zweien, das Eine zu schaffen, das mehr ist, als die es schufen. Ehrfurcht vor einander nenne ich Ehe als vor den Wollenden eines solchen Willens.​«</quote><suspension>
 
 Ja, das wäre vielleicht eine Ehe. Eine solche Ehe, ich und Benno? Wer lacht? ich.
 
@@ -1471,7 +1471,7 @@ Ob man nicht in hundert Jahren vielleicht unsere Auffassung der Ehe, die das Wei
 
 Der gute und intelligente Mensch weiß in seinen besten Momenten vollkommen, was er darf und was er nicht darf. Und ich darf, Mutti, ich darf. (Gott, das sind ja wieder Ferlanis Gedanken. Denke ich ihm etwa nach, dem Mephisto?)
 
-Und habe ich denn auch wirklich jetzt gerade meine besten, intelligentesten Momente? Ich merke schon, ich thu's gewiß wieder nicht. Ich weiß ja, ich komme niemals an die Reihe. Um gegen den Strom zu schwimmen, muß man stark sein, Muskeln von Stahl haben. Und die meinen? – Zwirnsfäden sind's. Ich käme bei solchen Schwimmversuchen immer gleich auf den Grund. Ach – und da ist auch wieder mein Gespenst: Ella Ried. Daß sie mir doch immer – – aber Mutti, ich sage ja nicht, »​in die Suppe spuckt​«, ich begnüge mich mit einem klassischen Citat – – da ist das Citat meinem Gedächtnis entfallen, aber es war aus Faust.
+Und habe ich denn auch wirklich jetzt gerade meine besten, intelligentesten Momente? Ich merke schon, ich thu's gewiß wieder nicht. Ich weiß ja, ich komme niemals an die Reihe. Um gegen den Strom zu schwimmen, muß man stark sein, Muskeln von Stahl haben. Und die meinen? – Zwirnsfäden sind's. Ich käme bei solchen Schwimmversuchen immer gleich auf den Grund. Ach – und da ist auch wieder mein Gespenst: Ella Ried. Daß sie mir doch immer – – aber Mutti, ich sage ja nicht, </suspension><quote>»​in die Suppe spuckt​«</quote>, ich begnüge mich mit einem klassischen Citat – – da ist das Citat meinem Gedächtnis entfallen, aber es war aus Faust.
 
 Alle Philosophen bestätigen die Unfreiheit des menschlichen Willens. Es wird also wohl ein Schicksalsmuß sein daß ich immer hübsch philisterhaft auf der Landstraße bleibe. Und links ab winkt Waldesgrün und Vogelsang, und rechts ein poetischer See mit Wasserrosen. Immer vorüber – auf der Landstraße Alles in mir sträubt sich gegen dieses Müssen. Nun gerade nicht! wie die Kinder sagen, wenn sie trotzig sind. Ich will mir selbst beweisen, daß mein Wille frei ist.  Als ich meine Unehe einging, habe ich doch kein Enthaltsamkeits-Gelübde gethan.
 
@@ -1649,7 +1649,7 @@ Heut war ich nach Tisch ein wenig eingeschlummert, als plötzlich der Donnerruf 
 
 »​Welchem Cäsar soll ich denn zu Leibe gehen?​« frage ich die Grimme, die mit einem hochgeschwungenen Zeitungsblatt vor mir steht.
 
-»​Afrika,​« stammelt sie, »​solche Greuel!​«
+<quote>»​Afrika,​«</quote><suspension> stammelt sie, </suspension><quote>»​solche Greuel!​«</quote>
 
 O Mutti, sie verlangte weiter nichts als eine Frau, die noch einmal Toms Hütte schreiben sollte, und machte mir bittere Vorwürfe, daß ich keine Beecher-Stowe sei.
 
@@ -1659,7 +1659,7 @@ Um sie auf andere Gedanken zu bringen, bat ich sie, abends mit mir in Lohengrin 
 
 Ich muß immer lächeln über die gelegentlichen rauhen Derbheiten in Jolantes Ausdrucksweise, weil ich weiß, daß sie nur eine halb absichtlich dick aufgetragene Farbe sind; immer schimmert die Himmelsbläue ihrer Seele lieblich durch das schwere Wettergewölk ihres Grimms. Ich hatte sie in einer vertraulichen Stunde einmal gefragt, ob sie denn seit jeher immer nur alle geliebt und nie einen einzelnen, mit der Liebe des Weibes?
 
-Ein melancholisches Lächeln war über ihre Züge geglitten. »​So unwahrscheinlich es klingt,​« hatte sie geantwortet, »​ich war verlobt, mit einem Theologen, long, long ago.​«
+Ein melancholisches Lächeln war über ihre Züge geglitten. <quote>»​So unwahrscheinlich es klingt,​«</quote><suspension> hatte sie geantwortet, </suspension><quote>»​ich war verlobt, mit einem Theologen, long, long ago.​«</quote>
 
 – »​Und warum – –​« ich wagte nicht weiter zu fragen.
 
@@ -2053,9 +2053,9 @@ Es marschierte sich wunderbar dabei und immer mehr Blumen steckte er auf meinen 
 
 Ab und zu rasteten wir, und saßen dann wie gute alte Bekannte neben einander im Moose, kurze Bemerkungen über die Schönheit der Landschaft austauschend, oder irgend eine Reflexion daran knüpfend. Er fand einmal, daß die Liebe zur Natur eigentlich eine unglückliche Leidenschaft sei, da wir ja immer nur an ihr vorüber gingen, immer Trennung, immer neue Liebe ohne Treue. Und sie widme uns auch keine Gegenliebe. Sie lebe für sich, nicht für uns. Wir sähen den Himmel, die Berge, den Wald, sie sähen uns nicht.
 
-»​Na,​« bemerkte ich bescheiden, »​sie verlieren vielleicht nicht viel daran.​«
+<quote>»​Na,​«</quote><suspension> bemerkte ich bescheiden, </suspension><quote>»​sie verlieren vielleicht nicht viel daran.​«</quote>
 
-»​So?​« meinte er, »​sind unsere Gedanken nicht höher als die Berge, tiefer wie der See, klarer wie die Sterne, und​« – er machte eine Pause und blickte mich so herzerfrischend heiter an, »​die Berge und der Himmel und die Erde sehen Sie nicht!​«
+<quote>»​So?​«</quote><suspension> meinte er, </suspension><quote>»​sind unsere Gedanken nicht höher als die Berge, tiefer wie der See, klarer wie die Sterne, und​«</quote> – er machte eine Pause und blickte mich so herzerfrischend heiter an, »​die Berge und der Himmel und die Erde sehen Sie nicht!​«
 
 Mutti, nie hat mir eine Schmeichelei so viel Vergnügen gemacht wie diese. Mich hübsch zu finden trotz meines kupferrot echauffierten Teints, trotz meines greulichen Tyrolers und meiner nägelbeschlagenen Plumpheit – das war ein Kunststück.
 
@@ -2293,7 +2293,7 @@ Kunz machte uns auf einen Menschen in Livree aufmerksam, den, für einen Lakaien
 
 Die Art, wie er, von Tisch zu Tisch gehend, seine Einkäufe machte, die eingekauften Sachen mit nonchalanter Grazie umherzeigte, wie er am Büffet seiner Gebieterin, der freundlichen Prinzessin, eine Tasse Thee trank, ohne Spur von Gêne oder Unterwürfigkeit, das war geradezu feudal.
 
-»​Sie sehen,​« sagte Kunz lächelnd, »​wie diese Formen erworben werden.​«
+<quote>»​Sie sehen,​«</quote><suspension> sagte Kunz lächelnd, </suspension><quote>»​wie diese Formen erworben werden.​«</quote>
 
 Traute antwortete nicht. Sie zeigte sich schon seit einiger Zeit unruhig. Ab und zu sah sie nach der Uhr. Ob sie jemand erwarte, fragte ich.
 
@@ -2357,7 +2357,7 @@ Er schwieg. Das reizte mich, und ich pries die Oberflächlichkeit als eine schö
 
 Kunz maß mich mit einem seiner unausstehlichen Mentorblicke.
 
-»​Ich muß mich erheitern,​« sagte ich verdrießlich, »​wenigstens eine Tasse Thee trinken.​«
+<quote>»​Ich muß mich erheitern,​«</quote><suspension> sagte ich verdrießlich, </suspension><quote>»​wenigstens eine Tasse Thee trinken.​«</quote>
 
 Eva Broddins Villa lag fast auf unserm Weg. Sie hatte Kunz verschiedentlich aufgefordert, sie zu besuchen. Ich schlug vor, bei ihr vorzusprechen. Er zögerte.
 
@@ -2433,7 +2433,7 @@ Eva bestritt lebhaft den Causalnexus zwischen Besitz und dem Schoß des Glücks.
 
 Kunz, der, möglicherweise aus Gleichgültigkeit gegen Frauenraisonnements das Gespräch nicht fortsetzen wollte, murmelte etwas von den anwesenden schönen Frauen, die doch sicher alle mit dem Monopol des Glücks auf die Welt gekommen wären.
 
-»​Aber Kunz,​« fuhr ich ihn an, »​seit wann reden Sie denn Banalitäten! Wir Frauen, das heißt die Begabten unter uns, kommen au contraire als Pechvögel auf die Welt, und unser Geschick ist einfach tragisch.​«
+<quote>»​Aber Kunz,​«</quote><suspension> fuhr ich ihn an, </suspension><quote>»​seit wann reden Sie denn Banalitäten! Wir Frauen, das heißt die Begabten unter uns, kommen au contraire als Pechvögel auf die Welt, und unser Geschick ist einfach tragisch.​«</quote>
 
 »​Tragisch? Wieso?​«
 
@@ -2461,7 +2461,7 @@ Unser Weg führte uns eigentlich an dem Baum vorbei. Ich wählte einen Umweg, um
 
 Mich rühren immer solche naiven Schildereien mit ihrer ramponierten Plastik, wo hier ein Finger, da ein Stück Strahlenglorie oder Himmelsbläue abgebröckelt, ein paar goldene Sterne heruntergefallen sind, und welke Kränze und Blumen so wehmütig mit dem Verfall harmonieren. Selbst in der blutenden Brustwunde des Heilands steckte ein welkes Sträußchen.
 
-»​Alle Kunst des Bildners​«, sagte ich zu Kunz, »​könnte vielleicht nicht die Wirkung dieser tölpelhaften Schildereien in all ihrer Hilflosigkeit und Häßlichkeit hervorbringen. Ist es nicht damit, wie mit dem Gebet. Ob es gestammelt wird, oder schwungvoll gesprochen, wenn es nur aus dem Herzen kommt.​«
+<quote>»​Alle Kunst des Bildners​«</quote><suspension>, sagte ich zu Kunz, </suspension><quote>»​könnte vielleicht nicht die Wirkung dieser tölpelhaften Schildereien in all ihrer Hilflosigkeit und Häßlichkeit hervorbringen. Ist es nicht damit, wie mit dem Gebet. Ob es gestammelt wird, oder schwungvoll gesprochen, wenn es nur aus dem Herzen kommt.​«</quote>
 
 Kunz war nicht meiner Meinung. Für das Volk sei, wie für die Kinder, gerade das Beste gut genug. Darum keine Proletarier-Religion mit Blutdunst und frömmelndem Gruseln. Die Leute, die anbetend vor diesen plump angetünchten Holz- oder Pappfiguren in die Kniee sänken, würden kalt und verständnislos vor den Christusdarstellungen der größten Meister stehen.
 
@@ -2469,7 +2469,7 @@ Kunz war nicht meiner Meinung. Für das Volk sei, wie für die Kinder, gerade da
 
 Widerwärtig oft seine Ausdrucksweise.
 
-»​Und nun,​« fuhr er fort, »​blicken Sie in die Berge, über die blumigen Hügel, in all die Pracht der Natur – wo ist Gott?​«
+<quote>»​Und nun,​«</quote><suspension> fuhr er fort, </suspension><quote>»​blicken Sie in die Berge, über die blumigen Hügel, in all die Pracht der Natur – wo ist Gott?​«</quote>
 
 »​Ja wo? Wenn nun selbst Ihr Gott nirgends wäre, Kunz?​«
 
@@ -2489,7 +2489,7 @@ Er wollte wieder sprechen. Ich legte meine Finger auf seinen Mund: »​Nicht un
 
 Siehst Du, Mutti, so antworten selbst diejenigen, die die Gleichheit der Geschlechter wollen.
 
-»​Du willst einwenden,​« setzte ich trotzdem meine Rede fort, »​eine ganz neue Erziehung wird auch ganz neue Menschen aus uns machen, mit einem neuen Geschmack, einer neuen Einsamkeit, einer neuen Schönheit, und wir werden vielleicht die Kunst lernen, unter Tausenden einsam zu sein, sei es durch Drillung unserer Nerven, sei es durch Verschlußerfindungen für unsere Ohren und durch eine Art Scheuklappen für unsere Augen, so daß wir nicht zu hören und zu sehen brauchen, was wir nicht hören und nicht sehen wollen, oder – ach es giebt so viele Oder's – –​«
+<quote>»​Du willst einwenden,​«</quote><suspension> setzte ich trotzdem meine Rede fort, </suspension><quote>»​eine ganz neue Erziehung wird auch ganz neue Menschen aus uns machen, mit einem neuen Geschmack, einer neuen Einsamkeit, einer neuen Schönheit, und wir werden vielleicht die Kunst lernen, unter Tausenden einsam zu sein, sei es durch Drillung unserer Nerven, sei es durch Verschlußerfindungen für unsere Ohren und durch eine Art Scheuklappen für unsere Augen, so daß wir nicht zu hören und zu sehen brauchen, was wir nicht hören und nicht sehen wollen, oder – ach es giebt so viele Oder's – –​«</quote>
 
 Den Augenblick, wo ich Atem schöpfte, benutzte Kunz nun doch, um mich aus dem Sattel meiner schönen Rede zu heben.
 
@@ -2609,7 +2609,7 @@ Das Schauspiel war zu Ende. Wir schritten kräftig bergan. Nach einer Weile bega
 
 »​Am liebsten wäre ich gleich die Sonne selber.​«
 
-»​Ach Kunz,​« rief ich halb ärgerlich, halb lachend, »​müssen Sie denn aus allem eine Moral ziehen? noch dazu, wenn es so mühsam bergauf geht, und ich einen solchen Theedurst habe.​«
+<quote>»​Ach Kunz,​«</quote><suspension> rief ich halb ärgerlich, halb lachend, </suspension><quote>»​müssen Sie denn aus allem eine Moral ziehen? noch dazu, wenn es so mühsam bergauf geht, und ich einen solchen Theedurst habe.​«</quote>
 
 Ein weißes Häuschen mit grünen Jalousien grüßte uns gastlich auf der Höhe. Ebereschenbäume hoben sich hier und da heiter von dem Mauerwerk ab. Auf der Altane Blumentöpfe. Zwischen Georginen und Sonnenblumen ließen wir uns in dem kleinen Gärtchen nieder, dicht neben einem Christus von Holz auf blauem Grunde; um das Kreuz rankte sich wilder Wein, der anfing rot zu werden. Das melodische Schellengeläut der Kühe heimelte uns an.
 
@@ -2819,7 +2819,7 @@ Er: Oder Kuchen.
 
 Ich: Ja, meinetwegen Kuchen. Wenn man nichts sein kann, so ist es zuweilen vergnüglich, wenigstens etwas vorzustellen. Und siehst Du, Kunz, wenn ich so abends in Gesellschaften, in Perlen- und Diamantenpracht strahle und den Weihrauch atme, den meine Vasallen mir streuen, so trage ich gewissermaßen Scepter und Krone. Ich sage Dir, es ist ein königliches Gefühl, wenn ich in meiner weißen Atlasschleppe oder in rosenrotem Sammet durch den Saal rausche und teils Bewunderung, teils Neid errege. Auch Erwachsene  mögen Märchen gern, und das sind meine Märchen, meine Feenträume.
 
-»​Freilich​« – setzte ich beschwichtigend hinzu, indem ich ihn auf die Finger schlug, die er zu fest auf meinen Arm preßte, »​wenn ich dann gegen Sonnenuntergang am Opheliabach mein besseres Ich spazieren führe oder abends ein gutes Buch lese, dann schäme ich mich der Vergeudung meiner Nachtruhe in Gesellschaften – –​«
+<quote>»​Freilich​«</quote><suspension> – setzte ich beschwichtigend hinzu, indem ich ihn auf die Finger schlug, die er zu fest auf meinen Arm preßte, </suspension><quote>»​wenn ich dann gegen Sonnenuntergang am Opheliabach mein besseres Ich spazieren führe oder abends ein gutes Buch lese, dann schäme ich mich der Vergeudung meiner Nachtruhe in Gesellschaften – –​«</quote>
 
 Er: Und vergeude sie jede Nacht aufs neue.
 
@@ -2901,9 +2901,9 @@ Und dieser Hochverräter habe Weib und Kind, von letzterer Sorte sogar sechs St�
 
 »​Du wirst nächstens noch mit Deinem revolutionären Seelenzustand staatsanwaltreif sein,​« warnte ich.
 
-»​– Was bin ich?​« schrie sie grimmig, »​nichts bin ich als ein Mensch, der zu der, wie es scheint, unerlaubten Erkenntnis gekommen ist, daß die andern auch Menschen sind. So lange es Märtyrer der Ehrlichkeit giebt, giebt's auch Tyrannen, giebt's Scheiterhaufen, Foltern! Eine Pfeife, ein Bücherregal, Fachsimpeln, das gehört sich für den gelehrten Stubenhocker, aber ein menschlicher Mensch sein! Ideen im Sozialismus finden! der Schnüffler! Blind ist man da oben, vollkommen blind. Menschen, die berufen sind, Öl in die  Wogen der Revolution zu gießen, maßregelt man, anstatt sie in Watte zu wickeln. Wurschtelt nur so weiter und zerbrecht die Sicherheitsschleusen, werdet schon in der Flut –​« ja, sie sagte »​ersaufen​«, worauf sie sich verschnaufte, jetzt erst Herrn Albert Kunz herzlich die Schwesterhand reichte und sich für Seinesgleichen erklärte.
+<quote>»​– Was bin ich?​«</quote><suspension> schrie sie grimmig, </suspension><quote>»​nichts bin ich als ein Mensch, der zu der, wie es scheint, unerlaubten Erkenntnis gekommen ist, daß die andern auch Menschen sind. So lange es Märtyrer der Ehrlichkeit giebt, giebt's auch Tyrannen, giebt's Scheiterhaufen, Foltern! Eine Pfeife, ein Bücherregal, Fachsimpeln, das gehört sich für den gelehrten Stubenhocker, aber ein menschlicher Mensch sein! Ideen im Sozialismus finden! der Schnüffler! Blind ist man da oben, vollkommen blind. Menschen, die berufen sind, Öl in die  Wogen der Revolution zu gießen, maßregelt man, anstatt sie in Watte zu wickeln. Wurschtelt nur so weiter und zerbrecht die Sicherheitsschleusen, werdet schon in der Flut –​«</quote> ja, sie sagte »​ersaufen​«, worauf sie sich verschnaufte, jetzt erst Herrn Albert Kunz herzlich die Schwesterhand reichte und sich für Seinesgleichen erklärte.
 
-»​Was sie für Temperament hat,​« sagte Kunz, als sie gegangen war, »​und ein so liebes Gesicht. Ihre Augen sind so klar, man könnte Forellen darin fangen. Schade – –​«
+<quote>»​Was sie für Temperament hat,​«</quote><suspension> sagte Kunz, als sie gegangen war, </suspension><quote>»​und ein so liebes Gesicht. Ihre Augen sind so klar, man könnte Forellen darin fangen. Schade – –​«</quote>
 
 »​Was schade?​«
 
@@ -3011,7 +3011,7 @@ Als ich ihm seine Junkerhaftigkeit vorwarf, verteidigte er sich mit großem Erns
 
 Ich antwortete mit hochfahrendem Spott, daß das blaue Blut der Aristokraten mit der Zeit sehr hell geworden sei, fast schon bleu mourant.
 
-»​Glaube ihm nur nicht alles,​« rief Traute von ihrem Fauteuil aus, »​er ist gar nicht wie Du denkst, nur rasend eitel auf seinen makellosen Ruf; unter vier Augen aber vergißt er manchmal, daß, ›​wo er ist, Livland ist,​‹ und neulich – (sie duckte sich auf dem Fauteuil zusammen und blinzelte ihn von der Seite an) sieh' mich nur an, ich sag's doch – neulich hat – er – mir – (sie zerrte die Worte auseinander) einen – Kuß – gegeben.​«
+<quote>»​Glaube ihm nur nicht alles,​«</quote><suspension> rief Traute von ihrem Fauteuil aus, </suspension><quote>»​er ist gar nicht wie Du denkst, nur rasend eitel auf seinen makellosen Ruf; unter vier Augen aber vergißt er manchmal, daß, ›​wo er ist, Livland ist,​‹ und neulich – (sie duckte sich auf dem Fauteuil zusammen und blinzelte ihn von der Seite an) sieh' mich nur an, ich sag's doch – neulich hat – er – mir – (sie zerrte die Worte auseinander) einen – Kuß – gegeben.​«</quote>
 
 Und dabei spitzte sie das Mündchen so kosend schelmisch, als erwarte sie, daß er nun auch unter sechs Augen desgleichen thue.
 
@@ -3023,7 +3023,7 @@ Eine schwere Thräne hing in Trautes Wimper. Sie zupfte ihn am Ärmel, und mit e
 
 Mit schmeichelnder Anmut fragte sie ihn ganz ernsthaft um Rat, in welcher Gestalt und Tracht sie ihm nach dem Tode als entleibte, wenigstens teilweis entleibte Seele erscheinen sollte? Ob im griechischen Purpurgewand, rosenumgürtet, oder in durchsichtigem  indischen Musselin mit Silbergürtel und einem Vergißmeinnichtkranz auf dem wallenden Haar, ganz deutsche Sehnsucht?
 
-»​Komm nur mit dem Papagei auf der Schulter,​« sagte er lachend, »​da erkenne ich Dich gleich. Oder so wie jetzt.​«
+<quote>»​Komm nur mit dem Papagei auf der Schulter,​«</quote><suspension> sagte er lachend, </suspension><quote>»​da erkenne ich Dich gleich. Oder so wie jetzt.​«</quote>
 
 Sie saß in dem dämmernden Gemach am Fenster, unter Hyazinthen und weißen Blumen, in ihrem schimmernden Gewand, und die weißen Blüten schienen zarte Gesichter, und ihr Antlitz war wie eine Blume.
 
@@ -3031,7 +3031,7 @@ Ich war eifersüchtig auf ihre magische Schönheit.
 
 Als wir aus dem Hause traten, war mein Wagen noch nicht da. Hely schlug mir einen Spaziergang durch den englischen Garten vor. Ich war einverstanden. Ein herrlicher Oktobertag gegen Sonnenuntergang.
 
-»​Mir scheint,​« sagte ich – nachdem wir eine Weile schweigend nebeneinander hergeschritten waren, »​Sie unterschätzen das Glück, von dieser süßen kleinen Fee geliebt zu werden.​«
+<quote>»​Mir scheint,​«</quote><suspension> sagte ich – nachdem wir eine Weile schweigend nebeneinander hergeschritten waren, </suspension><quote>»​Sie unterschätzen das Glück, von dieser süßen kleinen Fee geliebt zu werden.​«</quote>
 
 »​Wo wir sind, ist Livland.​« Sie kennen den Spruch meines Wappens. Ich will es rein erhalten.​«
 
@@ -3103,7 +3103,7 @@ Er war schon draußen.
 
 Ich steckte schnell meine Ringe in die Tasche.
 
-»​Hansel!​« rief ich, »​Hansel!​«
+<quote>»​Hansel!​«</quote><suspension> rief ich, </suspension><quote>»​Hansel!​«</quote>
 
 Es klang so weich, schmelzend weich, daß ich unwillkürlich selbst auf den Klang meiner Stimme horchte.
 
@@ -3137,7 +3137,7 @@ Auch ein Standpunkt.
 
 Den Standpunkt dieser Herrschaften, wenn von der Frauenfrage die Rede ist, kannst Du Dir vorstellen. Neulich, als Jolante für die Gymnasialbildung der Frau eintrat, meinte ein junges Bürschchen, natürlich Barönchen: »​Gott, wenn erst einige junge Damen etwas gelernt hätten, so würden alle meinen, es wäre nicht ›​fesch​‹, wenn sie nicht auch Griechisch und Lateinisch lernten, und dann würden alle Mädel Griechisch und Lateinisch lernen und das wäre doch fad.​«
 
-»​Nicht wahrscheinlich,​« antwortete ich ihm, »​daß diejenigen, deren Lebensziel ›​Feschheit​‹ ist, sich dieser immerhin bedeutenden Anstrengung unterziehen würden.​«
+<quote>»​Nicht wahrscheinlich,​«</quote><suspension> antwortete ich ihm, </suspension><quote>»​daß diejenigen, deren Lebensziel ›​Feschheit​‹ ist, sich dieser immerhin bedeutenden Anstrengung unterziehen würden.​«</quote>
 
 Isolde stimmte dem Bürschchen lebhaft bei. Die Frau müsse vor allem Frau sein, d.h. weiblich. Und sie brach den Stab über alle velocipedfahrenden, reitenden, lateinischlernenden, wurzelausziehenden, lyceenbesuchenden Damen, schien aber Puder, Cigaretten und Dichtersgattin zu sein, für den Inbegriff der Weiblichkeit zu halten.
 
@@ -3185,7 +3185,7 @@ Ob sie mich – Sibilla Raphalo – nicht als Nebenbuhlerin fürchte, hatte die 
 
 Ach, die habe ja an ihrem Triumphwagen schon doppelt angespannt, den Ferlani und den Kunz.
 
-Der Ferlani übrigens fängt wieder an, mir fürchterlich zu werden. Bei Timäa wich er nicht von meiner Seite. Es scheint, daß Kunzes Anbetung die Asche seiner Gefühle wieder angefacht hat. »​Schauderhaft, Sibilla,​« sagte er bei Tisch zu mir, »​wie Sie sich konservieren. In jedem neuen Jahr denk' ich, nun wird es doch mit der Schönheit bei Ihnen bergab gehen Gott bewahre. Der reine Phönix! Immer von neuem jung und schön, immer von neuem einem die ganze Seele fortreißend.​«
+Der Ferlani übrigens fängt wieder an, mir fürchterlich zu werden. Bei Timäa wich er nicht von meiner Seite. Es scheint, daß Kunzes Anbetung die Asche seiner Gefühle wieder angefacht hat. <quote>»​Schauderhaft, Sibilla,​«</quote><suspension> sagte er bei Tisch zu mir, </suspension><quote>»​wie Sie sich konservieren. In jedem neuen Jahr denk' ich, nun wird es doch mit der Schönheit bei Ihnen bergab gehen Gott bewahre. Der reine Phönix! Immer von neuem jung und schön, immer von neuem einem die ganze Seele fortreißend.​«</quote>
 
 Ich nahm die Gelegenheit wahr, ihm zu sagen, daß er anfinge, mich ernstlich zu kompromittieren, da er ja doch nun einmal den Ruf eines Don Juans genösse, und ich bäte ihn um ein wenig mehr Zurückhaltung und etwas seltenere Besuche.
 
@@ -3223,7 +3223,7 @@ Aus einer blitzenden Metallschale neben dem Bett stiegen leichte Dämpfe. Räuch
 
 »​Traute ist tot!​« kreischte mir der Papagei entgegen. Sie machte eine Gebärde, ich sollte den Vogel bedecken. Ich that so.
 
-»​Ich mag den Papagei nicht mehr,​« sagte sie mit einem gebrochenen, zitternden Stimmchen, »​verschaffe mir doch einen Raben, Sibilla, einen schwarzen, melancholischen Raben. Nevermore soll er krächzen, immerfort nevermore, wie in den Poe'schen Gedicht. Ja, nevermore, Sibilla, nevermore! Kein Morphium hilft mehr. Es wird Ernst!​«
+<quote>»​Ich mag den Papagei nicht mehr,​«</quote><suspension> sagte sie mit einem gebrochenen, zitternden Stimmchen, </suspension><quote>»​verschaffe mir doch einen Raben, Sibilla, einen schwarzen, melancholischen Raben. Nevermore soll er krächzen, immerfort nevermore, wie in den Poe'schen Gedicht. Ja, nevermore, Sibilla, nevermore! Kein Morphium hilft mehr. Es wird Ernst!​«</quote>
 
 Sie schwieg vor Erschöpfung. Ich nahm ihre kalten Hände in die meinen und sprach Tröstliches zu ihr. Sie hörte mir offenbar nicht zu.
 
@@ -3285,7 +3285,7 @@ Man lachte über – den guten Witz.
 
 »​Verneint man also diese beiden Fragen, so bleibt nichts übrig, als klipp und klar zu erklären: Es ist ein Naturgesetz, daß, wie im kalten Winter die Sperlinge von den Dächern fallen, alljährlich so und so viel Menschen verhungern und erfrieren, oder stehlen und morden, um dieser unangenehmen Eventualität zu entgehen. Wären die Menschen aufrichtig, so würden die meisten dieses Naturgesetz bejahen. Wer aber dieses Naturgesetz nicht anerkennt, muß mit absoluter Notwendigkeit eine neue Welt- und Gesellschaftsordnung anstreben.​«
 
-»​Aber sagen Sie, meine Herrschaften,​« unterbrach hier Benno den Ernst der Diskussion, »​was geht uns denn eigentlich die Zukunft an, da sind wir doch nicht mehr.​«
+<quote>»​Aber sagen Sie, meine Herrschaften,​«</quote><suspension> unterbrach hier Benno den Ernst der Diskussion, </suspension><quote>»​was geht uns denn eigentlich die Zukunft an, da sind wir doch nicht mehr.​«</quote>
 
 Man lachte und war im Begriff, zu einem andern Thema überzugehen, als Ferlani, um Kunz noch eins zu versetzen, sich erlaubte, zwischen den Heiligenscheinen der sozialistischen Drachentöter, die anstatt einem Drachen doch nur einem wehrlosen, wenn auch goldenen  Kalbe zu Leibe gingen, und einer Narrenkappe einige Ähnlichkeit zu finden.
 
@@ -3299,7 +3299,7 @@ Plötzlich sagte Kunz laut:
 
 »​Aha, ein Duell! Ich denke, niemand wird wagen, mir die Roheit eines Duells zuzumuten.​«
 
-»​O weh, Herr Kunz,​« rief Isoldchen entsetzt, »​wenn Sie ein Duell ausschlügen, könnten wir Sie ja niemals mehr empfangen.​«
+<quote>»​O weh, Herr Kunz,​«</quote><suspension> rief Isoldchen entsetzt, </suspension><quote>»​wenn Sie ein Duell ausschlügen, könnten wir Sie ja niemals mehr empfangen.​«</quote>
 
 Herr Gott, Mutti, ich sah, daß eine vernichtende Antwort auf seinen Lippen schwebte. Schnell sprang ich in die Bresche und schlug mit anmutiger Heiterkeit vor, die Duellfrage doch einmal objektiv in aller Ruhe zu erörtern.
 
@@ -3509,7 +3509,7 @@ Kaum. Denn dann müßte ich erst recht Kunz lieben, den jungen Herkules mit den 
 
 Man sollte nur mit Seinesgleichen reden, sagte Kunz. Aber auch nur Seinesgleichen lieben? »​Liebe ist, wenn man nicht weiß warum,​« eine Äußerung Ferlani's. Hat er recht?
 
-Meine Vernunft, meine Intelligenz leben in den radikalen Anschauungen, die der Zukunft gehören, mein Geschmack und meine Gewohnheiten wurzeln im »​Zeitalter des Kapitalismus,​« um mit Kunz zu reden.
+Meine Vernunft, meine Intelligenz leben in den radikalen Anschauungen, die der Zukunft gehören, mein Geschmack und meine Gewohnheiten wurzeln im <quote>»​Zeitalter des Kapitalismus,​«</quote><suspension> um mit Kunz zu reden.
 
 Wie? und etwas so Inferiores wie Geschmack entscheidet über mein Herzens- und Liebesleben?
 
@@ -3521,7 +3521,7 @@ Mein feiner, feiner Geruchssinn wird schon durch die Seife affiziert, mit der Ku
 
 Hely ist nicht Geist von meinem Geist, nicht Herz von meinem Herzen. Wir haben nicht einen gemeinsamen Gedanken. Was er denkt, ist für mich antiquiert, beinahe lächerlich. Und doch – ich liebe ihn, weil er es ist. All meine Reflexionen entfernen mich von ihm. Und doch – ehe ich mich's versehe, reißen meine Gedanken, die ich im Zügel zu haben glaubte, aus, und laufen ihm nach, wie Hündchen ihrem Herrn. Ich kann rufen, locken, drohen, sie kommen nicht zurück. Er erfüllt mich, ich sehe ihn, ich höre ihn, ich  warte den ganzen Tag auf ihn, ich hasse alle, die eintreten und die nicht er sind. Wenn er im Gruß leicht meine Hand berührt, vibrieren meine Nerven, und ich leide, leide, daß ich ihm nicht um den Hals fallen darf. Ich verschmachte nach ihm. Sie ist da, Mutti, die große, einzige, leidenschaftliche Liebe.
 
-Phänomenal diese Seelenstimmung? unerklärlich? Ich versuche ja ihr auf den Grund zu kommen. Ob der Grund schlammig ist? ein unlauteres, auf Sinnlichkeit gestelltes Gefühl? Nein, nein! Ich will arm mit ihm sein, mit schwarzen Messern und Gabeln will ich essen, alle meine Toiletten hingeben, sogar das pfirsichfarbene, goldgestickte Sammetgewand. Wäre er krank, ich wiche nicht von seinem Lager. Stürbe er – eisige Schauer schütteln mich bei der Vorstellung. Ich fühle die zarteste, herzinnigste Wonne, wenn er nur neben mir hergeht oder in Gesellschaft mir gegenübersitzt. Äußert sich so Sinnlichkeit? Nein, es ist eine romantisch sublime Erotik mit zartem Geflimmer, mystischem Meeresleuchten, »​himmelhochjauchzend, zum Tode betrübt​«, mit einem Worte: Liebe.
+Phänomenal diese Seelenstimmung? unerklärlich? Ich versuche ja ihr auf den Grund zu kommen. Ob der Grund schlammig ist? ein unlauteres, auf Sinnlichkeit gestelltes Gefühl? Nein, nein! Ich will arm mit ihm sein, mit schwarzen Messern und Gabeln will ich essen, alle meine Toiletten hingeben, sogar das pfirsichfarbene, goldgestickte Sammetgewand. Wäre er krank, ich wiche nicht von seinem Lager. Stürbe er – eisige Schauer schütteln mich bei der Vorstellung. Ich fühle die zarteste, herzinnigste Wonne, wenn er nur neben mir hergeht oder in Gesellschaft mir gegenübersitzt. Äußert sich so Sinnlichkeit? Nein, es ist eine romantisch sublime Erotik mit zartem Geflimmer, mystischem Meeresleuchten, </suspension><quote>»​himmelhochjauchzend, zum Tode betrübt​«</quote>, mit einem Worte: Liebe.
 
 20. Februar. Oft schon, meine Mutter, hast Du meine Seele, vielleicht mit innerem Erbeben, nackt geschaut. Auch heut – ich schreibe diesen Brief (wenn ich ihn auch hinterher mit Pech und Schwefel vernichten sollte) als eine Beichte. Katholische Frauen vertrauen fremden Männern, den Priestern, ihr geheimstes Denken und Fühlen an, und man findet es in der Ordnung. Du bist mein Priester, geliebte Mutter! Und denke nur nicht, daß die Bußen, die  Du mir auferlegst, zu milde sind. Durch die milden Worte hindurch sehe ich Deine Thränen, die fallen auf mein Herz. Habe nur Geduld, ich bessere mich auch gewiß noch, wenn Gott mich lange genug am Leben erhält.
 
@@ -3577,7 +3577,7 @@ Er ließ mich frei, sofort.
 
 Er führte mich zurück in den Salon, er wickelte mich sorglich in den Pelzmantel. Wir suchten nach Worten, um die plötzliche Ernüchterung vor uns selbst zu verbergen.
 
-»​Morgen, Hely, morgen,​« stammelte ich, »​ich schreibe Dir, gewiß, ich schreibe Dir.​«
+<quote>»​Morgen, Hely, morgen,​«</quote><suspension> stammelte ich, </suspension><quote>»​ich schreibe Dir, gewiß, ich schreibe Dir.​«</quote>
 
 »​Ja, schreibe mir, in Deine Hand lege ich unsere Zukunft.​«
 
@@ -3751,7 +3751,7 @@ Durch alle Eingeschläfertheit hindurch aber fühlte ich, daß ich mit Kunz mehr
 
 2. März. Liebe Mutter, ich habe Jolante geschrieben, daß sie und Kunz mich in der nächsten Zeit nicht besuchen möchten, weil ich ungestört dem Geschäft, das Gleichgewicht meiner Seele wieder herzustellen, obliegen wolle.
 
-So, Mutti, da wären wir ja nun so ziemlich einsam. Benno im Gärtnertheater. Ferlani ist richtig zu Timäa abgeschwenkt. Nie soll man doch sagen: »​Aus diesem Becher trink' ich nicht.​«
+So, Mutti, da wären wir ja nun so ziemlich einsam. Benno im Gärtnertheater. Ferlani ist richtig zu Timäa abgeschwenkt. Nie soll man doch sagen: <quote>»​Aus diesem Becher trink' ich nicht.​«</quote><suspension>
 
 Und ein Wetter! Anfang März. Bald Regen bald Schnee. Matsch, Schmutz, keine Sonne. Graues Elend.
 
@@ -3759,7 +3759,7 @@ Ich überlege kühl: Du gute Sibilla, was bleibt Dir denn noch im Leben? Immer w
 
 Zuweilen kommt mir der Gedanke zu irgend einem Theaterbesuch oder sonst einer Lustbarkeit. Er wird aber gleich in Unlustgefühlen erstickt. Nicht einmal eine ordentliche Verzweiflung, die à la Sardanapal einen Scheiterhaufen anzündet, nur so eine müde, verschlafene Verdrossenheit. Graues Elend! Graues Elend!
 
-Mir ist manchmal, als wäre ich gar kein Geschöpf von Fleisch und Blut, sondern nur ein Begriff mit einem Zettel im Munde, »​das ist ein Stück Geschichte der Frau.​«
+Mir ist manchmal, als wäre ich gar kein Geschöpf von Fleisch und Blut, sondern nur ein Begriff mit einem Zettel im Munde, </suspension><quote>»​das ist ein Stück Geschichte der Frau.​«</quote>
 
 16. März. Liebe Mutter, seit vierzehn Tagen keine Feder angerührt. Schlechtes Wetter war in mir und auch draußen. Mit einem Mal, über Nacht, ist der Frühling gekommen. Die Sonne ist da und die weichen Lüfte sind da, und ich bin auch wieder da. Und wo noch eine dünne Eiskruste ist, da schmilzt sie dahin, gerade wie meine Welt- und Seelenschmerzen sich in fließende Wehmut lösen.
 
@@ -3797,7 +3797,7 @@ Die Frau sagte es mit stumpfer Gleichgültigkeit und kochte ruhig ihre Rüben we
 
 Ich blickte entsetzt auf die zwei Stühle unter dem Fenster.
 
-Die Frau sah meinen Blick. Nun lamentierte sie: Sie hätte nicht gewußt, wohin mit der kleinen Leiche. Der Hauswirt hätte keinen Platz dazu hergeben wollen, da hätten sie die Tote halt in der Kammer behalten müssen über Nacht. Heut Abend erst thät man's abholen. Und sie entschuldigte sich wegen der Blumen; sie hätt' sie nicht etwa gekauft, eine Dame im Hause hätte sie aus einem alten Ballbouquet  hergegeben, weil's Mariechen doch Blumen so gern gehabt. »​Ihr ist nun wohl,​« fügte sie hinzu, »​sie hat ihre Ruh.​« Und ehe ich's verhindern konnte, zog sie das Laken von der Leiche.
+Die Frau sah meinen Blick. Nun lamentierte sie: Sie hätte nicht gewußt, wohin mit der kleinen Leiche. Der Hauswirt hätte keinen Platz dazu hergeben wollen, da hätten sie die Tote halt in der Kammer behalten müssen über Nacht. Heut Abend erst thät man's abholen. Und sie entschuldigte sich wegen der Blumen; sie hätt' sie nicht etwa gekauft, eine Dame im Hause hätte sie aus einem alten Ballbouquet  hergegeben, weil's Mariechen doch Blumen so gern gehabt. <quote>»​Ihr ist nun wohl,​«</quote><suspension> fügte sie hinzu, </suspension><quote>»​sie hat ihre Ruh.​«</quote> Und ehe ich's verhindern konnte, zog sie das Laken von der Leiche.
 
 Die kleine Tote, mit den langen, schwarzen, finsteren Wimpern auf der weißen Wange, mit dem Zug der Qual um die weißen Lippen und den faden, roten Blumen aus dem Ballbouquet, die man über sie hingestreut, sah nicht aus, als hätte sie ihre Ruh. Eine rote Blume lag unter den Augen als ob unter den schwarzen Wimpern hervor eine blutige Thräne dränge. Ich hatte eine schaudernde Empfindung, als müsse die Tote im nächsten Augenblick die Augen aufschlagen und mit dem flehend drohenden Blick mein Herz treffen. Ich gab den Leuten Geld, und eilte aus der Kammer hinaus mit einem Entsetzen, als hätte ich ein Verbrechen auf dem Gewissen. Warum bin ich nie den Weg gegangen, auf den so oft mich eine innere Stimme rief: hin zu dem schönen Kinde. Nun kann ich mein Unrecht nicht wieder gut machen, nie, nie.
 
@@ -3815,7 +3815,7 @@ Wie ich die Mutter beneidete.
 
 19. März. Jolante war bei mir. Bleich und tiefernst kam sie. Ja, sie wollte von Kunz sprechen. Verurteilt war er noch nicht, aber sie zweifelte nicht daran, daß man ihn verurteilen würde.
 
-Sie hätte ihn längst freigegeben. Kaum vierundzwanzig Stunden hätte sie die Lüge ihrer Verlobung aufrecht erhalten. Er liebe mich nach wie vor, mit zehrender Verzweiflung im Herzen. Er schlafe nicht mehr. Er arbeite für drei. Er reibe sich auf. Jolante weinte. »​Laß ihn zu Dir kommen,​« bat sie, »​sprich mit ihm, Du findest wohl das rechte Wort, vielleicht mehr. Er wartet zu Hause in bitterer Angst auf meine Antwort.​«
+Sie hätte ihn längst freigegeben. Kaum vierundzwanzig Stunden hätte sie die Lüge ihrer Verlobung aufrecht erhalten. Er liebe mich nach wie vor, mit zehrender Verzweiflung im Herzen. Er schlafe nicht mehr. Er arbeite für drei. Er reibe sich auf. Jolante weinte. <quote>»​Laß ihn zu Dir kommen,​«</quote><suspension> bat sie, </suspension><quote>»​sprich mit ihm, Du findest wohl das rechte Wort, vielleicht mehr. Er wartet zu Hause in bitterer Angst auf meine Antwort.​«</quote>
 
 Ich versank in tiefes Nachdenken. Ein Gedanke kam und ging, und kam wieder und ging nicht mehr.
 
